@@ -1,1 +1,1 @@
-def p(g):n=len(g);return [[(g[j%n][i%n]>0)*g[j//n][i//n] for i in range(n*n)]for j in range(n*n)]
+p=lambda g:[[(g[j%3][i%3]>0)*g[j//3][i//3] for i in range(9)]for j in range(9)]
