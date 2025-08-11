@@ -25,7 +25,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 - [Python Standard Library, no other libraries are allowed](https://docs.python.org/3/library/index.html)
 - [Stackexchange code golf](https://codegolf.stackexchange.com/)
 - [Code Golf Tips](https://code.golf/wiki/langs/python)
-- [Other Tips](https://www.geeksforgeeks.org/python/code-golfing-in-python/)
+- [Geeks4Geeks Code Golf](https://www.geeksforgeeks.org/python/code-golfing-in-python/)
+- [Python Code Golf Coding Game](https://www.codingame.com/blog/code-golf-python/)
 - [pysearch](https://github.com/lynn/pysearch#) This tool is very helpful but I do not know how to make it works...
 
 
@@ -42,7 +43,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 6/401 tasks completed -->
+<!-- Progress: 7/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -60,7 +61,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task011.py](task011.py) | ⏳ Pending | - | - | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
 | [task013.py](task013.py) | ⏳ Pending | - | - | |
-| [task014.py](task014.py) | ⏳ Pending | - | - | |
+| [task014.py](task014.py) | ✅ Completed | 208 | Max | |
 | [task015.py](task015.py) | ⏳ Pending | - | - | |
 | [task016.py](task016.py) | ✅📚 Completed | 64 | Max | lambda function with 1 constant on a single line |
 | [task017.py](task017.py) | ⏳ Pending | - | - | |

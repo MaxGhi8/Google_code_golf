@@ -1,0 +1,1 @@
+def p(g):A,B={*g[0]},{*g[-1]};k=[A-B,B-A][A<B].pop();R,C=[*filter(lambda x:k in g[x],range(len(g)))],[*filter(lambda x:k in [r[x]for r in g],range(len(g[0])))];return[r[C[0]:C[-1]+1]for r in g[R[0]:R[-1]+1]]
