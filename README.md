@@ -55,7 +55,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task007.py](task007.py) | ⏳ Pending | - | - | |
 | [task008.py](task008.py) | ⏳ Pending | - | - | |
 | [task009.py](task009.py) | ⏳ Pending | - | - | |
-| [task010.py](task010.py) | ⏳ Pending | - | - | |
+| [task010.py](task010.py) | ✅ Completed | 106 | Max | |
 | [task011.py](task011.py) | ⏳ Pending | - | - | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
 | [task013.py](task013.py) | ⏳ Pending | - | - | |
