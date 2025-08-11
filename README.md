@@ -13,7 +13,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 - Be as crazy as possible, **if you can understand it, you can write less**
 - Use white spaces instead of tabs for indexing
 - Use lambda functions for one-line functions and with no variables, see [task006.py](task006.py).
-- Use lambda functions for one-line functions and with one variable, see[task016.py](task016.py)
+- Use lambda functions for one-line functions and with one constant, see[task016.py](task016.py)
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -47,7 +47,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
 | [task000.py](task000.py) | ✅ Completed | 150 | Max | Does not count for points |
-| [task001.py](task001.py) | ✅ Completed | 98 | Max | |
+| [task001.py](task001.py) | ✅ Completed | 80 | Max | |
 | [task002.py](task002.py) | ✅ Completed | 274 | Max | For the moment I use brute force, but DFS could be explored |
 | [task003.py](task003.py) | ⏳ Pending | - | - | |
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
@@ -62,7 +62,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task013.py](task013.py) | ⏳ Pending | - | - | |
 | [task014.py](task014.py) | ⏳ Pending | - | - | |
 | [task015.py](task015.py) | ⏳ Pending | - | - | |
-| [task016.py](task016.py) | ✅📚 Completed | 64 | Max | lambda function with 1 variable on a single line |
+| [task016.py](task016.py) | ✅📚 Completed | 64 | Max | lambda function with 1 constant on a single line |
 | [task017.py](task017.py) | ⏳ Pending | - | - | |
 | [task018.py](task018.py) | ⏳ Pending | - | - | |
 | [task019.py](task019.py) | ⏳ Pending | - | - | |
