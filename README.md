@@ -9,6 +9,11 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 - 🎯 Optimize for minimal character count
 - 🕒 Execution time does not count, 😈 only bytes matters here
 
+## 📚 Tips
+- Be as crazy as possible, **if you can understand it, you can write less**
+- Use white spaces instead of tabs for indexing
+- Use lambda functions for one-line functions and with no variables, see [task006.py](task006.py).
+
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
 
@@ -46,7 +51,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task003.py](task003.py) | ⏳ Pending | - | - | |
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
-| [task006.py](task006.py) | ✅📚 Completed | 59 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!!!11!1!!!111!|
+| [task006.py](task006.py) | ✅📚 Completed | 59 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!|
 | [task007.py](task007.py) | ⏳ Pending | - | - | |
 | [task008.py](task008.py) | ⏳ Pending | - | - | |
 | [task009.py](task009.py) | ⏳ Pending | - | - | |
