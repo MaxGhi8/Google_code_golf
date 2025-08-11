@@ -18,6 +18,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 6. rotation clockwise code -> `r=lambda m:[*map(list,zip(*m[::-1]))]` and counter-clockwise -> `l=lambda m:[*map(list,zip(*m))][::-1]`, of course it holds that `l=r \circ r \circ r` and this identity can be useful in many situations, so I only implement `l` or `r`, see [task214.py](task214.py).
 7. Sometimes can be better substitute a `range(len(...))` with `enumerate(...)`, in particular when there is already one or more enumerate in the code and combine this observation with tips 5., see [task215.py](task215.py).
 8. For alternating colors I can make a full line and then color alternating over the previous one, see [task232.py](task232.py).
+9. Symmetry respect main diagonal can be useful in many situations -> `p=lambda m:[*map(list,zip(*m))]`, see [task241.py](task241.py).
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -47,7 +48,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 16/401 tasks completed -->
+<!-- Progress: 17/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -292,7 +293,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task238.py](task238.py) | ⏳ Pending | - | - | |
 | [task239.py](task239.py) | ⏳ Pending | - | - | |
 | [task240.py](task240.py) | ⏳ Pending | - | - | |
-| [task241.py](task241.py) | ⏳ Pending | - | - | |
+| [task241.py](task241.py) | ✅📚 Completed | 32 | Max, Waolo | Symmetry respect main diagonal |
 | [task242.py](task242.py) | ⏳ Pending | - | - | |
 | [task243.py](task243.py) | ⏳ Pending | - | - | |
 | [task244.py](task244.py) | ⏳ Pending | - | - | |
