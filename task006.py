@@ -1,0 +1,1 @@
+p=lambda j:[[a*b*2 for a,b in zip(r[:3],r[4:])]for r in j]

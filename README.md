@@ -32,6 +32,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | **Completed** | ✅ | Task completed and verified |
 | **Optimized** | 🏆 | Optimized an already existing solution |
 | **Needs Review** | 👀 | Requires code review |
+| **Interest** | 📚 | Interesting solution with a smart and generalizable practice |
 
 ## 📈 Task Progress Table
 
@@ -45,7 +46,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task003.py](task003.py) | ⏳ Pending | - | - | |
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
-| [task006.py](task006.py) | ⏳ Pending | - | - | |
+| [task006.py](task006.py) | ✅📚 Completed | 59 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!!!11!1!!!111!|
 | [task007.py](task007.py) | ⏳ Pending | - | - | |
 | [task008.py](task008.py) | ⏳ Pending | - | - | |
 | [task009.py](task009.py) | ⏳ Pending | - | - | |
