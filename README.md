@@ -9,11 +9,12 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 - 🎯 Optimize for minimal character count
 - 🕒 Execution time does not count, 😈 only bytes matters here
 
-## 📚 Tips
+## 📚 Our tips
 - Be as crazy as possible, **if you can understand it, you can write less**
 - Use white spaces instead of tabs for indexing
 - Use lambda functions for one-line functions and with no variables, see [task006.py](task006.py).
 - Use lambda functions for one-line functions and with one constant, see[task016.py](task016.py)
+- We can assign a name to functions that occurs many times in the program, for 5 letter functions (like `range`) that occurs only 2 times is not worth it, but with more letter functions or with many repetitions it can save at least **1 byte!** See [task014.py](task014.py)
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -61,7 +62,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task011.py](task011.py) | ⏳ Pending | - | - | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
 | [task013.py](task013.py) | ⏳ Pending | - | - | |
-| [task014.py](task014.py) | ✅ Completed | 208 | Max | |
+| [task014.py](task014.py) | ✅📚 Completed | 207 | Max | assign names to functions |
 | [task015.py](task015.py) | ⏳ Pending | - | - | |
 | [task016.py](task016.py) | ✅📚 Completed | 64 | Max | lambda function with 1 constant on a single line |
 | [task017.py](task017.py) | ⏳ Pending | - | - | |
