@@ -7,6 +7,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 ## 🏆 Goals
 - ✅ Complete all 401 tasks
 - 🎯 Optimize for minimal character count
+- 🕒 Execution time does not count, 😈 only bytes matters here
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -36,11 +37,11 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 <!-- Progress: 3/401 tasks completed -->
 
-| Task | Status | Assignee | Completed by | Comments/Notes |
+| Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
-| [task000.py](task000.py) | ✅ Completed | - | Max | Does not count for points |
-| [task001.py](task001.py) | ✅ Completed | - | Max | |
-| [task002.py](task002.py) | ✅ Completed | - | Max | For the moment I use brute force, but DFS could be explored |
+| [task000.py](task000.py) | ✅ Completed | 150 | Max | Does not count for points |
+| [task001.py](task001.py) | ✅ Completed | 98 | Max | |
+| [task002.py](task002.py) | ✅ Completed | 274 | Max | For the moment I use brute force, but DFS could be explored |
 | [task003.py](task003.py) | ⏳ Pending | - | - | |
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
