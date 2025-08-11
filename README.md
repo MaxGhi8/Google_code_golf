@@ -10,12 +10,13 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 - 🕒 Execution time does not count, 😈 only bytes matters here
 
 ## 📚 Our tips
-- Be as crazy as possible, **if you can understand it, you can write less**
-- Use white spaces instead of tabs for indexing
-- Use lambda functions for one-line functions and with no variables, see [task006.py](task006.py).
-- Use lambda functions for one-line functions and with one constant, see[task016.py](task016.py)
-- We can assign a name to functions that occurs many times in the program, for 5 letter functions (like `range`) that occurs only 2 times is not worth it, but with more letter functions or with many repetitions it can save at least **1 byte!** See [task014.py](task014.py)
-- rotation clockwise code -> `r=lambda m:[*map(list,zip(*m[::-1]))]` and counter-clockwise -> `l=lambda m:[*map(list,zip(*m))][::-1]`, of course it holds that `l=r \circ r \circ r` and this identity can be useful in many situations, so I only implement `l` or `r`, see [task214.py](task214.py).
+1. Be as crazy as possible, **if you can understand it, you can write less**
+2. Use white spaces instead of tabs for indexing
+3. Use lambda functions for one-line functions and with no variables, see [task006.py](task006.py).
+4. Use lambda functions for one-line functions and with one constant, see[task016.py](task016.py)
+5. We can assign a name to functions that occurs many times in the program, for 5 letter functions (like `range`) that occurs only 2 times is not worth it, but with more letter functions or with many repetitions it can save at least **1 byte!** See [task014.py](task014.py)
+6. rotation clockwise code -> `r=lambda m:[*map(list,zip(*m[::-1]))]` and counter-clockwise -> `l=lambda m:[*map(list,zip(*m))][::-1]`, of course it holds that `l=r \circ r \circ r` and this identity can be useful in many situations, so I only implement `l` or `r`, see [task214.py](task214.py).
+7. Sometimes can be better substitute a `range(len(...))` with `enumerate(...)`, in particular when there is already one or more enumerate in the code and combine this observation with tips 5., see [task215.py](task215.py)
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -45,7 +46,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 12/401 tasks completed -->
+<!-- Progress: 13/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -264,7 +265,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task212.py](task212.py) | ⏳ Pending | - | - | |
 | [task213.py](task213.py) | ⏳ Pending | - | - | |
 | [task214.py](task214.py) | ✅📚 Completed | 104 | Max | I think that I have implemented a good function for rotation clockwise |
-| [task215.py](task215.py) | ⏳ Pending | - | - | |
+| [task215.py](task215.py) | ✅📚 Completed | 84 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
 | [task216.py](task216.py) | ⏳ Pending | - | - | |
 | [task217.py](task217.py) | ⏳ Pending | - | - | |
 | [task218.py](task218.py) | ⏳ Pending | - | - | |
