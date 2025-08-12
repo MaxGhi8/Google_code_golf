@@ -20,6 +20,8 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 8. For alternating colors I can make a full line and then color alternating over the previous one, see [task232.py](task232.py).
 9. Symmetry respect main diagonal can be useful in many situations -> `p=lambda m:[*map(list,zip(*m))]`, see [task241.py](task241.py).
 10. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
+11. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
+12. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py).
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -49,7 +51,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 30/401 tasks completed -->
+<!-- Progress: 31/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -60,7 +62,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
 | [task006.py](task006.py) | ✅📚 Completed | 59 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!|
-| [task007.py](task007.py) | ⏳ Pending | - | - | |
+| [task007.py](task007.py) | ✅📚 Completed | 99 | Max, Waolo | How to unroll a matrix |
 | [task008.py](task008.py) | ⏳ Pending | - | - | |
 | [task009.py](task009.py) | ⏳ Pending | - | - | |
 | [task010.py](task010.py) | ✅ Completed | 106 | Max | |
