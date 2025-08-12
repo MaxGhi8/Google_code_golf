@@ -168,7 +168,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task113.py](task113.py) | ✅ Completed | 29 | Max | |
 | [task114.py](task114.py) | ⏳ Pending | - | - | |
 | [task115.py](task115.py) | 👀✅ Completed | 108 | Max | I have the felling that this can be improved |
-| [task116.py](task116.py) | ⏳ Pending | - | - | |
+| [task116.py](task116.py) | ✅ Completed | 21 | Max | |
 | [task117.py](task117.py) | ⏳ Pending | - | - | |
 | [task118.py](task118.py) | ⏳ Pending | - | - | |
 | [task119.py](task119.py) | ⏳ Pending | - | - | |
