@@ -49,7 +49,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 29/401 tasks completed -->
+<!-- Progress: 30/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -188,7 +188,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task132.py](task132.py) | ⏳ Pending | - | - | |
 | [task133.py](task133.py) | ⏳ Pending | - | - | |
 | [task134.py](task134.py) | ⏳ Pending | - | - | |
-| [task135.py](task135.py) | ⏳ Pending | - | - | |
+| [task135.py](task135.py) | ✅ Completed | 39 | Max, Waolo | |
 | [task136.py](task136.py) | ⏳ Pending | - | - | |
 | [task137.py](task137.py) | ⏳ Pending | - | - | |
 | [task138.py](task138.py) | ⏳ Pending | - | - | |
