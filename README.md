@@ -19,7 +19,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 7. Sometimes can be better substitute a `range(len(...))` with `enumerate(...)`, in particular when there is already one or more enumerate in the code and combine this observation with tips 5., see [task215.py](task215.py).
 8. For alternating colors I can make a full line and then color alternating over the previous one, see [task232.py](task232.py).
 9. Symmetry respect main diagonal can be useful in many situations -> `p=lambda m:[*map(list,zip(*m))]`, see [task241.py](task241.py).
-10. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)`, see [task129.py](task129.py).
+10. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -49,7 +49,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 28/401 tasks completed -->
+<!-- Progress: 29/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -183,7 +183,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task127.py](task127.py) | ⏳ Pending | - | - | |
 | [task128.py](task128.py) | ⏳ Pending | - | - | |
 | [task129.py](task129.py) | ✅📚 Completed | 49 | Max | How to find the maximum of a matrix |
-| [task130.py](task130.py) | ⏳ Pending | - | - | |
+| [task130.py](task130.py) | ✅ Completed | 113 | Max | |
 | [task131.py](task131.py) | ⏳ Pending | - | - | |
 | [task132.py](task132.py) | ⏳ Pending | - | - | |
 | [task133.py](task133.py) | ⏳ Pending | - | - | |
