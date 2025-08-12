@@ -11,17 +11,18 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 
 ## 📚 Our tips
 1. Be as crazy as possible, **if you can understand it, you can write less**
-2. Use white spaces instead of tabs for indexing
-3. Use lambda functions for one-line functions and with no variables, see [task006.py](task006.py).
-4. Use lambda functions for one-line functions and with one constant, see [task016.py](task016.py).
-5. We can assign a name to functions that occurs many times in the program, for 5 letter functions (like `range`) that occurs only 2 times is not worth it, but with more letter functions or with many repetitions it can save at least **1 byte!** See [task014.py](task014.py).
-6. rotation clockwise code -> `r=lambda m:[*map(list,zip(*m[::-1]))]` and counter-clockwise -> `l=lambda m:[*map(list,zip(*m))][::-1]`, of course it holds that `l=r \circ r \circ r` and this identity can be useful in many situations, so I only implement `l` or `r`, see [task214.py](task214.py).
-7. Sometimes can be better substitute a `range(len(...))` with `enumerate(...)`, in particular when there is already one or more enumerate in the code and combine this observation with tips 5., see [task215.py](task215.py).
-8. For alternating colors I can make a full line and then color alternating over the previous one, see [task232.py](task232.py).
-9. Symmetry respect main diagonal can be useful in many situations -> `p=lambda m:[*map(list,zip(*m))]`, see [task241.py](task241.py).
-10. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
-11. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
-12. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py).
+2. Use **white spaces** instead of tabs for indexing
+3. Double for loop? Probably can be optimized with a single loop or list comprehension, see how [task010.py](task010.py) change over time.
+4. Use lambda functions for one-line functions and with no variables, see [task006.py](task006.py).
+5. Use lambda functions for one-line functions and with one constant, see [task016.py](task016.py).
+6. We can assign a name to functions that occurs many times in the program, for 5 letter functions (like `range`) that occurs only 2 times is not worth it, but with more letter functions or with many repetitions it can save at least **1 byte!** See [task014.py](task014.py).
+7. rotation clockwise code -> `r=lambda m:[*map(list,zip(*m[::-1]))]` and counter-clockwise -> `l=lambda m:[*map(list,zip(*m))][::-1]`, of course it holds that `l=r \circ r \circ r` and this identity can be useful in many situations, so I only implement `l` or `r`, see [task214.py](task214.py).
+8. Sometimes can be better substitute a `range(len(...))` with `enumerate(...)`, in particular when there is already one or more enumerate in the code and combine this observation with tips 5., see [task215.py](task215.py).
+9. For alternating colors I can make a full line and then color alternating over the previous one, see [task232.py](task232.py).
+10. Symmetry respect main diagonal can be useful in many situations -> `p=lambda m:[*map(list,zip(*m))]`, see [task241.py](task241.py).
+11. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
+12. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
+13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py).
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -65,7 +66,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task007.py](task007.py) | ✅📚 Completed | 99 | Max, Waolo | How to unroll a matrix |
 | [task008.py](task008.py) | ⏳ Pending | - | - | |
 | [task009.py](task009.py) | ⏳ Pending | - | - | |
-| [task010.py](task010.py) | ✅ Completed | 106 | Max | |
+| [task010.py](task010.py) | ✅ Completed | 95 | Max | List comprehension go BRR |
 | [task011.py](task011.py) | ⏳ Pending | - | - | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
 | [task013.py](task013.py) | ✅ Completed | 298 | Max | |
