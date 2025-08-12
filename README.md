@@ -48,7 +48,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 19/401 tasks completed -->
+<!-- Progress: 20/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -65,7 +65,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task010.py](task010.py) | ✅ Completed | 106 | Max | |
 | [task011.py](task011.py) | ⏳ Pending | - | - | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
-| [task013.py](task013.py) | ⏳ Pending | - | - | |
+| [task013.py](task013.py) | ✅ Completed | 298 | Max | |
 | [task014.py](task014.py) | ✅📚 Completed | 207 | Max | assign names to functions |
 | [task015.py](task015.py) | ⏳ Pending | - | - | |
 | [task016.py](task016.py) | ✅📚 Completed | 60 | Max | lambda function with 1 constant on a single line |
