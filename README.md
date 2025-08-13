@@ -23,7 +23,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 11. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
 12. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
 13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py). This can be also useful when I need to iterate over all the element of the matrix, save 6 Bytes in [task115.py](task115.py), using it instead of the double for loop. If I need to rool back the matrix I can use this `[*map(list,zip(*[iter(L)]*m))]`.
-14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`.
+14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`. In other words **the zip operator is equivalent to the transposition of the matrix**. See [task057.py](task057.py).
 15. I notice that sometimes `collections.Counter.most_common()` is useful, but it is long due to the importation and vary long name of library and functions. So I try to avoid it and do something from scratch, see for example [task049.py](task049.py).
 16. Sometimes reorder stuff can avoid a pair of brackets, see [task052.py](task052.py).
 
@@ -56,7 +56,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 37/401 tasks completed -->
+<!-- Progress: 38/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -117,7 +117,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
 | [task055.py](task055.py) | ⏳ Pending | - | - | |
 | [task056.py](task056.py) | ✅ Completed | 82 | Max | |
-| [task057.py](task057.py) | ⏳ Pending | - | - | |
+| [task057.py](task057.py) | ✅ Completed | 91 | Max | |
 | [task058.py](task058.py) | ⏳ Pending | - | - | |
 | [task059.py](task059.py) | ⏳ Pending | - | - | |
 | [task060.py](task060.py) | ⏳ Pending | - | - | |
