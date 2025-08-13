@@ -26,6 +26,8 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`. In other words **the zip operator is equivalent to the transposition of the matrix**. See [task057.py](task057.py).
 15. I notice that sometimes `collections.Counter.most_common()` is useful, but it is long due to the importation and vary long name of library and functions. So I try to avoid it and do something from scratch, see for example [task049.py](task049.py).
 16. Sometimes reorder stuff can avoid a pair of brackets, see [task052.py](task052.py).
+17. I can set the item of a matrix in a double for loop on a single line with `__setitem__`, see [task068.py](task068.py).
+
 
 
 ## 🚀 Getting Started
@@ -109,7 +111,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task046.py](task046.py) | ⏳ Pending | - | - | |
 | [task047.py](task047.py) | ⏳ Pending | - | - | |
 | [task048.py](task048.py) | ⏳ Pending | - | - | |
-| [task049.py](task049.py) | 📚✅ Completed | 108 | Max | `collections.Counter.most_common()` can be avoided |
+| [task049.py](task049.py) | 📚✅ Completed | 107 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ⏳ Pending | - | - | |
 | [task051.py](task051.py) | ⏳ Pending | - | - | |
 | [task052.py](task052.py) | 📚✅ Completed | 45 | Max | Sometimes reorder stuff can avoid a pair of brackets |
@@ -128,7 +130,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task065.py](task065.py) | ⏳ Pending | - | - | |
 | [task066.py](task066.py) | ⏳ Pending | - | - | |
 | [task067.py](task067.py) | ✅ Completed | 40 | Max | |
-| [task068.py](task068.py) | ⏳ Pending | - | - | |
+| [task068.py](task068.py) | 📚✅ Completed | 212 | Max | List comprehension with set item |
 | [task069.py](task069.py) | ⏳ Pending | - | - | |
 | [task070.py](task070.py) | ⏳ Pending | - | - | |
 | [task071.py](task071.py) | ⏳ Pending | - | - | |
