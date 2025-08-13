@@ -59,7 +59,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 |------|--------|----------|------------|----------------|
 | [task000.py](task000.py) | ✅ Completed | 150 | Max | Does not count for points |
 | [task001.py](task001.py) | ✅ Completed | 77 | Max | |
-| [task002.py](task002.py) | ✅ Completed | 274 | Max | For the moment I use brute force, but DFS could be explored |
+| [task002.py](task002.py) | 👀✅ Completed | 262 | Max | For the moment I use brute force, but DFS could be explored |
 | [task003.py](task003.py) | ✅ Completed | 67 | Max | |
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
