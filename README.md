@@ -22,7 +22,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 10. Symmetry respect main diagonal can be useful in many situations -> `p=lambda m:[*map(list,zip(*m))]`, see [task241.py](task241.py).
 11. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
 12. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
-13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py).
+13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py). This can be also useful when I need to iterate over all the element of the matrix, save 6 Bytes in [task115.py](task115.py), using it instead of the double for loop. If I need to rool back the matrix I can use this `[*map(list,zip(*[iter(L)]*m))]`.
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -171,7 +171,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task112.py](task112.py) | ⏳ Pending | - | - | |
 | [task113.py](task113.py) | ✅ Completed | 29 | Max | |
 | [task114.py](task114.py) | ⏳ Pending | - | - | |
-| [task115.py](task115.py) | 👀✅ Completed | 108 | Max | I have the felling that this can be improved |
+| [task115.py](task115.py) | ✅ Completed | 102 | Max | Iterate over element |
 | [task116.py](task116.py) | ✅ Completed | 21 | Max | |
 | [task117.py](task117.py) | ⏳ Pending | - | - | |
 | [task118.py](task118.py) | ⏳ Pending | - | - | |
