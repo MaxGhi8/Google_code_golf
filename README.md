@@ -53,7 +53,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 32/401 tasks completed -->
+<!-- Progress: 33/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -452,7 +452,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task392.py](task392.py) | ⏳ Pending | - | - | |
 | [task393.py](task393.py) | ⏳ Pending | - | - | |
 | [task394.py](task394.py) | ⏳ Pending | - | - | |
-| [task395.py](task395.py) | ⏳ Pending | - | - | |
+| [task395.py](task395.py) | ✅ Completed | 71 | Max | `zip` go brrr |
 | [task396.py](task396.py) | ⏳ Pending | - | - | |
 | [task397.py](task397.py) | ⏳ Pending | - | - | |
 | [task398.py](task398.py) | ⏳ Pending | - | - | |
