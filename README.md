@@ -23,6 +23,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 11. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
 12. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
 13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py). This can be also useful when I need to iterate over all the element of the matrix, save 6 Bytes in [task115.py](task115.py), using it instead of the double for loop. If I need to rool back the matrix I can use this `[*map(list,zip(*[iter(L)]*m))]`.
+14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`.
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -288,7 +289,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task229.py](task229.py) | ⏳ Pending | - | - | |
 | [task230.py](task230.py) | ⏳ Pending | - | - | |
 | [task231.py](task231.py) | ✅ Completed | 57 | Max | |
-| [task232.py](task232.py) | ✅📚 Completed | 108 | Max | For alternating colors I can make a full line and then color alternating over the previous one |
+| [task232.py](task232.py) | ✅📚 Completed | 107 | Max | For alternating colors I can make a full line and then color alternating over the previous one |
 | [task233.py](task233.py) | ⏳ Pending | - | - | |
 | [task234.py](task234.py) | ⏳ Pending | - | - | |
 | [task235.py](task235.py) | ⏳ Pending | - | - | |
