@@ -25,6 +25,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py). This can be also useful when I need to iterate over all the element of the matrix, save 6 Bytes in [task115.py](task115.py), using it instead of the double for loop. If I need to rool back the matrix I can use this `[*map(list,zip(*[iter(L)]*m))]`.
 14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`.
 15. I notice that sometimes `collections.Counter.most_common()` is useful, but it is long due to the importation and vary long name of library and functions. So I try to avoid it and do something from scratch, see for example [task049.py](task049.py).
+16. Sometimes reorder stuff can avoid a pair of brackets, see [task052.py](task052.py).
 
 
 ## 🚀 Getting Started
@@ -55,7 +56,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 35/401 tasks completed -->
+<!-- Progress: 36/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -111,7 +112,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task049.py](task049.py) | 📚✅ Completed | 108 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ⏳ Pending | - | - | |
 | [task051.py](task051.py) | ⏳ Pending | - | - | |
-| [task052.py](task052.py) | ⏳ Pending | - | - | |
+| [task052.py](task052.py) | 📚✅ Completed | 45 | Max | Sometimes reorder stuff can avoid a pair of brackets |
 | [task053.py](task053.py) | ⏳ Pending | - | - | |
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
 | [task055.py](task055.py) | ⏳ Pending | - | - | |
