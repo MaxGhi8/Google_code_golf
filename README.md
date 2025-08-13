@@ -24,6 +24,8 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 12. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
 13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py). This can be also useful when I need to iterate over all the element of the matrix, save 6 Bytes in [task115.py](task115.py), using it instead of the double for loop. If I need to rool back the matrix I can use this `[*map(list,zip(*[iter(L)]*m))]`.
 14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`.
+15. I notice that sometimes `collections.Counter.most_common()` is useful, but it is long due to the importation and vary long name of library and functions. So I try to avoid it and do something from scratch, see for example [task049.py](task049.py).
+
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -53,7 +55,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 34/401 tasks completed -->
+<!-- Progress: 35/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -106,7 +108,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task046.py](task046.py) | ⏳ Pending | - | - | |
 | [task047.py](task047.py) | ⏳ Pending | - | - | |
 | [task048.py](task048.py) | ⏳ Pending | - | - | |
-| [task049.py](task049.py) | ⏳ Pending | - | - | |
+| [task049.py](task049.py) | 📚✅ Completed | 108 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ⏳ Pending | - | - | |
 | [task051.py](task051.py) | ⏳ Pending | - | - | |
 | [task052.py](task052.py) | ⏳ Pending | - | - | |
