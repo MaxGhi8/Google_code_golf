@@ -1,0 +1,1 @@
+p=lambda g:[[*r]for r in zip(*[sum(v==1for v in c)*[1]+sum(v>1for v in c)*[2]+[0]*sum(v<1for v in c)for c in zip(*g)])]
