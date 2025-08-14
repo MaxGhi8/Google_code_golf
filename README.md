@@ -28,6 +28,8 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 16. Sometimes reorder stuff can avoid a pair of brackets, see [task052.py](task052.py).
 17. I can set the item of a matrix in a double for loop on a single line with `__setitem__`, see [task068.py](task068.py).
 18. I can use `dict.fromkeys` to remove duplicates from a list while preserving the order, exactly like an ordered `set`, see [task115.py](task115.py).
+19. How to color the anti-diagonal of a matrix (from bottom-left to upper-right) -> `[g[i].__setitem__(~i,2)for i in range(n)]`, see [task084.py](task084.py).
+
 
 
 
@@ -59,7 +61,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 44/401 tasks completed -->
+<!-- Progress: 45/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -147,7 +149,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task081.py](task081.py) | ⏳ Pending | - | - | |
 | [task082.py](task082.py) | ✅ Completed | 66 | Max | |
 | [task083.py](task083.py) | ✅ Completed | 41 | Max | |
-| [task084.py](task084.py) | ⏳ Pending | - | - | |
+| [task084.py](task084.py) | ✅ Completed | 87 | Max | Anti-diagonal coloring |
 | [task085.py](task085.py) | ⏳ Pending | - | - | |
 | [task086.py](task086.py) | ⏳ Pending | - | - | |
 | [task087.py](task087.py) | ⏳ Pending | - | - | |

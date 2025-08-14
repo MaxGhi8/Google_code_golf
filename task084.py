@@ -1,0 +1,1 @@
+def p(g):n=len(g)-1;g[-1][1:]=[4]*n;[g[i].__setitem__(~i,2)for i in range(n)];return g
