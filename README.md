@@ -28,7 +28,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 16. Sometimes reorder stuff can avoid a pair of brackets, see [task052.py](task052.py).
 17. I can set the item of a matrix in a double for loop on a single line with `__setitem__`, see [task068.py](task068.py).
 18. I can use `dict.fromkeys` to remove duplicates from a list while preserving the order, exactly like an ordered `set`, see [task115.py](task115.py).
-19. How to color the anti-diagonal of a matrix (from bottom-left to upper-right) -> `[g[i].__setitem__(~i,2)for i in range(n)]`, see [task084.py](task084.py).
+19. How to color the anti-diagonal of a matrix (from bottom-left to upper-right) -> `[g[i].__setitem__(~i,2)for i in range(n)]`, see [task084.py](task084.py). For the main diagonal I think is the same but without the `~`.
 
 
 
