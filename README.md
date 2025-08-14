@@ -29,6 +29,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 17. I can set the item of a matrix in a double for loop on a single line with `__setitem__`, see [task068.py](task068.py).
 18. I can use `dict.fromkeys` to remove duplicates from a list while preserving the order, exactly like an ordered `set`, see [task115.py](task115.py).
 19. How to color the anti-diagonal of a matrix (from bottom-left to upper-right) -> `[g[i].__setitem__(~i,2)for i in range(n)]`, see [task084.py](task084.py). For the main diagonal I think is the same but without the `~`.
+20. `sorted()` save 1 Byte respect to `.sort()`, see [task246.py](task246.py), [task013.py](task013.py) and [task091.py](task091.py).
 
 
 
