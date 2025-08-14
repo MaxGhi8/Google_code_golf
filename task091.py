@@ -1,0 +1,1 @@
+def p(g,E=enumerate):A,*_,B=sorted([(i,j)for i,r in E(g)for j,v in E(r)if v==5]);return[r[A[1]:B[1]+1]for r in g[A[0]-1:B[0]+2]]
