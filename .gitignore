@@ -5,6 +5,8 @@ __pycache__/
 
 # zip file
 *.zip
+*.ipynb
+google-code-golf-2025
 
 # C extensions
 *.so
