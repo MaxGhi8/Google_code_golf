@@ -30,6 +30,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 18. I can use `dict.fromkeys` to remove duplicates from a list while preserving the order, exactly like an ordered `set`, see [task115.py](task115.py).
 19. How to color the anti-diagonal of a matrix (from bottom-left to upper-right) -> `[g[i].__setitem__(~i,2)for i in range(n)]`, see [task084.py](task084.py). For the main diagonal I think is the same but without the `~`.
 20. `sorted()` save 1 Byte respect to `.sort()`, see [task246.py](task246.py), [task013.py](task013.py) and [task091.py](task091.py).
+21. Instead of `sum(r)>0` I can use `any(r)` to check if a row is not empty, see [task290.py](task290.py).
 
 
 
@@ -62,7 +63,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 52/401 tasks completed -->
+<!-- Progress: 53/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -356,9 +357,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task287.py](task287.py) | ⏳ Pending | - | - | |
 | [task288.py](task288.py) | ⏳ Pending | - | - | |
 | [task289.py](task289.py) | ⏳ Pending | - | - | |
-| [task290.py](task290.py) | ✅ Completed | Max | 89 | |
+| [task290.py](task290.py) | ✅ Completed | 89 | Max | |
 | [task291.py](task291.py) | ⏳ Pending | - | - | |
-| [task292.py](task292.py) | ⏳ Pending | - | - | |
+| [task292.py](task292.py) | ✅ Completed | 62 | Max | |
 | [task293.py](task293.py) | ⏳ Pending | - | - | |
 | [task294.py](task294.py) | ⏳ Pending | - | - | |
 | [task295.py](task295.py) | ⏳ Pending | - | - | |
