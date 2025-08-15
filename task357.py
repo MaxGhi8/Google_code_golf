@@ -1,0 +1,1 @@
+def p(g):n=len(g[0]);A=((B:=([1]+[8]*n))*~-n+B[:-2]*~-n)*9;return[A[i*n:n*-~i]for i in range(len(g))][::-1]

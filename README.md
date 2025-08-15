@@ -63,7 +63,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 54/401 tasks completed -->
+<!-- Progress: 55/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -315,7 +315,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task245.py](task245.py) | ⏳ Pending | - | - | |
 | [task246.py](task246.py) | ✅ Completed | 206 | Max | |
 | [task247.py](task247.py) | ⏳ Pending | - | - | |
-| [task248.py](task248.py) | ✅ Completed | 108 | Max, Waolo | |
+| [task248.py](task248.py) | ✅ Completed | 108 | Max, Waolo | Same as task 357 |
 | [task249.py](task249.py) | ⏳ Pending | - | - | |
 | [task250.py](task250.py) | ⏳ Pending | - | - | |
 | [task251.py](task251.py) | ⏳ Pending | - | - | |
@@ -424,7 +424,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task354.py](task354.py) | ⏳ Pending | - | - | |
 | [task355.py](task355.py) | ⏳ Pending | - | - | |
 | [task356.py](task356.py) | ⏳ Pending | - | - | |
-| [task357.py](task357.py) | ⏳ Pending | - | - | |
+| [task357.py](task357.py) | ✅ Completed | 108 | Max | Same as task 248 |
 | [task358.py](task358.py) | ⏳ Pending | - | - | |
 | [task359.py](task359.py) | ⏳ Pending | - | - | |
 | [task360.py](task360.py) | ⏳ Pending | - | - | |
