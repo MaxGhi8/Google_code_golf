@@ -31,6 +31,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 19. How to color the anti-diagonal of a matrix (from bottom-left to upper-right) -> `[g[i].__setitem__(~i,2)for i in range(n)]`, see [task084.py](task084.py). For the main diagonal I think is the same but without the `~`.
 20. `sorted()` save 1 Byte respect to `.sort()`, see [task246.py](task246.py), [task013.py](task013.py) and [task091.py](task091.py).
 21. Instead of `sum(r)>0` I can use `any(r)` to check if a row is not empty, see [task290.py](task290.py).
+22. In [task372.py](task372.py) there is my implementation to sum two matrices. The implementation is based on the `zip` function, so the matrices do not need to be the same size, and the function will automatically handle any differences in shape and make the sum on the smallest size, this is useful so I can avoid to resize all the matrices to be sum and save a lot of bytes.
 
 
 
@@ -439,7 +440,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task369.py](task369.py) | ⏳ Pending | - | - | |
 | [task370.py](task370.py) | ⏳ Pending | - | - | |
 | [task371.py](task371.py) | ⏳ Pending | - | - | |
-| [task372.py](task372.py) | ⏳ Pending | - | - | |
+| [task372.py](task372.py) | ✅📚 Completed | 59 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ⏳ Pending | - | - | |
 | [task374.py](task374.py) | ⏳ Pending | - | - | |
 | [task375.py](task375.py) | ⏳ Pending | - | - | |
