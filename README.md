@@ -386,7 +386,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task315.py](task315.py) | ⏳ Pending | - | - | |
 | [task316.py](task316.py) | ⏳ Pending | - | - | |
 | [task317.py](task317.py) | ⏳ Pending | - | - | |
-| [task318.py](task318.py) | ⏳ Pending | - | - | |
+| [task318.py](task318.py) | ✅ Completed | 67 | Ghi | |
 | [task319.py](task319.py) | ⏳ Pending | - | - | |
 | [task320.py](task320.py) | ⏳ Pending | - | - | |
 | [task321.py](task321.py) | ⏳ Pending | - | - | |
