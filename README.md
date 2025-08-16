@@ -34,7 +34,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 22. In [task372.py](task372.py) there is my implementation to sum two matrices. The implementation is based on the `zip` function, so the matrices do not need to be the same size, and the function will automatically handle any differences in shape and make the sum on the smallest size, this is useful so I can avoid to resize all the matrices to be sum and save a lot of bytes.
 23. I find that [task271.py](task271.py) is interesting. I have to cicle through all the possible 3x3 submatrices of a 7x7 matrix and find the one with the maximum number of 1, I do this with a `max` over a list with all the possible 3x3 matrices and a custom `key` function for the `max`.
 24. I find that [task291.py](task291.py) is interesting. I have to find the holes. I realize that I have an hole when in a 2x2 matrix there is only one 0 and all the other numbers are the same.
-
+25. I find that [task40.py](task40.py) is interesting. I have solved the problem in the simple case of row dominant, and then I use a very stupid recursion for the transpose case.
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -64,7 +64,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 74/401 tasks completed -->
+<!-- Progress: 84/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -108,7 +108,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task037.py](task037.py) | ⏳ Pending | - | - | |
 | [task038.py](task038.py) | ⏳ Pending | - | - | |
 | [task039.py](task039.py) | ✅ Completed | 104 | Max | |
-| [task040.py](task040.py) | ⏳ Pending | - | - | |
+| [task040.py](task040.py) | ✅📚 Completed | 139 | Max | |
 | [task041.py](task041.py) | ⏳ Pending | - | - | |
 | [task042.py](task042.py) | ⏳ Pending | - | - | |
 | [task043.py](task043.py) | ⏳ Pending | - | - | |
