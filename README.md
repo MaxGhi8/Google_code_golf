@@ -33,8 +33,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 21. Instead of `sum(r)>0` I can use `any(r)` to check if a row is not empty, see [task290.py](task290.py).
 22. In [task372.py](task372.py) there is my implementation to sum two matrices. The implementation is based on the `zip` function, so the matrices do not need to be the same size, and the function will automatically handle any differences in shape and make the sum on the smallest size, this is useful so I can avoid to resize all the matrices to be sum and save a lot of bytes.
 23. I find that [task271.py](task271.py) is interesting. I have to cicle through all the possible 3x3 submatrices of a 7x7 matrix and find the one with the maximum number of 1, I do this with a `max` over a list with all the possible 3x3 matrices and a custom `key` function for the `max`.
-
-
+24. I find that [task291.py](task291.py) is interesting. I have to find the holes. I realize that I have an hole when in a 2x2 matrix there is only one 0 and all the other numbers are the same.
 
 
 ## 🚀 Getting Started
@@ -360,7 +359,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task288.py](task288.py) | ⏳ Pending | - | - | |
 | [task289.py](task289.py) | ✅ Completed | 92 | Max | Same as task 269|
 | [task290.py](task290.py) | ✅ Completed | 89 | Max | |
-| [task291.py](task291.py) | ⏳ Pending | - | - | |
+| [task291.py](task291.py) | ✅📚 Completed | 184 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |
 | [task293.py](task293.py) | ⏳ Pending | - | - | |
 | [task294.py](task294.py) | ⏳ Pending | - | - | |
