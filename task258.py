@@ -1,0 +1,1 @@
+p=lambda g:[[r[0],*[[v,2][r[j+2]&r[j]]for j,v in enumerate(r[1:-1])],r[-1]]for r in g]
