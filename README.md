@@ -325,7 +325,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task254.py](task254.py) | ⏳ Pending | - | - | |
 | [task255.py](task255.py) | ⏳ Pending | - | - | |
 | [task256.py](task256.py) | ⏳ Pending | - | - | |
-| [task257.py](task257.py) | ⏳ Pending | - | - | |
+| [task257.py](task257.py) | ✅📚 Completed | 91 | Ghi, Max | a or b = {a if a>0, b if a = 0}|
 | [task258.py](task258.py) | ✅ Completed | 87 | Max | |
 | [task259.py](task259.py) | ✅ Completed | 169 | Max | |
 | [task260.py](task260.py) | 👀✅ Completed | 393 | Max | Hoping that someone beats me |
@@ -386,10 +386,10 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task315.py](task315.py) | ⏳ Pending | - | - | |
 | [task316.py](task316.py) | ⏳ Pending | - | - | |
 | [task317.py](task317.py) | ⏳ Pending | - | - | |
-| [task318.py](task318.py) | ✅ Completed | 67 | Ghi | |
+| [task318.py](task318.py) | ✅ Completed | 67 | Ghi, Max | |
 | [task319.py](task319.py) | ⏳ Pending | - | - | |
 | [task320.py](task320.py) | ⏳ Pending | - | - | |
-| [task321.py](task321.py) | ✅ Completed | 70 | Ghi | |
+| [task321.py](task321.py) | ✅ Completed | 70 | Ghi, Max | |
 | [task322.py](task322.py) | ⏳ Pending | - | - | |
 | [task323.py](task323.py) | ⏳ Pending | - | - | |
 | [task324.py](task324.py) | ⏳ Pending | - | - | |
