@@ -1,0 +1,1 @@
+def p(g,E=enumerate):d=[[g[a+i-1][b+j-1]for a,r in E(g)for b,v in E(r)if v==5 for j in(0,1,2)]for i in(2,3,4)];return d
