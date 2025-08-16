@@ -339,7 +339,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
 | [task269.py](task269.py) | ✅ Completed | 92 | Max | Same as task 289|
 | [task270.py](task270.py) | ⏳ Pending | - | - | |
-| [task271.py](task271.py) | ✅📚 Completed | 138 | Max | |
+| [task271.py](task271.py) | ✅📚 Completed | 130 | Max | |
 | [task272.py](task272.py) | ⏳ Pending | - | - | |
 | [task273.py](task273.py) | ✅ Completed | 184 | Max, Ale | |
 | [task274.py](task274.py) | ⏳ Pending | - | - | |

@@ -1,1 +1,1 @@
-def p(g):R=range(3);P=range(7);return max([[[g[i+a][j+b]for b in R]for a in R]for i in P for j in P],key=lambda m:(sum(m,[]).count(1),m))
+p=lambda g,R=range:max([[[g[i+a][j+b]for b in R(3)]for a in R(3)]for i in R(7)for j in R(7)],key=lambda m:(sum(m,[]).count(1),m))
