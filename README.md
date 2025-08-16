@@ -394,7 +394,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task323.py](task323.py) | ⏳ Pending | - | - | |
 | [task324.py](task324.py) | ⏳ Pending | - | - | |
 | [task325.py](task325.py) | ⏳ Pending | - | - | |
-| [task326.py](task326.py) | ⏳ Pending | - | - | |
+| [task326.py](task326.py) | ✅ Completed | 31 | Ghi, Max | |
 | [task327.py](task327.py) | ⏳ Pending | - | - | |
 | [task328.py](task328.py) | ⏳ Pending | - | - | |
 | [task329.py](task329.py) | ⏳ Pending | - | - | |
