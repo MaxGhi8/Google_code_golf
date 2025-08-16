@@ -1,0 +1,1 @@
+def p(g):return sum([[sum(([v]*2 for v in r),[])]*2 for r in g],[])
