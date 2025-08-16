@@ -179,7 +179,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task108.py](task108.py) | ⏳ Pending | - | - | |
 | [task109.py](task109.py) | ⏳ Pending | - | - | |
 | [task110.py](task110.py) | ⏳ Pending | - | - | |
-| [task111.py](task111.py) | ✅ Completed | 111 | Ale | Same code of 022, but with less operations |
+| [task111.py](task111.py) | ✅ Completed | 120 | Ale | Same code of 022, but with less operations |
 | [task112.py](task112.py) | ⏳ Pending | - | - | |
 | [task113.py](task113.py) | ✅ Completed | 29 | Max | |
 | [task114.py](task114.py) | ⏳ Pending | - | - | |
