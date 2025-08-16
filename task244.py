@@ -1,0 +1,1 @@
+def p(g):r=g[0];k=[i for i,v in enumerate(r)if v!=r[0]][0]+1;R=range(r.count(r[k-1])+1);return[[g[i*k][j*k]for j in R][::-1]for i in R]
