@@ -1,0 +1,1 @@
+def p(g,E=enumerate,R=range(3)):p,q=[(i,j)for i,r in E(g)for j,v in E(r) if v<1][0];return[[g[p+i][15-q-j]for j in R]for i in R]
