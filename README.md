@@ -32,6 +32,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 20. `sorted()` save 1 Byte respect to `.sort()`, see [task246.py](task246.py), [task013.py](task013.py) and [task091.py](task091.py).
 21. Instead of `sum(r)>0` I can use `any(r)` to check if a row is not empty, see [task290.py](task290.py).
 22. In [task372.py](task372.py) there is my implementation to sum two matrices. The implementation is based on the `zip` function, so the matrices do not need to be the same size, and the function will automatically handle any differences in shape and make the sum on the smallest size, this is useful so I can avoid to resize all the matrices to be sum and save a lot of bytes.
+23. I find that [task271.py](task271.py) is interesting. I have to cicle through all the possible 3x3 submatrices of a 7x7 matrix and find the one with the maximum number of 1, I do this with a `max` over a list with all the possible 3x3 matrices and a custom `key` function for the `max`.
 
 
 
@@ -339,7 +340,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
 | [task269.py](task269.py) | ✅ Completed | 92 | Max | |
 | [task270.py](task270.py) | ⏳ Pending | - | - | |
-| [task271.py](task271.py) | ⏳ Pending | - | - | |
+| [task271.py](task271.py) | ✅📚 Completed | 138 | Max | |
 | [task272.py](task272.py) | ⏳ Pending | - | - | |
 | [task273.py](task273.py) | ✅ Completed | 184 | Max, Ale | |
 | [task274.py](task274.py) | ⏳ Pending | - | - | |
