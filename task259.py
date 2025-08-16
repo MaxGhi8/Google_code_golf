@@ -1,0 +1,1 @@
+def p(g,E=enumerate):R,C=zip(*[(i,j)for i,r in E(g)for j,v in E(r)if v!=1]);return[[g[i][j]*(g[i][j]!=1)for j in range(min(C),max(C)+1)]for i in range(min(R),max(R)+1)]

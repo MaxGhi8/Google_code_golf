@@ -327,7 +327,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task256.py](task256.py) | ⏳ Pending | - | - | |
 | [task257.py](task257.py) | ⏳ Pending | - | - | |
 | [task258.py](task258.py) | ✅ Completed | 87 | Max | |
-| [task259.py](task259.py) | ⏳ Pending | - | - | |
+| [task259.py](task259.py) | ✅ Completed | 169 | Max | |
 | [task260.py](task260.py) | ⏳ Pending | - | - | |
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
