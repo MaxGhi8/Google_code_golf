@@ -172,7 +172,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task100.py](task100.py) | ⏳ Pending | - | - | |
 | [task101.py](task101.py) | ⏳ Pending | - | - | |
 | [task102.py](task102.py) | ⏳ Pending | - | - | |
-| [task103.py](task103.py) | ✅ Completed | 30 | Ale | |
+| [task103.py](task103.py) | ✅ Completed | 30 | Ale, Max | |
 | [task104.py](task104.py) | ⏳ Pending | - | - | |
 | [task105.py](task105.py) | ⏳ Pending | - | - | |
 | [task106.py](task106.py) | ⏳ Pending | - | - | |
@@ -292,7 +292,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task220.py](task220.py) | ⏳ Pending | - | - | |
 | [task221.py](task221.py) | ⏳ Pending | - | - | |
 | [task222.py](task222.py) | ⏳ Pending | - | - | |
-| [task223.py](task223.py) | ✅ Completed | 60 | Ale | Example of pixels (up)scaling |
+| [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
 | [task224.py](task224.py) | ⏳ Pending | - | - | |
 | [task225.py](task225.py) | ⏳ Pending | - | - | |
 | [task226.py](task226.py) | ⏳ Pending | - | - | |
@@ -391,7 +391,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task319.py](task319.py) | ⏳ Pending | - | - | |
 | [task320.py](task320.py) | ⏳ Pending | - | - | |
 | [task321.py](task321.py) | ✅ Completed | 70 | Ghi, Max | |
-| [task322.py](task322.py) | ✅ Completed | 56 | Ale | |
+| [task322.py](task322.py) | ✅ Completed | 56 | Ale, Max | |
 | [task323.py](task323.py) | ⏳ Pending | - | - | |
 | [task324.py](task324.py) | ⏳ Pending | - | - | |
 | [task325.py](task325.py) | ⏳ Pending | - | - | |
@@ -429,7 +429,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task357.py](task357.py) | ✅ Completed | 108 | Max | Same as task 248 |
 | [task358.py](task358.py) | ⏳ Pending | - | - | |
 | [task359.py](task359.py) | ⏳ Pending | - | - | |
-| [task360.py](task360.py) | ✅ Completed | 77 | Ale | |
+| [task360.py](task360.py) | ✅ Completed | 77 | Ale, Max | |
 | [task361.py](task361.py) | ⏳ Pending | - | - | |
 | [task362.py](task362.py) | ✅ Completed | 110 | Ale, Max | |
 | [task363.py](task363.py) | ⏳ Pending | - | - | |
