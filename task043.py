@@ -1,0 +1,1 @@
+p=lambda g:[g[0]]+[[2*(r[-1]*g[0][j]>0)for j,v in enumerate(r[:-1])]+[r[-1]]for r in g[1:]]
