@@ -1,1 +1,1 @@
-def p(m):k=sum(r[-1]==5for r in m);m=[[x*(x!=5)for x in r]for r in m];return[r[k:]+r[:k]for r in m[-k:]+m[:-k]]
+def p(m):k=sum(5in r for r in m);m=[[x*(x!=5)for x in r]for r in m];return[r[k:]+r[:k]for r in m[-k:]+m[:-k]]
