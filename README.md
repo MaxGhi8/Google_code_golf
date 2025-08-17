@@ -123,7 +123,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task052.py](task052.py) | 📚✅ Completed | 45 | Max | Sometimes reorder stuff can avoid a pair of brackets |
 | [task053.py](task053.py) | ✅ Completed | 26 | Max | |
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
-| [task055.py](task055.py) | ⏳ Pending | - | - | |
+| [task055.py](task055.py) | ✅ Completed | 143 | Max, Gio | |
 | [task056.py](task056.py) | ✅ Completed | 82 | Max | |
 | [task057.py](task057.py) | ✅ Completed | 86 | Max | |
 | [task058.py](task058.py) | ⏳ Pending | - | - | |
