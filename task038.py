@@ -1,1 +1,1 @@
-p=lambda g,R=range:[[1]*(n:=sum(all(g[i+a][j+b]==1for b in R(2)for a in R(2))for i in R(8)for j in R(8)))+[0]*(5-n)]
+p=lambda g,R=range(8):[[1]*(n:=sum(all(g[i+a][j+b]==1for b in(0,1)for a in(0,1))for i in R for j in R))+[0]*(5-n)]
