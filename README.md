@@ -64,7 +64,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 91/401 tasks completed -->
+<!-- Progress: 92/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -119,7 +119,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task048.py](task048.py) | ⏳ Pending | - | - | |
 | [task049.py](task049.py) | 📚✅ Completed | 107 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ✅ Completed | 131 | Max, Gio | |
-| [task051.py](task051.py) | ⏳ Pending | - | - | |
+| [task051.py](task051.py) | ✅ Completed | 173 | Max, Gio | |
 | [task052.py](task052.py) | 📚✅ Completed | 45 | Max | Sometimes reorder stuff can avoid a pair of brackets |
 | [task053.py](task053.py) | ✅ Completed | 26 | Max | |
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
