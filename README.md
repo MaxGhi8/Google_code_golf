@@ -430,7 +430,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task359.py](task359.py) | ⏳ Pending | - | - | |
 | [task360.py](task360.py) | ⏳ Pending | - | - | |
 | [task361.py](task361.py) | ⏳ Pending | - | - | |
-| [task362.py](task362.py) | ⏳ Pending | - | - | |
+| [task362.py](task362.py) | ✅ Completed | 116 | Ale | |
 | [task363.py](task363.py) | ⏳ Pending | - | - | |
 | [task364.py](task364.py) | ⏳ Pending | - | - | |
 | [task365.py](task365.py) | ⏳ Pending | - | - | |
