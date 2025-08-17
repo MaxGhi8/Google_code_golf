@@ -124,7 +124,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task053.py](task053.py) | ✅ Completed | 26 | Max | |
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
 | [task055.py](task055.py) | ✅ Completed | 143 | Max, Gio | |
-| [task056.py](task056.py) | ✅ Completed | 82 | Max | |
+| [task056.py](task056.py) | ✅ Completed | 73 | Max, Gio | |
 | [task057.py](task057.py) | ✅ Completed | 86 | Max | |
 | [task058.py](task058.py) | ⏳ Pending | - | - | |
 | [task059.py](task059.py) | ⏳ Pending | - | - | |
