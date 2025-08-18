@@ -35,7 +35,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 23. I find that [task271.py](task271.py) is interesting. I have to cicle through all the possible 3x3 submatrices of a 7x7 matrix and find the one with the maximum number of 1, I do this with a `max` over a list with all the possible 3x3 matrices and a custom `key` function for the `max`.
 24. I find that [task291.py](task291.py) is interesting. I have to find the holes. I realize that I have an hole when in a 2x2 matrix there is only one 0 and all the other numbers are the same.
 25. I find that [task40.py](task40.py) is interesting. I have solved the problem in the simple case of row dominant, and then I use a very stupid recursion for the transpose case.
-26. To (up)scale pixels, the code in [task223.py](task223.py) can be used as a reference.
+26. To up-scale pixels, the code in [task223.py](task223.py) can be used as a reference. [task218.py](task218.py) can be a reference for down-scaling.
 27. To coloring like gravity effect see [task322.py](task322.py) as reference.
 
 ## 🚀 Getting Started
@@ -66,7 +66,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 117/401 tasks completed -->
+<!-- Progress: 118/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -288,7 +288,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task215.py](task215.py) | ✅📚 Completed | 84 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
 | [task216.py](task216.py) | ⏳ Pending | - | - | |
 | [task217.py](task217.py) | ⏳ Pending | - | - | |
-| [task218.py](task218.py) | ⏳ Pending | - | - | |
+| [task218.py](task218.py) | 👀✅ Completed | 119 | Ale | Can be improved if we remove the double transposition? |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ⏳ Pending | - | - | |
 | [task221.py](task221.py) | ⏳ Pending | - | - | |
