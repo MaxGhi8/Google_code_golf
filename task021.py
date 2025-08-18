@@ -1,0 +1,1 @@
+def p(g):R=1+sum(len(set(r))<2for r in g);C=1+sum(len(set(c))<2for c in zip(*g));return[[g[0][0]]*C]*R
