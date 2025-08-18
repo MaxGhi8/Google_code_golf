@@ -1,0 +1,1 @@
+p=lambda g,R=range(9):[[(g[(r//3)*3+1][(c//3)*3+1]>1)for c in R]for r in R]
