@@ -1,0 +1,1 @@
+p=lambda g:x if(n:=len(g)//2)>1and g[0]in(x:=g[n:])and g[1]in x else[r[:len(r)//2]for r in g]
