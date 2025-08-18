@@ -429,7 +429,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task357.py](task357.py) | ✅ Completed | 108 | Max | Same as task 248 |
 | [task358.py](task358.py) | ⏳ Pending | - | - | |
 | [task359.py](task359.py) | ⏳ Pending | - | - | |
-| [task360.py](task360.py) | ✅ Completed | 77 | Ale, Max | |
+| [task360.py](task360.py) | ✅ Completed | 73 | Ale, Max | |
 | [task361.py](task361.py) | ⏳ Pending | - | - | |
 | [task362.py](task362.py) | ✅ Completed | 110 | Ale, Max | |
 | [task363.py](task363.py) | ⏳ Pending | - | - | |
