@@ -66,7 +66,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 103/401 tasks completed -->
+<!-- Progress: 104/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -445,7 +445,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task372.py](task372.py) | ✅📚 Completed | 59 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ✅ Completed | 63 | Max | |
 | [task374.py](task374.py) | ⏳ Pending | - | - | |
-| [task375.py](task375.py) | ⏳ Pending | - | - | |
+| [task375.py](task375.py) | ✅ Completed | 63 | Max | |
 | [task376.py](task376.py) | ⏳ Pending | - | - | |
 | [task377.py](task377.py) | ⏳ Pending | - | - | |
 | [task378.py](task378.py) | ⏳ Pending | - | - | |
