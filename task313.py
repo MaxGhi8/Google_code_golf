@@ -1,1 +1,1 @@
-def p(g):R=range(len(g));k=len({*sum(g,[])})-1;return[[g[0][[1-i%2,1+i%2][k>2]:k+2+[i%2,-i%2][k>2]][j%k]for j in R]for i in R]
+def p(g):R=range(len(g));k=len({*sum(g,[])})-1;return[[g[0][1+(x:=i%2*(-1)**(k<3)):k+2+x][j%k]for j in R]for i in R]
