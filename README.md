@@ -417,7 +417,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task344.py](task344.py) | ⏳ Pending | - | - | |
 | [task345.py](task345.py) | ⏳ Pending | - | - | |
 | [task346.py](task346.py) | ⏳ Pending | - | - | |
-| [task347.py](task347.py) | ⏳ Pending | - | - | |
+| [task347.py](task347.py) | ✅ Completed | 58 | Ghi, Max | |
 | [task348.py](task348.py) | ⏳ Pending | - | - | |
 | [task349.py](task349.py) | ⏳ Pending | - | - | |
 | [task350.py](task350.py) | ⏳ Pending | - | - | |
