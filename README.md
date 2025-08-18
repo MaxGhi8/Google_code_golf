@@ -409,7 +409,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task336.py](task336.py) | ⏳ Pending | - | - | |
 | [task337.py](task337.py) | ⏳ Pending | - | - | |
 | [task338.py](task338.py) | ⏳ Pending | - | - | |
-| [task339.py](task339.py) | ✅ Completed | 39 | Ghi, Max | |
+| [task339.py](task339.py) | ✅📚 Completed | 39 | Ghi, Max | [*filter(None,sum(g,[]))] == [x for x in sum(g,[])if x], but you gain 1 byte |
 | [task340.py](task340.py) | ⏳ Pending | - | - | |
 | [task341.py](task341.py) | ⏳ Pending | - | - | |
 | [task342.py](task342.py) | ⏳ Pending | - | - | |
