@@ -288,7 +288,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task215.py](task215.py) | ✅📚 Completed | 84 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
 | [task216.py](task216.py) | ⏳ Pending | - | - | |
 | [task217.py](task217.py) | ⏳ Pending | - | - | |
-| [task218.py](task218.py) | 👀✅ Completed | 119 | Ale | Can be improved if we remove the double transposition? |
+| [task218.py](task218.py) | 👀✅ Completed | 108 | Ale | Can be improved if we remove the double transposition? |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ⏳ Pending | - | - | |
 | [task221.py](task221.py) | ⏳ Pending | - | - | |
