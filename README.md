@@ -127,7 +127,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
 | [task055.py](task055.py) | ✅ Completed | 143 | Max, Gio | |
 | [task056.py](task056.py) | ✅ Completed | 73 | Max, Gio | |
-| [task057.py](task057.py) | ✅ Completed | 86 | Max | |
+| [task057.py](task057.py) | 🏆 Optimized | 74 | Max, Ale | Variant of 031 |
 | [task058.py](task058.py) | ⏳ Pending | - | - | |
 | [task059.py](task059.py) | ⏳ Pending | - | - | |
 | [task060.py](task060.py) | ✅ Completed | 55 | Max | |

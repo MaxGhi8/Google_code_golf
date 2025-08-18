@@ -1,1 +1,1 @@
-p=lambda j:[[*r]for r in zip(*[c for c in zip(*[r*2for r in j if max(r)])if max(c)])]
+p=lambda g:[[*r]*2for r in zip(*[[*r]for r in zip(*g)if any(r)])if any(r)]
