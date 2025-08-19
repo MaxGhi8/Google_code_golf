@@ -1,1 +1,1 @@
-def p(g,E=enumerate):a,b=[(i,j)for i,r in E(g)for j,k in E(r)if k==3][0];n=len(g);return[r[n-b-5:n-b][::-1]for r in g[n-a-5:n-a]][::-1]
+def p(g,E=enumerate,R=range(5)):p,q=[(i,j)for i,r in E(g)for j,v in E(r) if v==3][0];return[[g[15-p-i][15-q-j]for j in R]for i in R]
