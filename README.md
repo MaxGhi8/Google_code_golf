@@ -23,7 +23,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 11. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
 12. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
 13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py). This can be also useful when I need to iterate over all the element of the matrix, save 6 Bytes in [task115.py](task115.py), using it instead of the double for loop. If I need to rool back the matrix I can use this `[*map(list,zip(*[iter(L)]*m))]`.
-14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`. In other words **the zip operator is equivalent to the transposition of the matrix**. See [task057.py](task057.py).
+14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`. In other words **the zip operator is equivalent to the transposition of the matrix**. See [task057.py](task057.py). Recently optimized with `[*map(list,zip(*m))]` in [task179.py](task179.py).
 15. I notice that sometimes `collections.Counter.most_common()` is useful, but it is long due to the importation and vary long name of library and functions. So I try to avoid it and do something from scratch, see for example [task049.py](task049.py).
 16. Sometimes reorder stuff can avoid a pair of brackets, see [task052.py](task052.py).
 17. I can set the item of a matrix in a double for loop on a single line with `__setitem__`, see [task068.py](task068.py). Or sometimes can be useful recreate the entire matrix, see [task273.py](task273.py).
@@ -249,7 +249,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task176.py](task176.py) | ⏳ Pending | - | - | |
 | [task177.py](task177.py) | ⏳ Pending | - | - | |
 | [task178.py](task178.py) | ⏳ Pending | - | - | |
-| [task179.py](task179.py) | ⏳ Pending | - | - | |
+| [task179.py](task179.py) | ✅ Completed | 32 | Max | |
 | [task180.py](task180.py) | ⏳ Pending | - | - | |
 | [task181.py](task181.py) | ⏳ Pending | - | - | |
 | [task182.py](task182.py) | ⏳ Pending | - | - | |
