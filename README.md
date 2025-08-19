@@ -236,12 +236,12 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task163.py](task163.py) | ⏳ Pending | - | - | |
 | [task164.py](task164.py) | ⏳ Pending | - | - | |
 | [task165.py](task165.py) | ⏳ Pending | - | - | |
-| [task166.py](task166.py) | ⏳ Pending | - | - | |
+| [task166.py](task166.py) | ✅ Completed | 162 | Max | |
 | [task167.py](task167.py) | ⏳ Pending | - | - | |
 | [task168.py](task168.py) | ⏳ Pending | - | - | |
 | [task169.py](task169.py) | ⏳ Pending | - | - | |
 | [task170.py](task170.py) | ⏳ Pending | - | - | |
-| [task171.py](task171.py) | ⏳ Pending | - | - | |
+| [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
 | [task173.py](task173.py) | ⏳ Pending | - | - | |
 | [task174.py](task174.py) | ⏳ Pending | - | - | |
