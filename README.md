@@ -459,7 +459,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task385.py](task385.py) | ⏳ Pending | - | - | |
 | [task386.py](task386.py) | ⏳ Pending | - | - | |
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
-| [task388.py](task388.py) | ⏳ Pending | - | - | |
+| [task388.py](task388.py) | ✅ Completed | 84 | Max | |
 | [task389.py](task389.py) | ✅ Completed | 66 | Ale, Max | |
 | [task390.py](task390.py) | ⏳ Pending | - | - | |
 | [task391.py](task391.py) | ⏳ Pending | - | - | |

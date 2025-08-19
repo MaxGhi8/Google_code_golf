@@ -1,0 +1,1 @@
+p=lambda g:[[[c,c or 8][any(r[i]for r in g)]for i,c in enumerate(r)]*2for r in g]*2
