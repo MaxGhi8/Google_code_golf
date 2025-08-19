@@ -1,0 +1,1 @@
+p=lambda g,f=lambda d:[[*r]for r in zip(*d)if any(r)]:f(f(sum([[sum([[x]*2for x in r],[])]*2for r in g],[])))
