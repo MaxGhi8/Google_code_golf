@@ -225,7 +225,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task152.py](task152.py) | ⏳ Pending | - | - | |
 | [task153.py](task153.py) | ⏳ Pending | - | - | |
 | [task154.py](task154.py) | ⏳ Pending | - | - | |
-| [task155.py](task155.py) | ⏳ Pending | - | - | |
+| [task155.py](task155.py) | ✅ Completed | 19 | Max | |
 | [task156.py](task156.py) | ⏳ Pending | - | - | |
 | [task157.py](task157.py) | ⏳ Pending | - | - | |
 | [task158.py](task158.py) | ⏳ Pending | - | - | |
