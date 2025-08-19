@@ -1,0 +1,1 @@
+def p(g):A=sum(g,[]);k=[x for x in A if A.count(x)==4][0];return[[k*(r[0]==k or g[0][j]==k)for j in range(len(r))]for r in g]
