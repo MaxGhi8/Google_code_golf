@@ -1,0 +1,1 @@
+def p(g,E=enumerate):n=len(g)//2;return[[g[-(i//n)][-(j//n)]*(k>0)for j,k in E(r)][2:-2]for i,r in E(g)][2:-2]
