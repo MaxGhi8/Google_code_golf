@@ -211,11 +211,11 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task137.py](task137.py) | ⏳ Pending | - | - | |
 | [task138.py](task138.py) | ⏳ Pending | - | - | |
 | [task139.py](task139.py) | ⏳ Pending | - | - | |
-| [task140.py](task140.py) | ⏳ Pending | - | - | |
+| [task140.py](task140.py) | ✅ Completed | 37 | Ghi, Max | |
 | [task141.py](task141.py) | ✅ Completed | 153 | Max | |
-| [task142.py](task142.py) | ⏳ Pending | - | - | |
+| [task142.py](task142.py) | ✅ Completed | 41 | Ghi, Max | |
 | [task143.py](task143.py) | ⏳ Pending | - | - | |
-| [task144.py](task144.py) | ⏳ Pending | - | - | |
+| [task144.py](task144.py) | ✅ Completed | 64 | Ghi, Max | `[[... for a,b in zip(*z)]for z in zip(g,g[5:])]` >>> `[[... for a,b in zip(x,y)]for x,y in zip(g,g[5:])]` |
 | [task145.py](task145.py) | ⏳ Pending | - | - | |
 | [task146.py](task146.py) | ⏳ Pending | - | - | |
 | [task147.py](task147.py) | ⏳ Pending | - | - | |
@@ -328,7 +328,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task254.py](task254.py) | ⏳ Pending | - | - | |
 | [task255.py](task255.py) | ⏳ Pending | - | - | |
 | [task256.py](task256.py) | ⏳ Pending | - | - | |
-| [task257.py](task257.py) | ✅📚 Completed | 91 | Ghi, Max | a or b = {a if a>0, b if a = 0}|
+| [task257.py](task257.py) | ✅📚 Completed | 91 | Ghi, Max | `a or b = {a if a>0, b if a = 0}`|
 | [task258.py](task258.py) | ✅ Completed | 87 | Max | |
 | [task259.py](task259.py) | ✅ Completed | 169 | Max | |
 | [task260.py](task260.py) | 👀✅ Completed | 362 | Max | Hoping that someone beats me |
@@ -389,7 +389,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task315.py](task315.py) | ✅ Completed | 76 | Max | |
 | [task316.py](task316.py) | ✅ Completed | 95 | Max | |
 | [task317.py](task317.py) | ✅ Completed | 76 | Max | |
-| [task318.py](task318.py) | ✅ Completed | 67 | Ghi, Max | |
+| [task318.py](task318.py) | ✅ Completed | 64 | Ghi, Max | |
 | [task319.py](task319.py) | ⏳ Pending | - | - | |
 | [task320.py](task320.py) | ⏳ Pending | - | - | |
 | [task321.py](task321.py) | ✅ Completed | 70 | Ghi, Max | |
@@ -408,9 +408,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task334.py](task334.py) | ⏳ Pending | - | - | |
 | [task335.py](task335.py) | ⏳ Pending | - | - | |
 | [task336.py](task336.py) | ⏳ Pending | - | - | |
-| [task337.py](task337.py) | ✅ Completed | 52 | Ghi, Max | {x:x,...}[x] == {...}.get(x,x), but you gain 2 bytes |
+| [task337.py](task337.py) | ✅ Completed | 52 | Ghi, Max | `{x:x,...}[x] >>> {...}.get(x,x)` |
 | [task338.py](task338.py) | ⏳ Pending | - | - | |
-| [task339.py](task339.py) | ✅ Completed | 39 | Ghi, Max | [*filter(None,sum(g,[]))] == [x for x in sum(g,[])if x], but you gain 1 byte |
+| [task339.py](task339.py) | ✅ Completed | 39 | Ghi, Max | `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 | [task340.py](task340.py) | ⏳ Pending | - | - | |
 | [task341.py](task341.py) | ⏳ Pending | - | - | |
 | [task342.py](task342.py) | ⏳ Pending | - | - | |
