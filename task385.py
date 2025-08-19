@@ -1,0 +1,1 @@
+p=lambda g:[r for r in g[5:][::-1]]+g[5:]
