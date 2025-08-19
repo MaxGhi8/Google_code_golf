@@ -257,7 +257,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task183.py](task183.py) | ⏳ Pending | - | - | |
 | [task184.py](task184.py) | ⏳ Pending | - | - | |
 | [task185.py](task185.py) | ⏳ Pending | - | - | |
-| [task186.py](task186.py) | ⏳ Pending | - | - | |
+| [task186.py](task186.py) | ✅ Completed | 98 | Max | |
 | [task187.py](task187.py) | ⏳ Pending | - | - | |
 | [task188.py](task188.py) | ✅ Completed | 94 | Max | |
 | [task189.py](task189.py) | ⏳ Pending | - | - | |
