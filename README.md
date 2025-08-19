@@ -67,7 +67,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 149/401 tasks completed -->
+<!-- Progress: 150/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -417,7 +417,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task343.py](task343.py) | ⏳ Pending | - | - | |
 | [task344.py](task344.py) | ⏳ Pending | - | - | |
 | [task345.py](task345.py) | ⏳ Pending | - | - | |
-| [task346.py](task346.py) | ⏳ Pending | - | - | |
+| [task346.py](task346.py) | ✅ Completed | 156 | Ale | Inspired by 271. Final `if` condition could be optimised to reduce Bytes |
 | [task347.py](task347.py) | ✅ Completed | 58 | Ghi, Max | |
 | [task348.py](task348.py) | ⏳ Pending | - | - | |
 | [task349.py](task349.py) | ⏳ Pending | - | - | |

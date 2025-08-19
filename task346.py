@@ -1,0 +1,1 @@
+p=lambda g,R=range:[[k[4]for k in[sum([[g[i+a][j+b]for b in R(3)]for a in R(3)],[])for i in R(len(g)-2)for j in R(len(g[0])-2)]if all(k)*(k.count(k[4])<2)]]
