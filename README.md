@@ -67,7 +67,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 145/401 tasks completed -->
+<!-- Progress: 146/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -455,7 +455,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task381.py](task381.py) | ⏳ Pending | - | - | |
 | [task382.py](task382.py) | ⏳ Pending | - | - | |
 | [task383.py](task383.py) | ⏳ Pending | - | - | |
-| [task384.py](task384.py) | ⏳ Pending | - | - | |
+| [task384.py](task384.py) | ✅ Completed | 109 | Ale | merge 031 and 223 codes |
 | [task385.py](task385.py) | ⏳ Pending | - | - | |
 | [task386.py](task386.py) | ✅ Completed | 58 | Max | |
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
