@@ -422,7 +422,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task348.py](task348.py) | ⏳ Pending | - | - | |
 | [task349.py](task349.py) | ⏳ Pending | - | - | |
 | [task350.py](task350.py) | ⏳ Pending | - | - | |
-| [task351.py](task351.py) | ✅ Completed | 133 | Max | |
+| [task351.py](task351.py) | ✅ Completed | 133 | Max | Same as task 400 |
 | [task352.py](task352.py) | ⏳ Pending | - | - | |
 | [task353.py](task353.py) | ⏳ Pending | - | - | |
 | [task354.py](task354.py) | ⏳ Pending | - | - | |
@@ -471,7 +471,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task397.py](task397.py) | ⏳ Pending | - | - | |
 | [task398.py](task398.py) | ⏳ Pending | - | - | |
 | [task399.py](task399.py) | ⏳ Pending | - | - | |
-| [task400.py](task400.py) | ⏳ Pending | - | - | |
+| [task400.py](task400.py) | ✅ Completed | 133 | Max | Same as task 351 |
 
 ---
 
