@@ -1,1 +1,1 @@
-p=lambda g,R=range:max([[[g[i+a][j+b]for b in R(3)]for a in R(3)]for i in R(7)for j in R(7)],key=lambda m:(sum(m,[]).count(1),m))
+p=lambda g,R=range:max([[[g[i//7+a][i%7+b]for b in R(3)]for a in R(3)]for i in R(49)],key=lambda m:(sum(m,[]).count(1),m))
