@@ -1,0 +1,1 @@
+def p(g,E=enumerate):k,a,b=[(v,i,j)for i,r in E(g)for j,v in E(r)if v][0];return[[k if i-a==j-b or i-a==b-j else g[i][j]for j,v in E(r)]for i,r in E(g)]
