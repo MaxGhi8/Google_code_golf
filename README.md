@@ -221,9 +221,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task147.py](task147.py) | ⏳ Pending | - | - | |
 | [task148.py](task148.py) | ⏳ Pending | - | - | |
 | [task149.py](task149.py) | ✅ Completed | 93 | Max | |
-| [task150.py](task150.py) | ⏳ Pending | - | - | |
+| [task150.py](task150.py) | ✅ Completed | 31 | Ghi, Max | |
 | [task151.py](task151.py) | ⏳ Pending | - | - | |
-| [task152.py](task152.py) | ⏳ Pending | - | - | |
+| [task152.py](task152.py) | ✅ Completed | 41 | Ghi, Max | |
 | [task153.py](task153.py) | ⏳ Pending | - | - | |
 | [task154.py](task154.py) | ⏳ Pending | - | - | |
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
@@ -235,7 +235,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task161.py](task161.py) | ⏳ Pending | - | - | |
 | [task162.py](task162.py) | ⏳ Pending | - | - | |
 | [task163.py](task163.py) | ⏳ Pending | - | - | |
-| [task164.py](task164.py) | ⏳ Pending | - | - | |
+| [task164.py](task164.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task165.py](task165.py) | ⏳ Pending | - | - | |
 | [task166.py](task166.py) | ✅ Completed | 162 | Max | |
 | [task167.py](task167.py) | ⏳ Pending | - | - | |
