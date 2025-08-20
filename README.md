@@ -68,7 +68,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 151/401 tasks completed -->
+<!-- Progress: 153/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -404,9 +404,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task329.py](task329.py) | ✅ Completed | 65 | Ghi, Max | |
 | [task330.py](task330.py) | ⏳ Pending | - | - | |
 | [task331.py](task331.py) | ⏳ Pending | - | - | |
-| [task332.py](task332.py) | ⏳ Pending | - | - | |
+| [task332.py](task332.py) | ✅ Completed | 74 | Max | |
 | [task333.py](task333.py) | ⏳ Pending | - | - | |
-| [task334.py](task334.py) | ⏳ Pending | - | - | |
+| [task334.py](task334.py) | ✅ Completed | 87 | Max | |
 | [task335.py](task335.py) | ⏳ Pending | - | - | |
 | [task336.py](task336.py) | ⏳ Pending | - | - | |
 | [task337.py](task337.py) | ✅ Completed | 52 | Ghi, Max | `{x:x,...}[x] >>> {...}.get(x,x)` |
