@@ -68,7 +68,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 155/401 tasks completed -->
+<!-- Progress: 156/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -239,7 +239,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task164.py](task164.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task165.py](task165.py) | ⏳ Pending | - | - | |
 | [task166.py](task166.py) | ✅ Completed | 162 | Max | |
-| [task167.py](task167.py) | ⏳ Pending | - | - | |
+| [task167.py](task167.py) | 👀✅ Completed | 100 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ⏳ Pending | - | - | |
 | [task169.py](task169.py) | ⏳ Pending | - | - | |
 | [task170.py](task170.py) | ⏳ Pending | - | - | |
