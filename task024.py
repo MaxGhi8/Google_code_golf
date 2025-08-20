@@ -1,1 +1,1 @@
-p=lambda g:[[(1in r)or(3in r)*3or 2*(2 in [p[j]for p in g])or 0for j in range(len(r))]for r in g]
+p=lambda g:[[(1in r)or(3in r)*3or(2 in [p[j]for p in g])*2for j in range(len(r))]for r in g]
