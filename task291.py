@@ -1,1 +1,1 @@
-p=lambda g,R=range:[[max([m for m in[[[g[i+a][j+b]for b in R(2)]for a in R(2)]for i in R(len(g)-1)for j in R(len(g[0])-1)]if(x:=sum(m,[])).count(m[0][0])==3and x.count(0)==1][0][0])]]
+p=lambda g,R=range:[[[m[0]for m in[[g[i+a//2][j+a%2]for a in R(4)]for i in R(len(g)-1)for j in R(len(g[0])-1)]if m.count(m[0])>2and m.count(0)==1][0]]]
