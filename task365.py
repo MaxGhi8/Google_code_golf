@@ -1,0 +1,1 @@
+p=lambda g,R=range:max([[r[b:b+h]for r in g[a:a+k]]for a in R(9)for b in R(9)for k in R(11-a)for h in R(11-b)],key=lambda m:(all(x:=sum(m,[]))*x.count(2),sum(x)))
