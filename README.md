@@ -38,6 +38,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 26. To up-scale pixels, the code in [task223.py](task223.py) can be used as a reference. [task218.py](task218.py) can be a reference for down-scaling.
 27. To coloring like gravity effect see [task322.py](task322.py) as reference.
 28. [task218.py](task218.py): how to apply f(g) on g and g transposed using the double transposition: [*map(list,zip(*f([*zip(*f(g))])))]
+29. Sussy tricks `{x:x,...}[x] >>> {...}.get(x,x)` and `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -67,7 +68,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 150/401 tasks completed -->
+<!-- Progress: 151/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -381,7 +382,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task307.py](task307.py) | ✅ Completed | 68 | Max | |
 | [task308.py](task308.py) | ⏳ Pending | - | - | |
 | [task309.py](task309.py) | ✅ Completed | 46 | Max, Ghi | |
-| [task310.py](task310.py) | ✅ Completed | 130 | Ale | |
+| [task310.py](task310.py) | ✅ Completed | 130 | Ale, Max | |
 | [task311.py](task311.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task312.py](task312.py) | ✅ Completed | 47 | Ghi, Max | |
 | [task313.py](task313.py) | ✅ Completed | 117 | Max | |
@@ -417,7 +418,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task343.py](task343.py) | ⏳ Pending | - | - | |
 | [task344.py](task344.py) | ⏳ Pending | - | - | |
 | [task345.py](task345.py) | ⏳ Pending | - | - | |
-| [task346.py](task346.py) | ✅ Completed | 156 | Ale | Inspired by 271. Final `if` condition could be optimised to reduce Bytes |
+| [task346.py](task346.py) | ✅ Completed | 138 | Ale, Max | Inspired by 271. Final `if` condition could be optimised to reduce Bytes |
 | [task347.py](task347.py) | ✅ Completed | 58 | Ghi, Max | |
 | [task348.py](task348.py) | ⏳ Pending | - | - | |
 | [task349.py](task349.py) | ⏳ Pending | - | - | |
