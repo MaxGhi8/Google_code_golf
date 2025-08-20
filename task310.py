@@ -1,0 +1,1 @@
+def p(g):r=sum(g,[]);b,a=divmod(r.index(k:=min(set(r),key=r.count)),len(g[0]));n=r.count(k)//4+1;return[w[a:a+n]for w in g[b:b+n]]
