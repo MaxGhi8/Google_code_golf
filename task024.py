@@ -1,1 +1,1 @@
-p=lambda g,E=enumerate:[*map(list,zip(*[[y or 2*(2in r)for j,y in E(r)]for i,r in E(zip(*[max(r)%2*[max(r)]*len(g[0])or r for r in g]))]))]
+p=lambda g:[[(1in r)or(3in r)*3or 2*(2 in [p[j]for p in g])or 0for j in range(len(r))]for r in g]
