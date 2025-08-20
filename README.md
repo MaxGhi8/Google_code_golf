@@ -83,7 +83,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task008.py](task008.py) | ⏳ Pending | - | - | |
 | [task009.py](task009.py) | ⏳ Pending | - | - | |
 | [task010.py](task010.py) | ✅ Completed | 95 | Max | List comprehension go BRR |
-| [task011.py](task011.py) | ✅ Completed | 206 | Max | |
+| [task011.py](task011.py) | ✅ Completed | 198 | Max, Ale | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
 | [task013.py](task013.py) | ✅ Completed | 298 | Max | |
 | [task014.py](task014.py) | ✅📚 Completed | 207 | Max | assign names to functions |
