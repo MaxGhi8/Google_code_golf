@@ -68,7 +68,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 158/401 tasks completed -->
+<!-- Progress: 159/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -167,7 +167,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task092.py](task092.py) | ⏳ Pending | - | - | |
 | [task093.py](task093.py) | ⏳ Pending | - | - | |
 | [task094.py](task094.py) | ⏳ Pending | - | - | |
-| [task095.py](task095.py) | ⏳ Pending | - | - | |
+| [task095.py](task095.py) | ✅ Completed | 125 | Ale | |
 | [task096.py](task096.py) | ⏳ Pending | - | - | |
 | [task097.py](task097.py) | ✅ Completed | 146 | Ale, Max | |
 | [task098.py](task098.py) | ⏳ Pending | - | - | |
