@@ -388,7 +388,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task313.py](task313.py) | ✅ Completed | 117 | Max | |
 | [task314.py](task314.py) | ⏳ Pending | - | - | |
 | [task315.py](task315.py) | ✅ Completed | 76 | Max | |
-| [task316.py](task316.py) | ✅ Completed | 95 | Max | |
+| [task316.py](task316.py) | ✅ Completed | 94 | Max | |
 | [task317.py](task317.py) | ✅ Completed | 76 | Max | |
 | [task318.py](task318.py) | ✅ Completed | 64 | Ghi, Max | |
 | [task319.py](task319.py) | ⏳ Pending | - | - | |
