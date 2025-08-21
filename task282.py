@@ -1,0 +1,1 @@
+def p(g,R=range):G=[[0]*9for _ in g];[G[i//8+A//3-1].__setitem__(i%8+A%3-1,(5,1)[A%2])for i in R(64)if g[i//8][i%8]for A in R(9)if A!=4];return G
