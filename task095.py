@@ -1,6 +1,1 @@
-def p(g,E=enumerate):
- for j,r in E(g):
-  for i,c in E(r):
-   if c>4:
-    for d in range(9):g[j-1+d//3][i-1+d%3]|=1
- return g
+p=lambda g,E=range(9):[[g[i][j]or(5in sum([p[max(0,j-1):j+2]for p in g[max(0,i-1):i+2]],[]))for j in E]for i in E]
