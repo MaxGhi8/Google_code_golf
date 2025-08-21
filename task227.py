@@ -1,0 +1,1 @@
+p=lambda g:[[2*(a+b<1)for a,b in zip(*z)]for z in zip(g,g[4:])]
