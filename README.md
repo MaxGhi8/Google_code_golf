@@ -341,7 +341,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task266.py](task266.py) | ⏳ Pending | - | - | |
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
-| [task269.py](task269.py) | ✅ Completed | 92 | Max | Same as task 289|
+| [task269.py](task269.py) | ✅ Completed | 90 | Max, Ale | Same as task 289, but with individual colours in g |
 | [task270.py](task270.py) | ⏳ Pending | - | - | |
 | [task271.py](task271.py) | ✅📚 Completed | 123 | Max | |
 | [task272.py](task272.py) | ⏳ Pending | - | - | |
