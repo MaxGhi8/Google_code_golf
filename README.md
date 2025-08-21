@@ -289,7 +289,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task214.py](task214.py) | ✅📚 Completed | 104 | Max | I think that I have implemented a good function for rotation clockwise |
 | [task215.py](task215.py) | ✅📚 Completed | 84 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
 | [task216.py](task216.py) | ✅ Completed | 165 | Max | Same as 365 (computational really inefficient) |
-| [task217.py](task217.py) | ✅ Completed | 130 | Ale | Combination of 1 and 31 |
+| [task217.py](task217.py) | ✅ Completed | 130 | Ale, Max | Combination of 1 and 31 |
 | [task218.py](task218.py) | ✅📚 Completed | 105 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ✅ Completed | 165 | Max | Similar to 352 and 95 |
