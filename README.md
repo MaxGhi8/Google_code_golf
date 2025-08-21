@@ -68,7 +68,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 160/401 tasks completed -->
+<!-- Progress: 161/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -292,7 +292,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task217.py](task217.py) | ⏳ Pending | - | - | |
 | [task218.py](task218.py) | ✅📚 Completed | 105 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
-| [task220.py](task220.py) | ⏳ Pending | - | - | |
+| [task220.py](task220.py) | ✅ Completed | 165 | Max | Similar to 352 and 95 |
 | [task221.py](task221.py) | ⏳ Pending | - | - | |
 | [task222.py](task222.py) | ⏳ Pending | - | - | |
 | [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
