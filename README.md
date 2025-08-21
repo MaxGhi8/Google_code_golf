@@ -73,7 +73,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
 | [task000.py](task000.py) | ✅ Completed | 150 | Max | Does not count for points |
-| [task001.py](task001.py) | ✅ Completed | 77 | Max | |
+| [task001.py](task001.py) | ✅ Completed | 75 | Max, Ale | |
 | [task002.py](task002.py) | 👀✅ Completed | 262 | Max | For the moment I use brute force, but DFS could be explored |
 | [task003.py](task003.py) | ✅ Completed | 67 | Max | |
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
@@ -289,7 +289,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task214.py](task214.py) | ✅📚 Completed | 104 | Max | I think that I have implemented a good function for rotation clockwise |
 | [task215.py](task215.py) | ✅📚 Completed | 84 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
 | [task216.py](task216.py) | ✅ Completed | 165 | Max | Same as 365 (computational really inefficient) |
-| [task217.py](task217.py) | ⏳ Pending | - | - | |
+| [task217.py](task217.py) | ✅ Completed | 130 | Ale | Combination of 1 and 31 |
 | [task218.py](task218.py) | ✅📚 Completed | 105 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ✅ Completed | 165 | Max | Similar to 352 and 95 |
@@ -456,7 +456,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task381.py](task381.py) | ⏳ Pending | - | - | |
 | [task382.py](task382.py) | ⏳ Pending | - | - | |
 | [task383.py](task383.py) | ⏳ Pending | - | - | |
-| [task384.py](task384.py) | ✅ Completed | 109 | Ale | merge 031 and 223 codes |
+| [task384.py](task384.py) | ✅ Completed | 109 | Ale | Combination of 031 and 223 |
 | [task385.py](task385.py) | ⏳ Pending | - | - | |
 | [task386.py](task386.py) | ✅ Completed | 58 | Max | |
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
