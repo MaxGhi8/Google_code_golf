@@ -68,7 +68,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 161/401 tasks completed -->
+<!-- Progress: 162/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -288,7 +288,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task213.py](task213.py) | ⏳ Pending | - | - | |
 | [task214.py](task214.py) | ✅📚 Completed | 104 | Max | I think that I have implemented a good function for rotation clockwise |
 | [task215.py](task215.py) | ✅📚 Completed | 84 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
-| [task216.py](task216.py) | ⏳ Pending | - | - | |
+| [task216.py](task216.py) | ✅ Completed | 165 | Max | Same as 365 (computational really inefficient) |
 | [task217.py](task217.py) | ⏳ Pending | - | - | |
 | [task218.py](task218.py) | ✅📚 Completed | 105 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
