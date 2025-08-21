@@ -1,0 +1,1 @@
+def p(g):x=min(n:=len(g),m:=len(g[0]));R=range(x*x);A,B=[(g[:m],g[m:]),zip(*[[r[:n],r[n:]]for r in g])][n<m];C,D=(A,B)if 8in sum(A,[])else(B,A);return[[(C[i%x][j%x]>0)*D[i//x][j//x]for j in R]for i in R]
