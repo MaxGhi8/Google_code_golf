@@ -299,7 +299,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task224.py](task224.py) | ⏳ Pending | - | - | |
 | [task225.py](task225.py) | ⏳ Pending | - | - | |
 | [task226.py](task226.py) | ⏳ Pending | - | - | |
-| [task227.py](task227.py) | ⏳ Pending | - | - | |
+| [task227.py](task227.py) | ✅ Completed | 64 | Ghi | |
 | [task228.py](task228.py) | ⏳ Pending | - | - | |
 | [task229.py](task229.py) | ✅ Completed | 80 | Max | |
 | [task230.py](task230.py) | ⏳ Pending | - | - | |
