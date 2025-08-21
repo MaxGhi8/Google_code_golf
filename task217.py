@@ -1,0 +1,1 @@
+p=lambda g,A=range(9),f=lambda d:[[*r]for r in zip(*d)if any(r)]:[[((g:=f(f(g)))[j%3][i%3]>0)*g[j//3][i//3]for i in A]for j in A]
