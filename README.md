@@ -68,7 +68,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 162/401 tasks completed -->
+<!-- Progress: 163/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -301,7 +301,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task226.py](task226.py) | ⏳ Pending | - | - | |
 | [task227.py](task227.py) | ⏳ Pending | - | - | |
 | [task228.py](task228.py) | ⏳ Pending | - | - | |
-| [task229.py](task229.py) | ⏳ Pending | - | - | |
+| [task229.py](task229.py) | ✅ Completed | 80 | Max | |
 | [task230.py](task230.py) | ⏳ Pending | - | - | |
 | [task231.py](task231.py) | ✅ Completed | 57 | Max | |
 | [task232.py](task232.py) | ✅📚 Completed | 107 | Max | For alternating colors I can make a full line and then color alternating over the previous one |
