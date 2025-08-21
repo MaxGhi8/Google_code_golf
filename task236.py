@@ -1,0 +1,1 @@
+p=lambda g,R=range(4):[[3*(0<g[i][j]+g[i+5][j]<3)for j in R]for i in R]
