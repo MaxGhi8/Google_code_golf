@@ -69,7 +69,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 191/401 tasks completed -->
+<!-- Progress: 193/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -92,7 +92,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task016.py](task016.py) | ✅📚 Completed | 60 | Max | lambda function with 1 constant on a single line |
 | [task017.py](task017.py) | ⏳ Pending | - | - | |
 | [task018.py](task018.py) | ⏳ Pending | - | - | |
-| [task019.py](task019.py) | ⏳ Pending | - | - | |
+| [task019.py](task019.py) | ✅ Completed | 213 | Max | |
 | [task020.py](task020.py) | ⏳ Pending | - | - | |
 | [task021.py](task021.py) | ✅ Completed | 103 | Max | |
 | [task022.py](task022.py) | ✅ Completed | 131 | Ale, Max | |
@@ -471,7 +471,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task395.py](task395.py) | ✅ Completed | 71 | Max | `zip` go brrr |
 | [task396.py](task396.py) | ⏳ Pending | - | - | |
 | [task397.py](task397.py) | ⏳ Pending | - | - | |
-| [task398.py](task398.py) | ⏳ Pending | - | - | |
+| [task398.py](task398.py) | ✅ Completed | 109 | Max | |
 | [task399.py](task399.py) | ⏳ Pending | - | - | |
 | [task400.py](task400.py) | ✅ Completed | 133 | Max | Same as task 351 |
 
