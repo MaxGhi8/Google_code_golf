@@ -69,7 +69,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 189/401 tasks completed -->
+<!-- Progress: 190/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -366,7 +366,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task290.py](task290.py) | ✅ Completed | 89 | Max | |
 | [task291.py](task291.py) | ✅📚 Completed | 152 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |
-| [task293.py](task293.py) | ⏳ Pending | - | - | |
+| [task293.py](task293.py) | ✅ Completed | 127 | Max | |
 | [task294.py](task294.py) | ⏳ Pending | - | - | |
 | [task295.py](task295.py) | ⏳ Pending | - | - | |
 | [task296.py](task296.py) | ⏳ Pending | - | - | |
@@ -379,7 +379,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task303.py](task303.py) | ✅ Completed | 97 | Max | |
 | [task304.py](task304.py) | ✅ Completed | 122 | Max | |
 | [task305.py](task305.py) | ✅ Completed | 138 | Max | |
-| [task306.py](task306.py) | ⏳ Pending | - | - | |
+| [task306.py](task306.py) | ✅ Completed | 140 | Max | |
 | [task307.py](task307.py) | ✅ Completed | 68 | Max | |
 | [task308.py](task308.py) | ⏳ Pending | - | - | |
 | [task309.py](task309.py) | ✅ Completed | 46 | Max, Ghi | |

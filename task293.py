@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[{r[0]:g[0][j],g[0][j]:r[0]}[v]*(0not in{*r}|{*[q[j]for q in g]})or v for j,v in E(r)]for i,r in E(g)]
