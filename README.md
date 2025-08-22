@@ -39,6 +39,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 27. To coloring like gravity effect see [task322.py](task322.py) as reference.
 28. [task218.py](task218.py): how to apply f(g) on g and g transposed using the double transposition: [*map(list,zip(*f([*zip(*f(g))])))]
 29. Sussy tricks `{x:x,...}[x] >>> {...}.get(x,x)` and `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
+30. [task301.py](task301.py) is interesting for ordering stuffs.
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -68,7 +69,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 173/401 tasks completed -->
+<!-- Progress: 174/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -142,7 +143,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task067.py](task067.py) | ✅ Completed | 40 | Max | |
 | [task068.py](task068.py) | 📚✅ Completed | 212 | Max | List comprehension with set item |
 | [task069.py](task069.py) | ⏳ Pending | - | - | |
-| [task070.py](task070.py) | ⏳ Pending | - | - | |
+| [task070.py](task070.py) | ✅ Completed | 181 | Max | |
 | [task071.py](task071.py) | ⏳ Pending | - | - | |
 | [task072.py](task072.py) | ✅ Completed | 73 | Max | |
 | [task073.py](task073.py) | ✅ Completed | 61 | Max | |
@@ -373,7 +374,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task298.py](task298.py) | 👀✅ Completed | 97 | Max | Could be improved removing the set maybe? |
 | [task299.py](task299.py) | ✅ Completed | 87 | Max | |
 | [task300.py](task300.py) | ✅ Completed | 130 | Max | I use task 31 for resize |
-| [task301.py](task301.py) | ⏳ Pending | - | - | |
+| [task301.py](task301.py) | ✅ Completed | 157 | Max | |
 | [task302.py](task302.py) | ⏳ Pending | - | - | |
 | [task303.py](task303.py) | ⏳ Pending | - | - | |
 | [task304.py](task304.py) | ⏳ Pending | - | - | |
