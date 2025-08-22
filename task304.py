@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate,A=range(9):[[g[j%3][i%3]*(g[j//3][i//3]==max({*(s:=sum(g,[]))},key=s.count))for i in A]for j in A]
