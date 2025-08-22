@@ -307,7 +307,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task232.py](task232.py) | ✅📚 Completed | 107 | Max | For alternating colors I can make a full line and then color alternating over the previous one |
 | [task233.py](task233.py) | ⏳ Pending | - | - | |
 | [task234.py](task234.py) | ⏳ Pending | - | - | |
-| [task235.py](task235.py) | ✅ Completed | 133 | Ghi | To be improved |
+| [task235.py](task235.py) | ✅ Completed | 73 | Ghi, Max | |
 | [task236.py](task236.py) | ✅ Completed | 72 | Max | |
 | [task237.py](task237.py) | ✅ Completed | 99 | Max, Waolo | |
 | [task238.py](task238.py) | ⏳ Pending | - | - | |
