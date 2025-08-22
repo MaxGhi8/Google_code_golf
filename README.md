@@ -69,7 +69,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 183/401 tasks completed -->
+<!-- Progress: 184/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -276,7 +276,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task200.py](task200.py) | ✅ Completed | 161 | Max | |
 | [task201.py](task201.py) | ⏳ Pending | - | - | |
 | [task202.py](task202.py) | ⏳ Pending | - | - | |
-| [task203.py](task203.py) | ⏳ Pending | - | - | |
+| [task203.py](task203.py) | ✅ Completed | 97 | Max | |
 | [task204.py](task204.py) | ⏳ Pending | - | - | |
 | [task205.py](task205.py) | ⏳ Pending | - | - | |
 | [task206.py](task206.py) | ✅ Completed | 169 | Ale, Max | |
@@ -347,7 +347,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task271.py](task271.py) | ✅📚 Completed | 123 | Max | |
 | [task272.py](task272.py) | ⏳ Pending | - | - | |
 | [task273.py](task273.py) | ✅ Completed | 184 | Max, Ale | |
-| [task274.py](task274.py) | ⏳ Pending | - | - | |
+| [task274.py](task274.py) | ✅ Completed | 94 | Max | |
 | [task275.py](task275.py) | ✅ Completed | 204 | Max | |
 | [task276.py](task276.py) | ✅ Completed | 46 | Ghi, Max | |
 | [task277.py](task277.py) | ⏳ Pending | - | - | |
