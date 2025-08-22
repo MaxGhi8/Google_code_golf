@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[v or(*(({*[x[j]for x in g[:i]]}&{*[x[j]for x in g[i+2:]]}|{*r[:j]}&{*r[j+2:]})-{r[2],0}),0)[0]for j,v in E(r)]for i,r in E(g)]
