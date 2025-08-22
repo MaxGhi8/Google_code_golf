@@ -1,0 +1,1 @@
+def p(g,E=enumerate):(k,a,b),*_,(_,c,d)=[(v,i,j)for i,r in E(g)for j,v in E(r)if v];return[[k*(v>0)for v in r[b+1:d]]for r in g[a+1:c]]
