@@ -458,7 +458,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task382.py](task382.py) | ⏳ Pending | - | - | |
 | [task383.py](task383.py) | ⏳ Pending | - | - | |
 | [task384.py](task384.py) | ✅ Completed | 109 | Ale | Combination of 031 and 223 |
-| [task385.py](task385.py) | ⏳ Pending | - | - | |
+| [task385.py](task385.py) | ✅ Completed | 42 | Max | |
 | [task386.py](task386.py) | ✅ Completed | 58 | Max | |
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
 | [task388.py](task388.py) | ✅ Completed | 84 | Max | |
