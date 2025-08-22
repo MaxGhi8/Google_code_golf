@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[v*(([q[j]for q in g[max(0,i-1):i+2]]+r[max(0,j-1):j+2]).count(v)>3)for j,v in E(r)]for i,r in E(g)]
