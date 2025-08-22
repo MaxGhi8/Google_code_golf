@@ -69,7 +69,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 197/401 tasks completed -->
+<!-- Progress: 198/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -454,7 +454,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task378.py](task378.py) | ⏳ Pending | - | - | |
 | [task379.py](task379.py) | ⏳ Pending | - | - | |
 | [task380.py](task380.py) | ✅ Completed | 38 | Max | |
-| [task381.py](task381.py) | ⏳ Pending | - | - | |
+| [task381.py](task381.py) | ✅ Completed | 98 | Max | |
 | [task382.py](task382.py) | ⏳ Pending | - | - | |
 | [task383.py](task383.py) | ⏳ Pending | - | - | |
 | [task384.py](task384.py) | ✅ Completed | 109 | Ale | Combination of 031 and 223 |
