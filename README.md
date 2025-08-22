@@ -293,13 +293,13 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task218.py](task218.py) | ✅📚 Completed | 105 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ✅ Completed | 165 | Max | Similar to 352 and 95 |
-| [task221.py](task221.py) | ✅ Completed | 107 | Ale | Inspired by 1 and 217 |
+| [task221.py](task221.py) | ✅ Completed | 107 | Ale, Max | Inspired by 1 and 217 |
 | [task222.py](task222.py) | ⏳ Pending | - | - | |
 | [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
 | [task224.py](task224.py) | ⏳ Pending | - | - | |
 | [task225.py](task225.py) | ⏳ Pending | - | - | |
 | [task226.py](task226.py) | ⏳ Pending | - | - | |
-| [task227.py](task227.py) | ✅ Completed | 64 | Ghi | |
+| [task227.py](task227.py) | ✅ Completed | 64 | Ghi, Max | |
 | [task228.py](task228.py) | ⏳ Pending | - | - | |
 | [task229.py](task229.py) | ✅ Completed | 80 | Max | |
 | [task230.py](task230.py) | ⏳ Pending | - | - | |
