@@ -1,0 +1,1 @@
+def p(g):s=sum(g,[]);L=sorted({*s},key=s.count)[::-1];return[[k*(s.count(k)>i)for k in L]for i in range(s.count(L[0]))]
