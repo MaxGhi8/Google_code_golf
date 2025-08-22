@@ -1,0 +1,1 @@
+p=lambda g,f=lambda g:[[*r]for r in zip(*g)if any(r)]:f(f([[v*(v==max({*(s:=sum(g,[]))}-{0},key=s.count))for v in r]for r in g]))

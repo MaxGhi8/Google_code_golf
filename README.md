@@ -68,7 +68,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 172/401 tasks completed -->
+<!-- Progress: 173/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -371,8 +371,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task296.py](task296.py) | ⏳ Pending | - | - | |
 | [task297.py](task297.py) | ✅ Completed | 70 | Max | |
 | [task298.py](task298.py) | 👀✅ Completed | 97 | Max | Could be improved removing the set maybe? |
-| [task299.py](task299.py) |✅ Completed | 87 | Max | |
-| [task300.py](task300.py) | ⏳ Pending | - | - | |
+| [task299.py](task299.py) | ✅ Completed | 87 | Max | |
+| [task300.py](task300.py) | ✅ Completed | 130 | Max | I use task 31 for resize |
 | [task301.py](task301.py) | ⏳ Pending | - | - | |
 | [task302.py](task302.py) | ⏳ Pending | - | - | |
 | [task303.py](task303.py) | ⏳ Pending | - | - | |
