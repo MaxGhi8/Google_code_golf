@@ -1,0 +1,1 @@
+p=lambda g,R=range(12):max(L:=[[r[b:b+3]for r in g[a:a+3]]for a in R for b in R if{r[b]for r in g[a:a+3]}-{0}and all(any(r[b:b+3])for r in g[a:a+3])],key=lambda m:L.count(m))
