@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[v or({*r}&{*[q[j]for q in g]}<={0,2})*2for j,v in E(r)]for i,r in E(g)]

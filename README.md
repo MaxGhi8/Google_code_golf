@@ -69,7 +69,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 184/401 tasks completed -->
+<!-- Progress: 186/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -376,7 +376,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task300.py](task300.py) | ✅ Completed | 130 | Max | I use task 31 for resize |
 | [task301.py](task301.py) | ✅ Completed | 157 | Max | |
 | [task302.py](task302.py) | ⏳ Pending | - | - | |
-| [task303.py](task303.py) | ⏳ Pending | - | - | |
+| [task303.py](task303.py) | ✅ Completed | 97 | Max | |
 | [task304.py](task304.py) | ⏳ Pending | - | - | |
 | [task305.py](task305.py) | ⏳ Pending | - | - | |
 | [task306.py](task306.py) | ⏳ Pending | - | - | |
