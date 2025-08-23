@@ -40,6 +40,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 28. [task218.py](task218.py): how to apply f(g) on g and g transposed using the double transposition: [*map(list,zip(*f([*zip(*f(g))])))]
 29. Sussy tricks `{x:x,...}[x] >>> {...}.get(x,x)` and `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 30. [task301.py](task301.py) is interesting for ordering stuffs.
+31. [task294.py](task294.py) is interesting for coloring the interior of the matrix.
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -69,7 +70,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 199/401 tasks completed -->
+<!-- Progress: 200/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -367,7 +368,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task291.py](task291.py) | ✅📚 Completed | 152 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |
 | [task293.py](task293.py) | ✅ Completed | 127 | Max | |
-| [task294.py](task294.py) | ⏳ Pending | - | - | |
+| [task294.py](task294.py) | ✅📚 Completed | 120 | Max | |
 | [task295.py](task295.py) | ⏳ Pending | - | - | |
 | [task296.py](task296.py) | ⏳ Pending | - | - | |
 | [task297.py](task297.py) | ✅ Completed | 70 | Max | |
