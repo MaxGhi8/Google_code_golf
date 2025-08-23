@@ -1,1 +1,1 @@
-def p(g,E=filter):A,B={*g[0]},{*g[-1]};k=[A-B,B-A][A<B].pop();R,C=[*E(lambda x:k in g[x],range(len(g)))],[*E(lambda x:k in [r[x]for r in g],range(len(g[0])))];return[r[C[0]:C[-1]+1]for r in g[R[0]:R[-1]+1]]
+def p(g,E=enumerate):k=min({*sum(g,[])},key=lambda k:sum(k in r for r in g));X,Y=zip(*((i,j)for i,r in E(g)for j,v in E(r)if v==k));return[r[min(Y):max(Y)+1]for r in g[min(X):max(X)+1]]

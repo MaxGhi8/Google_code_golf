@@ -41,6 +41,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 29. Sussy tricks `{x:x,...}[x] >>> {...}.get(x,x)` and `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 30. [task301.py](task301.py) is interesting for ordering stuffs.
 31. [task294.py](task294.py) is interesting for coloring the interior of the matrix.
+32. `.setdefault()` can be useful to initialize a dictionary key with a default value if it doesn't exist, see [task010.py](task010.py).
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -80,7 +81,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task003.py](task003.py) | ✅ Completed | 67 | Max | |
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
-| [task006.py](task006.py) | ✅📚 Completed | 59 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!|
+| [task006.py](task006.py) | ✅📚 Completed | 54 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!|
 | [task007.py](task007.py) | ✅📚 Completed | 99 | Max, Waolo | How to unroll a matrix |
 | [task008.py](task008.py) | ⏳ Pending | - | - | |
 | [task009.py](task009.py) | ✅ Completed | 152 | Max | |
@@ -88,7 +89,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task011.py](task011.py) | ✅ Completed | 198 | Max, Ale | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
 | [task013.py](task013.py) | ✅ Completed | 249 | Max | |
-| [task014.py](task014.py) | ✅📚 Completed | 207 | Max | assign names to functions |
+| [task014.py](task014.py) | ✅📚 Completed | 186 | Max | interesting |
 | [task015.py](task015.py) | ⏳ Pending | - | - | |
 | [task016.py](task016.py) | ✅📚 Completed | 60 | Max | lambda function with 1 constant on a single line |
 | [task017.py](task017.py) | ⏳ Pending | - | - | |
@@ -274,7 +275,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task197.py](task197.py) | ⏳ Pending | - | - | |
 | [task198.py](task198.py) | ⏳ Pending | - | - | |
 | [task199.py](task199.py) | ✅ Completed | 141 | Max | |
-| [task200.py](task200.py) | ✅ Completed | 161 | Max | |
+| [task200.py](task200.py) | ✅ Completed | 146 | Max | |
 | [task201.py](task201.py) | ⏳ Pending | - | - | |
 | [task202.py](task202.py) | ⏳ Pending | - | - | |
 | [task203.py](task203.py) | ✅ Completed | 97 | Max | |
@@ -289,7 +290,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task212.py](task212.py) | ⏳ Pending | - | - | |
 | [task213.py](task213.py) | ⏳ Pending | - | - | |
 | [task214.py](task214.py) | ✅📚 Completed | 104 | Max | I think that I have implemented a good function for rotation clockwise |
-| [task215.py](task215.py) | ✅📚 Completed | 84 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
+| [task215.py](task215.py) | ✅📚 Completed | 83 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
 | [task216.py](task216.py) | ✅ Completed | 165 | Max | Same as 365 (computational really inefficient) |
 | [task217.py](task217.py) | ✅ Completed | 130 | Ale, Max | Combination of 1 and 31 |
 | [task218.py](task218.py) | ✅📚 Completed | 105 | Ale | f(g) on g and g transposed |
@@ -305,8 +306,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task228.py](task228.py) | ⏳ Pending | - | - | |
 | [task229.py](task229.py) | ✅ Completed | 80 | Max | |
 | [task230.py](task230.py) | ⏳ Pending | - | - | |
-| [task231.py](task231.py) | ✅ Completed | 57 | Max | |
-| [task232.py](task232.py) | ✅📚 Completed | 107 | Max | For alternating colors I can make a full line and then color alternating over the previous one |
+| [task231.py](task231.py) | ✅ Completed | 56 | Max | |
+| [task232.py](task232.py) | ✅📚 Completed | 93 | Max | For alternating colors I can make a full line and then color alternating over the previous one (see old version) |
 | [task233.py](task233.py) | ⏳ Pending | - | - | |
 | [task234.py](task234.py) | ⏳ Pending | - | - | |
 | [task235.py](task235.py) | ✅ Completed | 73 | Ghi, Max | |
