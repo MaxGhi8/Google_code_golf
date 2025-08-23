@@ -1,1 +1,1 @@
-def p(g):k=min(set(s:=sum(g,[]))-{0},key=s.count);n=s.count(k);m=sum(k in r for r in g);return[n//m*[k]]*m
+def p(g):k=min({*(s:=sum(g,[]))}-{0},key=s.count);n=s.count(k);m=sum(k in r for r in g);return[n//m*[k]]*m

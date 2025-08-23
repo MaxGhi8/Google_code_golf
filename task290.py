@@ -1,1 +1,1 @@
-def p(g):a,b=set(sum(g,[]))-{0};return[[[a,b][v==a]for v in r if v]for r in g if any(r)]
+def p(g):a,b={*sum(g,[])}-{0};return[[[a,b][v==a]for v in r if v]for r in g if any(r)]

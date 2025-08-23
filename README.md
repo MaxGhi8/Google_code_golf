@@ -87,7 +87,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task010.py](task010.py) | ✅ Completed | 95 | Max | List comprehension go BRR |
 | [task011.py](task011.py) | ✅ Completed | 198 | Max, Ale | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
-| [task013.py](task013.py) | ✅ Completed | 298 | Max | |
+| [task013.py](task013.py) | ✅ Completed | 249 | Max | |
 | [task014.py](task014.py) | ✅📚 Completed | 207 | Max | assign names to functions |
 | [task015.py](task015.py) | ⏳ Pending | - | - | |
 | [task016.py](task016.py) | ✅📚 Completed | 60 | Max | lambda function with 1 constant on a single line |
@@ -95,7 +95,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task018.py](task018.py) | ⏳ Pending | - | - | |
 | [task019.py](task019.py) | ✅ Completed | 213 | Max | |
 | [task020.py](task020.py) | ⏳ Pending | - | - | |
-| [task021.py](task021.py) | ✅ Completed | 103 | Max | |
+| [task021.py](task021.py) | ✅ Completed | 99 | Max | |
 | [task022.py](task022.py) | ✅ Completed | 131 | Ale, Max | |
 | [task023.py](task023.py) | ⏳ Pending | - | - | |
 | [task024.py](task024.py) | ✅ Completed | 92 | Ale, Max | |
@@ -111,7 +111,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task034.py](task034.py) | ⏳ Pending | - | - | |
 | [task035.py](task035.py) | ⏳ Pending | - | - | |
 | [task036.py](task036.py) | ⏳ Pending | - | - | |
-| [task037.py](task037.py) | ✅ Completed | 176 | Max | |
+| [task037.py](task037.py) | ✅ Completed | 170 | Max | |
 | [task038.py](task038.py) | ✅ Completed | 117 | Max | |
 | [task039.py](task039.py) | ✅ Completed | 82 | Max | |
 | [task040.py](task040.py) | ✅📚 Completed | 118 | Max | |
@@ -126,7 +126,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task049.py](task049.py) | 📚✅ Completed | 107 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ✅ Completed | 126 | Max, Gio | |
 | [task051.py](task051.py) | ✅ Completed | 173 | Max, Gio | |
-| [task052.py](task052.py) | 📚✅ Completed | 45 | Max | Sometimes reorder stuff can avoid a pair of brackets |
+| [task052.py](task052.py) | 📚✅ Completed | 43 | Max | Sometimes reorder stuff can avoid a pair of brackets |
 | [task053.py](task053.py) | ✅ Completed | 26 | Max | |
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
 | [task055.py](task055.py) | ✅ Completed | 143 | Max, Gio | |
@@ -320,7 +320,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task243.py](task243.py) | ⏳ Pending | - | - | |
 | [task244.py](task244.py) | ✅ Completed | 136 | Max | |
 | [task245.py](task245.py) | ⏳ Pending | - | - | |
-| [task246.py](task246.py) | ✅ Completed | 206 | Max | |
+| [task246.py](task246.py) | ✅ Completed | 202 | Max | |
 | [task247.py](task247.py) | ✅ Completed | 168 | Max | |
 | [task248.py](task248.py) | ✅ Completed | 108 | Max, Waolo | Same as task 357 |
 | [task249.py](task249.py) | ✅ Completed | 27 | Max | |
@@ -334,7 +334,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task257.py](task257.py) | ✅📚 Completed | 91 | Ghi, Max | `a or b = {a if a>0, b if a = 0}`|
 | [task258.py](task258.py) | ✅ Completed | 87 | Max | |
 | [task259.py](task259.py) | ✅ Completed | 169 | Max | |
-| [task260.py](task260.py) | 👀✅ Completed | 362 | Max | Hoping that someone beats me |
+| [task260.py](task260.py) | 👀✅ Completed | 277 | Max | Hoping that someone beats me |
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
 | [task263.py](task263.py) | ⏳ Pending | - | - | |
@@ -363,8 +363,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task286.py](task286.py) | ⏳ Pending | - | - | |
 | [task287.py](task287.py) | ⏳ Pending | - | - | |
 | [task288.py](task288.py) | ⏳ Pending | - | - | |
-| [task289.py](task289.py) | ✅ Completed | 92 | Max | Same as task 269|
-| [task290.py](task290.py) | ✅ Completed | 89 | Max | |
+| [task289.py](task289.py) | ✅ Completed | 90 | Max | Same as task 269|
+| [task290.py](task290.py) | ✅ Completed | 87 | Max | |
 | [task291.py](task291.py) | ✅📚 Completed | 152 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |
 | [task293.py](task293.py) | ✅ Completed | 127 | Max | |
@@ -384,7 +384,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task307.py](task307.py) | ✅ Completed | 68 | Max | |
 | [task308.py](task308.py) | ⏳ Pending | - | - | |
 | [task309.py](task309.py) | ✅ Completed | 46 | Max, Ghi | |
-| [task310.py](task310.py) | ✅ Completed | 130 | Ale, Max | |
+| [task310.py](task310.py) | ✅ Completed | 129 | Ale, Max | |
 | [task311.py](task311.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task312.py](task312.py) | ✅ Completed | 47 | Ghi, Max | |
 | [task313.py](task313.py) | ✅ Completed | 117 | Max | |
@@ -472,7 +472,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task395.py](task395.py) | ✅ Completed | 71 | Max | `zip` go brrr |
 | [task396.py](task396.py) | ⏳ Pending | - | - | |
 | [task397.py](task397.py) | ✅ Completed | 177 | Max | |
-| [task398.py](task398.py) | ✅ Completed | 109 | Max | |
+| [task398.py](task398.py) | ✅ Completed | 107 | Max | |
 | [task399.py](task399.py) | ✅ Completed | 150 | Max | |
 | [task400.py](task400.py) | ✅ Completed | 133 | Max | Same as task 351 |
 

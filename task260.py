@@ -1,7 +1,1 @@
-def p(g,E=enumerate):
- n=len(g);L=[(i,n+~j)for i,r in E(g)for j,v in E(r[::-1])if v==5and not r.__setitem__(n+~j,0)];p,q,r,s=L[0]+L[-1];k,*_=set(sum(g,[]))-{0};M=[r[:] for r in g]
- v=k in g[p][:q];d=min(q+1,p-1);p-=d+1;q-=d-1
- while(p<n)*(q<n):M[p][q]=k*v;p+=1;q+=1
- v=k in g[r][s:];d=min(r+1,s-1);r-=d-1;s-=d+1
- while(r<n)*(s<n):M[r][s]=k*v;r+=1;s+=1
- return M
+def p(g,R=range(10)):s=sum(g,[]);a,b=divmod(s.index(k:=({*s}-{0,5}).pop()),10);(d,c),(e,f)=[max([[(j+1,-i+1),(i+1,-j+1)][x]for i in R for j in R if((1-x)*(j-i>b-a)+(j-i<b-a)*x)*g[i][j]]+[[(b,-a),(a,-b)][x]])for x in(0,1)];return[[k*(j-i in{b-a,d+c,-f-e})for j in R]for i in R]

@@ -1,1 +1,1 @@
-def p(g):k=len(set(sum(g,[])))-1;return sum([[sum(([v]*k for v in r),[])]*k for r in g],[])
+def p(g):k=len({*sum(g,[])})-1;return sum([[sum(([v]*k for v in r),[])]*k for r in g],[])

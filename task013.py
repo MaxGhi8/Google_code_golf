@@ -1,5 +1,6 @@
-def p(g,E=enumerate):
- A,B=sorted([(v,i,j)for i,r in E(g)for j,v in E(r)])[-2:];a,b,c,d,e,f=A+B;n=len(g[0])
- if c*f in[0,(n-1)**2]:D=abs(b-e)*2;g[b::D],g[e::D]=[[a]*n]*len(g[b::D]),[[d]*n]*len(g[e::D]);return g
- for r in g:D=abs(c-f)*2;r[c::D]=[a]*len(r[c::D]);r[f::D]=[d]*len(r[f::D])
- return g
+def p(g,k=0):
+ g=[*map(list,zip(*g))];n=len(g[0]);(c,b,a),(f,e,d),*_=sorted((i%n,i//n,v)for i,v in enumerate(sum(g,[]))if v)
+ if b*e in{0,(len(g)-1)**2}:
+  for r in g:
+   for j in range(c,n,f-c):r[j]=[a,d][(j-c)//(f-c)%2]
+ return g if k else p(g,1)
