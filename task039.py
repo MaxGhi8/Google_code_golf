@@ -1,1 +1,1 @@
-p=lambda j,f=lambda g:[[*r]for r in zip(*g)if any(r)]:[r[:3]for r in f(f(j))][:3]
+p=lambda j,f=lambda d:[*filter(any,zip(*d))]:[r[:3]for r in f(f(j))][:3]

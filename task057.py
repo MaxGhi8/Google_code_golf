@@ -1,1 +1,1 @@
-p=lambda g:[[*r]*2for r in zip(*[[*r]for r in zip(*g)if any(r)])if any(r)]
+p=lambda g,f=lambda d:[*filter(any,zip(*d))]:[[*r]*2for r in f(f(g))]

@@ -1,1 +1,1 @@
-def p(g,A=range(9),f=lambda g:[[*r]for r in zip(*g)if any(r)]):m=[r[::3]for r in f(f(g))[::3]];return[[(m[j%3][i%3]>0)*m[j//3][i//3]for i in A]for j in A]
+def p(g,A=range(9),f=lambda d:[*filter(any,zip(*d))]):m=[r[::3]for r in f(f(g))[::3]];return[[(m[j%3][i%3]>0)*m[j//3][i//3]for i in A]for j in A]

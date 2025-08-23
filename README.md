@@ -43,6 +43,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 31. [task294.py](task294.py) is interesting for coloring the interior of the matrix.
 32. `.setdefault()` can be useful to initialize a dictionary key with a default value if it doesn't exist, see [task010.py](task010.py).
 33. DFS in [task286.py](task286.py).
+34. For extract non zero matrix see [task031.py](task031.py).
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -107,7 +108,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task028.py](task028.py) | ⏳ Pending | - | - | |
 | [task029.py](task029.py) | ✅ Completed | 206 | Max, Ale | |
 | [task030.py](task030.py) | ⏳ Pending | - | - | |
-| [task031.py](task031.py) | ✅ Completed | 61 | Max, Ale | |
+| [task031.py](task031.py) | ✅ Completed | 53 | Max, Ale | |
 | [task032.py](task032.py) | ⏳ Pending | - | - | |
 | [task033.py](task033.py) | ✅ Completed | 127 | Ale,Max | |
 | [task034.py](task034.py) | ⏳ Pending | - | - | |
@@ -115,7 +116,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task036.py](task036.py) | ⏳ Pending | - | - | |
 | [task037.py](task037.py) | ✅ Completed | 170 | Max | |
 | [task038.py](task038.py) | ✅ Completed | 117 | Max | |
-| [task039.py](task039.py) | ✅ Completed | 82 | Max | |
+| [task039.py](task039.py) | ✅ Completed | 73 | Max | |
 | [task040.py](task040.py) | ✅📚 Completed | 118 | Max | |
 | [task041.py](task041.py) | 👀✅ Completed | 99 | Max | I think that we can do better but I do not how... |
 | [task042.py](task042.py) | ⏳ Pending | - | - | |
@@ -133,7 +134,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
 | [task055.py](task055.py) | ✅ Completed | 143 | Max, Gio | |
 | [task056.py](task056.py) | ✅ Completed | 73 | Max, Gio | |
-| [task057.py](task057.py) | 🏆 Optimized | 74 | Max, Ale | Variant of 031 |
+| [task057.py](task057.py) | 🏆 Optimized | 70 | Max, Ale | Variant of 031 |
 | [task058.py](task058.py) | ⏳ Pending | - | - | |
 | [task059.py](task059.py) | ⏳ Pending | - | - | |
 | [task060.py](task060.py) | ✅ Completed | 55 | Max | |
@@ -271,7 +272,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task192.py](task192.py) | ⏳ Pending | - | - | |
 | [task193.py](task193.py) | ✅ Completed | 125 | Max | |
 | [task194.py](task194.py) | ✅ Completed | 94 | Max | |
-| [task195.py](task195.py) | ✅ Completed | 155 | Max | |
+| [task195.py](task195.py) | ✅ Completed | 146 | Max | |
 | [task196.py](task196.py) | ⏳ Pending | - | - | |
 | [task197.py](task197.py) | ⏳ Pending | - | - | |
 | [task198.py](task198.py) | ⏳ Pending | - | - | |
@@ -293,7 +294,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task214.py](task214.py) | ✅📚 Completed | 104 | Max | I think that I have implemented a good function for rotation clockwise |
 | [task215.py](task215.py) | ✅📚 Completed | 83 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
 | [task216.py](task216.py) | ✅ Completed | 165 | Max | Same as 365 (computational really inefficient) |
-| [task217.py](task217.py) | ✅ Completed | 130 | Ale, Max | Combination of 1 and 31 |
+| [task217.py](task217.py) | ✅ Completed | 121 | Ale, Max | Combination of 1 and 31 |
 | [task218.py](task218.py) | ✅📚 Completed | 105 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ✅ Completed | 165 | Max | Similar to 352 and 95 |
@@ -376,7 +377,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task297.py](task297.py) | ✅ Completed | 70 | Max | |
 | [task298.py](task298.py) | 👀✅ Completed | 97 | Max | Could be improved removing the set maybe? |
 | [task299.py](task299.py) | ✅ Completed | 87 | Max | |
-| [task300.py](task300.py) | ✅ Completed | 130 | Max | I use task 31 for resize |
+| [task300.py](task300.py) | ✅ Completed | 121 | Max | I use task 31 for resize |
 | [task301.py](task301.py) | ✅ Completed | 153 | Max | |
 | [task302.py](task302.py) | ⏳ Pending | - | - | |
 | [task303.py](task303.py) | ✅ Completed | 97 | Max | |
@@ -460,7 +461,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task381.py](task381.py) | ✅ Completed | 98 | Max | |
 | [task382.py](task382.py) | ⏳ Pending | - | - | |
 | [task383.py](task383.py) | ⏳ Pending | - | - | |
-| [task384.py](task384.py) | ✅ Completed | 109 | Ale | Combination of 031 and 223 |
+| [task384.py](task384.py) | ✅ Completed | 101 | Ale | Combination of 031 and 223 |
 | [task385.py](task385.py) | ✅ Completed | 42 | Max | |
 | [task386.py](task386.py) | ✅ Completed | 58 | Max | |
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
