@@ -42,6 +42,7 @@ This repository contains solutions for 401 Google Code Golf tasks, numbered from
 30. [task301.py](task301.py) is interesting for ordering stuffs.
 31. [task294.py](task294.py) is interesting for coloring the interior of the matrix.
 32. `.setdefault()` can be useful to initialize a dictionary key with a default value if it doesn't exist, see [task010.py](task010.py).
+33. DFS in [task286.py](task286.py).
 
 ## 🚀 Getting Started
 The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
@@ -71,7 +72,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 201/401 tasks completed -->
+<!-- Progress: 202/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -361,7 +362,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task283.py](task283.py) | ⏳ Pending | - | - | |
 | [task284.py](task284.py) | ⏳ Pending | - | - | |
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
-| [task286.py](task286.py) | ⏳ Pending | - | - | |
+| [task286.py](task286.py) | ✅📚 Completed | 279 | Max, Gio | |
 | [task287.py](task287.py) | ⏳ Pending | - | - | |
 | [task288.py](task288.py) | ⏳ Pending | - | - | |
 | [task289.py](task289.py) | ✅ Completed | 90 | Max | Same as task 269|

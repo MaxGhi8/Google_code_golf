@@ -261,4 +261,4 @@ def verify_program(task_num, examples):
 if __name__ == "__main__":
   task_num=int(sys.argv[1])
   examples = load_examples(task_num)
-  verify_program(task_num, example
+  verify_program(task_num, examples)
