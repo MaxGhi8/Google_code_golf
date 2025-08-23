@@ -1,1 +1,1 @@
-def p(g,R=range(10)):s=sum(g,[]);a,b=divmod(s.index(k:=({*s}-{0,5}).pop()),10);(d,c),(e,f)=[max([[(j+1,-i+1),(i+1,-j+1)][x]for i in R for j in R if((1-x)*(j-i>b-a)+(j-i<b-a)*x)*g[i][j]]+[[(b,-a),(a,-b)][x]])for x in(0,1)];return[[k*(j-i in{b-a,d+c,-f-e})for j in R]for i in R]
+def p(g,R=range(10)):h={x:[j-i for i in R for j in R if g[i][j]==x]for x in R};k=({*sum(g,[])}-{0,5}).pop();D=h[k][0];c,*_,d=sorted(h[5]);return[[k*(j-i in{D,c-1-(c<D),d+1+(d>D)})for j in R]for i in R]
