@@ -84,7 +84,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task040.py](task040.py) | ✅📚 Completed | 118 | Max | |
 | [task041.py](task041.py) | 👀✅📚 Completed | 90 | Max | I think that we can do better but I do not how.../with and/or we can spare an "if" statement |
 | [task042.py](task042.py) | ⏳ Pending | - | - | |
-| [task043.py](task043.py) | ✅ Completed | 92 | Max | |
+| [task043.py](task043.py) | ✅ Completed | 74 | Max | |
 | [task044.py](task044.py) | ⏳ Pending | - | - | |
 | [task045.py](task045.py) | ✅ Completed | 58 | Max | |
 | [task046.py](task046.py) | ⏳ Pending | - | - | |
