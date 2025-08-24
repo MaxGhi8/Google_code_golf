@@ -51,7 +51,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task007.py](task007.py) | ✅📚 Completed | 99 | Max, Waolo | How to unroll a matrix |
 | [task008.py](task008.py) | ✅ Completed | 241 | Ale, Max | |
 | [task009.py](task009.py) | ✅ Completed | 152 | Max | |
-| [task010.py](task010.py) | ✅ Completed | 95 | Max | List comprehension go BRR |
+| [task010.py](task010.py) | ✅ Completed | 94 | Max | List comprehension go BRR |
 | [task011.py](task011.py) | ✅ Completed | 198 | Max, Ale | |
 | [task012.py](task012.py) | ⏳ Pending | - | - | |
 | [task013.py](task013.py) | ✅ Completed | 249 | Max | |

@@ -1,1 +1,1 @@
-p=lambda g:(A:={})or[[A.setdefault(c,len(A)+1)if k>4else k for c,k in enumerate(r)]for r in g]
+p=lambda g:(a:={})or[[k>4and a.setdefault(i,len(a)+1)or k for i,k in enumerate(r)]for r in g]
