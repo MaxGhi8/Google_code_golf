@@ -42,3 +42,4 @@
 35. Sometimes `*` and `+` can be useful in logical expressions to write less instead of `and` and `or`.
 36. Sometimes the first element non zero or the last element can be obtained with `or` and `and` respectively.
 37. The code `[x[c]for x in g[r:]]` can be rewrite as `[*zip(*g)][c][r:]`
+38. `b"01234"[i] == ord("01234"[i])`, so `b"0564312798"[x]-48` is equal to `[0,5,6,4,3,1,2,7,9,8][x]`.
