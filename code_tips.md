@@ -36,7 +36,7 @@
 29. Sussy tricks `{x:x,...}[x] >>> {...}.get(x,x)` and `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 30. [task301.py](task301.py) is interesting for ordering stuffs.
 31. [task294.py](task294.py) is interesting for coloring the interior of the matrix.
-32. `.setdefault()` can be useful to initialize a dictionary key with a default value if it doesn't exist, see [task010.py](task0   10.py).
+32. `.setdefault()` can be useful to initialize a dictionary key with a default value if it doesn't exist, see [task010.py](task010.py).
 33. DFS in [task286.py](task286.py).
 34. For extract non zero matrix see [task031.py](task031.py).
 35. Sometimes `*` and `+` can be useful in logical expressions to write less instead of `and` and `or`.
@@ -44,4 +44,4 @@
 37. The code `[x[c]for x in g[r:]]` can be rewrite as `[*zip(*g)][c][r:]`
 38. Sometime the `if` condition can be simplified with `and` and `or` to avoid extra indentation, see [task286.py](task286.py)
 39. `b"01234"[i] == ord("01234"[i])`, so `b"0564312798"[x]-48` is equal to `[0,5,6,4,3,1,2,7,9,8][x]`.
-40. `g[0]` returns a the first value, `g[:1]` returns a list with inside the first vallue. This can be usefoul if we need to concatenate it with another list.
+40. `g[0]` returns a the first value, `g[:1]` returns a list with inside the first value. This can be useful if we need to concatenate it with another list.
