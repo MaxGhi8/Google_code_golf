@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 207/401 tasks completed -->
+<!-- Progress: 208/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -45,7 +45,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task001.py](task001.py) | ✅ Completed | 75 | Max, Ale | |
 | [task002.py](task002.py) | 👀✅ Completed | 255 | Max | For the moment I use brute force, but DFS could be explored |
 | [task003.py](task003.py) | ✅ Completed | 66 | Max | |
-| [task004.py](task004.py) | ⏳ Pending | - | - | |
+| [task004.py](task004.py) | ✅ Completed | 172 | Max | |
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
 | [task006.py](task006.py) | ✅📚 Completed | 54 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!|
 | [task007.py](task007.py) | ✅📚 Completed | 99 | Max, Waolo | How to unroll a matrix |
@@ -327,7 +327,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task283.py](task283.py) | ✅ Completed | 154 | Max, Ale | |
 | [task284.py](task284.py) | ⏳ Pending | - | - | |
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
-| [task286.py](task286.py) | ✅📚 Completed | 265 | Max, Gio | |
+| [task286.py](task286.py) | ✅📚 Completed | 260 | Max, Gio | |
 | [task287.py](task287.py) | ⏳ Pending | - | - | |
 | [task288.py](task288.py) | ⏳ Pending | - | - | |
 | [task289.py](task289.py) | ✅ Completed | 90 | Max | Same as task 269|
@@ -336,7 +336,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |
 | [task293.py](task293.py) | ✅ Completed | 127 | Max | |
 | [task294.py](task294.py) | ✅📚 Completed | 120 | Max | |
-| [task295.py](task295.py) | ✅ Completed | 94 | Ale, Max | |
+| [task295.py](task295.py) | ✅ Completed | 69 | Ale, Max | |
 | [task296.py](task296.py) | ✅ Completed | 91 | Max | |
 | [task297.py](task297.py) | ✅ Completed | 70 | Max | |
 | [task298.py](task298.py) | 👀✅ Completed | 97 | Max | Could be improved removing the set maybe? |
