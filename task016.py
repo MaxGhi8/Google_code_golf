@@ -1,1 +1,1 @@
-p=lambda j:[[[0,5,6,4,3,1,2,7,9,8][x]for x in r]for r in j]
+p=lambda j:[[b"0564312798"[x]-48 for x in r]for r in j]
