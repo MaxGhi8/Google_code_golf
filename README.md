@@ -94,7 +94,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task050.py](task050.py) | ✅ Completed | 126 | Max, Gio | |
 | [task051.py](task051.py) | ✅ Completed | 172 | Max, Gio | |
 | [task052.py](task052.py) | 📚✅ Completed | 43 | Max | Sometimes reorder stuff can avoid a pair of brackets |
-| [task053.py](task053.py) | ✅ Completed | 26 | Max | |
+| [task053.py](task053.py) | ✅ Completed | 25 | Max | |
 | [task054.py](task054.py) | ⏳ Pending | - | - | |
 | [task055.py](task055.py) | ✅ Completed | 143 | Max, Gio | |
 | [task056.py](task056.py) | ✅ Completed | 73 | Max, Gio | |
