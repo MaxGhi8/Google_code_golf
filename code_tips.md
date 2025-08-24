@@ -1,8 +1,7 @@
 # 🏆 Google code golf
 
-- Complete all 400 tasks
 - Optimize for minimal character count
-- Execution time does not count, only bytes matters here
+- Execution time or memory usage does not count, only bytes matters here, you have to optimize it. Write a correct code but as small as possible.
 
 ## 📚 Our tips
 
@@ -40,3 +39,6 @@
 32. `.setdefault()` can be useful to initialize a dictionary key with a default value if it doesn't exist, see [task010.py](task010.py).
 33. DFS in [task286.py](task286.py).
 34. For extract non zero matrix see [task031.py](task031.py).
+35. Sometimes `*` and `+` can be useful in logical expressions to write less instead of `and` and `or`.
+36. Sometimes the first element non zero or the last element can be obtained with `or` and `and` respectively.
+37. The code `[x[c]for x in g[r:]]` can be rewrite as `[*zip(*g)][c][r:]`
