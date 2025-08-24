@@ -44,7 +44,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task000.py](task000.py) | ✅ Completed | 150 | Max | Does not count for points |
 | [task001.py](task001.py) | ✅ Completed | 75 | Max, Ale | |
 | [task002.py](task002.py) | 👀✅ Completed | 255 | Max | For the moment I use brute force, but DFS could be explored |
-| [task003.py](task003.py) | ✅ Completed | 67 | Max | |
+| [task003.py](task003.py) | ✅ Completed | 66 | Max | |
 | [task004.py](task004.py) | ⏳ Pending | - | - | |
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
 | [task006.py](task006.py) | ✅📚 Completed | 54 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!|
