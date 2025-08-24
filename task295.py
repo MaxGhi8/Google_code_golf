@@ -1,0 +1,1 @@
+def p(g):g=g[0];W=range(len(g));return[[g[0]*(c<sum(g)//g[0]+r//2)for c in W]for r in W][::2]

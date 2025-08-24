@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 204/401 tasks completed -->
+<!-- Progress: 205/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -336,7 +336,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |
 | [task293.py](task293.py) | ✅ Completed | 127 | Max | |
 | [task294.py](task294.py) | ✅📚 Completed | 120 | Max | |
-| [task295.py](task295.py) | ⏳ Pending | - | - | |
+| [task295.py](task295.py) | ✅ Completed | 94 | Ale, Max | |
 | [task296.py](task296.py) | ✅ Completed | 91 | Max | |
 | [task297.py](task297.py) | ✅ Completed | 70 | Max | |
 | [task298.py](task298.py) | 👀✅ Completed | 97 | Max | Could be improved removing the set maybe? |
