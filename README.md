@@ -327,7 +327,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task283.py](task283.py) | ✅ Completed | 154 | Max, Ale | |
 | [task284.py](task284.py) | ⏳ Pending | - | - | |
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
-| [task286.py](task286.py) | ✅📚 Completed | 265 | Max, Gio | |
+| [task286.py](task286.py) | ✅📚 Completed | 260 | Max, Gio | |
 | [task287.py](task287.py) | ⏳ Pending | - | - | |
 | [task288.py](task288.py) | ⏳ Pending | - | - | |
 | [task289.py](task289.py) | ✅ Completed | 90 | Max | Same as task 269|
