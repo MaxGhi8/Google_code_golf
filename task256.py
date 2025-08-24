@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[r*any(r)or max(0,(n:=sum(g[q:=(sum(g,[]).index(2))//(w:=len(g[0]))])//2)+q-i)*[i>q or 3]+[0]*min(w,w-n-q+i)for i,r in E(g)]

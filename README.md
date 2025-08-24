@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 210/401 tasks completed -->
+<!-- Progress: 211/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -297,7 +297,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task253.py](task253.py) | ⏳ Pending | - | - | |
 | [task254.py](task254.py) | ⏳ Pending | - | - | |
 | [task255.py](task255.py) | ⏳ Pending | - | - | |
-| [task256.py](task256.py) | ⏳ Pending | - | - | |
+| [task256.py](task256.py) | ✅ Completed | 148 | Ale | |
 | [task257.py](task257.py) | ✅📚 Completed | 91 | Ghi, Max | `a or b = {a if a>0, b if a = 0}`|
 | [task258.py](task258.py) | ✅ Completed | 87 | Max | |
 | [task259.py](task259.py) | ✅ Completed | 169 | Max | |
