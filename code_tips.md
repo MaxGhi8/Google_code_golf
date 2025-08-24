@@ -36,7 +36,7 @@
 29. Sussy tricks `{x:x,...}[x] >>> {...}.get(x,x)` and `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 30. [task301.py](task301.py) is interesting for ordering stuffs.
 31. [task294.py](task294.py) is interesting for coloring the interior of the matrix.
-32. `.setdefault()` can be useful to initialize a dictionary key with a default value if it doesn't exist, see [task010.py](task010.py).
+32. `.setdefault()` can be useful to initialize a dictionary key with a default value if it doesn't exist, see [task010.py](task0   10.py).
 33. DFS in [task286.py](task286.py).
 34. For extract non zero matrix see [task031.py](task031.py).
 35. Sometimes `*` and `+` can be useful in logical expressions to write less instead of `and` and `or`.
