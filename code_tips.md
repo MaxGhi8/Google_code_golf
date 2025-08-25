@@ -31,7 +31,7 @@
 24. I find that [task291.py](task291.py) is interesting. I have to find the holes. I realize that I have an hole when in a 2x2 matrix there is only one 0 and all the other numbers are the same.
 25. I find that [task40.py](task40.py) is interesting. I have solved the problem in the simple case of row dominant, and then I use a very stupid recursion for the transpose case.
 26. To up-scale pixels, the code in [task223.py](task223.py) can be used as a reference. [task218.py](task218.py) can be a reference for down-scaling.
-27. To coloring like gravity effect see [task322.py](task322.py) as reference.
+27. To coloring like gravity effect see [task322.py](task322.py) and [task032.py](task032.py) as reference.
 28. [task218.py](task218.py): how to apply f(g) on g and g transposed using the double transposition: [*map(list,zip(*f([*zip(*f(g))])))]
 29. Sussy tricks `{x:x,...}[x] >>> {...}.get(x,x)` and `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 30. [task301.py](task301.py) is interesting for ordering stuffs.
