@@ -1,5 +1,1 @@
-def p(g,R=range(10)):
- g=[r[:1]*10for r in g*3if r[0]]
- for r in R:
-  for c in R:g[r][c]=g[c][r]
- return g[:10]
+def p(g,R=range(10)):g=[r[:1]*10for r in g*3if r[0]];return[[g[r][c]*(c<r)or g[c][r]for c in R]for r in R]
