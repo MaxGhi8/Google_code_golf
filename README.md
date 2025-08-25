@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 217/401 tasks completed -->
+<!-- Progress: 218/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -313,7 +313,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task269.py](task269.py) | ✅ Completed | 90 | Max, Ale | Same as task 289, but with individual colours in g |
 | [task270.py](task270.py) | ⏳ Pending | - | - | |
 | [task271.py](task271.py) | ✅📚 Completed | 123 | Max | |
-| [task272.py](task272.py) | ⏳ Pending | - | - | |
+| [task272.py](task272.py) | ✅ Completed | 156 | Max | |
 | [task273.py](task273.py) | ✅ Completed | 184 | Max, Ale | |
 | [task274.py](task274.py) | ✅ Completed | 94 | Max | |
 | [task275.py](task275.py) | ✅ Completed | 204 | Max | |
