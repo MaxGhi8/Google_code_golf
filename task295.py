@@ -1,1 +1,1 @@
-def p(g):g=g[0];l=len(g);return[[g[0]]*i+g[:l-i]for i in range(l//2)]
+def p(g):g=g[0];l=len(g);return[g[:1]*i+g[:l-i]for i in range(l//2)]
