@@ -1,1 +1,1 @@
-p=lambda g,E=enumerate:[[g[i+k][j-1:j+2]for k in(1,2,3)]for i,r in E(g)for j,x in E(r)if x==5][0]
+p=lambda g,E=enumerate:[[r[j-1:j+2]for r in g[i+1:i+4]]for i,r in E(g)for j,x in E(r)if x==5][0]
