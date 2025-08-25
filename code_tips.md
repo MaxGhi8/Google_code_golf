@@ -45,3 +45,4 @@
 38. Sometime the `if` condition can be simplified with `and` and `or` to avoid extra indentation, see [task286.py](task286.py)
 39. `b"01234"[i] == ord("01234"[i])`, so `b"0564312798"[x]-48` is equal to `[0,5,6,4,3,1,2,7,9,8][x]`.
 40. `g[0]` returns a the first value, `g[:1]` returns a list with inside the first value. This can be useful if we need to concatenate it with another list.
+41. To get the non zero element we can use `max(map(max,g))`, see [task028.py](task028.py).
