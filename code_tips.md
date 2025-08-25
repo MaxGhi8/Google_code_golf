@@ -48,4 +48,5 @@
 41. To get the non zero element we can use `max(map(max,g))`, see [task028.py](task028.py).
 42. To see how to color the matrix with angular effect see [task123.py](task123.py) as reference. The idea is to color the rows and then make the diagonal simmetry.
 43. In task [task353.py](task353.py) we can see how to transform a method `.index` to a callable function `E=sum(j,[]).index` for example.
-44. `[a+b for a,b in zip(g[0],g[1])]` a sum with a for loop could be replaced by a map(sum,...) `[*map(sum,zip(g[0],g[1]))]`
+44. `[a+b for a,b in zip(g[0],g[1])]` a sum with a for loop could be replaced by a map(sum,...) `[*map(sum,zip(g[0],g[1]))]`. See [task082.py](task082.py).
+45. `def p(g):n=len(g)//2;return ...` the assignment of a variable can be done in one line by attaching it to the return value through an "and". See [task109.py](task109.py).

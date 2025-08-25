@@ -150,7 +150,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task106.py](task106.py) | ⏳ Pending | - | - | |
 | [task107.py](task107.py) | ⏳ Pending | - | - | |
 | [task108.py](task108.py) | ⏳ Pending | - | - | |
-| [task109.py](task109.py) | ✅ Completed | 105 | Max | |
+| [task109.py](task109.py) | ✅ Completed | 100 | Max | |
 | [task110.py](task110.py) | ⏳ Pending | - | - | |
 | [task111.py](task111.py) | ✅ Completed | 98 | Ale, Max | Same code of 022, but with less operations |
 | [task112.py](task112.py) | ⏳ Pending | - | - | |
