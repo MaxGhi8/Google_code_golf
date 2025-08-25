@@ -47,3 +47,4 @@
 40. `g[0]` returns a the first value, `g[:1]` returns a list with inside the first value. This can be useful if we need to concatenate it with another list.
 41. To get the non zero element we can use `max(map(max,g))`, see [task028.py](task028.py).
 42. To see how to color the matrix with angular effect see [task123.py](task123.py) as reference. The idea is to color the rows and then make the diagonal simmetry.
+43. In task [task353.py](task353.py) we can see how to transform a method `.index` to a callable function `E=sum(j,[]).index` for example.
