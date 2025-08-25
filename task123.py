@@ -1,1 +1,1 @@
-def p(g,R=range(10)):g=[r[:1]*10for r in g*3if r[0]];return[[g[r][c]*(c<r)or g[c][r]for c in R]for r in R]
+p=lambda g,R=range(10):[[(m:=[r[:1]*10for r in g*3if r[0]])[r][c]*(c<r)or m[c][r]for c in R]for r in R]

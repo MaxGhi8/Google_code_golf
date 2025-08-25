@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 218/401 tasks completed -->
+<!-- Progress: 217/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -164,7 +164,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task120.py](task120.py) | ⏳ Pending | - | - | |
 | [task121.py](task121.py) | ✅ Completed | 126 | Max | |
 | [task122.py](task122.py) | ⏳ Pending | - | - | |
-| [task123.py](task123.py) | ✅👀 Completed | 106 | Max, Ale | To be transformed in lambda function |
+| [task123.py](task123.py) | ✅ Completed | 103 | Max, Ale |  |
 | [task124.py](task124.py) | ⏳ Pending | - | - | |
 | [task125.py](task125.py) | ⏳ Pending | - | - | |
 | [task126.py](task126.py) | ✅ Completed | 133 | Max | |
@@ -313,7 +313,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task269.py](task269.py) | ✅ Completed | 90 | Max, Ale | Same as task 289, but with individual colours in g |
 | [task270.py](task270.py) | ⏳ Pending | - | - | |
 | [task271.py](task271.py) | ✅📚 Completed | 123 | Max | |
-| [task272.py](task272.py) | ✅ Completed | 156 | Max | |
+| [task272.py](task272.py) | ⏳ Pending | - | - | |
 | [task273.py](task273.py) | ✅ Completed | 184 | Max, Ale | |
 | [task274.py](task274.py) | ✅ Completed | 94 | Max | |
 | [task275.py](task275.py) | ✅ Completed | 204 | Max | |
