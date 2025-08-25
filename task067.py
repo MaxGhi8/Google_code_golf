@@ -1,1 +1,1 @@
-p=lambda j:[R[:len(j[0])//3]for R in j]
+p=lambda j:[r[:len(r)//3]for r in j]
