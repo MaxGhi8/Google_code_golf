@@ -1,1 +1,1 @@
-p=lambda g:[[3*(g[i][j]^g[i+7][j])/2for j in range(5)]for i in range(6)]
+p=lambda g:[[1.5*(a^b)for a,b in t]for t in map(zip,g,g[7:])]

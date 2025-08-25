@@ -113,7 +113,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task069.py](task069.py) | ⏳ Pending | - | - | |
 | [task070.py](task070.py) | ✅ Completed | 181 | Max | |
 | [task071.py](task071.py) | ⏳ Pending | - | - | |
-| [task072.py](task072.py) | ✅ Completed | 73 | Max | |
+| [task072.py](task072.py) | ✅ Completed | 62 | Max | |
 | [task073.py](task073.py) | ✅ Completed | 61 | Max | |
 | [task074.py](task074.py) | ⏳ Pending | - | - | |
 | [task075.py](task075.py) | ✅ Completed | 125 | Max | |
