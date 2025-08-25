@@ -1,1 +1,1 @@
-p=lambda g:[A:=g[0],[a+b for a,b in zip(A[1:]+[0],[0]+A[:-1])]]*3
+p=lambda g:[g:=g[0],[*map(sum,zip(g[1:]+[0],[0]+g[:-1]))]]*3
