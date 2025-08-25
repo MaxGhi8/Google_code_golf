@@ -1,1 +1,1 @@
-def p(g,E=enumerate):A,*_,B=[(i,j)for i,r in E(g)for j,v in E(r)if v==5];return[r[A[1]:B[1]+1]for r in g[A[0]-1:B[0]+2]]
+def p(g):s=sum(g,[]);m=len(g[0]);a=s.index(5);b=len(s)+~s[::-1].index(5);return[r[a%m:b%m+1]for r in g[a//m-1:b//m+2]]
