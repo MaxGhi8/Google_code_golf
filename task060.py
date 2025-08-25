@@ -1,1 +1,1 @@
-p=lambda m:[[r[0]]*5+[5*(r[0]>0)]+[r[-1]]*5for r in m]
+p=lambda m:[r[:1]*5+[(r[0]>0)*5]+r[-1:]*5for r in m]
