@@ -109,7 +109,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task065.py](task065.py) | ✅ Completed | 151 | Max | |
 | [task066.py](task066.py) | ⏳ Pending | - | - | |
 | [task067.py](task067.py) | ✅ Completed | 37 | Max | |
-| [task068.py](task068.py) | 📚✅ Completed | 212 | Max | List comprehension with set item |
+| [task068.py](task068.py) | 📚✅ Completed | 199 | Max | List comprehension with set item |
 | [task069.py](task069.py) | ⏳ Pending | - | - | |
 | [task070.py](task070.py) | ✅ Completed | 181 | Max | |
 | [task071.py](task071.py) | ⏳ Pending | - | - | |

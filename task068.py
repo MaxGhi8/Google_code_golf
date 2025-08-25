@@ -1,1 +1,1 @@
-def p(g,E=enumerate):k=min(set(s:=sum(g,[])),key=s.count);n=len(g);R=[[0]*n for _ in[0]*n];[[R[i+a].__setitem__(j+b,[2,k][a==b==0])for a in(-1,0,1)for b in(-1,0,1)]for i,r in E(g)for j,v in E(r)if v==k];return R
+def p(g,E=enumerate):k=min(s:=sum(g,[]),key=s.count);R=[[0]*len(g)for _ in g];[[R[i+a].__setitem__(j+b,[2,k][a==b==0])for a in(-1,0,1)for b in(-1,0,1)]for i,r in E(g)for j,v in E(r)if v==k];return R
