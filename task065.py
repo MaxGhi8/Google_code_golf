@@ -1,1 +1,1 @@
-def p(g):n=len(g)//2;R=range(n);return[m for m in[[[g[i+a][j+b]for b in R]for a in R]for i in(0,n+1)for j in(0,n+1)]if min(set(s:=sum(g,[])),key=s.count)in sum(m,[])][0]
+def p(g):n=len(g)//2;return[m for m in[[r[j:j+n]for r in g[i:i+n]]for i in(0,n+1)for j in(0,n+1)]if min(set(s:=sum(g,[])),key=s.count)in sum(m,[])][0]
