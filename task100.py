@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[max({*sum(g,[])}-{0},key=lambda k:(c:=[(i,j)for i,r in E(g)for j,v in E(r)if v==k])and(c[-1][0]-c[0][0]+1)*(c[-1][1]-c[0][1]+1))]*2]*2
