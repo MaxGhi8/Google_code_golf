@@ -50,3 +50,4 @@
 43. In task [task353.py](task353.py) we can see how to transform a method `.index` to a callable function `E=sum(j,[]).index` for example.
 44. `[a+b for a,b in zip(g[0],g[1])]` a sum with a for loop could be replaced by a map(sum,...) `[*map(sum,zip(g[0],g[1]))]`. See [task082.py](task082.py).
 45. `def p(g):n=len(g)//2;return ...` the assignment of a variable can be done in one line by attaching it to the return value through an "and". See [task109.py](task109.py).
+46. To extract the 3 consecutive rows instead of doing `g[r:r+3]` we can use `g[r][:3]` directly. In this case there is no improvement but for more complicate expression (i.e. `r` is more complicated) this can be useful, see [task130.py](task130.py).
