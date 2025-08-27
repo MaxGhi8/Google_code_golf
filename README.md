@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 220/401 tasks completed -->
+<!-- Progress: 221/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -126,7 +126,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task082.py](task082.py) | ✅ Completed | 61 | Max | |
 | [task083.py](task083.py) | ✅ Completed | 41 | Max | |
 | [task084.py](task084.py) | ✅ Completed | 87 | Max | Anti-diagonal coloring |
-| [task085.py](task085.py) | ✅ Completed | 133 | Max | |
+| [task085.py](task085.py) | ✅ Completed | 127 | Max | Similar to 098 |
 | [task086.py](task086.py) | ⏳ Pending | - | - | |
 | [task087.py](task087.py) | ✅ Completed | 37 | Max | |
 | [task088.py](task088.py) | ✅ Completed | 136 | Max | |
@@ -139,7 +139,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task095.py](task095.py) | ✅ Completed | 115 | Ale, Max | |
 | [task096.py](task096.py) | ⏳ Pending | - | - | |
 | [task097.py](task097.py) | ✅ Completed | 142 | Ale, Max | |
-| [task098.py](task098.py) | ⏳ Pending | - | - | |
+| [task098.py](task098.py) | ✅ Completed | 117 | Max | Similar to 085 |
 | [task099.py](task099.py) | ⏳ Pending | - | - | |
 | [task100.py](task100.py) | ⏳ Pending | - | - | |
 | [task101.py](task101.py) | ⏳ Pending | - | - | |
