@@ -154,7 +154,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task110.py](task110.py) | ⏳ Pending | - | - | |
 | [task111.py](task111.py) | ✅ Completed | 97 | Ale, Max | Same code of 022, but with less operations |
 | [task112.py](task112.py) | ⏳ Pending | - | - | |
-| [task113.py](task113.py) | ✅ Completed | 29 | Max | |
+| [task113.py](task113.py) | ✅ Completed | 26 | Max | |
 | [task114.py](task114.py) | ⏳ Pending | - | - | |
 | [task115.py](task115.py) | ✅📚 Completed | 83 | Max | Iterate over element, dict.fromkeys |
 | [task116.py](task116.py) | ✅ Completed | 21 | Max | |
