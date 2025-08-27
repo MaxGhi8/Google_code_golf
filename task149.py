@@ -1,1 +1,1 @@
-p=lambda g:[[(sum(sum(r[j*4:j*4+3])for r in g[i*4:i*4+3])>6)for j in(0,1,2)]for i in(0,1,2)]
+p=lambda g:[[sum(sum(r[j:j+3])for r in g[i:i+3])>6 for j in(0,4,8)]for i in(0,4,8)]
