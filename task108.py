@@ -1,0 +1,1 @@
+p=lambda g:sum([[sum([[x]*4for x in r],[])]*4for r in[r[1::2]for r in g[1::2]]],[])
