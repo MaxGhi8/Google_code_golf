@@ -1,0 +1,1 @@
+def p(g,v=lambda g:[r[::len(r)//2-1] for r in zip(*list(filter(any,g)))]):a,b=len(g),len(g[0]);h,k=set(S:=sum(g,[]))-{0};s=S[next(filter(lambda i:(S[i::b][:2]!=[S[i]]*2)*S[i],range(a*b)))];return v(v([[((c-s)*c!=0)*(c^k^h)for c in r]for r in g]))
