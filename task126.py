@@ -1,5 +1,1 @@
-def p(g,E=enumerate):
- for i,r in E(g):
-  for j,_ in E(r[:-1]):
-   if(A:=r[j-1])*(B:=r[j+1])and A==B==g[i-1][j]:g[-1][j]=4
- return g
+p=lambda g,E=enumerate:[g[-1].__setitem__(j,4)for i,r in E(g)for j,_ in E(r[:-1])if r[j-1]==r[j+1]==g[i-1][j]>0]and g
