@@ -202,7 +202,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task158.py](task158.py) | ⏳ Pending | - | - | |
 | [task159.py](task159.py) | ⏳ Pending | - | - | |
 | [task160.py](task160.py) | ⏳ Pending | - | - | |
-| [task161.py](task161.py) | ✅ Completed | 126 | Max | |
+| [task161.py](task161.py) | ✅ Completed | 108 | Max | |
 | [task162.py](task162.py) | ⏳ Pending | - | - | |
 | [task163.py](task163.py) | ⏳ Pending | - | - | |
 | [task164.py](task164.py) | ✅ Completed | 33 | Ghi, Max | |
