@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 218/401 tasks completed -->
+<!-- Progress: 219/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -53,7 +53,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task009.py](task009.py) | ✅ Completed | 152 | Max | |
 | [task010.py](task010.py) | ✅ Completed | 94 | Max | List comprehension go BRR |
 | [task011.py](task011.py) | ✅ Completed | 198 | Max, Ale | |
-| [task012.py](task012.py) | ⏳ Pending | - | - | |
+| [task012.py](task012.py) | ✅ Completed | 207 | Max | |
 | [task013.py](task013.py) | ✅ Completed | 249 | Max | |
 | [task014.py](task014.py) | ✅📚 Completed | 186 | Max | interesting |
 | [task015.py](task015.py) | ✅ Completed | 149 | Max | |
