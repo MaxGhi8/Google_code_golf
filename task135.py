@@ -1,1 +1,1 @@
-p=lambda j:[j[i][6:]for i in range(3)]
+p=lambda j:[x[6:]for x in j[:3]]
