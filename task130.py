@@ -1,1 +1,1 @@
-p=lambda g:[[max(L:=sum([r[3*j:3*-~j]for r in g[3*i:3*-~i]],[]),key=L.count)for j in range(3)]for i in range(3)]
+p=lambda g:[[max(L:=sum((r[j:][:3]for r in g[i:][:3]),[]),key=L.count)for j in(0,3,6)]for i in(0,3,6)]

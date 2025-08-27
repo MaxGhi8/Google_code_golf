@@ -171,7 +171,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task127.py](task127.py) | ⏳ Pending | - | - | |
 | [task128.py](task128.py) | ⏳ Pending | - | - | |
 | [task129.py](task129.py) | ✅📚 Completed | 49 | Max | How to find the maximum of a matrix |
-| [task130.py](task130.py) | ✅ Completed | 113 | Max | |
+| [task130.py](task130.py) | ✅ Completed | 103 | Max | |
 | [task131.py](task131.py) | ⏳ Pending | - | - | |
 | [task132.py](task132.py) | ⏳ Pending | - | - | |
 | [task133.py](task133.py) | ⏳ Pending | - | - | |
