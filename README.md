@@ -182,7 +182,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task138.py](task138.py) | ⏳ Pending | - | - | |
 | [task139.py](task139.py) | ⏳ Pending | - | - | |
 | [task140.py](task140.py) | ✅ Completed | 37 | Ghi, Max | |
-| [task141.py](task141.py) | ✅ Completed | 153 | Max | |
+| [task141.py](task141.py) | ✅ Completed | 147 | Max | |
 | [task142.py](task142.py) | ✅ Completed | 41 | Ghi, Max | |
 | [task143.py](task143.py) | ⏳ Pending | - | - | |
 | [task144.py](task144.py) | ✅ Completed | 64 | Ghi, Max | `[[... for a,b in zip(*z)]for z in zip(g,g[5:])]` >>> `[[... for a,b in zip(x,y)]for x,y in zip(g,g[5:])]` |
