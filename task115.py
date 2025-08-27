@@ -1,1 +1,1 @@
-def p(g):A=[*dict.fromkeys(sum(g,[]))];return[[A],[[x]for x in A]][A[0]==g[0][-1]]
+def p(g):A=[*dict.fromkeys(sum(g,[]))];return[[A],[*zip(A)]][A[0]==g[0][-1]]
