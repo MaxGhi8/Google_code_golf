@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 225/401 tasks completed -->
+<!-- Progress: 226/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -175,7 +175,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task131.py](task131.py) | ⏳ Pending | - | - | |
 | [task132.py](task132.py) | ⏳ Pending | - | - | |
 | [task133.py](task133.py) | ⏳ Pending | - | - | |
-| [task134.py](task134.py) | ⏳ Pending | - | - | |
+| [task134.py](task134.py) | ✅👀 Completed | 248 | Ale, Max | Can be improved |
 | [task135.py](task135.py) | ✅ Completed | 33 | Max, Waolo | |
 | [task136.py](task136.py) | ⏳ Pending | - | - | |
 | [task137.py](task137.py) | ⏳ Pending | - | - | |
@@ -259,7 +259,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task215.py](task215.py) | ✅📚 Completed | 83 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` |
 | [task216.py](task216.py) | ✅ Completed | 165 | Max | Same as 365 (computational really inefficient) |
 | [task217.py](task217.py) | ✅ Completed | 121 | Ale, Max | Combination of 1 and 31 |
-| [task218.py](task218.py) | ✅📚 Completed | 105 | Ale | f(g) on g and g transposed |
+| [task218.py](task218.py) | ✅📚 Completed | 95 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ✅ Completed | 165 | Max | Similar to 352 and 95 |
 | [task221.py](task221.py) | ✅ Completed | 107 | Ale, Max | Inspired by 1 and 217 |
