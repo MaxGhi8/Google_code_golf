@@ -1,1 +1,1 @@
-def p(g,E=enumerate):k,a,b=next((v,i,j)for i,r in E(g)for j,v in E(r)if v);return[[k*(i-a==j-b or i-a==b-j)or r[j]for j,v in E(r)]for i,r in E(g)]
+def p(g,E=enumerate):k,a,b=[(v,i,j)for i,r in E(g)for j,v in E(r)if v][0];return[[k*(i-a==j-b or i-a==b-j)or r[j]for j,v in E(r)]for i,r in E(g)]
