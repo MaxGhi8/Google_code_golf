@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 226/401 tasks completed -->
+<!-- Progress: 227/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -155,7 +155,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task111.py](task111.py) | ✅ Completed | 97 | Ale, Max | Same code of 022, but with less operations |
 | [task112.py](task112.py) | ⏳ Pending | - | - | |
 | [task113.py](task113.py) | ✅ Completed | 26 | Max | |
-| [task114.py](task114.py) | ⏳ Pending | - | - | |
+| [task114.py](task114.py) | ✅ Completed | 97 | Max | |
 | [task115.py](task115.py) | ✅📚 Completed | 77 | Max | Iterate over element, dict.fromkeys |
 | [task116.py](task116.py) | ✅ Completed | 21 | Max | |
 | [task117.py](task117.py) | ⏳ Pending | - | - | |
