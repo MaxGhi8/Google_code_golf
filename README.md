@@ -175,7 +175,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task131.py](task131.py) | ⏳ Pending | - | - | |
 | [task132.py](task132.py) | ⏳ Pending | - | - | |
 | [task133.py](task133.py) | ⏳ Pending | - | - | |
-| [task134.py](task134.py) | ✅👀 Completed | 248 | Ale, Max | Can be improved |
+| [task134.py](task134.py) | ✅👀 Completed | 206 | Ale, Max | Can be improved |
 | [task135.py](task135.py) | ✅ Completed | 33 | Max, Waolo | |
 | [task136.py](task136.py) | ⏳ Pending | - | - | |
 | [task137.py](task137.py) | ⏳ Pending | - | - | |
