@@ -418,7 +418,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task374.py](task374.py) | ⏳ Pending | - | - | |
 | [task375.py](task375.py) | ✅ Completed | 63 | Max | |
 | [task376.py](task376.py) | ✅ Completed | 33 | Ghi, Max | |
-| [task377.py](task377.py) | ✅ Completed | 104 | Ale | Similar to 218 |
+| [task377.py](task377.py) | ✅ Completed | 92 | Ale | Similar to 218 |
 | [task378.py](task378.py) | ⏳ Pending | - | - | |
 | [task379.py](task379.py) | ⏳ Pending | - | - | |
 | [task380.py](task380.py) | ✅ Completed | 38 | Max | |
