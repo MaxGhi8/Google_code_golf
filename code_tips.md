@@ -53,3 +53,4 @@
 46. To extract the 3 consecutive rows instead of doing `g[r:r+3]` we can use `g[r][:3]` directly. In this case there is no improvement but for more complicate expression (i.e. `r` is more complicated) this can be useful, see [task130.py](task130.py).
 47. `x in(a,b)` can substitute `x==a or x==b`, see [task161.py](task161.py).
 48. [task061.py](task061.py) shows a way to fill holes in a patterned matrix with a grid. In [task287.py](task287.py) there is a method to fill holes in a circular pattern matrix.
+49. Use `filter(any, g)` to drop empty rows instead of `[r for r in g if any(r)]` (apply it to zip(g) for dropping columns). see [task177.py](task177.py).

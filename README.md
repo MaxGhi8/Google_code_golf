@@ -218,7 +218,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task174.py](task174.py) | ⏳ Pending | - | - | |
 | [task175.py](task175.py) | ✅ Completed | 180 | Ale | Inspired by 123 |
 | [task176.py](task176.py) | ⏳ Pending | - | - | |
-| [task177.py](task177.py) | ✅ Completed | 79 | Max | |
+| [task177.py](task177.py) | ✅ Completed | 64 | Max | |
 | [task178.py](task178.py) | ⏳ Pending | - | - | |
 | [task179.py](task179.py) | ✅ Completed | 32 | Max | |
 | [task180.py](task180.py) | ✅ Completed | 93 | Max | |

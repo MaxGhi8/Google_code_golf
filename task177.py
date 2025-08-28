@@ -1,1 +1,1 @@
-p=lambda g:[[*r][::-1]for r in zip(*[[*r]for r in zip(*g)if any(r)])if any(r)]
+p=lambda g:[r[::-1]for r in zip(*filter(any,zip(*g)))if any(r)]
