@@ -1,1 +1,1 @@
-p=lambda j,A=range(4):[[j[x][y+4]or j[x+4][y]or j[x+4][y+4]or j[x][y]for y in A]for x in A]
+p=lambda j:[[c or b or d or a for a,b,c,d in zip(a,b,a[4:],b[4:])]for a,b in zip(j,j[4:])]
