@@ -158,7 +158,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task114.py](task114.py) | ✅ Completed | 97 | Max | |
 | [task115.py](task115.py) | ✅📚 Completed | 77 | Max | Iterate over element, dict.fromkeys |
 | [task116.py](task116.py) | ✅ Completed | 21 | Max | |
-| [task117.py](task117.py) | ✅ Completed | 269 | Max | |
+| [task117.py](task117.py) | ✅ Completed | 261 | Max | |
 | [task118.py](task118.py) | ⏳ Pending | - | - | |
 | [task119.py](task119.py) | ⏳ Pending | - | - | |
 | [task120.py](task120.py) | ✅ Completed | 144 | Max | Similar to 098 and 075 |
@@ -379,7 +379,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task335.py](task335.py) | ⏳ Pending | - | - | |
 | [task336.py](task336.py) | ⏳ Pending | - | - | |
 | [task337.py](task337.py) | ✅ Completed | 52 | Ghi, Max | `{x:x,...}[x] >>> {...}.get(x,x)` |
-| [task338.py](task338.py) | ⏳ Pending | - | - | |
+| [task338.py](task338.py) | ✅👀 Completed | 193 | Ale | First part from 002. Can be improved |
 | [task339.py](task339.py) | ✅ Completed | 39 | Ghi, Max | `[*filter(None,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 | [task340.py](task340.py) | ⏳ Pending | - | - | |
 | [task341.py](task341.py) | ⏳ Pending | - | - | |
