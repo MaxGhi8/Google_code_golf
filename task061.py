@@ -1,1 +1,1 @@
-def p(g,R=range):u=[{*r}-{0}=={1}for r in g[1:]].index(1)+1;return[[max(g[x][y]for y in R(j%u,len(g),u)for x in R(i%u,len(g),u))for j in R(18)]for i in R(18)]
+def p(g,R=range):u=[{*r}<={0,1}for r in g[1:]].index(1)+1;return[[max(g[x][y]for y in R(j%u,18,u)for x in R(i%u,18,u))for j in R(18)]for i in R(18)]
