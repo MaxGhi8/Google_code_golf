@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 232/401 tasks completed -->
+<!-- Progress: 233/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -328,7 +328,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task284.py](task284.py) | ⏳ Pending | - | - | |
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
 | [task286.py](task286.py) | ✅📚 Completed | 260 | Max, Gio | |
-| [task287.py](task287.py) | ⏳ Pending | - | - | |
+| [task287.py](task287.py) | ✅📚 Completed | 129 | Ale | Holes filling in circular pattern. Variant of 061 |
 | [task288.py](task288.py) | ⏳ Pending | - | - | |
 | [task289.py](task289.py) | ✅ Completed | 90 | Max | Same as task 269|
 | [task290.py](task290.py) | ✅ Completed | 87 | Max | |
