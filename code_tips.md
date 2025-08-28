@@ -52,3 +52,4 @@
 45. `def p(g):n=len(g)//2;return ...` the assignment of a variable can be done in one line by attaching it to the return value through an "and". See [task109.py](task109.py).
 46. To extract the 3 consecutive rows instead of doing `g[r:r+3]` we can use `g[r][:3]` directly. In this case there is no improvement but for more complicate expression (i.e. `r` is more complicated) this can be useful, see [task130.py](task130.py).
 47. `x in(a,b)` can substitute `x==a or x==b`, see [task161.py](task161.py).
+48. [task061.py](task061.py) shows a way to fill holes in a patterned matrix with a grid.
