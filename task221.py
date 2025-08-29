@@ -1,1 +1,1 @@
-def p(g):z=sum(g,[]).count(0);return[[(j//3*z+i//3<9-z)*g[j%3][i%3]for i in range(z*3)]for j in range(z*3)]
+def p(g):z=sum(g,[]).count(0);r=range(z*3);return[[g[j%3][i%3]*(j//3*z+i//3<9-z)for i in r]for j in r]
