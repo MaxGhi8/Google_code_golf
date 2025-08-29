@@ -1,1 +1,1 @@
-p=lambda g,f=lambda g:[[*r]for i,r in enumerate(zip(*g))if(r!=[*zip(*g)][i-1])*any(r)]:f(f(g))
+p=lambda g,f=lambda g,l=():[[*r]for r in zip(*g)if any(r)*(r!=l)and(l:=r)]:f(f(g))

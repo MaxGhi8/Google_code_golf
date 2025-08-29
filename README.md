@@ -260,7 +260,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 <!-- | [task215.py](task215.py) | ✅📚 Completed | 83 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` | -->
 | [task216.py](task216.py) | ✅ Completed | 159 | Max | Same as 365 (computational really inefficient) |
 | [task217.py](task217.py) | ✅ Completed | 120 | Ale, Max | Combination of 1 and 31 |
-| [task218.py](task218.py) | ✅📚 Completed | 95 | Ale | f(g) on g and g transposed |
+| [task218.py](task218.py) | ✅📚 Completed | 83 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ✅ Completed | 165 | Max | Similar to 352 and 95 |
 | [task221.py](task221.py) | ✅ Completed | 107 | Ale, Max | Inspired by 1 and 217 |
