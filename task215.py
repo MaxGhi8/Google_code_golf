@@ -1,1 +1,1 @@
-p=lambda g,E=enumerate:[[r for j,r in E(g)if sum(r)*(j%3==i%3)][0]for i,_ in E(g)]
+p=lambda g:[next(r for r in g[i%3::3]if any(r))for i in range(len(g))]
