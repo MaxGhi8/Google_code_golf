@@ -1,1 +1,1 @@
-def p(g):R=1+sum(len({*r})<2for r in g);C=1+sum(len({*c})<2for c in zip(*g));return[[g[0][0]]*C]*R
+def p(g):R=1+sum(len({*r})<2for r in g);C=1+sum(len({*c})<2for c in zip(*g));return[g[0][:1]*C]*R
