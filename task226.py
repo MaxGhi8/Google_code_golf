@@ -1,1 +1,1 @@
-p=lambda g,E=enumerate:[[c or(z:=((x:=r[:j].count(5))//(h:=sum(g[0])//10)+1)*(x in range(0,h*2+1,h)))*(z==(((y:=[r[j]for r in g[:i]].count(5))//(v:=sum([*zip(*g)][0])//10)+1)*(y in range(0,v*2+1,v))))for j,c in E(r)]for i,r in E(g)]
+p=lambda g,e=enumerate:[[c or((x:=r[:j].count(5))%(h:=sum(g[0])//10)<1)*((y:=(t:=[*zip(*g)])[j][:i].count(5))%(v:=sum(t[0])//10)<1)*(x//h==y//v<3)*(x//h+1)for j,c in e(r)]for i,r in e(g)]
