@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 239/401 tasks completed -->
+<!-- Progress: 240/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -391,13 +391,13 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task347.py](task347.py) | ✅ Completed | 58 | Ghi, Max | |
 | [task348.py](task348.py) | ⏳ Pending | - | - | |
 | [task349.py](task349.py) | ⏳ Pending | - | - | |
-| [task350.py](task350.py) | ⏳ Pending | - | - | |
+| [task350.py](task350.py) | ✅ Completed | 121 | Ale, Max | Same as 356 |
 | [task351.py](task351.py) | ✅ Completed | 133 | Max | Same as task 400 |
 | [task352.py](task352.py) | ✅ Completed | 131 | Ale, Max | Similar to 95 and 206 |
 | [task353.py](task353.py) | ✅ Completed | 128 | Max | |
 | [task354.py](task354.py) | ⏳ Pending | - | - | |
 | [task355.py](task355.py) | ⏳ Pending | - | - | |
-| [task356.py](task356.py) | ✅ Completed | 121 | Ale, Max | |
+| [task356.py](task356.py) | ✅ Completed | 121 | Ale, Max | Same as 350 |
 | [task357.py](task357.py) | ✅ Completed | 108 | Max | Same as task 248 |
 | [task358.py](task358.py) | ⏳ Pending | - | - | |
 | [task359.py](task359.py) | ⏳ Pending | - | - | |
