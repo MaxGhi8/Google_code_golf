@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 233/401 tasks completed -->
+<!-- Progress: 235/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -203,7 +203,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task159.py](task159.py) | ⏳ Pending | - | - | |
 | [task160.py](task160.py) | ⏳ Pending | - | - | |
 | [task161.py](task161.py) | ✅ Completed | 107 | Max | |
-| [task162.py](task162.py) | ⏳ Pending | - | - | |
+| [task162.py](task162.py) | ✅ Completed | 144 | Max | |
 | [task163.py](task163.py) | ⏳ Pending | - | - | |
 | [task164.py](task164.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task165.py](task165.py) | ⏳ Pending | - | - | |
