@@ -248,7 +248,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task204.py](task204.py) | ⏳ Pending | - | - | |
 | [task205.py](task205.py) | ⏳ Pending | - | - | |
 | [task206.py](task206.py) | ✅ Completed | 152 | Ale, Max | |
-| [task207.py](task207.py) | ✅ Completed | 122 | Ale, Max | |
+| [task207.py](task207.py) | ✅ Completed | 105 | Ale, Max | |
 | [task208.py](task208.py) | ⏳ Pending | - | - | |
 | [task209.py](task209.py) | ⏳ Pending | - | - | |
 | [task210.py](task210.py) | ✅ Completed | 21 | Max | |

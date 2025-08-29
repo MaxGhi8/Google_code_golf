@@ -1,1 +1,1 @@
-def p(g):t=[[[g[i+a][j+b]for b in(0,1)]for a in(0,1)]for i in(0,3)for j in(0,3)];return[m for m in t if t.count(m)==1][0]
+p=lambda g:min(t:=[[[g[i][j:j+2],g[i+1][j:j+2]][k]for k in(0,1)]for i in(0,3)for j in(0,3)],key=t.count)
