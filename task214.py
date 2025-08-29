@@ -1,1 +1,1 @@
-def p(g):r=lambda m:[*zip(*m[::-1])];g=r(g);g[4:7]=r(g[:3]);g[8:]=r(g[4:7]);return r(r(r(g)))
+def p(g):r=lambda m:[*zip(*m[::-1])];g=r(g);x=g[4:7]=r(g[:3]);g[8:]=r(x);return r(r(r(g)))
