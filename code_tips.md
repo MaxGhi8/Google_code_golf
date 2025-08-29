@@ -55,3 +55,4 @@
 48. [task061.py](task061.py) shows a way to fill holes in a patterned matrix with a grid. In [task287.py](task287.py) there is a method to fill holes in a circular pattern matrix.
 49. Use `filter(any, g)` to drop empty rows instead of `[r for r in g if any(r)]` (apply it to zip(g) for dropping columns). see [task177.py](task177.py).
 50. Also zips can be unpacked. for example, `[*map(list,zip(*g))]` is equal to `[*zip(*g)]`, BUT the result is a list of tuple and not a list of list. See [task179.py](task179.py).
+51. `n-i-1` is equal to `n+~i`. See [task203.py](task203.py).
