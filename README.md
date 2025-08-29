@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 233/401 tasks completed -->
+<!-- Progress: 237/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -180,7 +180,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task136.py](task136.py) | ⏳ Pending | - | - | |
 | [task137.py](task137.py) | ⏳ Pending | - | - | |
 | [task138.py](task138.py) | ⏳ Pending | - | - | |
-| [task139.py](task139.py) | ⏳ Pending | - | - | |
+| [task139.py](task139.py) | ✅ Completed | 149 | Max | |
 | [task140.py](task140.py) | ✅ Completed | 37 | Ghi, Max | |
 | [task141.py](task141.py) | ✅ Completed | 146 | Max | |
 | [task142.py](task142.py) | ✅ Completed | 41 | Ghi, Max | |
@@ -202,9 +202,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task158.py](task158.py) | ⏳ Pending | - | - | |
 | [task159.py](task159.py) | ⏳ Pending | - | - | |
 | [task160.py](task160.py) | ⏳ Pending | - | - | |
-| [task161.py](task161.py) | ✅ Completed | 108 | Max | |
-| [task162.py](task162.py) | ⏳ Pending | - | - | |
-| [task163.py](task163.py) | ⏳ Pending | - | - | |
+| [task161.py](task161.py) | ✅ Completed | 107 | Max | |
+| [task162.py](task162.py) | ✅ Completed | 144 | Max | |
+| [task163.py](task163.py) | ✅ Completed | 164 | Max | |
 | [task164.py](task164.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task165.py](task165.py) | ⏳ Pending | - | - | |
 | [task166.py](task166.py) | ✅ Completed | 159 | Max | |
@@ -304,13 +304,13 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task260.py](task260.py) | 👀✅ Completed | 202 | Max, Gio | Hoping that someone beats me |
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
-| [task263.py](task263.py) | ⏳ Pending | - | - | |
+| [task263.py](task263.py) | ✅ Completed | 190 | Ale, Max | |
 | [task264.py](task264.py) | ⏳ Pending | - | - | |
 | [task265.py](task265.py) | ⏳ Pending | - | - | |
 | [task266.py](task266.py) | ⏳ Pending | - | - | |
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
-| [task269.py](task269.py) | ✅ Completed | 90 | Max, Ale | Same as task 289, but with individual colours in g |
+| [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task 289, but with individual colours in g |
 | [task270.py](task270.py) | ⏳ Pending | - | - | |
 | [task271.py](task271.py) | ✅📚 Completed | 123 | Max | |
 | [task272.py](task272.py) | ⏳ Pending | - | - | |
@@ -330,7 +330,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task286.py](task286.py) | ✅📚 Completed | 260 | Max, Gio | |
 | [task287.py](task287.py) | ✅📚 Completed | 129 | Ale | Holes filling in circular pattern. Variant of 061 |
 | [task288.py](task288.py) | ⏳ Pending | - | - | |
-| [task289.py](task289.py) | ✅ Completed | 90 | Max | Same as task 269|
+| [task289.py](task289.py) | ✅ Completed | 84 | Max, Ale | Same as task 269|
 | [task290.py](task290.py) | ✅ Completed | 87 | Max | |
 | [task291.py](task291.py) | ✅📚 Completed | 152 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |

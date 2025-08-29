@@ -1,1 +1,1 @@
-p=lambda g:[*map(list,zip(*[([1]*sum(v==1for v in c)+[2]*sum(v>1for v in c)+[0]*10)[:10]for c in zip(*g)]))]
+p=lambda g:[*zip(*[([1]*sum(v==1for v in c)+[2]*sum(v>1for v in c)+[0]*10)[:10]for c in zip(*g)])]

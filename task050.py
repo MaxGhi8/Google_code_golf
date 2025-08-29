@@ -1,1 +1,1 @@
-def p(g,k=0):g=[[(8in{*r[:i]}&{*r[i+1:]})*3+v for i,v in enumerate(r)]for r in[*map(list,zip(*g))]];return g if k else p(g,1)
+def p(g,k=0):g=[[(8in{*r[:i]}&{*r[i+1:]})*3+v for i,v in enumerate(r)]for r in[*zip(*g)]];return g if k else p(g,1)
