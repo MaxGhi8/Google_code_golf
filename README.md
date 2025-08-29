@@ -304,7 +304,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task260.py](task260.py) | 👀✅ Completed | 202 | Max, Gio | Hoping that someone beats me |
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
-| [task252.py](task252.py) | ✅ Completed | 202 | Ale | |
+| [task263.py](task263.py) | ✅ Completed | 190 | Ale, Max | |
 | [task264.py](task264.py) | ⏳ Pending | - | - | |
 | [task265.py](task265.py) | ⏳ Pending | - | - | |
 | [task266.py](task266.py) | ⏳ Pending | - | - | |
