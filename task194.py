@@ -1,1 +1,1 @@
-def p(g,l=lambda m:[*map(list,zip(*m))][::-1]):m=g+l(g);return[r+s for r,s in zip(m,l(l(m)))]
+p=lambda g,l=lambda m:[*zip(*m)][::-1]:[(*r,)+s for r,s in zip(g+l(g),l(l(g+l(g))))]
