@@ -262,7 +262,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task217.py](task217.py) | ✅ Completed | 120 | Ale, Max | Combination of 1 and 31 |
 | [task218.py](task218.py) | ✅📚 Completed | 83 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
-| [task220.py](task220.py) | ✅ Completed | 165 | Max | Similar to 352 and 95 |
+| [task220.py](task220.py) | ✅ Completed | 162 | Max | Similar to 352 and 95 |
 | [task221.py](task221.py) | ✅ Completed | 107 | Ale, Max | Inspired by 1 and 217 |
 | [task222.py](task222.py) | ⏳ Pending | - | - | |
 | [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
