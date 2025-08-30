@@ -3,14 +3,16 @@ mode: agent
 model: GPT-5 (Preview)
 description: Shorten a solution for a Google Code Golf task.
 ---
-We’re competing in the Google Code Golf challenge.  
-There are 400 tasks: each has an input image (matrix) and an output image (matrix), and the goal is to discover the transformation pattern and implement it as a function.  
+We’re competing in the Google Code Golf challenge. 
+There are 400 tasks: each has an input image (matrix) and an output image (matrix), and the goal is to discover the transformation pattern and implement it as a function. 
 The aim is to write the shortest possible function.
 
-I’ll show you the function I’ve written for solving one of the tasks.  
-Your job is to rewrite the function with the same logic but in the fewest characters possible (minimize bytes).  
-Only the Python standard library is allowed.  
+GUIDELINES
+- Input: I’ll show you the function I’ve written for solving one of the problems. 
+- Task: Rewrite it with the same logic but in the fewest characters possible (minimize bytes). 
+- Restrictions: Only the Python standard library is allowed. 
+- Reference: [`Code Tips`](../../code_tips.md) has golfing strategies. 
+- Verification: To test correctness and byte length, run locally: 
+ `python code_checker.py ${fileBasename}` 
 
-You have access to [Code Tips](../../code_tips.md) for golfing strategies, and [Code Checker](../../code_golf_utils.py) for checking correctness (which can be executed by running `python code_golf_utils.py task_num` - just use standard python, not an environment).
-
-Let’s make `${fileBasename}` as shortest as possible.
+Your goal: make `${fileBasename}` as short as possible.

@@ -279,14 +279,14 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task234.py](task234.py) | ✅ Completed | 206 | Ale, Max | |
 | [task235.py](task235.py) | ✅ Completed | 73 | Ghi, Max | |
 | [task236.py](task236.py) | ✅ Completed | 72 | Max | |
-| [task237.py](task237.py) | ✅ Completed | 99 | Max, Waolo | |
+| [task237.py](task237.py) | ✅ Completed | 97 | Max, Waolo | |
 | [task238.py](task238.py) | ⏳ Pending | - | - | |
-| [task239.py](task239.py) | ✅ Completed | 120 | Max | |
+| [task239.py](task239.py) | ✅ Completed | 112 | Max | |
 | [task240.py](task240.py) | ⏳ Pending | - | - | |
 | [task241.py](task241.py) | ✅📚 Completed | 32 | Max, Waolo | Symmetry respect main diagonal |
-| [task242.py](task242.py) | ✅ Completed | 129 | Max | |
+| [task242.py](task242.py) | ✅ Completed | 97 | Max | |
 | [task243.py](task243.py) | ⏳ Pending | - | - | |
-| [task244.py](task244.py) | ✅ Completed | 136 | Max | |
+| [task244.py](task244.py) | ✅ Completed | 126 | Max | |
 | [task245.py](task245.py) | ⏳ Pending | - | - | |
 | [task246.py](task246.py) | ✅ Completed | 202 | Max | |
 | [task247.py](task247.py) | ✅ Completed | 168 | Max | |
