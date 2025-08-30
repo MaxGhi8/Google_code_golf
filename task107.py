@@ -1,0 +1,1 @@
+def p(g):k=len({*g[-1]})+1;m=[sum([[x]*k for x in r],[])for r in g for _ in' '*k];a,b=divmod(sum(m,[]).index(g[1][1]),n:=5*k);R=range(n);return[[m[i][j]or(0in[a-i-b+j,a-i+b-j-1+2*k])*2for j in R]for i in R]
