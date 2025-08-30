@@ -11,6 +11,6 @@ I’ll show you the function I’ve written for solving one of the tasks.
 Your job is to rewrite the function with the same logic but in the fewest characters possible (minimize bytes).  
 Only the Python standard library is allowed.  
 
-You have access to [Code Tips](../../code_tips.md) for golfing strategies, and [Code Checker](../../code_golf_utils.py) for checking correctness.  
+You have access to [Code Tips](../../code_tips.md) for golfing strategies, and [Code Checker](../../code_golf_utils.py) for checking correctness (which can be executed by running `python code_golf_utils.py task_num` - just use standard python, not an environment).
 
 Let’s make `${fileBasename}` as shortest as possible.
