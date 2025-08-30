@@ -256,7 +256,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task212.py](task212.py) | ⏳ Pending | - | - | |
 | [task213.py](task213.py) | ⏳ Pending | - | - | |
 | [task214.py](task214.py) | ✅📚 Completed | 91 | Max | I think that I have implemented a good function for rotation clockwise |
-| [task215.py](task215.py) | ✅ Completed | 71 | Max |  |
+| [task215.py](task215.py) | ✅ Completed | 70 | Max |  |
 <!-- | [task215.py](task215.py) | ✅📚 Completed | 83 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` | -->
 | [task216.py](task216.py) | ✅ Completed | 159 | Max | Same as 365 (computational really inefficient) |
 | [task217.py](task217.py) | ✅ Completed | 120 | Ale, Max | Combination of 1 and 31 |
