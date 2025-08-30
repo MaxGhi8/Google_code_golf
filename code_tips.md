@@ -57,3 +57,4 @@
 50. Also zips can be unpacked. for example, `[*map(list,zip(*g))]` is equal to `[*zip(*g)]`, BUT the result is a list of tuple and not a list of list. See [task179.py](task179.py).
 51. `n-i-1` is equal to `n+~i`. See [task203.py](task203.py).
 52. Use the max with a custom key can be also implemented using a standard max but with a tuple, where the first elements are the key elements. See [task216.py](task216.py) as reference.
+53. `X=0,1,2` can be used to substitute `X=[0,1,2]`, see [task058.py](task058.py).
