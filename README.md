@@ -180,7 +180,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task136.py](task136.py) | ⏳ Pending | - | - | |
 | [task137.py](task137.py) | ⏳ Pending | - | - | |
 | [task138.py](task138.py) | ⏳ Pending | - | - | |
-| [task139.py](task139.py) | ✅ Completed | 149 | Max | |
+| [task139.py](task139.py) | ✅ Completed | 138 | Max | |
 | [task140.py](task140.py) | ✅ Completed | 37 | Ghi, Max | |
 | [task141.py](task141.py) | ✅ Completed | 146 | Max | |
 | [task142.py](task142.py) | ✅ Completed | 41 | Ghi, Max | |
