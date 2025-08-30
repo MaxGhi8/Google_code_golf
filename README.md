@@ -271,7 +271,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task226.py](task226.py) | ✅ Completed | 184 | Ale | |
 | [task227.py](task227.py) | ✅ Completed | 62 | Ghi, Max | |
 | [task228.py](task228.py) | ⏳ Pending | - | - | |
-| [task229.py](task229.py) | ✅ Completed | 80 | Max | |
+| [task229.py](task229.py) | ✅ Completed | 75 | Max | |
 | [task230.py](task230.py) | ⏳ Pending | - | - | |
 | [task231.py](task231.py) | ✅ Completed | 56 | Max | |
 | [task232.py](task232.py) | ✅📚 Completed | 93 | Max | For alternating colors I can make a full line and then color alternating over the previous one (see old version) |

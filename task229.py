@@ -1,1 +1,1 @@
-p=lambda g:[[[5,v][v==max({*(s:=sum(g,[]))},key=s.count)]for v in r]for r in g]
+p=lambda g:[[[5,v][v==max(s:=sum(g,[]),key=s.count)]for v in r]for r in g]
