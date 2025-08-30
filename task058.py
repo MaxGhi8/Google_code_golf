@@ -1,4 +1,4 @@
 def p(g):
- i=j=r=0;X=[0,1,0,-1];Y=X[1:]+[0]
- while r<99:g[i][j]=3;x=X[r%4];y=Y[r%4];I=i+x;J=j+y;i,j,r=[(i,j,r+1),(I,J,r)][r<3<len(g)>I>=0<=J<len(g)or r>2and g[I+x][J+y]<1]
+ i=j=r=0;X=[0,1,0,-1];n=len(g)
+ while r<99:g[i][j]=3;x=X[r&3];y=X[(r+1)&3];a=i+x;b=j+y;i,j,r=[(i,j,r+1),(a,b,r)][r<3<n>a>=0<=b<n or r>2and g[a+x][b+y]<1]
  return g
