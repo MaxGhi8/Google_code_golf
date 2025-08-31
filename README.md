@@ -330,9 +330,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
 | [task286.py](task286.py) | ✅📚 Completed | 253 | Max, Gio | |
 | [task287.py](task287.py) | ✅📚 Completed | 99 | Ale | Holes filling in circular pattern. Variant of 061 |
-| [task288.py](task288.py) | ✅ Completed | 139 | Max | |
+| [task288.py](task288.py) | ✅ Completed | 137 | Max | |
 | [task289.py](task289.py) | ✅ Completed | 84 | Max, Ale | Same as task 269|
-| [task290.py](task290.py) | ✅ Completed | 87 | Max | |
+| [task290.py](task290.py) | ✅ Completed | 71 | Max | |
 | [task291.py](task291.py) | ✅📚 Completed | 152 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |
 | [task293.py](task293.py) | ✅ Completed | 127 | Max | |

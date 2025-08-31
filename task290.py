@@ -1,1 +1,1 @@
-def p(g):a,b={*sum(g,[])}-{0};return[[[a,b][v==a]for v in r if v]for r in g if any(r)]
+p=lambda g:[[sum({*sum(g,[])})-v for v in r if v]for r in g if any(r)]

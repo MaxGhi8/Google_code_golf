@@ -1,1 +1,1 @@
-def p(g):R=range(n:=len(g));return[[g[i][j]or(0in[j-i+n//2-(x:=g[-2].count(g[-1][0])==1),i-~j-3*n//2+x])*g[-1][n//2]for j in R]for i in R]
+def p(g):R=range(n:=len(g));h=n//2;return[[g[i][j]or(0in[j-i+h-(x:=g[-2].count(g[-1][0])==1),i-~j-n-h+x])*g[-1][h]for j in R]for i in R]
