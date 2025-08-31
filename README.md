@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 243/401 tasks completed -->
+<!-- Progress: 244/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -70,7 +70,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task026.py](task026.py) | ✅ Completed | 58 | Max | |
 | [task027.py](task027.py) | ⏳ Pending | - | - | |
 | [task028.py](task028.py) | ✅ Completed | 129 | Max | |
-| [task029.py](task029.py) | ✅ Completed | 206 | Max, Ale | |
+| [task029.py](task029.py) | ✅ Completed | 201 | Max, Ale | |
 | [task030.py](task030.py) | ⏳ Pending | - | - | |
 | [task031.py](task031.py) | ✅ Completed | 53 | Max, Ale | |
 | [task032.py](task032.py) | ✅ Completed | 83 | Max | |
@@ -260,7 +260,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 <!-- | [task215.py](task215.py) | ✅📚 Completed | 83 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` | -->
 | [task216.py](task216.py) | ✅ Completed | 159 | Max | Same as 365 (computational really inefficient) |
 | [task217.py](task217.py) | ✅ Completed | 120 | Ale, Max | Combination of 1 and 31 |
-| [task218.py](task218.py) | ✅📚 Completed | 83 | Ale | f(g) on g and g transposed |
+| [task218.py](task218.py) | ✅📚 Completed | 80 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | ⏳ Pending | - | - | |
 | [task220.py](task220.py) | ✅ Completed | 162 | Max | Similar to 352 and 95 |
 | [task221.py](task221.py) | ✅ Completed | 103 | Ale, Max | Inspired by 1 and 217 |
@@ -373,7 +373,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task328.py](task328.py) | ⏳ Pending | - | - | |
 | [task329.py](task329.py) | ✅ Completed | 65 | Ghi, Max | |
 | [task330.py](task330.py) | ⏳ Pending | - | - | |
-| [task331.py](task331.py) | ⏳ Pending | - | - | |
+| [task331.py](task331.py) | ✅ Completed | 173 | Max | |
 | [task332.py](task332.py) | ✅ Completed | 74 | Max | |
 | [task333.py](task333.py) | ⏳ Pending | - | - | |
 | [task334.py](task334.py) | ✅ Completed | 87 | Max | |
