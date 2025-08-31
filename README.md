@@ -70,7 +70,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task026.py](task026.py) | ✅ Completed | 58 | Max | |
 | [task027.py](task027.py) | ⏳ Pending | - | - | |
 | [task028.py](task028.py) | ✅ Completed | 129 | Max | |
-| [task029.py](task029.py) | ✅ Completed | 206 | Max, Ale | |
+| [task029.py](task029.py) | ✅ Completed | 201 | Max, Ale | |
 | [task030.py](task030.py) | ⏳ Pending | - | - | |
 | [task031.py](task031.py) | ✅ Completed | 53 | Max, Ale | |
 | [task032.py](task032.py) | ✅ Completed | 83 | Max | |
