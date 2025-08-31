@@ -1,1 +1,1 @@
-p=lambda g:[[a+2*b+8*c+7*d+6*e for a,b,c,d,e in zip(*r)]for r in zip(g,g[1:]+[[0]*10],[[0]*10]+g[:-1],[r[1:]+[0]for r in g],[[0]+r[:-1]for r in g])]
+p=lambda g,z=[0]*10:[[x+2*y+8*u+7*v+6*w for x,y,u,v,w in zip(a,b,c,a[1:]+[0],[0]+a[:-1])]for a,b,c in zip(g,g[1:]+[z],[z]+g[:-1])]
