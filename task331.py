@@ -1,7 +1,1 @@
-def p(g,v=[0,8,2],h=[0,6,7]):
- for I in range(100):
-  if g[i:=I//10][j:=I%10]==1:
-   for a in-1,1:
-    if 0<=i+a<10:g[i+a][j]=v[a]
-    if 0<=j+a<10:g[i][j+a]=h[a]
- return g
+p=lambda g:[[a+2*b+8*c+7*d+6*e for a,b,c,d,e in zip(*r)]for r in zip(g,g[1:]+[[0]*10],[[0]*10]+g[:-1],[r[1:]+[0]for r in g],[[0]+r[:-1]for r in g])]
