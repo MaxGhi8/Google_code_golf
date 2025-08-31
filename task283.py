@@ -1,1 +1,1 @@
-def p(g):R=range(len(g));return[[g[i][j]>4and{4:1,6:4,9:2}[sum(x>0 for x in sum([r[max(j-1,0):j+2]for r in g[max(i-1,0):i+2]],[]))]for j in R]for i in R]
+p=lambda g,e=enumerate:[[c>4and b"0000104002"[sum(_>0 for R in g[i and i-1:i+2]for _ in R[j and j-1:j+2])]-48for j,c in e(r)]for i,r in e(g)]

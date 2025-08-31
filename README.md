@@ -305,7 +305,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task260.py](task260.py) | 👀✅ Completed | 194 | Max, Gio | Hoping that someone beats me |
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
-| [task263.py](task263.py) | ✅ Completed | 182 | Ale, Max | |
+| [task263.py](task263.py) | ✅ Completed | 175 | Ale, Max | |
 | [task264.py](task264.py) | ⏳ Pending | - | - | |
 | [task265.py](task265.py) | ⏳ Pending | - | - | |
 | [task266.py](task266.py) | ⏳ Pending | - | - | |
@@ -313,23 +313,23 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task 289, but with individual colours in g |
 | [task270.py](task270.py) | ⏳ Pending | - | - | |
-| [task271.py](task271.py) | ✅📚 Completed | 123 | Max | |
+| [task271.py](task271.py) | ✅📚 Completed | 99 | Max | |
 | [task272.py](task272.py) | ✅ Completed | 156 | Max | |
-| [task273.py](task273.py) | ✅ Completed | 184 | Max, Ale | |
-| [task274.py](task274.py) | ✅ Completed | 94 | Max | |
-| [task275.py](task275.py) | ✅ Completed | 204 | Max | |
+| [task273.py](task273.py) | ✅ Completed | 173 | Max, Ale | |
+| [task274.py](task274.py) | ✅ Completed | 92 | Max | |
+| [task275.py](task275.py) | ✅ Completed | 201 | Max | |
 | [task276.py](task276.py) | ✅ Completed | 46 | Ghi, Max | |
 | [task277.py](task277.py) | ⏳ Pending | - | - | |
 | [task278.py](task278.py) | ⏳ Pending | - | - | |
 | [task279.py](task279.py) | ⏳ Pending | - | - | |
 | [task280.py](task280.py) | ⏳ Pending | - | - | |
 | [task281.py](task281.py) | ⏳ Pending | - | - | |
-| [task282.py](task282.py) | ✅ Completed | 146 | Max | |
-| [task283.py](task283.py) | ✅ Completed | 154 | Max, Ale | |
+| [task282.py](task282.py) | ✅ Completed | 144 | Max | |
+| [task283.py](task283.py) | ✅ Completed | 142 | Max, Ale | |
 | [task284.py](task284.py) | ⏳ Pending | - | - | |
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
-| [task286.py](task286.py) | ✅📚 Completed | 260 | Max, Gio | |
-| [task287.py](task287.py) | ✅📚 Completed | 129 | Ale | Holes filling in circular pattern. Variant of 061 |
+| [task286.py](task286.py) | ✅📚 Completed | 253 | Max, Gio | |
+| [task287.py](task287.py) | ✅📚 Completed | 99 | Ale | Holes filling in circular pattern. Variant of 061 |
 | [task288.py](task288.py) | ✅ Completed | 139 | Max | |
 | [task289.py](task289.py) | ✅ Completed | 84 | Max, Ale | Same as task 269|
 | [task290.py](task290.py) | ✅ Completed | 87 | Max | |

@@ -1,1 +1,1 @@
-def p(g):L=[[y[d:d+3]for y in g[c:c+3]]for c in range(0,len(g),3)for d in range(0,len(g[0]),3)];S=[[x<1for x in sum(n,[])]for n in L];return max(a*(S.count(b)<2)for a,b in zip(L,S))
+p=lambda g:(P:=[((a:=[y[d:d+3]for y in t]),[x<1for x in sum(a,[])])for t in zip(*[iter(g)]*3)for d in range(0,len(g[0]),3)])and max(a*(sum(q[1]==b for q in P)<2)for a,b in P)
