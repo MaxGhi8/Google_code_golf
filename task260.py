@@ -1,1 +1,1 @@
-def p(g,R=range(10)):h={x:[j-i for i in R for j in R if g[i][j]==x]for x in R};k=({*sum(g,[])}-{0,5}).pop();D=h[k][0];c,*_,d=sorted(h[5]);return[[k*(j-i in{D,c-1-(c<D),d+1+(d>D)})for j in R]for i in R]
+def p(g,R=range(10)):h=[[j-i for i in R for j in R if g[i][j]==x]for x in R];D=h[k:=min({*sum(g,[])}-{0,5})][0];c,*_,d=sorted(h[5]);return[[k*(j-i in(D,c+~(c<D),d-~(d>D)))for j in R]for i in R]

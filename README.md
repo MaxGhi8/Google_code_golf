@@ -289,20 +289,20 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task244.py](task244.py) | ✅ Completed | 126 | Max | |
 | [task245.py](task245.py) | ⏳ Pending | - | - | |
 | [task246.py](task246.py) | ✅ Completed | 189 | Max | |
-| [task247.py](task247.py) | ✅ Completed | 168 | Max | |
-| [task248.py](task248.py) | ✅ Completed | 108 | Max, Waolo | Same as task 357 |
+| [task247.py](task247.py) | ✅ Completed | 121 | Max | |
+| [task248.py](task248.py) | ✅ Completed | 97 | Max, Waolo | Same as task 357 |
 | [task249.py](task249.py) | ✅ Completed | 27 | Max | |
 | [task250.py](task250.py) | ⏳ Pending | - | - | |
 | [task251.py](task251.py) | ⏳ Pending | - | - | |
-| [task252.py](task252.py) | ✅ Completed | 107 | Max | |
+| [task252.py](task252.py) | ✅ Completed | 100 | Max | |
 | [task253.py](task253.py) | ⏳ Pending | - | - | |
 | [task254.py](task254.py) | ⏳ Pending | - | - | |
 | [task255.py](task255.py) | ⏳ Pending | - | - | |
-| [task256.py](task256.py) | ✅ Completed | 141 | Ale | |
-| [task257.py](task257.py) | ✅📚 Completed | 91 | Ghi, Max | `a or b = {a if a>0, b if a = 0}`|
-| [task258.py](task258.py) | ✅ Completed | 87 | Max | |
-| [task259.py](task259.py) | ✅ Completed | 169 | Max | |
-| [task260.py](task260.py) | 👀✅ Completed | 202 | Max, Gio | Hoping that someone beats me |
+| [task256.py](task256.py) | ✅ Completed | 121 | Ale | |
+| [task257.py](task257.py) | ✅📚 Completed | 83 | Ghi, Max | `a or b = {a if a>0, b if a = 0}`|
+| [task258.py](task258.py) | ✅ Completed | 80 | Max | |
+| [task259.py](task259.py) | ✅ Completed | 147 | Max | |
+| [task260.py](task260.py) | 👀✅ Completed | 194 | Max, Gio | Hoping that someone beats me |
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
 | [task263.py](task263.py) | ✅ Completed | 190 | Ale, Max | |
