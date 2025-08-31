@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 242/401 tasks completed -->
+<!-- Progress: 243/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -49,7 +49,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task005.py](task005.py) | ⏳ Pending | - | - | |
 | [task006.py](task006.py) | ✅📚 Completed | 54 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!|
 | [task007.py](task007.py) | ✅📚 Completed | 99 | Max, Waolo | How to unroll a matrix |
-| [task008.py](task008.py) | ✅ Completed | 241 | Ale, Max | |
+| [task008.py](task008.py) | ✅ Completed | 236 | Ale, Max | |
 | [task009.py](task009.py) | ✅ Completed | 152 | Max | |
 | [task010.py](task010.py) | ✅ Completed | 94 | Max | List comprehension go BRR |
 | [task011.py](task011.py) | ✅ Completed | 198 | Max, Ale | |
@@ -314,7 +314,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task 289, but with individual colours in g |
 | [task270.py](task270.py) | ⏳ Pending | - | - | |
 | [task271.py](task271.py) | ✅📚 Completed | 123 | Max | |
-| [task272.py](task272.py) | ⏳ Pending | - | - | |
+| [task272.py](task272.py) | ✅ Completed | 156 | Max | |
 | [task273.py](task273.py) | ✅ Completed | 184 | Max, Ale | |
 | [task274.py](task274.py) | ✅ Completed | 94 | Max | |
 | [task275.py](task275.py) | ✅ Completed | 204 | Max | |
@@ -330,7 +330,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
 | [task286.py](task286.py) | ✅📚 Completed | 260 | Max, Gio | |
 | [task287.py](task287.py) | ✅📚 Completed | 129 | Ale | Holes filling in circular pattern. Variant of 061 |
-| [task288.py](task288.py) | ⏳ Pending | - | - | |
+| [task288.py](task288.py) | ✅ Completed | 139 | Max | |
 | [task289.py](task289.py) | ✅ Completed | 84 | Max, Ale | Same as task 269|
 | [task290.py](task290.py) | ✅ Completed | 87 | Max | |
 | [task291.py](task291.py) | ✅📚 Completed | 152 | Max | Really interesting |
