@@ -1,1 +1,1 @@
-def p(g,R=range):p=[[n,[x<1for x in sum(n,[])]]for n in[[r[3*d:][:3]for r in g[3*c:][:3]]for c in R(len(g)//3)for d in R(len(g[0])//3)]];return max(a*([*zip(*p)][1].count(b)<2)for a,b in p)
+def p(g):L=[[y[d:d+3]for y in g[c:c+3]]for c in range(0,len(g),3)for d in range(0,len(g[0]),3)];S=[[x<1for x in sum(n,[])]for n in L];return max(a*(S.count(b)<2)for a,b in zip(L,S))
