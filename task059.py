@@ -1,1 +1,1 @@
-p=lambda g,R=range:[[(v:=g[i][j])*(v==5)or(sum(w:=sum([r[j&~3:][:3]for r in g[i&~3:][:3]],[]))>=max(sum(sum(g[x//3*4+a][x%3*4:][:3])for a in R(3))for x in R(9)))*max(w)for j in R(11)]for i in R(11)]
+p=lambda g,R=range,S=sum:[[(v:=g[i][j])*(v==5)or(S(max(t:=[S([g[x//3*4+a][x%3*4:][:3]for a in R(3)],[])for x in R(9)],key=S))<=S(w:=t[i//4*3+j//4]))*max(w)for j in R(11)]for i in R(11)]
