@@ -352,7 +352,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task307.py](task307.py) | ✅ Completed | 53 | Max, Ale | Same as 223 |
 | [task308.py](task308.py) | ⏳ Pending | - | - | |
 | [task309.py](task309.py) | ✅ Completed | 46 | Max, Ghi | |
-| [task310.py](task310.py) | ✅ Completed | 129 | Ale, Max | |
+| [task310.py](task310.py) | ✅ Completed | 127 | Ale, Max | |
 | [task311.py](task311.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task312.py](task312.py) | ✅ Completed | 47 | Ghi, Max | |
 | [task313.py](task313.py) | ✅ Completed | 117 | Max | |
