@@ -1,6 +1,7 @@
 def p(g,R=range):
- z=[z+21for z in R(274)if(f:=sum(g,[]))[z]==5==f[z+126]][~0];l=max(sum(s:=[r[z%20:][:5]for r in g[z//20:][:5]],[]))
+ z=max(z+21for z in R(274)if(f:=sum(g,[]))[z]==5==f[z+126]);l=max(t:=sum(s:=[r[z%20:][:5]for r in g[z//20:][:5]],[]))
  for i in R(256):
-  if all(g[i//16+a//5][i%16+a%5]==s[a//5][a%5]//l for a in R(25)):
-   for a in R(25):g[i//16+a//5][i%16+a%5]=s[a//5][a%5]
+  y=i>>4;x=i&15
+  if all(g[y+a//5][x+a%5]*l==t[a]for a in R(25)):
+   for a in R(5):g[y+a][x:x+5]=s[a]
  return g
