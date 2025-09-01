@@ -345,11 +345,11 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task300.py](task300.py) | ✅ Completed | 117 | Max | I use task 31 for resize |
 | [task301.py](task301.py) | ✅ Completed | 144 | Max | |
 | [task302.py](task302.py) | ✅ Completed | 188 | Max | |
-| [task303.py](task303.py) | ✅ Completed | 97 | Max | |
-| [task304.py](task304.py) | ✅ Completed | 122 | Max | |
-| [task305.py](task305.py) | ✅ Completed | 138 | Max | |
-| [task306.py](task306.py) | ✅ Completed | 140 | Max | |
-| [task307.py](task307.py) | ✅ Completed | 60 | Max, Ale | Same as 223 |
+| [task303.py](task303.py) | ✅ Completed | 75 | Max | |
+| [task304.py](task304.py) | ✅ Completed | 105 | Max | |
+| [task305.py](task305.py) | ✅ Completed | 136 | Max | |
+| [task306.py](task306.py) | ✅ Completed | 139 | Max | |
+| [task307.py](task307.py) | ✅ Completed | 53 | Max, Ale | Same as 223 |
 | [task308.py](task308.py) | ⏳ Pending | - | - | |
 | [task309.py](task309.py) | ✅ Completed | 46 | Max, Ghi | |
 | [task310.py](task310.py) | ✅ Completed | 129 | Ale, Max | |
