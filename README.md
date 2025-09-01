@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 245/401 tasks completed -->
+<!-- Progress: 247/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -61,7 +61,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task017.py](task017.py) | ⏳ Pending | - | - | |
 | [task018.py](task018.py) | ⏳ Pending | - | - | |
 | [task019.py](task019.py) | ✅ Completed | 202 | Max | |
-| [task020.py](task020.py) | ⏳ Pending | - | - | |
+| [task020.py](task020.py) | ✅ Completed | 209 | Max | |
 | [task021.py](task021.py) | ✅ Completed | 99 | Max | |
 | [task022.py](task022.py) | ✅ Completed | 128 | Ale, Max | |
 | [task023.py](task023.py) | ⏳ Pending | - | - | |
@@ -100,7 +100,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task056.py](task056.py) | ✅ Completed | 70 | Max, Gio | |
 | [task057.py](task057.py) | 🏆 Optimized | 70 | Max, Ale | Variant of 031 |
 | [task058.py](task058.py) | ✅ Completed | 170 | Ale, Max | |
-| [task059.py](task059.py) | ⏳ Pending | - | - | |
+| [task059.py](task059.py) | ✅ Completed | 185 | Ale | |
 | [task060.py](task060.py) | ✅ Completed | 53 | Max | |
 | [task061.py](task061.py) | ✅📚 Completed | 149 | Ale, Max | Holes filling in pattern with grid |
 | [task062.py](task062.py) | ⏳ Pending | - | - | |
