@@ -1,0 +1,1 @@
+p=lambda g,e=enumerate:[[r[(D:={max(c):j for j,c in e(zip(*g))})[1]-min(D[(x:=max(p[j]for p in g))]-j,2)]*x for j,v in e(r)]for r in g]
