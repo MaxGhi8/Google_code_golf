@@ -333,18 +333,18 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task288.py](task288.py) | ✅ Completed | 137 | Max | |
 | [task289.py](task289.py) | ✅ Completed | 84 | Max, Ale | Same as task 269|
 | [task290.py](task290.py) | ✅ Completed | 71 | Max | |
-| [task291.py](task291.py) | ✅📚 Completed | 152 | Max | Really interesting |
+| [task291.py](task291.py) | ✅📚 Completed | 147 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 62 | Max | |
-| [task293.py](task293.py) | ✅ Completed | 127 | Max | |
-| [task294.py](task294.py) | ✅📚 Completed | 120 | Max | |
+| [task293.py](task293.py) | ✅ Completed | 119 | Max | |
+| [task294.py](task294.py) | ✅📚 Completed | 115 | Max | |
 | [task295.py](task295.py) | ✅ Completed | 68 | Ale, Max | |
-| [task296.py](task296.py) | ✅ Completed | 91 | Max | |
+| [task296.py](task296.py) | ✅ Completed | 82 | Max | |
 | [task297.py](task297.py) | ✅ Completed | 70 | Max | |
 | [task298.py](task298.py) | 👀✅ Completed | 97 | Max | Could be improved removing the set maybe? |
 | [task299.py](task299.py) | ✅ Completed | 87 | Max | |
-| [task300.py](task300.py) | ✅ Completed | 121 | Max | I use task 31 for resize |
-| [task301.py](task301.py) | ✅ Completed | 153 | Max | |
-| [task302.py](task302.py) | ✅ Completed | 191 | Max | |
+| [task300.py](task300.py) | ✅ Completed | 117 | Max | I use task 31 for resize |
+| [task301.py](task301.py) | ✅ Completed | 144 | Max | |
+| [task302.py](task302.py) | ✅ Completed | 188 | Max | |
 | [task303.py](task303.py) | ✅ Completed | 97 | Max | |
 | [task304.py](task304.py) | ✅ Completed | 122 | Max | |
 | [task305.py](task305.py) | ✅ Completed | 138 | Max | |

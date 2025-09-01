@@ -1,1 +1,1 @@
-p=lambda g,R=range:[[[m[0]for m in[[g[i+a//2][j+a%2]for a in R(4)]for i in R(len(g)-1)for j in R(len(g[0])-1)]if m.count(m[0])>2and m.count(0)==1][0]]]
+p=lambda g:[[[x for m in[g[i][j:j+2]+g[i+1][j:j+2]for i in range(len(g)-1)for j in range(len(g[0])-1)]if m.count(x:=m[0])>2and m.count(0)==1][0]]]
