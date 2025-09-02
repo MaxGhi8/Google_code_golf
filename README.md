@@ -76,7 +76,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task032.py](task032.py) | ✅ Completed | 83 | Max | |
 | [task033.py](task033.py) | ✅ Completed | 125 | Ale,Max | |
 | [task034.py](task034.py) | ⏳ Pending | - | - | |
-| [task035.py](task035.py) | ✅ Completed | 215 | Max | |
+| [task035.py](task035.py) | ✅ Completed | 209 | Max | |
 | [task036.py](task036.py) | ⏳ Pending | - | - | |
 | [task037.py](task037.py) | ✅ Completed | 170 | Max | |
 | [task038.py](task038.py) | ✅ Completed | 111 | Max | |
@@ -105,7 +105,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task061.py](task061.py) | ✅📚 Completed | 149 | Ale, Max | Holes filling in pattern with grid |
 | [task062.py](task062.py) | ⏳ Pending | - | - | |
 | [task063.py](task063.py) | ✅ Completed | 122 | Max | |
-| [task064.py](task064.py) | ✅ Completed | 202 | Max | |
+| [task064.py](task064.py) | ✅ Completed | 194 | Max | |
 | [task065.py](task065.py) | ✅ Completed | 151 | Max | |
 | [task066.py](task066.py) | ⏳ Pending | - | - | |
 | [task067.py](task067.py) | ✅ Completed | 37 | Max | |
@@ -257,7 +257,6 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task213.py](task213.py) | ⏳ Pending | - | - | |
 | [task214.py](task214.py) | ✅📚 Completed | 91 | Max | I think that I have implemented a good function for rotation clockwise |
 | [task215.py](task215.py) | ✅ Completed | 70 | Max |  |
-<!-- | [task215.py](task215.py) | ✅📚 Completed | 83 | Max | Sometimes can be better substitute a `range(len(...))` with `enumerate(...)` | -->
 | [task216.py](task216.py) | ✅ Completed | 159 | Max | Same as 365 (computational really inefficient) |
 | [task217.py](task217.py) | ✅ Completed | 120 | Ale, Max | Combination of 1 and 31 |
 | [task218.py](task218.py) | ✅📚 Completed | 80 | Ale | f(g) on g and g transposed |
