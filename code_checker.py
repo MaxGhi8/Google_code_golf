@@ -286,7 +286,7 @@ def verify_program(task_path, examples):
         print(
             "The expected result is shown in green; your actual result is shown in red."
         )
-        show_examples([expected], bgcolor=(200, 255, 200))
+        show_examples(examples['train'], bgcolor=(200, 255, 200))
         show_examples([actual], bgcolor=(255, 200, 200))
 
 
