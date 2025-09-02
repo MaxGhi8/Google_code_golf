@@ -1,4 +1,1 @@
-def p(g,A=0):
- for r in g:
-  for j,k in enumerate(r):r[j]=k|A;A^=k
- return g
+p=lambda g,A=0:[[k|(A:=k^A)for k in r]for r in g]
