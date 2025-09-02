@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 254/401 tasks completed -->
+<!-- Progress: 256/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -169,7 +169,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task125.py](task125.py) | ⏳ Pending | - | - | |
 | [task126.py](task126.py) | ✅ Completed | 118 | Max | |
 | [task127.py](task127.py) | 👀✅ Completed | 136 | Max | |
-| [task128.py](task128.py) | ⏳ Pending | - | - | |
+| [task128.py](task128.py) | 👀✅ Completed | 102 | Max | |
 | [task129.py](task129.py) | ✅📚 Completed | 49 | Max | How to find the maximum of a matrix |
 | [task130.py](task130.py) | ✅ Completed | 103 | Max | |
 | [task131.py](task131.py) | ⏳ Pending | - | - | |
