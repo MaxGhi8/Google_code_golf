@@ -1,0 +1,1 @@
+p=lambda j:[*map(list,zip(*([0]*(2*(k:=c.count(0))-15)+[max(c)]*(15-k)+[0]*(15-k)for c in zip(*j))))]

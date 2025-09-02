@@ -38,8 +38,6 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 254/401 tasks completed -->
-
 | Task                     | Status                   | Bytes          | Completed by | Comments/Notes                                                                                                   |
 | ------------------------ | ------------------------ | -------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --- |
 | [task000.py](task000.py) | ✅ Completed             | 150            | Max          | Does not count for points                                                                                        |
@@ -47,7 +45,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task002.py](task002.py) | 👀✅ Completed           | 255            | Max          | For the moment I use brute force, but DFS could be explored                                                      |
 | [task003.py](task003.py) | ✅ Completed             | 66             | Max          |                                                                                                                  |
 | [task004.py](task004.py) | ✅ Completed             | 172            | Max          |                                                                                                                  |
-| [task005.py](task005.py) | 🔄 In Progress           | -              | Oxke         |                                                                                                                  |
+| [task005.py](task005.py) | ⏳ Pending               | -              | -            |                                                                                                                  |
 | [task006.py](task006.py) | ✅📚 Completed           | 54             | Max          | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**!               |
 | [task007.py](task007.py) | ✅📚 Completed           | 99             | Max, Waolo   | How to unroll a matrix                                                                                           |
 | [task008.py](task008.py) | ✅ Completed             | 236            | Ale, Max     |                                                                                                                  |
@@ -169,8 +167,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task124.py](task124.py) | ⏳ Pending               | -              | -            |                                                                                                                  |
 | [task125.py](task125.py) | ⏳ Pending               | -              | -            |                                                                                                                  |
 | [task126.py](task126.py) | ✅ Completed             | 118            | Max          |                                                                                                                  |
-| [task127.py](task127.py) | ⏳ Pending               | -              | -            |                                                                                                                  |
-| [task128.py](task128.py) | ⏳ Pending               | -              | -            |                                                                                                                  |
+| [task127.py](task127.py) | 👀✅ Completed           | 136            | Max          |                                                                                                                  |
+| [task128.py](task128.py) | 👀✅ Completed           | 102            | Max          |                                                                                                                  |
 | [task129.py](task129.py) | ✅📚 Completed           | 49             | Max          | How to find the maximum of a matrix                                                                              |
 | [task130.py](task130.py) | ✅ Completed             | 103            | Max          |                                                                                                                  |
 | [task131.py](task131.py) | ⏳ Pending               | -              | -            |                                                                                                                  |
@@ -444,8 +442,6 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task398.py](task398.py) | ✅ Completed             | 107            | Max          |                                                                                                                  |
 | [task399.py](task399.py) | ✅ Completed             | 150            | Max          |                                                                                                                  |
 | [task400.py](task400.py) | ✅ Completed             | 133            | Max          | Same as task 351                                                                                                 |
-
----
 
 **Happy Coding! 🚀**
 
