@@ -5,6 +5,7 @@ __pycache__/
 
 # zip file
 *.zip
+*.png
 *.ipynb
 
 # C extensions

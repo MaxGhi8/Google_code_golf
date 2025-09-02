@@ -148,7 +148,7 @@ def show_legend():
   ax.set_yticks([])
 
 
-def show_examples(examples, bgcolor=(255, 255, 255)):
+def show_examples(examples, bgcolor=(255, 255, 255), name_str=""):
   # Determine the dimensions of the image to be rendered.
   width, height, offset = 0, 0, 1
   for example in examples:
@@ -192,6 +192,7 @@ def show_examples(examples, bgcolor=(255, 255, 255)):
     offset += 2
   ax.set_xticks([])
   ax.set_yticks([])
+  fig.savefig(name_str+".png")
 
 
 def verify_program(task_num, examples):
@@ -236,17 +237,17 @@ def verify_program(task_num, examples):
     return right, wrong, expected
   arc_agi_right, arc_agi_wrong, arc_agi_expected = verify(examples["train"] + examples["test"])
   arc_gen_right, arc_gen_wrong, arc_gen_expected = verify(examples["arc-gen"])
-  # print(f"Results on ARC-AGI examples: {arc_agi_right} pass, {arc_agi_wrong} fail")
-  # print(f"Results on ARC-GEN examples: {arc_gen_right} pass, {arc_gen_wrong} fail")
-  # print()
+  print(f"Results on ARC-AGI examples: {arc_agi_right} pass, {arc_agi_wrong} fail")
+  print(f"Results on ARC-GEN examples: {arc_gen_right} pass, {arc_gen_wrong} fail")
+  print()
   if arc_agi_wrong + arc_gen_wrong == 0:
     task_length = os.path.getsize(task_path)
     print("CORRECT")
     print("Length: " + str(task_length))
-    # print("Next steps:")
-    # print(" * Copy it into a file named task{:03d}.py on your local machine.".format(task_num))
-    # print(" * Create a zip file containing that program along with all others.")
-    # print(" * Submit that zip file to the Kaggle competition so that it can be officially scored.")
+    print("Next steps:")
+    print(" * Copy it into a file named task{:03d}.py on your local machine.".format(task_num))
+    print(" * Create a zip file containing that program along with all others.")
+    print(" * Submit that zip file to the Kaggle competition so that it can be officially scored.")
   else:
     print("WRONG")
     expected = arc_agi_expected if arc_agi_expected else arc_gen_expected
@@ -254,9 +255,9 @@ def verify_program(task_num, examples):
     actual = {}
     actual["input"] = expected["input"]
     actual["output"] = program(copy.deepcopy(expected["input"]))
-    # print("The expected result is shown in green; your actual result is shown in red.")
-    # show_examples([expected], bgcolor=(200, 255, 200))
-    # show_examples([actual], bgcolor=(255, 200, 200))
+    print("The expected result is shown in green; your actual result is shown in red.")
+    show_examples([expected], (200, 255, 200), "expected")
+    show_examples([actual], (255, 200, 200), "actual")
 
 if __name__ == "__main__":
   task_num=int(sys.argv[1])
