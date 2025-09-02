@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 258/401 tasks completed -->
+<!-- Progress: 259/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -173,7 +173,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task129.py](task129.py) | ✅📚 Completed | 49 | Max | How to find the maximum of a matrix |
 | [task130.py](task130.py) | ✅ Completed | 103 | Max | |
 | [task131.py](task131.py) | ✅ Completed | 220 | Max | |
-| [task132.py](task132.py) | ⏳ Pending | - | - | |
+| [task132.py](task132.py) | ✅ Completed | 183 | Max | |
 | [task133.py](task133.py) | ⏳ Pending | - | - | |
 | [task134.py](task134.py) | ✅👀 Completed | 206 | Ale, Max | Can be improved |
 | [task135.py](task135.py) | ✅ Completed | 33 | Max, Waolo | |
