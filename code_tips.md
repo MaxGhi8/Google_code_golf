@@ -59,3 +59,4 @@
 52. Use the max with a custom key can be also implemented using a standard max but with a tuple, where the first elements are the key elements. See [task216.py](task216.py) as reference.
 53. `X=0,1,2` can be used to substitute `X=[0,1,2]`, see [task058.py](task058.py).
 54. Problem [task331.py](task331.py) have a really geometric solution. Instead of searching for blues and coloring with for loops and if statement, I just sum the same matrix shifted one row up, one row down and same for columns.
+55. A function can be applied to a list of elements via de `map` function, for example: `for j in 3,4:r[j]=f(r[j],r[j-3])` <=> `r[3:5]=map(f,r[3:5],r[:2])` (where f is a function). see [task314.py](task314.py).
