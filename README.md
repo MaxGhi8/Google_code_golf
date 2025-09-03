@@ -82,7 +82,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task038.py](task038.py) | ✅ Completed | 111 | Max | |
 | [task039.py](task039.py) | ✅ Completed | 73 | Max | |
 | [task040.py](task040.py) | ✅📚 Completed | 118 | Max | |
-| [task041.py](task041.py) | ✅📚 Completed | 51 | Max | I think that we can do better but I do not how.../with and/or we can spare an "if" statement |
+| [task041.py](task041.py) | ✅📚 Completed | 51 | Max, Oxke | Good use of walrus operator ; Switches should be xorred with |
 | [task042.py](task042.py) | ⏳ Pending | - | - | |
 | [task043.py](task043.py) | ✅ Completed | 74 | Max | |
 | [task044.py](task044.py) | ⏳ Pending | - | - | |
@@ -131,7 +131,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task087.py](task087.py) | ✅ Completed | 37 | Max | |
 | [task088.py](task088.py) | ✅ Completed | 136 | Max | |
 | [task089.py](task089.py) | ⏳ Pending | - | - | |
-| [task090.py](task090.py) | ⏳ Pending | - | - | |
+| [task090.py](task090.py) | 👀✅ Completed | 459 | Oxke | clearly there must be a simpler way. There's also some redundancy as the process is repeated from left and right |
 | [task091.py](task091.py) | ✅ Completed | 119 | Max | |
 | [task092.py](task092.py) | ✅ Completed | 156 | Max | |
 | [task093.py](task093.py) | ⏳ Pending | - | - | |
