@@ -1,1 +1,1 @@
-p=lambda j,e=enumerate:[[z+5*any(len(j[0])>(y:=W+i%3-1)>=0<=(x:=k+i//3-1)<len(j)and i%2*z*j[x][y]for i in range(9))for W,z in e(r)]for k,r in e(j)]
+p=lambda j,e=enumerate:[[z+5*any(z*j[x][y]for i in(1,3,5,7)if len(r)>(y:=W+i%3-1)>=0<=(x:=k+i//3-1)<len(j))for W,z in e(r)]for k,r in e(j)]

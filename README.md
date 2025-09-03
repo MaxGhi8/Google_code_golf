@@ -188,7 +188,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task144.py](task144.py) | ✅ Completed | 64 | Ghi, Max | `[[... for a,b in zip(*z)]for z in zip(g,g[5:])]` >>> `[[... for a,b in zip(x,y)]for x,y in zip(g,g[5:])]` |
 | [task145.py](task145.py) | ⏳ Pending | - | - | |
 | [task146.py](task146.py) | ✅ Completed | 71 | Max | |
-| [task147.py](task147.py) | ✅ Completed | 148 | Max | |
+| [task147.py](task147.py) | ✅ Completed | 140 | Max | |
 | [task148.py](task148.py) | ⏳ Pending | - | - | |
 | [task149.py](task149.py) | ✅ Completed | 84 | Max | |
 | [task150.py](task150.py) | ✅ Completed | 31 | Ghi, Max | |
