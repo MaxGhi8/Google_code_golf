@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 259/401 tasks completed -->
+<!-- Progress: 260/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -188,7 +188,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task144.py](task144.py) | ✅ Completed | 64 | Ghi, Max | `[[... for a,b in zip(*z)]for z in zip(g,g[5:])]` >>> `[[... for a,b in zip(x,y)]for x,y in zip(g,g[5:])]` |
 | [task145.py](task145.py) | ⏳ Pending | - | - | |
 | [task146.py](task146.py) | ✅ Completed | 71 | Max | |
-| [task147.py](task147.py) | ⏳ Pending | - | - | |
+| [task147.py](task147.py) | ✅ Completed | 140 | Max | |
 | [task148.py](task148.py) | ⏳ Pending | - | - | |
 | [task149.py](task149.py) | ✅ Completed | 84 | Max | |
 | [task150.py](task150.py) | ✅ Completed | 31 | Ghi, Max | |
@@ -208,7 +208,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task164.py](task164.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task165.py](task165.py) | ⏳ Pending | - | - | |
 | [task166.py](task166.py) | ✅ Completed | 159 | Max | |
-| [task167.py](task167.py) | 👀✅ Completed | 90 | Max, Ale | Try to find a better mapping |
+| [task167.py](task167.py) | ✅ Completed | 90 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ⏳ Pending | - | - | |
 | [task169.py](task169.py) | ⏳ Pending | - | - | |
 | [task170.py](task170.py) | ⏳ Pending | - | - | |
@@ -223,7 +223,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task179.py](task179.py) | ✅ Completed | 22 | Max | |
 | [task180.py](task180.py) | ✅ Completed | 91 | Max | |
 | [task181.py](task181.py) | ✅ Completed | 87 | Max | |
-| [task182.py](task182.py) | ✅👀 Completed | 266 | Ale | |
+| [task182.py](task182.py) | ✅ Completed | 266 | Ale | |
 | [task183.py](task183.py) | ✅ Completed | 108 | Max | |
 | [task184.py](task184.py) | ⏳ Pending | - | - | |
 | [task185.py](task185.py) | ⏳ Pending | - | - | |
@@ -301,7 +301,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task257.py](task257.py) | ✅📚 Completed | 83 | Ghi, Max | `a or b = {a if a>0, b if a = 0}`|
 | [task258.py](task258.py) | ✅ Completed | 80 | Max | |
 | [task259.py](task259.py) | ✅ Completed | 147 | Max | |
-| [task260.py](task260.py) | 👀✅ Completed | 194 | Max, Gio | Hoping that someone beats me |
+| [task260.py](task260.py) | ✅ Completed | 194 | Max, Gio | Hoping that someone beats me |
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
 | [task263.py](task263.py) | ✅ Completed | 175 | Ale, Max | |
@@ -339,7 +339,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task295.py](task295.py) | ✅ Completed | 68 | Ale, Max | |
 | [task296.py](task296.py) | ✅ Completed | 82 | Max | |
 | [task297.py](task297.py) | ✅ Completed | 70 | Max | |
-| [task298.py](task298.py) | 👀✅ Completed | 97 | Max | Could be improved removing the set maybe? |
+| [task298.py](task298.py) | ✅ Completed | 97 | Max | |
 | [task299.py](task299.py) | ✅ Completed | 87 | Max | |
 | [task300.py](task300.py) | ✅ Completed | 117 | Max | I use task 31 for resize |
 | [task301.py](task301.py) | ✅ Completed | 144 | Max | |
@@ -355,11 +355,11 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task311.py](task311.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task312.py](task312.py) | ✅ Completed | 47 | Ghi, Max | |
 | [task313.py](task313.py) | ✅ Completed | 117 | Max | |
-| [task314.py](task314.py) | 👀✅ Completed | 155 | Max | I'm not really satisfied |
+| [task314.py](task314.py) | ✅ Completed | 155 | Max | I'm not really satisfied |
 | [task315.py](task315.py) | ✅ Completed | 76 | Max | |
-| [task316.py](task316.py) | ✅ Completed | 94 | Max | |
-| [task317.py](task317.py) | ✅ Completed | 76 | Max | |
-| [task318.py](task318.py) | ✅ Completed | 64 | Ghi, Max | |
+| [task316.py](task316.py) | ✅ Completed | 91 | Max | |
+| [task317.py](task317.py) | ✅ Completed | 69 | Max | |
+| [task318.py](task318.py) | ✅ Completed | 61 | Ghi, Max | |
 | [task319.py](task319.py) | ⏳ Pending | - | - | |
 | [task320.py](task320.py) | ✅ Completed | 118 | Max | |
 | [task321.py](task321.py) | ✅ Completed | 70 | Ghi, Max | |
