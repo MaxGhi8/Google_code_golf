@@ -277,17 +277,18 @@ def verify_program(task_path, examples):
         # print(" * Submit that zip file to the Kaggle competition so that it can be officially scored.")
     else:
         print("WRONG")
-        expected = arc_agi_expected if arc_agi_expected else arc_gen_expected
-        if not expected:
-            return
-        actual = {}
-        actual["input"] = expected["input"]
-        actual["output"] = program(copy.deepcopy(expected["input"]))
-        print(
-            "The expected result is shown in green; your actual result is shown in red."
-        )
-        show_examples(examples['train'], bgcolor=(200, 255, 200))
-        show_examples([actual], bgcolor=(255, 200, 200))
+        # NOTE: il code_checker è per fare vibe coding con copilot
+        # expected = arc_agi_expected if arc_agi_expected else arc_gen_expected
+        # if not expected:
+        #     return
+        # actual = {}
+        # actual["input"] = expected["input"]
+        # actual["output"] = program(copy.deepcopy(expected["input"]))
+        # print(
+        #     "The expected result is shown in green; your actual result is shown in red."
+        # )
+        # show_examples(examples['train'], bgcolor=(200, 255, 200))
+        # show_examples([actual], bgcolor=(255, 200, 200))
 
 
 if __name__ == "__main__":
