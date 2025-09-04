@@ -131,7 +131,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task087.py](task087.py) | ✅ Completed | 37 | Max | |
 | [task088.py](task088.py) | ✅ Completed | 136 | Max | |
 | [task089.py](task089.py) | ⏳ Pending | - | - | |
-| [task090.py](task090.py) | 👀✅ Completed | 306 | Oxke | clearly there must be a simpler way. There's also some redundancy as the process is repeated from left and right |
+| [task090.py](task090.py) | 👀✅ Completed | 294 | Oxke, Ale | |
 | [task091.py](task091.py) | ✅ Completed | 119 | Max | |
 | [task092.py](task092.py) | ✅ Completed | 156 | Max | |
 | [task093.py](task093.py) | ⏳ Pending | - | - | |
