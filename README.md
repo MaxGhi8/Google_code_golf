@@ -305,7 +305,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
 | [task263.py](task263.py) | ✅ Completed | 175 | Ale, Max | |
-| [task264.py](task264.py) | ✅ Completed | 254 | Ale | |
+| [task264.py](task264.py) | ✅ Completed | 257 | Ale | |
 | [task265.py](task265.py) | ⏳ Pending | - | - | |
 | [task266.py](task266.py) | ⏳ Pending | - | - | |
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
