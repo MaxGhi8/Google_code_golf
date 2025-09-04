@@ -1,1 +1,1 @@
-p=lambda g:[L:=[g[i%2][0]for i in range(6)]]+[L[1:]+g[0][:1]]
+p=lambda g:[L:=[x[0]for x in g]*3,(L+L)[1:7]]

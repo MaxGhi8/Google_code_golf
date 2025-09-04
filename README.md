@@ -412,9 +412,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task368.py](task368.py) | ⏳ Pending | - | - | |
 | [task369.py](task369.py) | ⏳ Pending | - | - | |
 | [task370.py](task370.py) | ⏳ Pending | - | - | |
-| [task371.py](task371.py) | ✅ Completed | 158 | Max | |
-| [task372.py](task372.py) | ✅📚 Completed | 59 | Max | How to sum two matrices |
-| [task373.py](task373.py) | ✅ Completed | 63 | Max | |
+| [task371.py](task371.py) | ✅ Completed | 145 | Max | |
+| [task372.py](task372.py) | ✅📚 Completed | 54 | Max | How to sum two matrices |
+| [task373.py](task373.py) | ✅ Completed | 46 | Max | |
 | [task374.py](task374.py) | ⏳ Pending | - | - | |
 | [task375.py](task375.py) | ✅ Completed | 63 | Max | |
 | [task376.py](task376.py) | ✅ Completed | 33 | Ghi, Max | |
