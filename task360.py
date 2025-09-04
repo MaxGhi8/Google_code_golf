@@ -1,1 +1,1 @@
-p=lambda g:[[max(a,b)for a,b in zip(g[i],g[i][:4:-1])]for i in range(10)]
+p=lambda g:[[*map(max,zip(r,r[:4:-1]))]for r in g]

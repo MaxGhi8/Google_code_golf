@@ -1,1 +1,1 @@
-p=lambda g,R=range:[[k[4]for k in[[g[i+a//3][j+a%3]for a in R(9)]for i in R(len(g)-2)for j in R(len(g[0])-2)]if(k.count(k[4])<2)*all(k)]]
+p=lambda g,R=range:[[k[4]for i in R(len(g)-2)for j in R(len(g[0])-2)if all(k:=[g[i+a//3][j+a%3]for a in R(9)])*2>k.count(k[4])]]
