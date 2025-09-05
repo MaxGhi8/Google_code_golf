@@ -1,3 +1,3 @@
 def p(g):
- for i in range(len(g)):g[i][i]=g[~i][i]=0
+ for i,r in enumerate(g):r[i]=g[~i][i]=0
  return g

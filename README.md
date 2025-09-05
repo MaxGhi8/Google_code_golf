@@ -416,17 +416,17 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task372.py](task372.py) | ✅📚 Completed | 54 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ✅ Completed | 46 | Max | |
 | [task374.py](task374.py) | ⏳ Pending | - | - | |
-| [task375.py](task375.py) | ✅ Completed | 63 | Max | |
+| [task375.py](task375.py) | ✅ Completed | 61 | Max | |
 | [task376.py](task376.py) | ✅ Completed | 33 | Ghi, Max | |
-| [task377.py](task377.py) | ✅ Completed | 92 | Ale | Similar to 218 |
+| [task377.py](task377.py) | ✅ Completed | 83 | Ale | Similar to 218 |
 | [task378.py](task378.py) | ⏳ Pending | - | - | |
 | [task379.py](task379.py) | ⏳ Pending | - | - | |
 | [task380.py](task380.py) | ✅ Completed | 38 | Max | |
 | [task381.py](task381.py) | ✅ Completed | 98 | Max | |
 | [task382.py](task382.py) | ⏳ Pending | - | - | |
 | [task383.py](task383.py) | ⏳ Pending | - | - | |
-| [task384.py](task384.py) | ✅ Completed | 101 | Ale | Combination of 031 and 223 |
-| [task385.py](task385.py) | ✅ Completed | 42 | Max | |
+| [task384.py](task384.py) | ✅ Completed | 93 | Ale | Combination of 031 and 223 |
+| [task385.py](task385.py) | ✅ Completed | 26 | Max | |
 | [task386.py](task386.py) | ✅ Completed | 58 | Max | |
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
 | [task388.py](task388.py) | ✅ Completed | 84 | Max | |
