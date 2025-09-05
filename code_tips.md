@@ -61,3 +61,4 @@
 54. Problem [task331.py](task331.py) have a really geometric solution. Instead of searching for blues and coloring with for loops and if statement, I just sum the same matrix shifted one row up, one row down and same for columns.
 55. A function can be applied to a list of elements via de `map` function, for example: `for j in 3,4:r[j]=f(r[j],r[j-3])` <=> `r[3:5]=map(f,r[3:5],r[:2])` (where f is a function). See [task314.py](task314.py).
 56. `(a+b>0)for a,b in zip(r)` can be written as `any(c)for c in zip(r)`. See [task318.py](task318.py).
+57. `for x in range():`+`if [condition]:` can be combined in a single expression: `for x in[*range()]*[condition]:`. See [task182.py](task182.py).
