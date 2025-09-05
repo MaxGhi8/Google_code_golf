@@ -126,7 +126,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task082.py](task082.py) | ✅ Completed | 61 | Max | |
 | [task083.py](task083.py) | ✅ Completed | 41 | Max | |
 | [task084.py](task084.py) | ✅ Completed | 87 | Max | Anti-diagonal coloring |
-| [task085.py](task085.py) | ✅ Completed | 127 | Max | Similar to [task098.py](task098.py) |
+| [task085.py](task085.py) | ✅ Completed | 121 | Max | Similar to [task098.py](task098.py) |
 | [task086.py](task086.py) | ⏳ Pending | - | - | |
 | [task087.py](task087.py) | ✅ Completed | 37 | Max | |
 | [task088.py](task088.py) | ✅ Completed | 136 | Max | |
