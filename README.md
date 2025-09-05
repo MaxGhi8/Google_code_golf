@@ -286,7 +286,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task242.py](task242.py) | ✅ Completed | 97 | Max | |
 | [task243.py](task243.py) | ⏳ Pending | - | - | |
 | [task244.py](task244.py) | ✅ Completed | 126 | Max | |
-| [task245.py](task245.py) | ⏳ Pending | - | - | |
+| [task245.py](task245.py) | ✅ Completed | 199 | Ale | |
 | [task246.py](task246.py) | ✅ Completed | 189 | Max | |
 | [task247.py](task247.py) | ✅ Completed | 121 | Max | |
 | [task248.py](task248.py) | ✅ Completed | 97 | Max, Waolo | Same as task 357 |
