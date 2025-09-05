@@ -223,7 +223,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task179.py](task179.py) | ✅ Completed | 22 | Max | |
 | [task180.py](task180.py) | ✅ Completed | 91 | Max | |
 | [task181.py](task181.py) | ✅ Completed | 87 | Max | |
-| [task182.py](task182.py) | ✅📚 Completed | 265 | Ale | How to combine `for x in range():`+`if [condition]:` in a single row |
+| [task182.py](task182.py) | ✅📚 Completed | 262 | Ale | How to combine `for x in range():`+`if [condition]:` in a single row |
 | [task183.py](task183.py) | ✅ Completed | 108 | Max | |
 | [task184.py](task184.py) | ⏳ Pending | - | - | |
 | [task185.py](task185.py) | ⏳ Pending | - | - | |
