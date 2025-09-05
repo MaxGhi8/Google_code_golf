@@ -429,16 +429,16 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task385.py](task385.py) | ✅ Completed | 26 | Max | |
 | [task386.py](task386.py) | ✅ Completed | 58 | Max | |
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
-| [task388.py](task388.py) | ✅ Completed | 84 | Max | |
-| [task389.py](task389.py) | ✅ Completed | 66 | Ale, Max | |
+| [task388.py](task388.py) | ✅ Completed | 68 | Max | |
+| [task389.py](task389.py) | ✅ Completed | 64 | Ale, Max | |
 | [task390.py](task390.py) | ⏳ Pending | - | - | |
-| [task391.py](task391.py) | ✅ Completed | 76 | Max | |
+| [task391.py](task391.py) | ✅ Completed | 74 | Max | |
 | [task392.py](task392.py) | ⏳ Pending | - | - | |
 | [task393.py](task393.py) | ✅ Completed | 76 | Max | |
 | [task394.py](task394.py) | ⏳ Pending | - | - | |
-| [task395.py](task395.py) | ✅ Completed | 71 | Max | `zip` go brrr |
+| [task395.py](task395.py) | ✅ Completed | 67 | Max | `zip` go brrr |
 | [task396.py](task396.py) | ⏳ Pending | - | - | |
-| [task397.py](task397.py) | ✅ Completed | 177 | Max | |
+| [task397.py](task397.py) | ✅ Completed | 163 | Max | |
 | [task398.py](task398.py) | ✅ Completed | 107 | Max | |
 | [task399.py](task399.py) | ✅ Completed | 150 | Max | |
 | [task400.py](task400.py) | ✅ Completed | 133 | Max | Same as task [task351.py](task351.py) |
