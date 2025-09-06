@@ -440,8 +440,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task396.py](task396.py) | ⏳ Pending | - | - | |
 | [task397.py](task397.py) | ✅ Completed | 163 | Max | |
 | [task398.py](task398.py) | ✅ Completed | 107 | Max | |
-| [task399.py](task399.py) | ✅ Completed | 150 | Max | |
-| [task400.py](task400.py) | ✅ Completed | 133 | Max | Same as task [task351.py](task351.py) |
+| [task399.py](task399.py) | ✅ Completed | 147 | Max | |
+| [task400.py](task400.py) | ✅ Completed | 132 | Max | Same as task [task351.py](task351.py) |
 
 ---
 
