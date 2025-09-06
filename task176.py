@@ -1,0 +1,1 @@
+p=lambda g:[[c or((224,65,2051)[i]>>j%12&1)*4for j,c in enumerate(g[i])]for i in(0,1,2)]
