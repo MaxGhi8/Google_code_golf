@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 263/401 tasks completed -->
+<!-- Progress: 269/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -215,17 +215,17 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
 | [task173.py](task173.py) | ⏳ Pending | - | - | |
-| [task174.py](task174.py) | ⏳ Pending | - | - | |
+| [task174.py](task174.py) | ✅ Completed | 189 | Max | |
 | [task175.py](task175.py) | ✅ Completed | 180 | Ale | Inspired by [task123.py](task123.py) |
-| [task176.py](task176.py) | ⏳ Pending | - | - | |
+| [task176.py](task176.py) | ✅ Completed | 89 | Max | |
 | [task177.py](task177.py) | ✅ Completed | 64 | Max | |
-| [task178.py](task178.py) | ⏳ Pending | - | - | |
+| [task178.py](task178.py) | ✅ Completed | 72 | Ale, Max | Similar to [task218.py](task218.py) |
 | [task179.py](task179.py) | ✅ Completed | 22 | Max | |
 | [task180.py](task180.py) | ✅ Completed | 91 | Max | |
 | [task181.py](task181.py) | ✅ Completed | 87 | Max | |
 | [task182.py](task182.py) | ✅📚 Completed | 262 | Ale | How to combine `for x in range():`+`if [condition]:` in a single row |
 | [task183.py](task183.py) | ✅ Completed | 108 | Max | |
-| [task184.py](task184.py) | ⏳ Pending | - | - | |
+| [task184.py](task184.py) | ✅ Completed | 140 | Max, Ale | |
 | [task185.py](task185.py) | ⏳ Pending | - | - | |
 | [task186.py](task186.py) | ✅ Completed | 77 | Max | |
 | [task187.py](task187.py) | ⏳ Pending | - | - | |
@@ -238,7 +238,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task194.py](task194.py) | ✅ Completed | 85 | Max | Same as [task106.py](task106.py) |
 | [task195.py](task195.py) | ✅ Completed | 146 | Max | |
 | [task196.py](task196.py) | ⏳ Pending | - | - | |
-| [task197.py](task197.py) | ⏳ Pending | - | - | |
+| [task197.py](task197.py) | ✅ Completed | 54 | Ale, Max | |
 | [task198.py](task198.py) | ⏳ Pending | - | - | |
 | [task199.py](task199.py) | ✅ Completed | 141 | Max | |
 | [task200.py](task200.py) | ✅ Completed | 139 | Max | |
@@ -305,7 +305,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task261.py](task261.py) | ✅ Completed | 52 | Max, Ale | |
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
 | [task263.py](task263.py) | ✅ Completed | 175 | Ale, Max | |
-| [task264.py](task264.py) | ✅ Completed | 257 | Ale | |
+| [task264.py](task264.py) | ✅ Completed | 249 | Ale | |
 | [task265.py](task265.py) | ⏳ Pending | - | - | |
 | [task266.py](task266.py) | ⏳ Pending | - | - | |
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
@@ -376,7 +376,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task332.py](task332.py) | ✅ Completed | 72 | Max | |
 | [task333.py](task333.py) | ⏳ Pending | - | - | |
 | [task334.py](task334.py) | ✅ Completed | 79 | Max | |
-| [task335.py](task335.py) | ⏳ Pending | - | - | |
+| [task335.py](task335.py) | ✅ Completed | 164 | Max, Ale | |
 | [task336.py](task336.py) | ⏳ Pending | - | - | |
 | [task337.py](task337.py) | ✅ Completed | 52 | Ghi, Max | `{x:x,...}[x] >>> {...}.get(x,x)` |
 | [task338.py](task338.py) | ✅👀 Completed | 154 | Ale, Max | First part from 002. Can be improved |
@@ -440,8 +440,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task396.py](task396.py) | ⏳ Pending | - | - | |
 | [task397.py](task397.py) | ✅ Completed | 163 | Max | |
 | [task398.py](task398.py) | ✅ Completed | 107 | Max | |
-| [task399.py](task399.py) | ✅ Completed | 150 | Max | |
-| [task400.py](task400.py) | ✅ Completed | 133 | Max | Same as task [task351.py](task351.py) |
+| [task399.py](task399.py) | ✅ Completed | 147 | Max | |
+| [task400.py](task400.py) | ✅ Completed | 132 | Max | Same as task [task351.py](task351.py) |
 
 ---
 

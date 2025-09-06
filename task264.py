@@ -1,6 +1,1 @@
-def p(g,R=range):
- w=len(g[0]);m=[[5]*9for _ in R(9)]
- for z in R(w*len(g)):
-  q=sum((r[z%w:][:3]for r in g[z//w:][:3]),[])
-  for a in(k:=all(q)*q[8:]and{*q}-{5})and R(3):v=q[4]!=5;o=2*q[v::2].index(*k)+v;m[o-o%3+a][o%3*3:o%3*3+3]=q[a*3:][:3]
- return m
+p=lambda g,e=enumerate,R=range(9):(D:={sum((k!=5)<<i for i,k in e(x[::2])):(i,j)for i,R in e(g[2:])for j,_ in e(R[2:])if all(x:=sum((t[j:j+3]for t in g[i:i+3]),[]))})and[[g[(d:=D[b"172=0F8L@"[i-i%3+j//3]-48])[0]+i%3][d[1]+j%3]for j in R]for i in R]
