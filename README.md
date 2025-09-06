@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 265/401 tasks completed -->
+<!-- Progress: 266/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -225,7 +225,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task181.py](task181.py) | ✅ Completed | 87 | Max | |
 | [task182.py](task182.py) | ✅📚 Completed | 262 | Ale | How to combine `for x in range():`+`if [condition]:` in a single row |
 | [task183.py](task183.py) | ✅ Completed | 108 | Max | |
-| [task184.py](task184.py) | ⏳ Pending | - | - | |
+| [task184.py](task184.py) | ✅ Completed | 140 | Max, Ale | |
 | [task185.py](task185.py) | ⏳ Pending | - | - | |
 | [task186.py](task186.py) | ✅ Completed | 77 | Max | |
 | [task187.py](task187.py) | ⏳ Pending | - | - | |
