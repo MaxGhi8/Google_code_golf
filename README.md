@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 283/401 tasks completed -->
+<!-- Progress: 284/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -89,7 +89,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task044.py](task044.py) | ⏳ Pending | - | - | |
 | [task045.py](task045.py) | ✅ Completed | 53 | Max | |
 | [task046.py](task046.py) | ⏳ Pending | - | - | |
-| [task047.py](task047.py) | ⏳ Pending | - | - | |
+| [task047.py](task047.py) | ✅ Completed | 164 | Max | |
 | [task048.py](task048.py) | ⏳ Pending | - | - | |
 | [task049.py](task049.py) | 📚✅ Completed | 107 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ✅ Completed | 126 | Max, Gio | |
