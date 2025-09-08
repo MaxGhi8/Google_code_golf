@@ -296,7 +296,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task251.py](task251.py) | ✅ Completed | 151 | Ale | Adapted from [task002.py](task002.py) |
 | [task252.py](task252.py) | ✅ Completed | 100 | Max | |
 | [task253.py](task253.py) | ✅ Completed | 173 | Ale | |
-| [task254.py](task254.py) | ✅ Completed | 149 | Max | |
+| [task254.py](task254.py) | ✅ Completed | 148 | Max | |
 | [task255.py](task255.py) | ⏳ Pending | - | - | |
 | [task256.py](task256.py) | ✅ Completed | 121 | Ale | |
 | [task257.py](task257.py) | ✅📚 Completed | 83 | Ghi, Max | `a or b = {a if a>0, b if a = 0}`|
@@ -307,7 +307,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task262.py](task262.py) | ✅ Completed | 47 | Max, Ale | |
 | [task263.py](task263.py) | ✅ Completed | 175 | Ale, Max | |
 | [task264.py](task264.py) | ✅ Completed | 249 | Ale | |
-| [task265.py](task265.py) | ⏳ Pending | - | - | |
+| [task265.py](task265.py) | ✅ Completed | 201 | Oxke | |
 | [task266.py](task266.py) | ✅ Completed | 151 | Oxke | |
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
