@@ -34,6 +34,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | **Optimized** | 🏆 | Optimized an already existing solution |
 | **Needs Review** | 👀 | Requires code review |
 | **Interest** | 📚 | Interesting solution with a smart and generalizable practice |
+| **GPT-generated** | 🤖 | Coded with a GPT - Might need a better idea or some review |
 
 ## 📈 Task Progress Table
 
@@ -77,7 +78,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task033.py](task033.py) | ✅ Completed | 125 | Ale,Max | |
 | [task034.py](task034.py) | ⏳ Pending | - | - | |
 | [task035.py](task035.py) | ✅ Completed | 209 | Max | |
-| [task036.py](task036.py) | ⏳ Pending | - | - | |
+| [task036.py](task036.py) | ✅🤖 Completed | 256 | Ale | |
 | [task037.py](task037.py) | ✅ Completed | 170 | Max | |
 | [task038.py](task038.py) | ✅ Completed | 111 | Max | |
 | [task039.py](task039.py) | ✅ Completed | 73 | Max | |
