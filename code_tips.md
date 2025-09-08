@@ -15,7 +15,7 @@
 8. Sometimes can be better substitute a `range(len(...))` with `enumerate(...)`, in particular when there is already one or more enumerate in the code and combine this observation with tips 5., see [task215.py](task215.py).
 9. For alternating colors I can make a full line and then color alternating over the previous one, see [task232.py](task232.py).
 10. Symmetry respect main diagonal can be useful in many situations -> `p=lambda m:[*map(list,zip(*m))]`, see [task241.py](task241.py).
-11. To mind the maximum of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
+11. To find the most frequent value of a matrix, I can use `max(L:=sum(g,[]),key=L.count)` with `g` the original matrix, see [task129.py](task129.py).
 12. Function for all the permutation -> `f=lambda a:[p+[x]for x in a for p in f(a-{x})]or[[]]`. This is an alternative of `permutations` from `combinatorics` library -> see discussione [here](https://codegolf.stackexchange.com/questions/5056/code-golf-permutations)
 13. This is how to unroll a matrix into a vector: `sum(g,[])` where `g` is the original matrix, see [task007.py](task007.py). This can be also useful when I need to iterate over all the element of the matrix, save 6 Bytes in [task115.py](task115.py), using it instead of the double for loop. If I need to rool back the matrix I can use this `[*map(list,zip(*[iter(L)]*m))]`.
 14. To iterate over the column of the matrix I find that this can be useful `for c in zip(*m)`, now `c` is a tuple but you can transform as a list with `[*c]`. In other words **the zip operator is equivalent to the transposition of the matrix**. See [task057.py](task057.py). Recently optimized with `[*map(list,zip(*m))]` in [task179.py](task179.py).
