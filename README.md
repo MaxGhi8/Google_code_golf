@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 277/401 tasks completed -->
+<!-- Progress: 279/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -200,7 +200,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task156.py](task156.py) | ⏳ Pending | - | - | |
 | [task157.py](task157.py) | ⏳ Pending | - | - | |
 | [task158.py](task158.py) | ⏳ Pending | - | - | |
-| [task159.py](task159.py) | ✅ Completed | 192| Ale | |
+| [task159.py](task159.py) | ✅ Completed | 192 | Ale | |
 | [task160.py](task160.py) | ✅ Completed | 176 | Ale | |
 | [task161.py](task161.py) | ✅ Completed | 107 | Max | |
 | [task162.py](task162.py) | ✅ Completed | 144 | Max | |
@@ -383,7 +383,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task339.py](task339.py) | ✅ Completed | 38 | Ghi, Max | `[*filter(int,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 | [task340.py](task340.py) | ⏳ Pending | - | - | |
 | [task341.py](task341.py) | ⏳ Pending | - | - | |
-| [task342.py](task342.py) | ✅👀 Completed | 192 | Max | |
+| [task342.py](task342.py) | ✅👀 Completed | 196 | Max | |
 | [task343.py](task343.py) | ⏳ Pending | - | - | |
 | [task344.py](task344.py) | ✅👀 Completed | 182 | Max | |
 | [task345.py](task345.py) | ✅👀 Completed | 137 | Max | |
@@ -395,7 +395,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task351.py](task351.py) | ✅ Completed | 115 | Max | Same as task 400 |
 | [task352.py](task352.py) | ✅ Completed | 123 | Ale, Max | Similar to [task95.py](task95.py) and [task206.py](task206.py) |
 | [task353.py](task353.py) | ✅ Completed | 128 | Max | |
-| [task354.py](task354.py) | ⏳ Pending | - | - | |
+| [task354.py](task354.py) | ✅👀 Completed | 197 | Max | |
 | [task355.py](task355.py) | ⏳ Pending | - | - | |
 | [task356.py](task356.py) | ✅ Completed | 121 | Ale, Max | Same as [task350.py](task350.py) |
 | [task357.py](task357.py) | ✅ Completed | 105 | Max | Same as task [task248.py](task248.py) |
