@@ -307,7 +307,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task263.py](task263.py) | ✅ Completed | 175 | Ale, Max | |
 | [task264.py](task264.py) | ✅ Completed | 249 | Ale | |
 | [task265.py](task265.py) | ⏳ Pending | - | - | |
-| [task266.py](task266.py) | ⏳ Pending | - | - | |
+| [task266.py](task266.py) | ✅ Completed | 151 | Oxke | |
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task [task289.py](task289.py), but with individual colours in g |
