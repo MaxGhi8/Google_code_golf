@@ -386,7 +386,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task342.py](task342.py) | ⏳ Pending | - | - | |
 | [task343.py](task343.py) | ⏳ Pending | - | - | |
 | [task344.py](task344.py) | ⏳ Pending | - | - | |
-| [task345.py](task345.py) | ✅ Completed | 137 | Max | |
+| [task345.py](task345.py) | ✅ Completed | 125 | Max, Ale | |
 | [task346.py](task346.py) | ✅ Completed | 129 | Ale, Max | Inspired by [task271.py](task271.py) |
 | [task347.py](task347.py) | ✅ Completed | 55 | Ghi, Max | |
 | [task348.py](task348.py) | ⏳ Pending | - | - | |
