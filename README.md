@@ -383,7 +383,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task339.py](task339.py) | ✅ Completed | 38 | Ghi, Max | `[*filter(int,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 | [task340.py](task340.py) | ⏳ Pending | - | - | |
 | [task341.py](task341.py) | ⏳ Pending | - | - | |
-| [task342.py](task342.py) | ⏳ Pending | - | - | |
+| [task342.py](task342.py) | ✅👀 Completed | 192 | Max | |
 | [task343.py](task343.py) | ⏳ Pending | - | - | |
 | [task344.py](task344.py) | ✅👀 Completed | 182 | Max | |
 | [task345.py](task345.py) | ✅👀 Completed | 137 | Max | |
