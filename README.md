@@ -29,7 +29,6 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | Status | Icon | Description |
 |--------|------|-------------|
 | **Pending** | ⏳ | Task not started |
-| **In Progress** | 🔄 | Currently working on task |
 | **Completed** | ✅ | Task completed and verified |
 | **Optimized** | 🏆 | Optimized an already existing solution |
 | **Needs Review** | 👀 | Requires code review |
@@ -89,7 +88,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task044.py](task044.py) | ⏳ Pending | - | - | |
 | [task045.py](task045.py) | ✅ Completed | 53 | Max | |
 | [task046.py](task046.py) | ⏳ Pending | - | - | |
-| [task047.py](task047.py) | ✅ Completed | 164 | Max | |
+| [task047.py](task047.py) | ✅👀 Completed | 164 | Max | |
 | [task048.py](task048.py) | ⏳ Pending | - | - | |
 | [task049.py](task049.py) | 📚✅ Completed | 107 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ✅ Completed | 126 | Max, Gio | |
