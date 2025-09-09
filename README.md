@@ -271,7 +271,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task227.py](task227.py) | ✅ Completed | 62 | Ghi, Max | |
 | [task228.py](task228.py) | ⏳ Pending | - | - | |
 | [task229.py](task229.py) | ✅ Completed | 75 | Max | |
-| [task230.py](task230.py) | ⏳ Pending | - | - | |
+| [task230.py](task230.py) | ✅ Completed | 211 | Max, Ale | |
 | [task231.py](task231.py) | ✅ Completed | 53 | Max | |
 | [task232.py](task232.py) | ✅📚 Completed | 93 | Max | For alternating colors I can make a full line and then color alternating over the previous one (see old version) |
 | [task233.py](task233.py) | ⏳ Pending | - | - | |
@@ -284,7 +284,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task240.py](task240.py) | ⏳ Pending | - | - | |
 | [task241.py](task241.py) | ✅📚 Completed | 32 | Max, Waolo | Symmetry respect main diagonal |
 | [task242.py](task242.py) | ✅ Completed | 97 | Max | |
-| [task243.py](task243.py) | ⏳ Pending | - | - | |
+| [task243.py](task243.py) | ✅ Completed | 211 | Max, Ale | |
 | [task244.py](task244.py) | ✅ Completed | 126 | Max | |
 | [task245.py](task245.py) | ✅ Completed | 194 | Ale | |
 | [task246.py](task246.py) | ✅ Completed | 189 | Max | |
