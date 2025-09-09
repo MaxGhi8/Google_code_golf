@@ -29,7 +29,6 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | Status | Icon | Description |
 |--------|------|-------------|
 | **Pending** | ⏳ | Task not started |
-| **In Progress** | 🔄 | Currently working on task |
 | **Completed** | ✅ | Task completed and verified |
 | **Optimized** | 🏆 | Optimized an already existing solution |
 | **Needs Review** | 👀 | Requires code review |
@@ -38,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 283/401 tasks completed -->
+<!-- Progress: 287/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -89,7 +88,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task044.py](task044.py) | ⏳ Pending | - | - | |
 | [task045.py](task045.py) | ✅ Completed | 53 | Max | |
 | [task046.py](task046.py) | ⏳ Pending | - | - | |
-| [task047.py](task047.py) | ⏳ Pending | - | - | |
+| [task047.py](task047.py) | ✅👀 Completed | 164 | Max | |
 | [task048.py](task048.py) | ⏳ Pending | - | - | |
 | [task049.py](task049.py) | 📚✅ Completed | 107 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ✅ Completed | 126 | Max, Gio | |
@@ -111,7 +110,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task066.py](task066.py) | ⏳ Pending | - | - | |
 | [task067.py](task067.py) | ✅ Completed | 37 | Max | |
 | [task068.py](task068.py) | 📚✅ Completed | 199 | Max | List comprehension with set item |
-| [task069.py](task069.py) | ⏳ Pending | - | - | |
+| [task069.py](task069.py) | ✅ Completed | 299 | Max | |
 | [task070.py](task070.py) | ✅ Completed | 181 | Max | |
 | [task071.py](task071.py) | ✅ Completed | 179 | Ale | |
 | [task072.py](task072.py) | ✅ Completed | 62 | Max | |
@@ -146,7 +145,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task101.py](task101.py) | ⏳ Pending | - | - | |
 | [task102.py](task102.py) | ⏳ Pending | - | - | |
 | [task103.py](task103.py) | ✅ Completed | 30 | Ale, Max | |
-| [task104.py](task104.py) | ⏳ Pending | - | - | |
+| [task104.py](task104.py) | ✅ Completed | 143 | Max | |
 | [task105.py](task105.py) | ✅ Completed | 254 | Ale, Max | |
 | [task106.py](task106.py) | ✅ Completed | 94 | Max | Same as [task194.py](task194.py) |
 | [task107.py](task107.py) | ✅ Completed | 162 | Max | |
