@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 287/401 tasks completed -->
+<!-- Progress: 288/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -184,7 +184,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task140.py](task140.py) | ✅ Completed | 37 | Ghi, Max | |
 | [task141.py](task141.py) | ✅ Completed | 146 | Max | |
 | [task142.py](task142.py) | ✅ Completed | 41 | Ghi, Max | |
-| [task143.py](task143.py) | ⏳ Pending | - | - | |
+| [task143.py](task143.py) | ✅ Completed | 260 | Max | |
 | [task144.py](task144.py) | ✅ Completed | 64 | Ghi, Max | `[[... for a,b in zip(*z)]for z in zip(g,g[5:])]` >>> `[[... for a,b in zip(x,y)]for x,y in zip(g,g[5:])]` |
 | [task145.py](task145.py) | ⏳ Pending | - | - | |
 | [task146.py](task146.py) | ✅ Completed | 71 | Max | |
