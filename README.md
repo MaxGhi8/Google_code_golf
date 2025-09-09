@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 285/401 tasks completed -->
+<!-- Progress: 286/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -110,7 +110,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task066.py](task066.py) | ⏳ Pending | - | - | |
 | [task067.py](task067.py) | ✅ Completed | 37 | Max | |
 | [task068.py](task068.py) | 📚✅ Completed | 199 | Max | List comprehension with set item |
-| [task069.py](task069.py) | ⏳ Pending | - | - | |
+| [task069.py](task069.py) | ✅ Completed | 299 | Max | |
 | [task070.py](task070.py) | ✅ Completed | 181 | Max | |
 | [task071.py](task071.py) | ✅ Completed | 179 | Ale | |
 | [task072.py](task072.py) | ✅ Completed | 62 | Max | |
