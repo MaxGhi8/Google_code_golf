@@ -308,7 +308,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task263.py](task263.py) | ✅ Completed | 175 | Ale, Max | |
 | [task264.py](task264.py) | ✅ Completed | 249 | Ale | |
 | [task265.py](task265.py) | ✅ Completed | 201 | Oxke | |
-| [task266.py](task266.py) | ✅ Completed | 151 | Oxke | |
+| [task266.py](task266.py) | ✅ Completed | 148 | Oxke | |
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task [task289.py](task289.py), but with individual colours in g |
@@ -378,7 +378,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task333.py](task333.py) | ⏳ Pending | - | - | |
 | [task334.py](task334.py) | ✅ Completed | 79 | Max | |
 | [task335.py](task335.py) | ✅ Completed | 164 | Max, Ale | |
-| [task336.py](task336.py) | ✅ Completed | 138 | Max | |
+| [task336.py](task336.py) | ✅ Completed | 128 | Max | |
 | [task337.py](task337.py) | ✅ Completed | 52 | Ghi, Max | `{x:x,...}[x] >>> {...}.get(x,x)` |
 | [task338.py](task338.py) | ✅👀 Completed | 154 | Ale, Max | First part from 002. Can be improved |
 | [task339.py](task339.py) | ✅ Completed | 38 | Ghi, Max | `[*filter(int,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
