@@ -386,16 +386,16 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task342.py](task342.py) | ✅👀 Completed | 181 | Max | |
 | [task343.py](task343.py) | ✅👀 Completed | 131 | Ale | |
 | [task344.py](task344.py) | ✅👀 Completed | 187 | Max | |
-| [task345.py](task345.py) | ✅👀 Completed | 137 | Max | |
+| [task345.py](task345.py) | ✅👀 Completed | 121 | Max | |
 | [task346.py](task346.py) | ✅ Completed | 129 | Ale, Max | Inspired by [task271.py](task271.py) |
 | [task347.py](task347.py) | ✅ Completed | 55 | Ghi, Max | |
-| [task348.py](task348.py) | ✅ Completed | 157 | Ale | |
+| [task348.py](task348.py) | ✅ Completed | 154 | Ale | |
 | [task349.py](task349.py) | ⏳ Pending | - | - | |
 | [task350.py](task350.py) | ✅ Completed | 121 | Ale, Max | Same as [task356.py](task356.py) |
 | [task351.py](task351.py) | ✅ Completed | 115 | Max | Same as task 400 |
 | [task352.py](task352.py) | ✅ Completed | 123 | Ale, Max | Similar to [task95.py](task95.py) and [task206.py](task206.py) |
 | [task353.py](task353.py) | ✅ Completed | 128 | Max | |
-| [task354.py](task354.py) | ✅👀 Completed | 197 | Max | |
+| [task354.py](task354.py) | ✅👀 Completed | 193 | Max | |
 | [task355.py](task355.py) | ⏳ Pending | - | - | |
 | [task356.py](task356.py) | ✅ Completed | 121 | Ale, Max | Same as [task350.py](task350.py) |
 | [task357.py](task357.py) | ✅ Completed | 105 | Max | Same as task [task248.py](task248.py) |
