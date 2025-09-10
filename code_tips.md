@@ -25,7 +25,7 @@
 18. I can use `dict.fromkeys` to remove duplicates from a list while preserving the order, exactly like an ordered `set`, see [task115.py](task115.py).
 19. How to color the anti-diagonal of a matrix (from bottom-left to upper-right) -> `[g[i].__setitem__(~i,2)for i in range(n)]`, see [task084.py](task084.py). For the main diagonal I think is the same but without the `~`.
 20. `sorted()` save 1 Byte respect to `.sort()`, see [task246.py](task246.py), [task013.py](task013.py) and [task091.py](task091.py).
-21. Instead of `sum(r)>0` I can use `any(r)`etto check if a row is not empty, see [task290.py](task290.py).
+21. Instead of `sum(r)>0` I can use `any(r)` to check if a row is not empty, see [task290.py](task290.py).
 22. In [task372.py](task372.py) there is my implementation to sum two matrices. The implementation is based on the `zip` function, so the matrices do not need to be the same size, and the function will automatically handle any differences in shape and make the sum on the smallest size, this is useful so I can avoid to resize all the matrices to be sum and save a lot of bytes.
 23. I find that [task271.py](task271.py) is interesting. I have to cycle through all the possible 3x3 submatrices of a 7x7 matrix and find the one with the maximum number of 1, I do this with a `max` over a list with all the possible 3x3 matrices and a custom `key` function for the `max`.
 24. I find that [task291.py](task291.py) is interesting. I have to find the holes. I realize that I have an hole when in a 2x2 matrix there is only one 0 and all the other numbers are the same.
