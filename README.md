@@ -209,7 +209,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task165.py](task165.py) | ✅ Completed | 203 | Max | |
 | [task166.py](task166.py) | ✅ Completed | 159 | Max | |
 | [task167.py](task167.py) | ✅ Completed | 90 | Max, Ale | Try to find a better mapping |
-| [task168.py](task168.py) | ✅ Completed | 217 | Max | |
+| [task168.py](task168.py) | ✅ Completed | 215 | Max | |
 | [task169.py](task169.py) | ⏳ Pending | - | - | |
 | [task170.py](task170.py) | ✅ Completed | 299 | Max | |
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
@@ -271,7 +271,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task227.py](task227.py) | ✅ Completed | 62 | Ghi, Max | |
 | [task228.py](task228.py) | ✅ Completed | 197 | Max, Ale | |
 | [task229.py](task229.py) | ✅ Completed | 75 | Max | |
-| [task230.py](task230.py) | ✅ Completed | 179 | Max, Ale | |
+| [task230.py](task230.py) | ✅ Completed | 147 | Max, Ale | |
 | [task231.py](task231.py) | ✅ Completed | 53 | Max | |
 | [task232.py](task232.py) | ✅📚 Completed | 93 | Max | For alternating colors I can make a full line and then color alternating over the previous one (see old version) |
 | [task233.py](task233.py) | ⏳ Pending | - | - | |
