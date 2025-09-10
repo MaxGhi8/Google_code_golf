@@ -211,7 +211,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task167.py](task167.py) | ✅ Completed | 90 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ✅ Completed | 215 | Max | |
 | [task169.py](task169.py) | ⏳ Pending | - | - | |
-| [task170.py](task170.py) | ✅ Completed | 299 | Max | |
+| [task170.py](task170.py) | ✅ Completed | 297 | Max | |
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
 | [task173.py](task173.py) | ⏳ Pending | - | - | |
