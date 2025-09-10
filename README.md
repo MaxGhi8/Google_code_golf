@@ -239,7 +239,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task195.py](task195.py) | ✅ Completed | 146 | Max | |
 | [task196.py](task196.py) | ⏳ Pending | - | - | |
 | [task197.py](task197.py) | ✅ Completed | 54 | Ale, Max | |
-| [task198.py](task198.py) | 👀✅ Completed | 338 | Max | Here I color first the yellows one and then the green, the viceversa will be interesting to explore. |
+| [task198.py](task198.py) | 👀✅ Completed | 331 | Max | Here I color first the yellows one and then the green, the viceversa will be interesting to explore. |
 | [task199.py](task199.py) | ✅ Completed | 141 | Max | |
 | [task200.py](task200.py) | ✅ Completed | 139 | Max | |
 | [task201.py](task201.py) | ✅ Completed | 273 | Max | |
