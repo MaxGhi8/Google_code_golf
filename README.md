@@ -226,7 +226,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task182.py](task182.py) | ✅📚 Completed | 262 | Ale | How to combine `for x in range():`+`if [condition]:` in a single row |
 | [task183.py](task183.py) | ✅ Completed | 108 | Max | |
 | [task184.py](task184.py) | ✅ Completed | 140 | Max, Ale | |
-| [task185.py](task185.py) | ✅ Completed | 252 | Max | |
+| [task185.py](task185.py) | ✅ Completed | 239 | Max | |
 | [task186.py](task186.py) | ✅ Completed | 77 | Max | |
 | [task187.py](task187.py) | 👀✅ Completed | 258 | Max | Approach brute force similar to [task002.py](task002.py) could be explored. |
 | [task188.py](task188.py) | ✅ Completed | 94 | Max | |
