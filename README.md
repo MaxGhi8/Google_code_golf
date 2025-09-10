@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 303/401 tasks completed -->
+<!-- Progress: 305/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -242,7 +242,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task198.py](task198.py) | 👀✅ Completed | 338 | Max | Here I color first the yellows one and then the green, the viceversa will be interesting to explore. |
 | [task199.py](task199.py) | ✅ Completed | 141 | Max | |
 | [task200.py](task200.py) | ✅ Completed | 139 | Max | |
-| [task201.py](task201.py) | ⏳ Pending | - | - | |
+| [task201.py](task201.py) | ✅ Completed | 273 | Max | |
 | [task202.py](task202.py) | ⏳ Pending | - | - | |
 | [task203.py](task203.py) | ✅ Completed | 95 | Max | |
 | [task204.py](task204.py) | ✅ Completed | 261 | Max | |
@@ -253,7 +253,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task209.py](task209.py) | ⏳ Pending | - | - | |
 | [task210.py](task210.py) | ✅ Completed | 21 | Max | |
 | [task211.py](task211.py) | ✅ Completed | 50 | Max | |
-| [task212.py](task212.py) | ⏳ Pending | - | - | |
+| [task212.py](task212.py) | ✅ Completed | 169 | Max | |
 | [task213.py](task213.py) | ⏳ Pending | - | - | |
 | [task214.py](task214.py) | ✅📚 Completed | 91 | Max | I think that I have implemented a good function for rotation clockwise |
 | [task215.py](task215.py) | ✅ Completed | 70 | Max |  |
