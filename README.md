@@ -134,7 +134,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task090.py](task090.py) | 👀✅ Completed | 294 | Oxke, Ale | |
 | [task091.py](task091.py) | ✅ Completed | 119 | Max | |
 | [task092.py](task092.py) | ✅ Completed | 156 | Max | |
-| [task093.py](task093.py) | ⏳ Pending | - | - | |
+| [task093.py](task093.py) | ✅ Completed | 265 | Ale | |
 | [task094.py](task094.py) | ✅ Completed | 197 | Max | |
 | [task095.py](task095.py) | ✅ Completed | 115 | Ale, Max | |
 | [task096.py](task096.py) | ⏳ Pending | - | - | |
