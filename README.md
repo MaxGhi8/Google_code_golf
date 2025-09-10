@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 298/401 tasks completed -->
+<!-- Progress: 302/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -134,7 +134,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task090.py](task090.py) | 👀✅ Completed | 294 | Oxke, Ale | |
 | [task091.py](task091.py) | ✅ Completed | 119 | Max | |
 | [task092.py](task092.py) | ✅ Completed | 156 | Max | |
-| [task093.py](task093.py) | ⏳ Pending | - | - | |
+| [task093.py](task093.py) | ✅ Completed | 265 | Ale | |
 | [task094.py](task094.py) | ✅ Completed | 197 | Max | |
 | [task095.py](task095.py) | ✅ Completed | 115 | Ale, Max | |
 | [task096.py](task096.py) | ⏳ Pending | - | - | |
@@ -228,9 +228,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task184.py](task184.py) | ✅ Completed | 140 | Max, Ale | |
 | [task185.py](task185.py) | ✅ Completed | 252 | Max | |
 | [task186.py](task186.py) | ✅ Completed | 77 | Max | |
-| [task187.py](task187.py) | ✅ Completed | 258 | Max | Approach brute force similar to [task002.py](task002.py) could be explored. |
+| [task187.py](task187.py) | 👀✅ Completed | 258 | Max | Approach brute force similar to [task002.py](task002.py) could be explored. |
 | [task188.py](task188.py) | ✅ Completed | 94 | Max | |
-| [task189.py](task189.py) | ⏳ Pending | - | - | |
+| [task189.py](task189.py) | ✅ Completed | 163 | Max | |
 | [task190.py](task190.py) | ⏳ Pending | - | - | |
 | [task191.py](task191.py) | ⏳ Pending | - | - | |
 | [task192.py](task192.py) | ✅ Completed | 207 | Ale | |
@@ -239,7 +239,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task195.py](task195.py) | ✅ Completed | 146 | Max | |
 | [task196.py](task196.py) | ⏳ Pending | - | - | |
 | [task197.py](task197.py) | ✅ Completed | 54 | Ale, Max | |
-| [task198.py](task198.py) | ⏳ Pending | - | - | |
+| [task198.py](task198.py) | 👀✅ Completed | 338 | Max | Here I color first the yellows one and then the green, the viceversa will be interesting to explore. |
 | [task199.py](task199.py) | ✅ Completed | 141 | Max | |
 | [task200.py](task200.py) | ✅ Completed | 139 | Max | |
 | [task201.py](task201.py) | ⏳ Pending | - | - | |
