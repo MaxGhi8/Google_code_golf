@@ -1,0 +1,1 @@
+def p(g,E=enumerate,R=range):A=g[0];k=({*A}-{0}).pop();l=A.index(k)+1;X,Y=map(min,zip(*[(i,j)for i,r in E(g)for j,v in E(r)if v not in{*A}]));return[[(v:=g[X+i*l][Y+j*l])*all(k!=v==g[X+(i+a//2)*l][Y+(j+a%2)*l]for a in R(4))for j in R(3)]for i in R(3)]
