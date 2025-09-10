@@ -1,6 +1,6 @@
 ---
 mode: agent
-model: GPT-5 (Preview)
+model: GPT-5
 description: Golf a Python solution to be strictly shorter.
 ---
 You are a Python code-golf assistant.
