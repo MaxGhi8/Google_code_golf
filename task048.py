@@ -1,8 +1,6 @@
-def p(g,R=range):
- h=len(g);w=len(g[0]);s=[(i,j)for i in R(h-1)for j in R(w-1)if g[i][j]*g[i+1][j+1]==4];f=lambda i,j:[(r,c)for r in R(i-1,i+3)for c in R(j-1,j+3)if h>r>-1<c<w and g[r][c]>7];q=f(*s[0])
+def p(g):
+ w=len(g[0]);t=sum(g,[]);m=len(t);q=[t.index(2)];b=m+~t[::-1].index(2)
  while q:
-  r,c=q.pop()
-  if(r,c)in f(*s[1]):return[[8]]
-  g[r][c]=0
-  for a,b in(1,0),(-1,0),(0,1),(0,-1):x=r+a;y=c+b;h>x>-1<y<w and g[x][y]>7and q.append((x,y))
+  if(x:=q.pop())==b:return[[8]]
+  t[x]=0;q+=[k for a in(x%w<w-1,-(x%w>0),w,-w)if-1<(k:=x+a)<m and t[k]]
  return[[0]]

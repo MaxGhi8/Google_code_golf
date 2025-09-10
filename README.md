@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 295/401 tasks completed -->
+<!-- Progress: 298/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -89,7 +89,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task045.py](task045.py) | ✅ Completed | 53 | Max | |
 | [task046.py](task046.py) | ⏳ Pending | - | - | |
 | [task047.py](task047.py) | ✅👀 Completed | 164 | Max | |
-| [task048.py](task048.py) | ✅ Completed | 378 | Ale | |
+| [task048.py](task048.py) | ✅ Completed | 208 | Ale | |
 | [task049.py](task049.py) | 📚✅ Completed | 107 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ✅ Completed | 126 | Max, Gio | |
 | [task051.py](task051.py) | ✅ Completed | 172 | Max, Gio | |
@@ -211,7 +211,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task167.py](task167.py) | ✅ Completed | 90 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ✅ Completed | 217 | Max | |
 | [task169.py](task169.py) | ⏳ Pending | - | - | |
-| [task170.py](task170.py) | ⏳ Pending | - | - | |
+| [task170.py](task170.py) | ✅ Completed | 299 | Max | |
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
 | [task173.py](task173.py) | ⏳ Pending | - | - | |
@@ -226,9 +226,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task182.py](task182.py) | ✅📚 Completed | 262 | Ale | How to combine `for x in range():`+`if [condition]:` in a single row |
 | [task183.py](task183.py) | ✅ Completed | 108 | Max | |
 | [task184.py](task184.py) | ✅ Completed | 140 | Max, Ale | |
-| [task185.py](task185.py) | ⏳ Pending | - | - | |
+| [task185.py](task185.py) | ✅ Completed | 252 | Max | |
 | [task186.py](task186.py) | ✅ Completed | 77 | Max | |
-| [task187.py](task187.py) | ⏳ Pending | - | - | |
+| [task187.py](task187.py) | ✅ Completed | 258 | Max | Approach brute force similar to [task002.py](task002.py) could be explored. |
 | [task188.py](task188.py) | ✅ Completed | 94 | Max | |
 | [task189.py](task189.py) | ⏳ Pending | - | - | |
 | [task190.py](task190.py) | ⏳ Pending | - | - | |
