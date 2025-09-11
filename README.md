@@ -231,7 +231,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task187.py](task187.py) | 👀✅ Completed | 258 | Max | Approach brute force similar to [task002.py](task002.py) could be explored. |
 | [task188.py](task188.py) | ✅ Completed | 94 | Max | |
 | [task189.py](task189.py) | ✅ Completed | 163 | Max | |
-| [task190.py](task190.py) | ⏳ Pending | - | - | |
+| [task190.py](task190.py) | ✅ Completed | 217 | Max | |
 | [task191.py](task191.py) | ⏳ Pending | - | - | |
 | [task192.py](task192.py) | ✅ Completed | 207 | Ale | |
 | [task193.py](task193.py) | ✅ Completed | 119 | Max | |
