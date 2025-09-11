@@ -211,7 +211,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task167.py](task167.py) | ✅ Completed | 90 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ✅ Completed | 215 | Max | |
 | [task169.py](task169.py) | ⏳ Pending | - | - | |
-| [task170.py](task170.py) | ✅ Completed | 299 | Max | |
+| [task170.py](task170.py) | ✅ Completed | 297 | Max | |
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
 | [task173.py](task173.py) | ⏳ Pending | - | - | |
@@ -226,12 +226,12 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task182.py](task182.py) | ✅📚 Completed | 262 | Ale | How to combine `for x in range():`+`if [condition]:` in a single row |
 | [task183.py](task183.py) | ✅ Completed | 108 | Max | |
 | [task184.py](task184.py) | ✅ Completed | 140 | Max, Ale | |
-| [task185.py](task185.py) | ✅ Completed | 252 | Max | |
+| [task185.py](task185.py) | ✅ Completed | 239 | Max | |
 | [task186.py](task186.py) | ✅ Completed | 77 | Max | |
 | [task187.py](task187.py) | 👀✅ Completed | 258 | Max | Approach brute force similar to [task002.py](task002.py) could be explored. |
 | [task188.py](task188.py) | ✅ Completed | 94 | Max | |
 | [task189.py](task189.py) | ✅ Completed | 163 | Max | |
-| [task190.py](task190.py) | ✅ Completed | 227 | Max | |
+| [task190.py](task190.py) | ⏳ Pending | - | - | |
 | [task191.py](task191.py) | ⏳ Pending | - | - | |
 | [task192.py](task192.py) | ✅ Completed | 207 | Ale | |
 | [task193.py](task193.py) | ✅ Completed | 119 | Max | |
@@ -239,13 +239,13 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task195.py](task195.py) | ✅ Completed | 146 | Max | |
 | [task196.py](task196.py) | ⏳ Pending | - | - | |
 | [task197.py](task197.py) | ✅ Completed | 54 | Ale, Max | |
-| [task198.py](task198.py) | 👀✅ Completed | 338 | Max | Here I color first the yellows one and then the green, the viceversa will be interesting to explore. |
+| [task198.py](task198.py) | 👀✅ Completed | 331 | Max | Here I color first the yellows one and then the green, the viceversa will be interesting to explore. |
 | [task199.py](task199.py) | ✅ Completed | 141 | Max | |
 | [task200.py](task200.py) | ✅ Completed | 139 | Max | |
 | [task201.py](task201.py) | ✅ Completed | 273 | Max | |
 | [task202.py](task202.py) | ⏳ Pending | - | - | |
 | [task203.py](task203.py) | ✅ Completed | 95 | Max | |
-| [task204.py](task204.py) | ✅ Completed | 261 | Max | |
+| [task204.py](task204.py) | ✅ Completed | 258 | Max | |
 | [task205.py](task205.py) | ⏳ Pending | - | - | |
 | [task206.py](task206.py) | ✅ Completed | 152 | Ale, Max | |
 | [task207.py](task207.py) | ✅ Completed | 105 | Ale, Max | |
@@ -253,7 +253,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task209.py](task209.py) | ⏳ Pending | - | - | |
 | [task210.py](task210.py) | ✅ Completed | 21 | Max | |
 | [task211.py](task211.py) | ✅ Completed | 50 | Max | |
-| [task212.py](task212.py) | ✅ Completed | 171 | Max | |
+| [task212.py](task212.py) | ✅ Completed | 169 | Max | |
 | [task213.py](task213.py) | ⏳ Pending | - | - | |
 | [task214.py](task214.py) | ✅📚 Completed | 91 | Max | I think that I have implemented a good function for rotation clockwise |
 | [task215.py](task215.py) | ✅ Completed | 70 | Max |  |
@@ -284,7 +284,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task240.py](task240.py) | ⏳ Pending | - | - | |
 | [task241.py](task241.py) | ✅📚 Completed | 32 | Max, Waolo | Symmetry respect main diagonal |
 | [task242.py](task242.py) | ✅ Completed | 97 | Max | |
-| [task243.py](task243.py) | ✅ Completed | 211 | Max, Ale | |
+| [task243.py](task243.py) | ✅ Completed | 200 | Max, Ale | |
 | [task244.py](task244.py) | ✅ Completed | 126 | Max | |
 | [task245.py](task245.py) | ✅ Completed | 194 | Ale | |
 | [task246.py](task246.py) | ✅ Completed | 189 | Max | |
@@ -409,7 +409,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task365.py](task365.py) | ✅ Completed | 151 | Ale, Max | |
 | [task366.py](task366.py) | ⏳ Pending | - | - | |
 | [task367.py](task367.py) | ⏳ Pending | - | - | |
-| [task368.py](task368.py) | ✅ Completed | 274 | Ale, Max | |
+| [task368.py](task368.py) | ✅ Completed | 259 | Ale, Max | |
 | [task369.py](task369.py) | ⏳ Pending | - | - | |
 | [task370.py](task370.py) | ⏳ Pending | - | - | |
 | [task371.py](task371.py) | ✅ Completed | 145 | Max | |
@@ -420,7 +420,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task376.py](task376.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task377.py](task377.py) | ✅ Completed | 83 | Ale | Similar to [task218.py](task218.py) |
 | [task378.py](task378.py) | ⏳ Pending | - | - | |
-| [task379.py](task379.py) | ⏳ Pending | - | - | |
+| [task379.py](task379.py) | ✅🤖 Completed | 354 | Ale | |
 | [task380.py](task380.py) | ✅ Completed | 38 | Max | |
 | [task381.py](task381.py) | ✅ Completed | 98 | Max | |
 | [task382.py](task382.py) | ⏳ Pending | - | - | |
