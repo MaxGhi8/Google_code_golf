@@ -190,7 +190,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task145.py](task145.py) | ⏳ Pending | - | - | |
 | [task146.py](task146.py) | ✅ Completed | 71 | Max | |
 | [task147.py](task147.py) | ✅ Completed | 140 | Max | |
-| [task148.py](task148.py) | ✅ Completed | 244 | Ale | |
+| [task148.py](task148.py) | ✅ Completed | 237 | Ale | |
 | [task149.py](task149.py) | ✅ Completed | 84 | Max | |
 | [task150.py](task150.py) | ✅ Completed | 31 | Ghi, Max | |
 | [task151.py](task151.py) | ✅ Completed | 124 | Max | |
@@ -198,7 +198,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task153.py](task153.py) | ⏳ Pending | - | - | |
 | [task154.py](task154.py) | ⏳ Pending | - | - | |
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
-| [task156.py](task156.py) | ✅ Completed | 256 | Max, Ale, Oxke | |
+| [task156.py](task156.py) | ✅ Completed | 251 | Max, Ale, Oxke | |
 | [task157.py](task157.py) | ⏳ Pending | - | - | |
 | [task158.py](task158.py) | ⏳ Pending | - | - | |
 | [task159.py](task159.py) | ✅ Completed | 186 | Ale | |
