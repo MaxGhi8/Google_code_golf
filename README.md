@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 310/401 tasks completed -->
+<!-- Progress: 312/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -198,7 +198,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task153.py](task153.py) | ⏳ Pending | - | - | |
 | [task154.py](task154.py) | ⏳ Pending | - | - | |
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
-| [task156.py](task156.py) | ✅ Completed | 258 | Max, Ale, Oxke | |
+| [task156.py](task156.py) | ✅ Completed | 257 | Max, Ale, Oxke | |
 | [task157.py](task157.py) | ⏳ Pending | - | - | |
 | [task158.py](task158.py) | ⏳ Pending | - | - | |
 | [task159.py](task159.py) | ✅ Completed | 186 | Ale | |
@@ -312,7 +312,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task [task289.py](task289.py), but with individual colours in g |
-| [task270.py](task270.py) | ⏳ Pending | - | - | |
+| [task270.py](task270.py) | 🤖 Completed | 263 | Ale | Possible alternative: DFS from (3|7) to (2|1) values? |
 | [task271.py](task271.py) | ✅📚 Completed | 99 | Max | |
 | [task272.py](task272.py) | ✅ Completed | 156 | Max | |
 | [task273.py](task273.py) | ✅ Completed | 173 | Max, Ale | |
