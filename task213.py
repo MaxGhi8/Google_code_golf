@@ -1,2 +1,1 @@
-def p(g):
- g=(g,zip(*g))[t:=3<len({*g[0],*g[-1]})];m=[s.pop()for r in g if(s:={*r}-{0,5})];m=[m]*len(m);return([*zip(*m)],m)[t]
+def p(g):g=(g,zip(*g))[t:=3<len({*g[0],*g[-1]})];m=[s.pop()for r in g if(s:={*r}-{0,5})];m=[m]*len(m);return([*zip(*m)],m)[t]
