@@ -37,7 +37,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 309/401 tasks completed -->
+<!-- Progress: 310/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -254,7 +254,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task210.py](task210.py) | ✅ Completed | 21 | Max | |
 | [task211.py](task211.py) | ✅ Completed | 50 | Max | |
 | [task212.py](task212.py) | ✅ Completed | 169 | Max | |
-| [task213.py](task213.py) | ⏳ Pending | - | - | |
+| [task213.py](task213.py) | ✅ Completed | 157 | Max | |
 | [task214.py](task214.py) | ✅📚 Completed | 91 | Max | I think that I have implemented a good function for rotation clockwise |
 | [task215.py](task215.py) | ✅ Completed | 70 | Max |  |
 | [task216.py](task216.py) | ✅ Completed | 159 | Max | Same as [task365.py](task365.py) (computational really inefficient) |
