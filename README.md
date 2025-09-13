@@ -5,24 +5,25 @@
 This repository contains solutions for 401 Google Code Golf tasks, numbered from `task000.py` to `task400.py`. Each task focuses on writing the shortest possible Python code to solve specific problems.
 
 ## 🏆 Goals
+
 - ✅ Complete all 400 tasks
 - 🎯 Optimize for minimal character count
 - 🕒 Execution time does not count, 😈 only bytes matters here
 
 ## 🚀 Getting Started
-The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
 
+The challenge description is available [here](https://www.kaggle.com/competitions/google-code-golf-2025/overview) and the notebook to starts with is [here](https://www.kaggle.com/code/mmoffitt/neurips-2025-google-code-golf-championship) and [here](https://www.kaggle.com/code/jazivxt/oh-barnacles) there is a notebook with already many solutions available, but probably not optimal.
 
 ## 📚 Additional Resources
 
 ### Useful Links
+
 - [Python Standard Library, no other libraries are allowed](https://docs.python.org/3/library/index.html)
 - [Stackexchange code golf](https://codegolf.stackexchange.com/)
 - [Code Golf Tips](https://code.golf/wiki/langs/python)
 - [Geeks4Geeks Code Golf](https://www.geeksforgeeks.org/python/code-golfing-in-python/)
 - [Python Code Golf Coding Game](https://www.codingame.com/blog/code-golf-python/)
 - [pysearch](https://github.com/lynn/pysearch#) This tool is very helpful but I do not know how to make it works...
-
 
 ## 🏷️ Status Legend
 
@@ -37,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 310/401 tasks completed -->
+<!-- Progress: 312/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -197,7 +198,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task153.py](task153.py) | ⏳ Pending | - | - | |
 | [task154.py](task154.py) | ⏳ Pending | - | - | |
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
-| [task156.py](task156.py) | ⏳ Pending | - | - | |
+| [task156.py](task156.py) | ✅ Completed | 252 | Max, Ale, Oxke | |
 | [task157.py](task157.py) | ⏳ Pending | - | - | |
 | [task158.py](task158.py) | ⏳ Pending | - | - | |
 | [task159.py](task159.py) | ✅ Completed | 186 | Ale | |
@@ -311,7 +312,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task267.py](task267.py) | ✅ Completed | 68 | Max | |
 | [task268.py](task268.py) | ⏳ Pending | - | - | |
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task [task289.py](task289.py), but with individual colours in g |
-| [task270.py](task270.py) | ⏳ Pending | - | - | |
+| [task270.py](task270.py) | 🤖 Completed | 263 | Ale | Possible alternative: DFS from (3|7) to (2|1) values? |
 | [task271.py](task271.py) | ✅📚 Completed | 99 | Max | |
 | [task272.py](task272.py) | ✅ Completed | 156 | Max | |
 | [task273.py](task273.py) | ✅ Completed | 173 | Max, Ale | |
