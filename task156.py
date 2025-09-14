@@ -1,6 +1,6 @@
-def p(g,R=range,N=0):
- for f,a,b,k,h in sorted((-all(all(r[b:b+h])for r in g[a:a+k])*k*h,a,b,k,h)for a in R(9)for b in R(9)for k in R(11-a)for h in R(11-b)):
-  for r in g[a+1:a+~-k]*-f:
-   for j in R(b+1,b+~-h):r[j]=2-(r[j]!=2)*N
-  N=1
- return g
+def p(g,C=5):
+ for r in range(8):
+  t=g[r+1];C+=sum(t)<1
+  for c in range(1,9):
+   if g[r+2][c+1]*g[r][c-1]*t[c-1]:t[c]=C
+ f=sum(g,[]);a,b=sorted({*f},key=f.count)[:2];return[[{x:x,a:1,b:2}[x]for x in r]for r in g]
