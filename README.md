@@ -53,7 +53,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task008.py](task008.py) | ✅ Completed | 236 | Ale, Max | |
 | [task009.py](task009.py) | ✅ Completed | 152 | Max | |
 | [task010.py](task010.py) | ✅ Completed | 94 | Max | List comprehension go BRR |
-| [task011.py](task011.py) | ✅ Completed | 198 | Max, Ale | |
+| [task011.py](task011.py) | ✅ Completed | 196 | Max, Ale | |
 | [task012.py](task012.py) | ✅ Completed | 207 | Max | |
 | [task013.py](task013.py) | ✅ Completed | 248 | Max | |
 | [task014.py](task014.py) | ✅📚 Completed | 186 | Max | interesting |
@@ -169,7 +169,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task124.py](task124.py) | ⏳ Pending | - | - | |
 | [task125.py](task125.py) | ⏳ Pending | - | - | |
 | [task126.py](task126.py) | ✅ Completed | 118 | Max | |
-| [task127.py](task127.py) | 👀✅ Completed | 136 | Max | |
+| [task127.py](task127.py) | 👀✅ Completed | 134 | Max | |
 | [task128.py](task128.py) | 👀✅ Completed | 102 | Max | |
 | [task129.py](task129.py) | ✅📚 Completed | 49 | Max | How to find the maximum of a matrix |
 | [task130.py](task130.py) | ✅ Completed | 103 | Max | |
@@ -202,7 +202,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task157.py](task157.py) | ⏳ Pending | - | - | |
 | [task158.py](task158.py) | ⏳ Pending | - | - | |
 | [task159.py](task159.py) | ✅ Completed | 186 | Ale | |
-| [task160.py](task160.py) | ✅ Completed | 176 | Ale | |
+| [task160.py](task160.py) | ✅ Completed | 174 | Ale | |
 | [task161.py](task161.py) | ✅ Completed | 107 | Max | |
 | [task162.py](task162.py) | ✅ Completed | 144 | Max | |
 | [task163.py](task163.py) | ✅ Completed | 159 | Max | |

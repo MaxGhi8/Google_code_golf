@@ -1,5 +1,5 @@
 def p(g):
- m=[r[:]for r in g]
+ m=[*map(list,g)]
  for i in range(64):
   y=i>>3;x=i&7
   if sum(sum(r[x:x+3])for r in m[y:y+3])>7:
