@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 318/401 tasks completed -->
+<!-- Progress: 319/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -266,7 +266,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task221.py](task221.py) | ✅ Completed | 103 | Ale, Max | Inspired by [task001.py](task001.py) and [task217.py](task217.py) |
 | [task222.py](task222.py) | ✅ Completed | 258 | Max | |
 | [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
-| [task224.py](task224.py) | ⏳ Pending | - | - | |
+| [task224.py](task224.py) | ✅ Completed | 269 | Max | |
 | [task225.py](task225.py) | ⏳ Pending | - | - | |
 | [task226.py](task226.py) | ✅ Completed | 184 | Ale | |
 | [task227.py](task227.py) | ✅ Completed | 62 | Ghi, Max | |
