@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 319/401 tasks completed -->
+<!-- Progress: 325/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -383,7 +383,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task338.py](task338.py) | ✅👀 Completed | 154 | Ale, Max | First part from 002. Can be improved |
 | [task339.py](task339.py) | ✅ Completed | 38 | Ghi, Max | `[*filter(int,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 | [task340.py](task340.py) | ✅👀 Completed | 207 | Max | |
-| [task341.py](task341.py) | ⏳ Pending | - | - | |
+| [task341.py](task341.py) | ✅👀 Completed | 162 | Max | |
 | [task342.py](task342.py) | ✅👀 Completed | 181 | Max | |
 | [task343.py](task343.py) | ✅👀 Completed | 131 | Ale | |
 | [task344.py](task344.py) | ✅👀 Completed | 187 | Max | |
