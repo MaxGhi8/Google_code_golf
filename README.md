@@ -106,7 +106,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task061.py](task061.py) | ✅📚 Completed | 149 | Ale, Max | Holes filling in pattern with grid |
 | [task062.py](task062.py) | ⏳ Pending | - | - | |
 | [task063.py](task063.py) | ✅ Completed | 122 | Max | |
-| [task064.py](task064.py) | ✅ Completed | 194 | Max | |
+| [task064.py](task064.py) | ✅ Completed | 194 | Max | Similar to 333 |
 | [task065.py](task065.py) | ✅ Completed | 151 | Max | |
 | [task066.py](task066.py) | ⏳ Pending | - | - | |
 | [task067.py](task067.py) | ✅ Completed | 37 | Max | |
@@ -375,7 +375,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task330.py](task330.py) | ✅ Completed | 233 | Max | Similar to 169 |
 | [task331.py](task331.py) | ✅ Completed | 117 | Max | |
 | [task332.py](task332.py) | ✅ Completed | 72 | Max | |
-| [task333.py](task333.py) | ⏳ Pending | - | - | |
+| [task333.py](task333.py) | ✅ Completed | 153 | Max | Similar to 064 |
 | [task334.py](task334.py) | ✅ Completed | 79 | Max | |
 | [task335.py](task335.py) | ✅ Completed | 164 | Max, Ale | |
 | [task336.py](task336.py) | ✅ Completed | 128 | Max | |
