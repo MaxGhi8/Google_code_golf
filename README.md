@@ -438,7 +438,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task393.py](task393.py) | ✅ Completed | 76 | Max | |
 | [task394.py](task394.py) | ⏳ Pending | - | - | |
 | [task395.py](task395.py) | ✅ Completed | 67 | Max | `zip` go brrr |
-| [task396.py](task396.py) | ✅ Completed | 278 | Max, Ale | |
+| [task396.py](task396.py) | ✅ Completed | 274 | Max, Ale | |
 | [task397.py](task397.py) | ✅ Completed | 163 | Max | |
 | [task398.py](task398.py) | ✅ Completed | 107 | Max | |
 | [task399.py](task399.py) | ✅ Completed | 147 | Max | |
