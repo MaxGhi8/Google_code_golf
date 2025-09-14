@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 313/401 tasks completed -->
+<!-- Progress: 315/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -250,7 +250,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task205.py](task205.py) | ⏳ Pending | - | - | |
 | [task206.py](task206.py) | ✅ Completed | 152 | Ale, Max | |
 | [task207.py](task207.py) | ✅ Completed | 105 | Ale, Max | |
-| [task208.py](task208.py)  ✅ Completed | 280 | Max | |
+| [task208.py](task208.py)  ✅ Completed | 280 | Ale | |
 | [task209.py](task209.py) | ⏳ Pending | - | - | |
 | [task210.py](task210.py) | ✅ Completed | 21 | Max | |
 | [task211.py](task211.py) | ✅ Completed | 50 | Max | |
@@ -326,7 +326,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task281.py](task281.py) | ⏳ Pending | - | - | |
 | [task282.py](task282.py) | ✅ Completed | 144 | Max | |
 | [task283.py](task283.py) | ✅ Completed | 142 | Max, Ale | |
-| [task284.py](task284.py) | ⏳ Pending | - | - | |
+| [task284.py](task284.py) | 🤖 GPT-generated | 332 | Ale | |
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
 | [task286.py](task286.py) | ✅📚 Completed | 253 | Max, Gio | |
 | [task287.py](task287.py) | ✅📚 Completed | 99 | Ale | Holes filling in circular pattern. Variant of 061 |
@@ -397,7 +397,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task352.py](task352.py) | ✅ Completed | 123 | Ale, Max | Similar to [task95.py](task95.py) and [task206.py](task206.py) |
 | [task353.py](task353.py) | ✅ Completed | 128 | Max | |
 | [task354.py](task354.py) | ✅👀 Completed | 193 | Max | |
-| [task355.py](task355.py) | ⏳ Pending | - | - | |
+| [task355.py](task355.py) | 🤖 GPT-generated | 298 | Ale | |
 | [task356.py](task356.py) | ✅ Completed | 121 | Ale, Max | Same as [task350.py](task350.py) |
 | [task357.py](task357.py) | ✅ Completed | 105 | Max | Same as task [task248.py](task248.py) |
 | [task358.py](task358.py) | ⏳ Pending | - | - | |
