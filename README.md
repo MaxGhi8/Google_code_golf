@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 325/401 tasks completed -->
+<!-- Progress: 326/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -400,7 +400,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task355.py](task355.py) | 🤖 GPT-generated | 298 | Ale | |
 | [task356.py](task356.py) | ✅ Completed | 121 | Ale, Max | Same as [task350.py](task350.py) |
 | [task357.py](task357.py) | ✅ Completed | 105 | Max | Same as task [task248.py](task248.py) |
-| [task358.py](task358.py) | ⏳ Pending | - | - | |
+| [task358.py](task358.py) | ✅ Completed | 146 | Max | |
 | [task359.py](task359.py) | ⏳ Pending | - | - | |
 | [task360.py](task360.py) | ✅ Completed | 51 | Ale, Max | |
 | [task361.py](task361.py) | ⏳ Pending | - | - | |
