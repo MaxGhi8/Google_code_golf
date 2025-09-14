@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 316/401 tasks completed -->
+<!-- Progress: 318/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -211,7 +211,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task166.py](task166.py) | ✅ Completed | 159 | Max | |
 | [task167.py](task167.py) | ✅ Completed | 90 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ✅ Completed | 215 | Max | |
-| [task169.py](task169.py) | ⏳ Pending | - | - | |
+| [task169.py](task169.py) | ✅ Completed | 229 | Max, Gio | |
 | [task170.py](task170.py) | ✅ Completed | 297 | Max | |
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
@@ -238,7 +238,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task193.py](task193.py) | ✅ Completed | 119 | Max | |
 | [task194.py](task194.py) | ✅ Completed | 85 | Max | Same as [task106.py](task106.py) |
 | [task195.py](task195.py) | ✅ Completed | 146 | Max | |
-| [task196.py](task196.py) | ⏳ Pending | - | - | |
+| [task196.py](task196.py) | ✅ Completed | 298 | Max, Gio | |
 | [task197.py](task197.py) | ✅ Completed | 54 | Ale, Max | |
 | [task198.py](task198.py) | 👀✅ Completed | 331 | Max | Here I color first the yellows one and then the green, the viceversa will be interesting to explore. |
 | [task199.py](task199.py) | ✅ Completed | 141 | Max | |
