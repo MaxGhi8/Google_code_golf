@@ -211,7 +211,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task166.py](task166.py) | ✅ Completed | 159 | Max | |
 | [task167.py](task167.py) | ✅ Completed | 90 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ✅ Completed | 215 | Max | |
-| [task169.py](task169.py) | ✅ Completed | 229 | Max, Gio | |
+| [task169.py](task169.py) | ✅ Completed | 229 | Max, Gio | similar to 330 |
 | [task170.py](task170.py) | ✅ Completed | 297 | Max | |
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
@@ -372,8 +372,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task327.py](task327.py) | 👀✅ Completed | 143 | Max | Hope to be improved |
 | [task328.py](task328.py) | ⏳ Pending | - | - | |
 | [task329.py](task329.py) | ✅ Completed | 65 | Ghi, Max | |
-| [task330.py](task330.py) | ⏳ Pending | - | - | |
-| [task331.py](task331.py) | ✅ Completed | 117| Max | |
+| [task330.py](task330.py) | ✅ Completed | 233 | Max | Similar to 169 |
+| [task331.py](task331.py) | ✅ Completed | 117 | Max | |
 | [task332.py](task332.py) | ✅ Completed | 72 | Max | |
 | [task333.py](task333.py) | ⏳ Pending | - | - | |
 | [task334.py](task334.py) | ✅ Completed | 79 | Max | |
