@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 330/401 tasks completed -->
+<!-- Progress: 332/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -292,7 +292,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task247.py](task247.py) | ✅ Completed | 121 | Max | |
 | [task248.py](task248.py) | ✅ Completed | 97 | Max, Waolo | Same as [task357.py](task357.py) |
 | [task249.py](task249.py) | ✅ Completed | 27 | Max | |
-| [task250.py](task250.py) | ⏳ Pending | - | - | |
+| [task250.py](task250.py) | ✅ Completed | 188 | Max | |
 | [task251.py](task251.py) | ✅ Completed | 151 | Ale | Adapted from [task002.py](task002.py) |
 | [task252.py](task252.py) | ✅ Completed | 100 | Max | |
 | [task253.py](task253.py) | ✅ Completed | 173 | Ale | |
