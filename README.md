@@ -238,7 +238,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task193.py](task193.py) | ✅ Completed | 119 | Max | |
 | [task194.py](task194.py) | ✅ Completed | 85 | Max | Same as [task106.py](task106.py) |
 | [task195.py](task195.py) | ✅ Completed | 146 | Max | |
-| [task196.py](task196.py) | ✅ Completed | 298 | Max, Gio | |
+| [task196.py](task196.py) | ✅ Completed | 264 | Max, Gio | |
 | [task197.py](task197.py) | ✅ Completed | 54 | Ale, Max | |
 | [task198.py](task198.py) | 👀✅ Completed | 331 | Max | Here I color first the yellows one and then the green, the viceversa will be interesting to explore. |
 | [task199.py](task199.py) | ✅ Completed | 141 | Max | |
