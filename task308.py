@@ -1,0 +1,2 @@
+def M(m,C,E=enumerate):x,y=zip(*[[x,y]for y,r in E(m)for x,c in E(r)if c==C]);l,x,y=max(max(y)-min(y),max(x)-min(x))>>1,sum(x)>>2,sum(y)>>2;return[r[x-l:x-~l]for r in m[y-l:y-~l]]
+def p(g):Z=sorted(set(L:=sum(g,[])),key=L.count);return[[sum(v) or Z[-1]for v in zip(*r)]for r in zip(*(M([[e*(e==k)for e in r]for r in g],k)for k in Z[:-1]))]
