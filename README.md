@@ -326,7 +326,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task281.py](task281.py) | ⏳ Pending | - | - | |
 | [task282.py](task282.py) | ✅ Completed | 144 | Max | |
 | [task283.py](task283.py) | ✅ Completed | 142 | Max, Ale | |
-| [task284.py](task284.py) | 🤖 GPT-generated | 332 | Ale | |
+| [task284.py](task284.py) | 🤖 GPT-generated | 321 | Ale | |
 | [task285.py](task285.py) | ⏳ Pending | - | - | |
 | [task286.py](task286.py) | ✅📚 Completed | 253 | Max, Gio | |
 | [task287.py](task287.py) | ✅📚 Completed | 99 | Ale | Holes filling in circular pattern. Variant of 061 |
