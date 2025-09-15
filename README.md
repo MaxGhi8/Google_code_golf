@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 327/401 tasks completed -->
+<!-- Progress: 330/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -196,7 +196,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task151.py](task151.py) | ✅ Completed | 124 | Max | |
 | [task152.py](task152.py) | ✅ Completed | 41 | Ghi, Max | |
 | [task153.py](task153.py) | ⏳ Pending | - | - | |
-| [task154.py](task154.py) | ⏳ Pending | - | - | |
+| [task154.py](task154.py) | ✅ Completed | 263 | Max | |
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
 | [task156.py](task156.py) | ✅ Completed | 215 | Max, Ale, Oxke | |
 | [task157.py](task157.py) | ⏳ Pending | - | - | |
@@ -267,7 +267,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task222.py](task222.py) | ✅ Completed | 258 | Max | |
 | [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
 | [task224.py](task224.py) | ✅ Completed | 269 | Max | |
-| [task225.py](task225.py) | ⏳ Pending | - | - | |
+| [task225.py](task225.py) | ✅ Completed | 215 | Max | |
 | [task226.py](task226.py) | ✅ Completed | 184 | Ale | |
 | [task227.py](task227.py) | ✅ Completed | 62 | Ghi, Max | |
 | [task228.py](task228.py) | ✅ Completed | 197 | Max, Ale | |
@@ -432,7 +432,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
 | [task388.py](task388.py) | ✅ Completed | 68 | Max | |
 | [task389.py](task389.py) | ✅ Completed | 64 | Ale, Max | |
-| [task390.py](task390.py) | ⏳ Pending | - | - | |
+| [task390.py](task390.py) | ✅ Completed | 252 | Max | |
 | [task391.py](task391.py) | ✅ Completed | 74 | Max | |
 | [task392.py](task392.py) | ⏳ Pending | - | - | |
 | [task393.py](task393.py) | ✅ Completed | 76 | Max | |
@@ -448,4 +448,4 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 **Happy Coding! 🚀**
 
-*Remember: In code golf, every character counts!*
+*Remember: In code golf, every character counts!*⏳ Pending | - | -
