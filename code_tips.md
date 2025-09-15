@@ -63,3 +63,4 @@
 56. `(a+b>0)for a,b in zip(r)` can be written as `any(c)for c in zip(r)`. See [task318.py](task318.py).
 57. `for x in range():`+`if [condition]:` can be combined in a single expression: `for x in[*range()]*[condition]:`. See [task182.py](task182.py).
 58. To perform a deepcopy of a matrix `g`, use `[*map(list,g)]` instead of `[r[:]for r in g]`.
+59. When I need to apply the transport twice under suitable condition can be interesting see [task359.py](task359.py) and [task213.py](task213.py) where I use smart conditional wit matrixes instead of if condition.
