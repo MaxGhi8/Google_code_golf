@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 329/401 tasks completed -->
+<!-- Progress: 330/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -267,7 +267,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task222.py](task222.py) | ✅ Completed | 258 | Max | |
 | [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
 | [task224.py](task224.py) | ✅ Completed | 269 | Max | |
-| [task225.py](task225.py) | ⏳ Pending | - | - | |
+| [task225.py](task225.py) | ✅ Completed | 215 | Max | |
 | [task226.py](task226.py) | ✅ Completed | 184 | Ale | |
 | [task227.py](task227.py) | ✅ Completed | 62 | Ghi, Max | |
 | [task228.py](task228.py) | ✅ Completed | 197 | Max, Ale | |
@@ -448,4 +448,4 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 **Happy Coding! 🚀**
 
-*Remember: In code golf, every character counts!*
+*Remember: In code golf, every character counts!*⏳ Pending | - | -
