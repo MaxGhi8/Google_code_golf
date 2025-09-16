@@ -67,9 +67,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task022.py](task022.py) | ✅ Completed | 128 | Ale, Max | |
 | [task023.py](task023.py) | ✅ Completed | 251 | Ale | |
 | [task024.py](task024.py) | ✅ Completed | 92 | Ale, Max | |
-| [task025.py](task025.py) | ⏳ Pending | - | - | |
+| [task025.py](task025.py) | ✅ Completed | 249 | Oxke | |
 | [task026.py](task026.py) | ✅ Completed | 58 | Max | |
-| [task027.py](task027.py) | ⏳ Pending | - | - | |
+| [task027.py](task027.py) | ✅ Completed | 157 | Oxke | |
 | [task028.py](task028.py) | ✅ Completed | 129 | Max | |
 | [task029.py](task029.py) | ✅ Completed | 201 | Max, Ale | |
 | [task030.py](task030.py) | ✅ Completed | 130 | Max | |

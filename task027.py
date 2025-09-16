@@ -1,0 +1,1 @@
+def p(g):R=[*zip(*g[::-1])];return min((sum(sum(m:=[[*map(lambda x:b' @ '[sum(x)]>>5,zip(*r))]for r in zip(g,r,r)],[])),m)for r in[R,[[0,*r]for r in R]])[1]
