@@ -103,7 +103,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task058.py](task058.py) | ✅ Completed | 170 | Ale, Max | |
 | [task059.py](task059.py) | ✅ Completed | 185 | Ale | |
 | [task060.py](task060.py) | ✅ Completed | 53 | Max | |
-| [task061.py](task061.py) | ✅📚 Completed | 149 | Ale, Max | Holes filling in pattern with grid |
+| [task061.py](task061.py) | ✅📚 Completed | 145 | Ale, Max | Holes filling in pattern with grid |
 | [task062.py](task062.py) | ⏳ Pending | - | - | |
 | [task063.py](task063.py) | ✅ Completed | 122 | Max | |
 | [task064.py](task064.py) | ✅ Completed | 194 | Max | Similar to 333 |
