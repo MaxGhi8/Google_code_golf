@@ -375,7 +375,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task330.py](task330.py) | ✅ Completed | 233 | Max | Similar to 169 |
 | [task331.py](task331.py) | ✅ Completed | 117 | Max | |
 | [task332.py](task332.py) | ✅ Completed | 72 | Max | |
-| [task333.py](task333.py) | ✅ Completed | 153 | Max | Similar to 064 |
+| [task333.py](task333.py) | ✅ Completed | 145 | Max | Similar to 064 |
 | [task334.py](task334.py) | ✅ Completed | 79 | Max | |
 | [task335.py](task335.py) | ✅ Completed | 164 | Max, Ale | |
 | [task336.py](task336.py) | ✅ Completed | 128 | Max | |
