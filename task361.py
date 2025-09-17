@@ -1,0 +1,1 @@
+p=lambda g,R=range(-9,9),z=[[0]*10],S=sum,Z=zip,M=max:[(g:=M((S(a==b>0 for r in Z(g,K)for a,b in Z(*r)),(m:=[[*map(M,*r)]for r in Z(g,K)])[::1-2*({*S(g,[])}=={0,3})],m)for K in[z*y+[[0]*x+[*r[M(-x,0):]]+[0]*9for r in[*Z(*g[::-1])][M(-y,0):]]+z*9for x in R for y in R])[2])for _ in' '*3][-1]

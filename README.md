@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 349/401 tasks completed -->
+<!-- Progress: 351/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -69,7 +69,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task024.py](task024.py) | ✅ Completed | 92 | Ale, Max | |
 | [task025.py](task025.py) | ✅ Completed | 249 | Oxke | |
 | [task026.py](task026.py) | ✅ Completed | 58 | Max | |
-| [task027.py](task027.py) | ✅ Completed | 157 | Oxke | |
+| [task027.py](task027.py) | ✅ Completed | 151 | Oxke | |
 | [task028.py](task028.py) | ✅ Completed | 129 | Max | |
 | [task029.py](task029.py) | ✅ Completed | 201 | Max, Ale | |
 | [task030.py](task030.py) | ✅ Completed | 130 | Max | |
@@ -141,7 +141,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task096.py](task096.py) | ⏳ Pending | - | - | |
 | [task097.py](task097.py) | ✅ Completed | 138 | Ale, Max | |
 | [task098.py](task098.py) | ✅ Completed | 117 | Max | Similar to [task085.py](task085.py) |
-| [task099.py](task099.py) | ⏳ Pending | - | - | |
+| [task099.py](task099.py) | ✅ Completed | 172 | Max | |
 | [task100.py](task100.py) | ✅ Completed | 160 | Max | |
 | [task101.py](task101.py) | ⏳ Pending | - | - | |
 | [task102.py](task102.py) | ⏳ Pending | - | - | |
@@ -375,7 +375,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task330.py](task330.py) | ✅ Completed | 233 | Max | Similar to 169 |
 | [task331.py](task331.py) | ✅ Completed | 117 | Max | |
 | [task332.py](task332.py) | ✅ Completed | 72 | Max | |
-| [task333.py](task333.py) | ✅ Completed | 153 | Max | Similar to 064 |
+| [task333.py](task333.py) | ✅ Completed | 145 | Max | Similar to 064 |
 | [task334.py](task334.py) | ✅ Completed | 79 | Max | |
 | [task335.py](task335.py) | ✅ Completed | 164 | Max, Ale | |
 | [task336.py](task336.py) | ✅ Completed | 128 | Max | |
@@ -403,7 +403,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task358.py](task358.py) | ✅ Completed | 146 | Max | |
 | [task359.py](task359.py) | ✅ Completed | 133 | Max | |
 | [task360.py](task360.py) | ✅ Completed | 51 | Ale, Max | |
-| [task361.py](task361.py) | ⏳ Pending | - | - | |
+| [task361.py](task361.py) | ✅ Completed | 292 | Max, Oxke | |
 | [task362.py](task362.py) | ✅ Completed | 100 | Ale, Max | |
 | [task363.py](task363.py) | ⏳ Pending | - | - | |
 | [task364.py](task364.py) | ⏳ Pending | - | - | |
