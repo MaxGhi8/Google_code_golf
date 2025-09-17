@@ -403,7 +403,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task358.py](task358.py) | ✅ Completed | 146 | Max | |
 | [task359.py](task359.py) | ✅ Completed | 133 | Max | |
 | [task360.py](task360.py) | ✅ Completed | 51 | Ale, Max | |
-| [task361.py](task361.py) | ⏳ Pending | - | - | |
+| [task361.py](task361.py) | ✅ Completed | 309 | Max, Oxke | |
 | [task362.py](task362.py) | ✅ Completed | 100 | Ale, Max | |
 | [task363.py](task363.py) | ⏳ Pending | - | - | |
 | [task364.py](task364.py) | ⏳ Pending | - | - | |
