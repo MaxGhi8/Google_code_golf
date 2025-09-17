@@ -1,0 +1,1 @@
+p=lambda g,A=abs,E=enumerate:(S:=[(a,b,v)for a,r in E(g)for b,v in E(r)if v])and[[v or(m:=min(Q:=[(max(A(i-a),A(j-b)),A(i-a)+A(j-b),v)for a,b,v in S]))and m[2]*(~m[0]&1)*(2>sum(x[:2]==m[:2]for x in Q))for j,v in E(r)]for i,r in E(g)]
