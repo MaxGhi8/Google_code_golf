@@ -1,0 +1,1 @@
+p=lambda g,e=enumerate:[(g:=[[v or(x:=max(sum(g[i and~-i:i+2],[])))*(({1,x}&{*r[:j]}&{*r[j:]}or g[i+(i<9)][j]==1)and x>1)for j,v in e(r)]for i,r in e(g)])for _ in' '*4][-1]

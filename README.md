@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 344/401 tasks completed -->
+<!-- Progress: 349/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -141,7 +141,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task096.py](task096.py) | ⏳ Pending | - | - | |
 | [task097.py](task097.py) | ✅ Completed | 138 | Ale, Max | |
 | [task098.py](task098.py) | ✅ Completed | 117 | Max | Similar to [task085.py](task085.py) |
-| [task099.py](task099.py) | ⏳ Pending | - | - | |
+| [task099.py](task099.py) | ✅ Completed | 172 | Max | |
 | [task100.py](task100.py) | ✅ Completed | 160 | Max | |
 | [task101.py](task101.py) | ⏳ Pending | - | - | |
 | [task102.py](task102.py) | ⏳ Pending | - | - | |
@@ -152,7 +152,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task107.py](task107.py) | ✅ Completed | 162 | Max | |
 | [task108.py](task108.py) | ✅ Completed | 84 | Max | Use upscaling from [task223.py](task223.py) |
 | [task109.py](task109.py) | ✅ Completed | 100 | Max | |
-| [task110.py](task110.py) | ⏳ Pending | - | - | |
+| [task110.py](task110.py) | ✅🤖 Completed | 310 | ChatGPT | |
 | [task111.py](task111.py) | ✅ Completed | 97 | Ale, Max | Same code of [task022.py](task022.py), but with less operations |
 | [task112.py](task112.py) | ✅ Completed | 149 | Max | |
 | [task113.py](task113.py) | ✅ Completed | 26 | Max | |
@@ -179,8 +179,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task134.py](task134.py) | ✅👀 Completed | 206 | Ale, Max | Can be improved |
 | [task135.py](task135.py) | ✅ Completed | 33 | Max, Waolo | |
 | [task136.py](task136.py) | ✅ Completed | 175 | Max | |
-| [task137.py](task137.py) | ⏳ Pending | - | - | |
-| [task138.py](task138.py) | ⏳ Pending | - | - | |
+| [task137.py](task137.py) | ✅ Completed | 208 | Max | |
+| [task138.py](task138.py) | ✅ Completed | 233 | Max | |
 | [task139.py](task139.py) | ✅ Completed | 138 | Max | |
 | [task140.py](task140.py) | ✅ Completed | 37 | Ghi, Max | |
 | [task141.py](task141.py) | ✅ Completed | 146 | Max | |
@@ -370,12 +370,12 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task325.py](task325.py) | ✅ Completed | 257 | Max | |
 | [task326.py](task326.py) | ✅ Completed | 31 | Ghi, Max | |
 | [task327.py](task327.py) | 👀✅ Completed | 143 | Max | Hope to be improved |
-| [task328.py](task328.py) | ⏳ Pending | - | - | |
+| [task328.py](task328.py) | ✅ Completed | 233 | Max | |
 | [task329.py](task329.py) | ✅ Completed | 65 | Ghi, Max | |
 | [task330.py](task330.py) | ✅ Completed | 233 | Max | Similar to 169 |
 | [task331.py](task331.py) | ✅ Completed | 117 | Max | |
 | [task332.py](task332.py) | ✅ Completed | 72 | Max | |
-| [task333.py](task333.py) | ✅ Completed | 153 | Max | Similar to 064 |
+| [task333.py](task333.py) | ✅ Completed | 145 | Max | Similar to 064 |
 | [task334.py](task334.py) | ✅ Completed | 79 | Max | |
 | [task335.py](task335.py) | ✅ Completed | 164 | Max, Ale | |
 | [task336.py](task336.py) | ✅ Completed | 128 | Max | |
@@ -436,7 +436,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task391.py](task391.py) | ✅ Completed | 74 | Max | |
 | [task392.py](task392.py) | ⏳ Pending | - | - | |
 | [task393.py](task393.py) | ✅ Completed | 76 | Max | |
-| [task394.py](task394.py) | ⏳ Pending | - | - | |
+| [task394.py](task394.py) | ✅ Completed | 240 | Ale | |
 | [task395.py](task395.py) | ✅ Completed | 67 | Max | `zip` go brrr |
 | [task396.py](task396.py) | ✅ Completed | 274 | Max, Ale | |
 | [task397.py](task397.py) | ✅ Completed | 163 | Max | |
