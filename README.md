@@ -59,7 +59,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task014.py](task014.py) | ✅📚 Completed | 181 | Max | interesting |
 | [task015.py](task015.py) | ✅ Completed | 149 | Max | |
 | [task016.py](task016.py) | ✅📚 Completed | 56 | Max | lambda function with 1 constant on a single line |
-| [task017.py](task017.py) | ✅ Completed | 161 | Ale | |
+| [task017.py](task017.py) | ✅ Completed | 161 | Ale | Simplified/hardcoded implementation of [task110.py](task110.py) |
 | [task018.py](task018.py) | ⏳ Pending | - | - | |
 | [task019.py](task019.py) | ✅ Completed | 202 | Max | |
 | [task020.py](task020.py) | ✅ Completed | 200 | Max | |
@@ -152,7 +152,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task107.py](task107.py) | ✅ Completed | 162 | Max | |
 | [task108.py](task108.py) | ✅ Completed | 84 | Max | Use upscaling from [task223.py](task223.py) |
 | [task109.py](task109.py) | ✅ Completed | 100 | Max | |
-| [task110.py](task110.py) | ✅🤖 Completed | 310 | ChatGPT | |
+| [task110.py](task110.py) | ✅ Completed | 285 | Ale | Extended code from [task017.py](task017.py) |
 | [task111.py](task111.py) | ✅ Completed | 97 | Ale, Max | Same code of [task022.py](task022.py), but with less operations |
 | [task112.py](task112.py) | ✅ Completed | 149 | Max | |
 | [task113.py](task113.py) | ✅ Completed | 26 | Max | |

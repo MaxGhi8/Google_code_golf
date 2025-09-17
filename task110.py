@@ -1,12 +1,1 @@
-def p(g,M=29,T=841):
- A=range;L=sum(g,[]);R=C=99;D={}
- for r in A(1,30):
-  for c in A(1,30):
-   d={}
-   for k in A(T):
-    if(v:=L[k])and d.setdefault(t:=k//M%r*c+k%M%c,v)-v:break
-   else:
-    if r*c<R*C:R,C,D=r,c,d
- for k in A(T):
-  L[k]=L[k]or D.get(k//M%R*C+k%M%C,0)
- return[L[i:i+M]for i in A(0,T,M)]
+p=lambda g,A=range(29):next([[g[i][j]or t[(i-o)%h,(j-p)%k]for j in A]for i in A]for h in A for k in(*A,29)for o in A[:h]for p in A[:k]if(t:={})or all(((v:=g[i][j])and t.setdefault(((i-o)%h,(j-p)%k),v)==v)or(1-s and v<1)or s and((i-o)%h,(j-p)%k)in t for s in(0,1)for i in A for j in A))
