@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 352/401 tasks completed -->
+<!-- Progress: 353/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -104,7 +104,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task059.py](task059.py) | ✅ Completed | 185 | Ale | |
 | [task060.py](task060.py) | ✅ Completed | 53 | Max | |
 | [task061.py](task061.py) | ✅📚 Completed | 145 | Ale, Max | Holes filling in pattern with grid |
-| [task062.py](task062.py) | ⏳ Pending | - | - | |
+| [task062.py](task062.py) | ✅ Completed | 189 | Max | |
 | [task063.py](task063.py) | ✅ Completed | 122 | Max | |
 | [task064.py](task064.py) | ✅ Completed | 194 | Max | Similar to 333 |
 | [task065.py](task065.py) | ✅ Completed | 151 | Max | |
