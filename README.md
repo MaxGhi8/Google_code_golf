@@ -397,7 +397,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task352.py](task352.py) | ✅ Completed | 123 | Ale, Max | Similar to [task95.py](task95.py) and [task206.py](task206.py) |
 | [task353.py](task353.py) | ✅ Completed | 128 | Max | |
 | [task354.py](task354.py) | ✅👀 Completed | 193 | Max | |
-| [task355.py](task355.py) | 🤖 GPT-generated | 298 | Ale | |
+| [task355.py](task355.py) | 🤖 GPT-generated | 286 | Ale | |
 | [task356.py](task356.py) | ✅ Completed | 121 | Ale, Max | Same as [task350.py](task350.py) |
 | [task357.py](task357.py) | ✅ Completed | 105 | Max | Same as task [task248.py](task248.py) |
 | [task358.py](task358.py) | ✅ Completed | 146 | Max | |
