@@ -59,7 +59,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task014.py](task014.py) | ✅📚 Completed | 181 | Max | interesting |
 | [task015.py](task015.py) | ✅ Completed | 149 | Max | |
 | [task016.py](task016.py) | ✅📚 Completed | 56 | Max | lambda function with 1 constant on a single line |
-| [task017.py](task017.py) | ✅ Completed | 161 | Ale | |
+| [task017.py](task017.py) | ✅ Completed | 161 | Ale | Simplified/hardcoded implementation of [task110.py](task110.py) |
 | [task018.py](task018.py) | ⏳ Pending | - | - | |
 | [task019.py](task019.py) | ✅ Completed | 202 | Max | |
 | [task020.py](task020.py) | ✅ Completed | 200 | Max | |
@@ -152,7 +152,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task107.py](task107.py) | ✅ Completed | 162 | Max | |
 | [task108.py](task108.py) | ✅ Completed | 84 | Max | Use upscaling from [task223.py](task223.py) |
 | [task109.py](task109.py) | ✅ Completed | 100 | Max | |
-| [task110.py](task110.py) | ✅🤖 Completed | 310 | ChatGPT | |
+| [task110.py](task110.py) | ✅ Completed | 285 | Ale | Extended code from [task017.py](task017.py) |
 | [task111.py](task111.py) | ✅ Completed | 97 | Ale, Max | Same code of [task022.py](task022.py), but with less operations |
 | [task112.py](task112.py) | ✅ Completed | 149 | Max | |
 | [task113.py](task113.py) | ✅ Completed | 26 | Max | |
@@ -350,7 +350,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task305.py](task305.py) | ✅ Completed | 136 | Max | |
 | [task306.py](task306.py) | ✅ Completed | 139 | Max | |
 | [task307.py](task307.py) | ✅ Completed | 53 | Max, Ale | Same as [task223.py](task223.py) |
-| [task308.py](task308.py) | 👀✅ Completed | 332 | Oxke | helper function probably can be avoided |
+| [task308.py](task308.py) | 👀✅ Completed | 320 | Oxke | helper function probably can be avoided |
 | [task309.py](task309.py) | ✅ Completed | 46 | Max, Ghi | |
 | [task310.py](task310.py) | ✅ Completed | 127 | Ale, Max | |
 | [task311.py](task311.py) | ✅ Completed | 33 | Ghi, Max | |
@@ -403,7 +403,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task358.py](task358.py) | ✅ Completed | 146 | Max | |
 | [task359.py](task359.py) | ✅ Completed | 133 | Max | |
 | [task360.py](task360.py) | ✅ Completed | 51 | Ale, Max | |
-| [task361.py](task361.py) | ✅ Completed | 292 | Max, Oxke | |
+| [task361.py](task361.py) | ✅ Completed | 289 | Max, Oxke | |
 | [task362.py](task362.py) | ✅ Completed | 100 | Ale, Max | |
 | [task363.py](task363.py) | ⏳ Pending | - | - | |
 | [task364.py](task364.py) | ⏳ Pending | - | - | |
