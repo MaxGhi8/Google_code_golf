@@ -1,1 +1,1 @@
-p=lambda g:[g:=[[*map(lambda X:max(x%9for x in X),zip(*r,[0,0]+r[0][::-1]))]for r in zip(g,zip(*g))]for _ in" "*3][2]
+p=lambda g:[g:=[[max(v%9 for v in V)for V in zip(*r,[0,0,*r[0][::-1]])]for r in zip(g,zip(*g))]for _ in'lol'][2]
