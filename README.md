@@ -416,7 +416,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task371.py](task371.py) | ✅ Completed | 145 | Max | |
 | [task372.py](task372.py) | ✅📚 Completed | 54 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ✅ Completed | 46 | Max | |
-| [task374.py](task374.py) | ✅ Completed | 278 | Max | |
+| [task374.py](task374.py) | ✅ Completed | 263 | Max | |
 | [task375.py](task375.py) | ✅ Completed | 61 | Max | |
 | [task376.py](task376.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task377.py](task377.py) | ✅ Completed | 83 | Ale | Similar to [task218.py](task218.py) |
