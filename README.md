@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 356/401 tasks completed -->
+<!-- Progress: 357/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -282,7 +282,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task237.py](task237.py) | ✅ Completed | 97 | Max, Waolo | |
 | [task238.py](task238.py) | ⏳ Pending | - | - | |
 | [task239.py](task239.py) | ✅ Completed | 112 | Max | |
-| [task240.py](task240.py) | ⏳ Pending | - | - | |
+| [task240.py](task240.py) | ✅ Completed | 272 | Max | |
 | [task241.py](task241.py) | ✅📚 Completed | 32 | Max, Waolo | Symmetry respect main diagonal |
 | [task242.py](task242.py) | ✅ Completed | 97 | Max | |
 | [task243.py](task243.py) | ✅ Completed | 200 | Max, Ale | |
