@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 365/401 tasks completed -->
+<!-- Progress: 366/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -166,7 +166,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task121.py](task121.py) | ✅ Completed | 124 | Max | |
 | [task122.py](task122.py) | ✅ Completed | 119 | Max | |
 | [task123.py](task123.py) | ✅ Completed | 103 | Max, Ale |  |
-| [task124.py](task124.py) | ⏳ Pending | - | - | |
+| [task124.py](task124.py) | 👀✅ Completed | 124 | Oxke | Probably should do similar thing directly on the 2D grid instead of searching the stride and then calculating the result. NB: if you want to just try, move the walrus out of the loop and before the grid with (s:=...)and[[...]] so that it runs in a sensible time and not 100x that |
 | [task125.py](task125.py) | ⏳ Pending | - | - | |
 | [task126.py](task126.py) | ✅ Completed | 118 | Max | |
 | [task127.py](task127.py) | 👀✅ Completed | 134 | Max | |
