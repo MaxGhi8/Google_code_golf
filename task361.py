@@ -1,1 +1,1 @@
-p=lambda g,R=range(-9,9),z=[[0]*10],S=sum,Z=zip,M=max:[(g:=M((S(a==b>0for r in Z(g,K)for a,b in Z(*r)),(m:=[[*map(M,*r)]for r in Z(g,K)])[::1-2*({*S(g,[])}=={0,3})],m)for K in[z*y+[[0]*x+[*r[M(-x,0):]]+[0]*9for r in[*Z(*g[::-1])][M(-y,0):]]+z*9for x in R for y in R])[2])for _ in' '*3][2]
+def p(g):R=range;G,H=[(2*b+a-1,2*d+a-1)for a in(3,2)for b in R(8)for d in R(8)if all(all(r[d:d+a])for r in g[b:b+a])][0];[(d:=2*a-G,e:=2*b-H)and exec('d,e=-e,d;g[G+d>>1][H+e>>1]=k;'*3)for a in R(10)for b in R(10)if(k:=g[a][b])];return g
