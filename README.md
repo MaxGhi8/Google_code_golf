@@ -411,12 +411,12 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task366.py](task366.py) | ✅ Completed | 594 | -_- | |
 | [task367.py](task367.py) | ⏳ Pending | - | - | |
 | [task368.py](task368.py) | ✅ Completed | 259 | Ale, Max | |
-| [task369.py](task369.py) | ✅ Completed | 227 | Max | |
+| [task369.py](task369.py) | ✅ Completed | 223 | Max | |
 | [task370.py](task370.py) | ⏳ Pending | - | - | |
 | [task371.py](task371.py) | ✅ Completed | 145 | Max | |
 | [task372.py](task372.py) | ✅📚 Completed | 52 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ✅ Completed | 46 | Max | |
-| [task374.py](task374.py) | ✅ Completed | 278 | Max | |
+| [task374.py](task374.py) | ✅ Completed | 263 | Max | |
 | [task375.py](task375.py) | ✅ Completed | 61 | Max | |
 | [task376.py](task376.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task377.py](task377.py) | ✅ Completed | 83 | Ale | Similar to [task218.py](task218.py) |
@@ -432,7 +432,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task387.py](task387.py) | ⏳ Pending | - | - | |
 | [task388.py](task388.py) | ✅ Completed | 68 | Max | |
 | [task389.py](task389.py) | ✅ Completed | 64 | Ale, Max | |
-| [task390.py](task390.py) | ✅ Completed | 252 | Max | |
+| [task390.py](task390.py) | ✅ Completed | 244 | Max | |
 | [task391.py](task391.py) | ✅ Completed | 74 | Max | |
 | [task392.py](task392.py) | ✅ Completed | 161 | -_- | |
 | [task393.py](task393.py) | ✅ Completed | 76 | Max | |
