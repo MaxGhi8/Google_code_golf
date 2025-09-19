@@ -144,7 +144,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task099.py](task099.py) | ✅ Completed | 172 | Max | |
 | [task100.py](task100.py) | ✅ Completed | 160 | Max | |
 | [task101.py](task101.py) | ⏳ Pending | - | - | |
-| [task102.py](task102.py) | ✅👀 Completed | 232 | Ale | |
+| [task102.py](task102.py) | ✅👀 Completed | 223 | Ale | |
 | [task103.py](task103.py) | ✅ Completed | 30 | Ale, Max | |
 | [task104.py](task104.py) | ✅ Completed | 143 | Max | |
 | [task105.py](task105.py) | ✅ Completed | 254 | Ale, Max | |
@@ -422,7 +422,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task377.py](task377.py) | ✅ Completed | 83 | Ale | Similar to [task218.py](task218.py) |
 | [task378.py](task378.py) | ✅ Completed | 290 | Max | |
 | [task379.py](task379.py) | ✅🤖 Completed | 323 | Ale | |
-| [task380.py](task380.py) | ✅ Completed | 38 | Max | |
+| [task380.py](task380.py) | ✅ Completed | 27 | Max | |
 | [task381.py](task381.py) | ✅ Completed | 98 | Max | |
 | [task382.py](task382.py) | ✅ Completed | 256 | Max | |
 | [task383.py](task383.py) | ✅ Completed | 243 | Max | |
