@@ -1,4 +1,4 @@
-def p(g,f=lambda g:[[*r]for r in zip(*g)if{*r}-{0,8}],R=range):
+def p(g,f=lambda g:[r for*r,in zip(*g)if{*r}-{0,8}],R=range):
  m=len(k:=f(f(g)));n=len(k[0]);o=[[0]*10for _ in' '*10]
  for i in R(11-m):
   for j in R(11-n):

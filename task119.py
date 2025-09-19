@@ -1,6 +1,6 @@
 def p(g):
  for _ in ' '*4:
-  g=[*map(list,zip(*g))][::-1]
+  *g,=map(list,zip(*g[::-1]))
   if 2 not in g[0]:
    i=[i for i in range(12)if any(g[i])][0];c=1
    for j in range(1,12):

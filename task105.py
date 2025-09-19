@@ -1,5 +1,5 @@
 def p(g,k=0,E=enumerate):
- g=[*map(list,zip(*g))]
+ *g,=map(list,zip(*g))
  X,Y=zip(*((i,j)for i,r in E(g)for j,v in E(r)if v));a,*_,b=sorted(X);c,*_,d=sorted(Y)
  for i,r in E(g):
   for j in range(c,d+1):r[j]=r[j]or 2*(i in[a,b]or r[c+1:d].count(1)>1)

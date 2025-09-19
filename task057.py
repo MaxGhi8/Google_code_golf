@@ -1,1 +1,1 @@
-p=lambda g,f=lambda d:[*filter(any,zip(*d))]:[[*r]*2for r in f(f(g))]
+p=lambda g,f=lambda d:filter(any,zip(*d)):[r*2for *r, in f(f(g))]

@@ -1,6 +1,6 @@
 def p(g):
  for _ in' '*4:
-  g=[*map(list,zip(*g[::-1]))];c=0
+  *g,=map(list,zip(*g[::-1]));c=0
   if 2 not in g[0]+g[-1]+[r[-1]for r in g]:
    if(V:=8 in g[-1]):g=g[::-1]
    for r in g:
