@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 364/401 tasks completed -->
+<!-- Progress: 365/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -199,7 +199,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task154.py](task154.py) | ✅ Completed | 249 | Max | |
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
 | [task156.py](task156.py) | ✅ Completed | 215 | Max, Ale, Oxke | |
-| [task157.py](task157.py) | ✅ Completed | --- | -_- | |
+| [task157.py](task157.py) | ✅ Completed | 268 | -_- | |
 | [task158.py](task158.py) | ✅ Completed | 452 | -_- | |
 | [task159.py](task159.py) | ✅ Completed | 186 | Ale | |
 | [task160.py](task160.py) | ✅ Completed | 174 | Ale | |
@@ -434,7 +434,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task389.py](task389.py) | ✅ Completed | 64 | Ale, Max | |
 | [task390.py](task390.py) | ✅ Completed | 252 | Max | |
 | [task391.py](task391.py) | ✅ Completed | 74 | Max | |
-| [task392.py](task392.py) | ⏳ Pending | - | - | |
+| [task392.py](task392.py) | ✅ Completed | 161 | -_- | |
 | [task393.py](task393.py) | ✅ Completed | 76 | Max | |
 | [task394.py](task394.py) | ✅ Completed | 240 | Ale | |
 | [task395.py](task395.py) | ✅ Completed | 67 | Max | `zip` go brrr |
