@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 359/401 tasks completed -->
+<!-- Progress: 363/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -199,8 +199,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task154.py](task154.py) | ✅ Completed | 249 | Max | |
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
 | [task156.py](task156.py) | ✅ Completed | 215 | Max, Ale, Oxke | |
-| [task157.py](task157.py) | ⏳ Pending | - | - | |
-| [task158.py](task158.py) | ⏳ Pending | - | - | |
+| [task157.py](task157.py) | ✅ Completed | --- | -_- | |
+| [task158.py](task158.py) | ✅ Completed | 452 | -_- | |
 | [task159.py](task159.py) | ✅ Completed | 186 | Ale | |
 | [task160.py](task160.py) | ✅ Completed | 174 | Ale | |
 | [task161.py](task161.py) | ✅ Completed | 107 | Max | |
@@ -215,7 +215,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task170.py](task170.py) | ✅ Completed | 297 | Max | |
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
-| [task173.py](task173.py) | ⏳ Pending | - | - | |
+| [task173.py](task173.py) | ✅ Completed | 275 | -_- | |
 | [task174.py](task174.py) | ✅ Completed | 189 | Max | |
 | [task175.py](task175.py) | ✅ Completed | 180 | Ale | Inspired by [task123.py](task123.py) |
 | [task176.py](task176.py) | ✅ Completed | 89 | Max | |
@@ -275,7 +275,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task230.py](task230.py) | ✅ Completed | 147 | Max, Ale | |
 | [task231.py](task231.py) | ✅ Completed | 53 | Max | |
 | [task232.py](task232.py) | ✅📚 Completed | 93 | Max | For alternating colors I can make a full line and then color alternating over the previous one (see old version) |
-| [task233.py](task233.py) | ⏳ Pending | - | - | |
+| [task233.py](task233.py) | ✅ Completed | 539 | -_- | |
 | [task234.py](task234.py) | ✅ Completed | 206 | Ale, Max | |
 | [task235.py](task235.py) | ✅ Completed | 73 | Ghi, Max | |
 | [task236.py](task236.py) | ✅ Completed | 72 | Max | |
