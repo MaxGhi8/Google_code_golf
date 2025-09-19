@@ -282,7 +282,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task237.py](task237.py) | ✅ Completed | 97 | Max, Waolo | |
 | [task238.py](task238.py) | ✅ Completed | 278 | Max | |
 | [task239.py](task239.py) | ✅ Completed | 112 | Max | |
-| [task240.py](task240.py) | ✅ Completed | 272 | Max | |
+| [task240.py](task240.py) | ✅ Completed | 270 | Max | |
 | [task241.py](task241.py) | ✅📚 Completed | 32 | Max, Waolo | Symmetry respect main diagonal |
 | [task242.py](task242.py) | ✅ Completed | 97 | Max | |
 | [task243.py](task243.py) | ✅ Completed | 200 | Max, Ale | |
