@@ -1,1 +1,1 @@
-p=lambda g:(R:=[*zip(*g[::-1])])and min((sum(sum(m:=[[b' @ '[sum(x)]>>5for x in zip(*r)]for r in zip(g,r,r)],[])),m)for r in(R,[[0,*r]for r in R]))[1]
+p=lambda g:(S:=sum,R:=[*zip(*g[::-1])])and min((S(S(m:=[[S(x)%3^S(x)//3for x in zip(*r)]for r in zip(g,r,r)],[])),m)for r in(R,[[0,*r]for r in R]))[1]
