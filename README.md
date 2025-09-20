@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 367/401 tasks completed -->
+<!-- Progress: 368/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -323,7 +323,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task278.py](task278.py) | ✅ Completed | 205 | Ale | |
 | [task279.py](task279.py) | ✅ Completed | 280 | Max | |
 | [task280.py](task280.py) | ⏳ Pending | - | - | |
-| [task281.py](task281.py) | ⏳ Pending | - | - | |
+| [task281.py](task281.py) | ✅ Completed | 211 | Max, Gio | |
 | [task282.py](task282.py) | ✅ Completed | 144 | Max | |
 | [task283.py](task283.py) | ✅ Completed | 142 | Max, Ale | |
 | [task284.py](task284.py) | 🤖 GPT-generated | 321 | Ale | |
