@@ -67,7 +67,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task022.py](task022.py) | ✅ Completed | 128 | Ale, Max | |
 | [task023.py](task023.py) | ✅ Completed | 251 | Ale | |
 | [task024.py](task024.py) | ✅ Completed | 92 | Ale, Max | |
-| [task025.py](task025.py) | ✅ Completed | 249 | Oxke | |
+| [task025.py](task025.py) | ✅ Completed | 248 | Oxke | |
 | [task026.py](task026.py) | ✅ Completed | 58 | Max | |
 | [task027.py](task027.py) | ✅ Completed | 151 | Oxke | |
 | [task028.py](task028.py) | ✅ Completed | 129 | Max | |
@@ -119,7 +119,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task074.py](task074.py) | ✅ Completed | 113 | Oxke | |
 | [task075.py](task075.py) | ✅ Completed | 125 | Max | |
 | [task076.py](task076.py) | ⏳ Pending | - | - | |
-| [task077.py](task077.py) | ⏳ Pending | - | - | |
+| [task077.py](task077.py) | 👀 Completed | 315 | Oxke | Very inefficient but zip compressed to smaller |
 | [task078.py](task078.py) | ✅ Completed | 109 | Max | |
 | [task079.py](task079.py) | ✅ Completed | 175 | Max | |
 | [task080.py](task080.py) | ⏳ Pending | - | - | |
