@@ -1,0 +1,1 @@
+p=lambda g:(P:=[((a:=[y[d:d+3]for y in t]),[x<1for x in sum(a,[])])for t in zip(*[iter(g)]*3)for d in range(0,len(g[0]),3)])and max(a*(sum(q[1]==b for q in P)<2)for a,b in P)

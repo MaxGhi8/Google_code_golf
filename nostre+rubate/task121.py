@@ -1,0 +1,1 @@
+def p(g,E=enumerate):m=[[r[j-1:j+2]for r in g[i-1:i+2]]for i,r in E(g)for j,x in E(r)if x==8][0];m[1][1]=max(m[0]);return m

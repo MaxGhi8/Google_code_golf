@@ -1,0 +1,1 @@
+p=lambda j,f=lambda d:[*filter(any,zip(*d))]:[r[:3]for r in f(f(j))][:3]

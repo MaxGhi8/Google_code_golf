@@ -1,0 +1,1 @@
+p=lambda j:[[c or b or d or a for a,b,c,d in zip(a,b,a[4:],b[4:])]for a,b in zip(j,j[4:])]

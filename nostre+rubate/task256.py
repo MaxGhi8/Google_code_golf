@@ -1,0 +1,1 @@
+p=lambda g:[(r*any(r)or(sum(g[q:=sum(g,[]).index(2)//(w:=len(r))])//2+q-i)*[i>q or 3]+[0]*w)[:w]for i,r in enumerate(g)]

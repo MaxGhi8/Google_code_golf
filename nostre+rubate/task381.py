@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[v or(2in({*r[:j]}&{*r[j+1:]}))*(0<i<9)*9for j,v in E(r)]for i,r in E(g)]

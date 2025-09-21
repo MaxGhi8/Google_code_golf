@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[c*(sum(g[i+x][j+y]for x in(-1,0,1)for y in(-1,0,1)if len(r)>j+y>-1<i+x<len(g))>c)for j,c in E(r)]for i,r in E(g)]

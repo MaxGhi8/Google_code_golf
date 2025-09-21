@@ -1,0 +1,1 @@
+p=lambda g:[[r for r in g[i%3::3]if any(r)][0]for i in range(len(g))]

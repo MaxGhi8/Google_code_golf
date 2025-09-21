@@ -1,0 +1,1 @@
+p=lambda g,r=range:[[g[x][y]and(g[i+x][j+y]or g[5][0])for j in(0,6,12)for y in r(6-j//8)]for i in(0,6,12)for x in r(6-i//8)]

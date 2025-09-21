@@ -1,0 +1,1 @@
+p=lambda g,f=lambda m:[*map(list,zip(*m))]:f([c[:len(c)-(k:=sum(c)//4)]+[8]*k for c in f(g)])

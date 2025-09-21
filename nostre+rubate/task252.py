@@ -1,0 +1,1 @@
+p=lambda g:([s.__setitem__(j+1,4)for r,s in zip(g,g[1:])for j in range(len(r)-1)if 0<r[j]!=4],g)[1]

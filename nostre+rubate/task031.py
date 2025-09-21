@@ -1,0 +1,1 @@
+p=lambda g,f=lambda d:[*filter(any,zip(*d))]:f(f(g))

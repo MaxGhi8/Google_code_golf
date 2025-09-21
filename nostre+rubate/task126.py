@@ -1,0 +1,1 @@
+p=lambda g:g[:-1]+[[4*(c.count(max(c))<2)for c in zip(*g)]]

@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[(g[-(i>4)][j]*all(g[0])+r[-(j>4)]*all(r[0]for r in g))*(v>0)for j,v in E(r)]for i,r in E(g)]

@@ -1,0 +1,1 @@
+p=lambda g:sum([[sum(([v]*(k:=9-sum(g,[]).count(0))for v in r),[])]*k for r in g],[])

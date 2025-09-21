@@ -1,0 +1,1 @@
+p=lambda g:[x for k in(0,3,6)if(x:=g[k:k+3])!=[*map(list,zip(*x))]][0]

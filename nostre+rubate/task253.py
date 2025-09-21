@@ -1,0 +1,1 @@
+p=lambda g:[(t:=sorted((f.index(0),q)for z in range(144)if(f:=sum(q:=[r[z%12:][:2]for r in g[z//12:][:2]],[])).count(0)<2))[x][1][y]+t[x-1][1][y]for x in(3,1)for y in(0,1)]

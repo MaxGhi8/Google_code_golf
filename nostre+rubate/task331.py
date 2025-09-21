@@ -1,0 +1,1 @@
+p=lambda g,z=[[0]*10]:[[x+2*y+8*u+7*v+w*6for x,y,u,v,w in zip(*r,r[0][1:]+[0],[0]+r[0])]for r in zip(g,g[1:]+z,z+g)]

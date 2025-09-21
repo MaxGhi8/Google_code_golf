@@ -1,0 +1,1 @@
+p=lambda m:(k:=sum(5in r for r in m))and[(t:=[x*(x!=5)for x in r])[k:]+t[:k]for r in m[-k:]+m[:-k]]

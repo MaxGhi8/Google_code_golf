@@ -1,0 +1,1 @@
+p=lambda g:[r[:1]+[[v,2][a&b]for a,v,b in zip(r,r[1:],r[2:])]+r[-1:]for r in g]

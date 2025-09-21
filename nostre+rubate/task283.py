@@ -1,0 +1,1 @@
+p=lambda g,e=enumerate:[[c>4and b"0000104002"[sum(_>0 for R in g[i and i-1:i+2]for _ in R[j and j-1:j+2])]-48for j,c in e(r)]for i,r in e(g)]

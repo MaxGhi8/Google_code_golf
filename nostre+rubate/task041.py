@@ -1,0 +1,1 @@
+p=lambda g,A=0:[[k|(A:=k^A)for k in r]for r in g]

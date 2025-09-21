@@ -1,0 +1,1 @@
+def p(g):r=g[0];k=min(i for i,v in enumerate(r,1)if v-r[0]);c=r.count(r[k-1])+1;return[g[i*k][:k*c:k][::-1]for i in range(c)]

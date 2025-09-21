@@ -1,0 +1,1 @@
+p=lambda g:[[1.5*(a^b)for a,b in t]for t in map(zip,g,g[7:])]

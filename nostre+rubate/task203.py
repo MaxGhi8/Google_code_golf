@@ -1,0 +1,1 @@
+def p(g):n=len(g)//2;return[[{g[i][i]:g[n+~i][n+~i]for i in range(n)}[v]for v in r]for r in g]

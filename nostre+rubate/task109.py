@@ -1,0 +1,1 @@
+p=lambda g:(n:=len(g)//2)and(m:=[(t:=[g[0][n]*(v>0)for v in r[:n]])+t[::-1]for r in g[:n]])+m[::-1]

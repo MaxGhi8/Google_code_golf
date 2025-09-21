@@ -1,0 +1,1 @@
+p=lambda g:[([k for k in sum(zip(*g),())if k]+9*[0])[i*3:i*3+3][::(-1)**i]for i in(0,1,2)]

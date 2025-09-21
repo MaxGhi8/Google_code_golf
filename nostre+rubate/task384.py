@@ -1,0 +1,1 @@
+p=lambda g,f=lambda d:[*filter(any,zip(*d))]:f(f(sum(((sum(zip(r,r),()),)*2for r in g),())))

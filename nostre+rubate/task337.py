@@ -1,0 +1,1 @@
+p=lambda g:[[{x:x,5:8,8:5}[x]for x in r]for r in g]

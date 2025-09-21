@@ -1,0 +1,1 @@
+p=lambda g,A=range(7):[[{i%3:v for i,v in enumerate(sum(g,[]))if v}[(i+j)%3]for j in A]for i in A]

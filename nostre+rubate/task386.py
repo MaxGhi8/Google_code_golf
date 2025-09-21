@@ -1,0 +1,1 @@
+p=lambda g:[[3*(r[j]+r[j+4]<1)for j in(0,1,2)]for r in g]

@@ -1,0 +1,1 @@
+p=lambda g,E=range:[[g[i][j]or any(2in r[j and j-1:j+2]for r in g[i and i-1:i+2])for j in E(len(g[0]))]for i in E(len(g))]

@@ -1,0 +1,1 @@
+def p(g):s=sum(g,[]);c=s.count;L=max(map(c,{*s}-{0}));return[[*{}.fromkeys(y for y in sum(zip(*g),())if c(y)==L>0<y)]]*L

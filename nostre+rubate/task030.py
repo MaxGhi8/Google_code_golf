@@ -1,0 +1,1 @@
+p=lambda g,e=enumerate:(L:=[*map(max,*g)],D:={x:j for j,x in e(L)})and[[r[D[1]-min(D[L[j]]-j,2)]*L[j] for j,_ in e(r)]for r in g]

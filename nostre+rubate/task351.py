@@ -1,0 +1,1 @@
+p=lambda g,R=range(5):[[g[~(p:=next(i for i,r in enumerate(g)if 3in r))-i][~g[p].index(3)-j]for j in R]for i in R]

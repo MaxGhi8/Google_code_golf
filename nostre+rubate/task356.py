@@ -1,0 +1,1 @@
+p=lambda g,e=enumerate:[[v or(8in{*r[:j]}&{*r[j:]}|{*(x:=[*zip(*g)][j])[i:]}&{*x[:i]})*8for j,v in e(r)]for i,r in e(g)]

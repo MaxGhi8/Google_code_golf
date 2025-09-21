@@ -1,0 +1,1 @@
+def p(g,R=range(3)):p,q=divmod(sum(g,[]).index(0),16);return[[g[p+i][~q-j]for j in R]for i in R]

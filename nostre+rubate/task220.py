@@ -1,0 +1,1 @@
+p=lambda g,E=range:[[g[i][j]or b"001600004"[(*({2,3,8}&{*sum((p[j and j-1:j+2]for p in g[i and i-1:i+2]),[])}),0)[0]]-48for j in E(len(g[0]))]for i in E(len(g))]

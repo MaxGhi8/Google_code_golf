@@ -1,0 +1,1 @@
+p=lambda g:sum([[sum(([v]*(k:=len({*sum(g,[])})-1)for v in r),[])]*k for r in g],[])

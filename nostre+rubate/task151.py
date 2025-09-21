@@ -1,0 +1,1 @@
+def p(j):e,k=[[*map(all,c)].index(1)for c in(j,zip(*j))];j[e-1][k-1:k+2]=j[e+1][k-1:k+2]=4,4,4;j[e][k-1:k+2:2]=4,4;return j

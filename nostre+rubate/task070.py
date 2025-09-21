@@ -1,0 +1,1 @@
+def p(g,E=enumerate):X,Y=zip(*[(i,j)for i,r in E(g)for j,v in E(r)if v>2]);a,b,c,d=min(X),max(X),min(Y),max(Y);return[[v+2*(v<8)*(a<=i<=b)*(c<=j<=d)for j,v in E(r)]for i,r in E(g)]

@@ -1,0 +1,1 @@
+p=lambda g,R=range(16):[[max(v for y in(j,~j)for x in(i,~i)if(v:=g[x][y])-4)for j in R]for i in R]

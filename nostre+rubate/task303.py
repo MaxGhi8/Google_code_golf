@@ -1,0 +1,1 @@
+p=lambda g:[[v or({*r}&{*c}<={0,2})*2for v,c in zip(r,zip(*g))]for r in g]

@@ -1,0 +1,1 @@
+p=lambda g,A=range(9),f=lambda d:[*filter(any,zip(*d))]:[[(g:=f(f(g)))[j%3][i%3]and g[j//3][i//3]for i in A]for j in A]

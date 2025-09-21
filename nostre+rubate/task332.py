@@ -1,0 +1,1 @@
+p=lambda g:[[v-v%3*((len(g[0])-j)&1)for j,v in enumerate(r)]for r in g]

@@ -1,0 +1,1 @@
+p=lambda g:[L:=[x[0]for x in g]*3,(L+L)[1:7]]

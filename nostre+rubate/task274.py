@@ -1,0 +1,1 @@
+p=lambda g,R=(0,1,2):[[8*(3*a+b<sum(10==sum(r)for r in g))for b in R[::(-1)**a]]for a in R]

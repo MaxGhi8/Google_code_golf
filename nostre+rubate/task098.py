@@ -1,0 +1,1 @@
+p=lambda g,E=enumerate:[[v*any([p[max(j-1,0):j+2]!=3*[v]for p in g[max(i-1,0):i+2]])for j,v in E(r)]for i,r in E(g)]

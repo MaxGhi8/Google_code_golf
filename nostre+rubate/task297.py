@@ -1,0 +1,1 @@
+p=lambda g:g[:2]+[[g[0][i%len(r)]]*len(r)for i,r in enumerate(g[2:])]

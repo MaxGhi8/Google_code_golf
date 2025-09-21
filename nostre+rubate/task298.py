@@ -1,0 +1,1 @@
+def p(g):R=len(g)//2;return[[{g[i][i]:g[~-i%R][~-i%R]for i in range(R)}[v]for v in r]for r in g]

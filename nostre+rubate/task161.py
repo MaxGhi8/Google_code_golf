@@ -1,0 +1,1 @@
+def p(g):s=sum(g,[]);k=min(s,key=s.count);return[[k*(k in{r[0],g[0][j]})for j in range(len(r))]for r in g]

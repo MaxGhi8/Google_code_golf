@@ -1,0 +1,1 @@
+p=lambda g:g[:1]+[[2*(r[-1]*c>0)for c in g[0][:-1]]+r[-1:]for r in g[1:]]

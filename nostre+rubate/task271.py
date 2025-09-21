@@ -1,0 +1,1 @@
+p=lambda g,R=range:max((str(m:=[g[i//7+a][i%7:][:3]for a in R(3)]).count("1"),m)for i in R(49))[1]

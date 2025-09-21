@@ -1,0 +1,1 @@
+p=lambda g,R=range(9):[[g[r-r%3+1][c-c%3+1]>1 for c in R]for r in R]

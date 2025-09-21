@@ -1,0 +1,1 @@
+def p(g,R=range(9)):(a,b),*_,(c,d)=sorted((8-c//5,j)for j in R if(c:=sum([*zip(*g)][j])));return[[(j==b)*(i>a)|(j==d)*(i>c)*2for j in R]for i in R]

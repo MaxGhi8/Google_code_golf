@@ -1,0 +1,1 @@
+p=lambda g,f=lambda g:[0]+[i for i,a in enumerate(g)if max(a)<1]:[[max(max(u[j+1:j+4])for u in g[i+1:i+4])for j in f(zip(*g))]for i in f(g)]

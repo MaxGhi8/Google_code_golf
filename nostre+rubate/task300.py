@@ -1,0 +1,1 @@
+p=lambda g,f=lambda d:[*filter(any,zip(*d))]:f(f([v*(v==max(range(1,10),key=sum(g,[]).count))for v in r]for r in g))

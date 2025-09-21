@@ -1,0 +1,1 @@
+p=lambda g,A=range(21):next([[t[i%h,j%h]for j in A]for i in A]for h in A[1:]if(t:={})or all((v:=g[i][j])<1or t.setdefault((i%h,j%h),v)==v for i in A for j in A))

@@ -1,0 +1,1 @@
+def p(g,e=enumerate):c,k=[([j for j,v in e(r)if v],k)for r in g if len(k:={*r})==2][0];return[[g[i][c[0]+c[-1]-j]if v in{*sum(g,[])}-k else g[i][j]for j,v in e(r)]for i,r in e(g)]
