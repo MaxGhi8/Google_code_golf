@@ -1,1 +1,2 @@
-p=lambda g,A=range(9):[[(g[j%3][i%3]>0)*g[j//3][i//3]for i in A]for j in A]
+p=lambda g:[[a&b for a in r for b in s]for r in g for s in g]
+
