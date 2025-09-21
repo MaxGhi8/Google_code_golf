@@ -1,4 +1,4 @@
-def p(g,E=enumerate):
- for i,r in E(g[1:]):
-  for j,v in E(r):r[j]=any([p[j-1:j+2]!=3*[v]for p in g[i:i+3]])*v
+def p(g):
+ for a,b,c in zip(g,g[1:],g[2:]):
+  if a==c:b[~b.index(max(b))%2::2]=[0]*(len(b)>>1)
  return g
