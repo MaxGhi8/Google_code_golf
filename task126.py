@@ -1,1 +1,1 @@
-p=lambda g,E=enumerate:[g[-1].__setitem__(j,4)for i,r in E(g)for j,_ in E(r[:-1])if r[j-1]==r[j+1]==g[i-1][j]>0]and g
+p=lambda g:g[:-1]+[[4*(c.count(max(c))<2)for c in zip(*g)]]
