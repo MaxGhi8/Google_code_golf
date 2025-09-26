@@ -1,1 +1,1 @@
-p=lambda g,f=lambda d:[*filter(any,zip(*d))]:f(f(g))
+p=lambda g:g*any(g[0])or p([*zip(*filter(any,g))])
