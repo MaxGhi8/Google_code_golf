@@ -14,7 +14,7 @@ Rules:
 2. Read for golfing strategies in the [Code Tips](../../code_tips.md) file.
 3. **Always try to shorten**. Never stop after the first attempt—make ≥2 different rewrites.
 4. After EVERY edit, you MUST run:
-   `python code_checker.py ${fileBasename}`
+   `python code_checker.py tasks/${fileBasename}`
    Which tells you if the function is correct and the corresponding length. Accept code only if tests pass.
 5. Keep iterating until no **shorter** correct version exists.
 
