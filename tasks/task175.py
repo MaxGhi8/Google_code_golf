@@ -1,1 +1,1 @@
-p=lambda g,R=range(21):(q:=[g[0][0],max(g[0][1],g[1][0]),*[max(g[0][j],g[j][0])for j in R[2::2]]])and[[(a:=min(r,c),b:=r+c-a,q[(b>a)+max(0,(b-a)//(a+2))])[2]for c in R]for r in R]
+p=lambda g,R=range(21):0in sum(g,[])and p([[g[i][j]or g[j][i]or g[i-1][j-1]for j in R]for i in R])or g
