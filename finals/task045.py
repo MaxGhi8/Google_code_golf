@@ -1,1 +1,1 @@
-p=lambda g:[[r,r[:1]*len(r)][r[0]==r[-1]]for r in g]
+p=lambda g:[[r,r[:1]*10][r[0]==r[-1]]for r in g]
