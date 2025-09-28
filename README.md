@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 369/401 tasks completed -->
+<!-- Progress: 370/401 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -122,7 +122,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task077.py](task077.py) | 👀 Completed | 315 | Oxke | Very inefficient but zip compressed to smaller |
 | [task078.py](task078.py) | ✅ Completed | 109 | Max | |
 | [task079.py](task079.py) | ✅ Completed | 175 | Max | |
-| [task080.py](task080.py) | ⏳ Pending | - | - | |
+| [task080.py](task080.py) | ✅ Completed | ??? | Max, Ale | |
 | [task081.py](task081.py) | ✅ Completed | 142 | Max | |
 | [task082.py](task082.py) | ✅ Completed | 61 | Max | |
 | [task083.py](task083.py) | ✅ Completed | 41 | Max | |
