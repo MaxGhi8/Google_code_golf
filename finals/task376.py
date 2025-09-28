@@ -1,1 +1,1 @@
-p=lambda g:g+g[1:-1]+g+g[-2::-1]
+p=lambda g:(g+g[1:-1])*2+g[:1]
