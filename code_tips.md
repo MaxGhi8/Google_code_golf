@@ -62,8 +62,8 @@
 55. A function can be applied to a list of elements via de `map` function, for example: `for j in 3,4:r[j]=f(r[j],r[j-3])` <=> `r[3:5]=map(f,r[3:5],r[:2])` (where f is a function). See [task314.py](task314.py).
 56. `(a+b>0)for a,b in zip(r)` can be written as `any(c)for c in zip(r)`. See [task318.py](task318.py).
 57. `for x in range():`+`if [condition]:` can be combined in a single expression: `for x in[*range()]*[condition]:`. See [task182.py](task182.py).
-58. To perform a deepcopy of a matrix `g`, use `[*map(list,g)]` instead of `[r[:]for r in g]`.
+58. To perform a deepcopy of a matrix `g`, use `[*map(list,g)]` instead of `[r[:]for r in g]`. To assign it to a variable, use `*G,=map(list,g)` (see tip 60.).
 59. When I need to apply the transport twice under suitable condition can be interesting see [task359.py](task359.py) and [task213.py](task213.py) where I use smart conditional wit matrixes instead of if condition.
-60. Starred assignment helps with iterable unpacking, making the code shorter: `*A,=range(10)`but also `[x for*x,in g]`.
+60. Starred assignment helps with iterable unpacking, making the code shorter: `*A,=range(10)`but also `[x for*x,in g]` instead of `[x[:] for x in g]`.
 61. Useful trick for gain a byte in double for loop: `for i in range(n*m):c=i%m;i//=m`, see [task125.py](task125.py).
 62. To replace every entry of value `a` with `b` in a list `L` we can use `map({a:b}.get,L,L)`
