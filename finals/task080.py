@@ -1,3 +1,7 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚ]QË®›0ÝóîÎÎUègú##/h1hdl# RiÕ¯Ç\\.R6hg|ôn³Lª­DœhÝ$©!-‚E‘¬Ym%Î	&·?4Ë[RÖ¶&óñ€÷ÆÖèÒóíÒÅÑI§hú{#ôöŸz~Ï0—ßýèæÙÅ^¢ìêF‡BÚéÀ§LàµÇ¦µ|~d„U•:ÀjÆB”Ùàà•é1!áÃZôüý’JIGiÖW½F«Ì¡û-I{·}üJ¯¸)ã`†‡ØŽ~èæ²~jôxo8®w§×BÐ ×z¤,Æªo0ñ”Çâ˜å¨€×u“›£¼—’¡yó Þ‹úY†RÆ£4sâçâ:_•w]{4—Úí’xv—€Ì9š®7K_0'È©…,A=GŸÀý^P¶š…2´ÇÉâjÁadk{}æçµÜõ¦>m¯ÃW€«–¤ã¹ñÇæ=ÛrÜ¦¬©2ÇMÆ;©J,n{-Q¤ÿ;¾Õˆ","L1")))
+def p(a,E=enumerate):
+ d=len(a);r=a[0];j=min(j+1for j,f in E(r)if f-r[0]);g=[g for b,r in E(a)for r,g in E(r)if{a[max(0,b-j)][r]}-{0,g}and{a[b][max(0,r-j)]}-{0,g}][0];o=[(b,r)for b,r in E(a)for r,f in E(r)if f==g]
+ for A in range(9):
+  e=A//3-1;l=A%3-1;g=max(a[b+e*j][r+l*j]for b,r in o if d>b+e*j>-1<r+l*j<d)
+  for b,r in o:
+   if d>b+e*j>-1<r+l*j<d:a[b+e*j][r+l*j]=g
+ return a
