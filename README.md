@@ -195,7 +195,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task150.py](task150.py) | ✅ Completed | 31 | Ghi, Max | |
 | [task151.py](task151.py) | ✅ Completed | 124 | Max | |
 | [task152.py](task152.py) | ✅ Completed | 41 | Ghi, Max | |
-| [task153.py](task153.py) | ⏳ Pending | - | - | |
+| [task153.py](task153.py) | ✅ Completed | 198 | Ale, Max | |
 | [task154.py](task154.py) | ✅ Completed | 249 | Max | |
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
 | [task156.py](task156.py) | ✅ Completed | 215 | Max, Ale, Oxke | |
