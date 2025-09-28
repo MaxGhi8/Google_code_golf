@@ -4,7 +4,7 @@ curl -s $link |
     pup 'table.waffle tbody tr td:nth-child(3) text{}' |
     tail -n 400 |
     awk '{
-      task = sprintf("%03d",NR); ftask = "nostre+rubate/task" task ".py";
+      task = sprintf("%03d",NR); ftask = "finals/task" task ".py";
       if (system("[ -f \"" ftask "\" ]") == 0) {
           cmd="wc -c < " ftask;
           cmd | getline size;
