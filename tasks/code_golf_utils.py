@@ -29,7 +29,7 @@ import numpy as np
 
 # task_length = os.path.getsize(task_path)
 
-code_golf_dir = "./inputs/"
+code_golf_dir = "../inputs/"
 libraries = ["collections", "itertools", "math", "operator", "re", "string", "struct"]
 colors = [
     (0, 0, 0),
