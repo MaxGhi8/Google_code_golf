@@ -1,4 +1,1 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("""xÚTÇ’Û0=[_Á#¹K{¬E#m{ï•Ãƒ¬lQJÏ¿‡„ÜÓãøå¡ˆŠR¦*‰C‘$RQŒjÅ¶]2BªF¹uQc¨/áso«YøSe`Œ$•A`ï¹!r1êæ)ÊaˆÊàç9xÉ O&7ôgåá£¤_äôWğ
-R»áìggNÀ²‰3¥nZİÁ@2¢‚á‡wÏ(N8XãJà¤U¥§R¶ºe‰¹·õ(Û2y§ï}:)cİVZ6kÑÖ1ÿ6cÅ¼ü+×ûpµ~§ë÷„¾´;w†¢›‚ºß¹ªô–*4*Ág©Íİw\x00URÓeeNf”ø]¿],ÕË P%eÔCæ)’|Ich*Óƒ¬ûñ´¿`‹š&èG¶]ES°dûÉÇõØ…q0åÔ“Ü|òÓÎ‚G²`íLÅÈXÅ ’3»œ6ìB¡ô~‚¢Õ/ªœ”¡•@™3ú7‰”f6)š”¸‘ã*“ñ<W°ğ	`W­½èÀaB<ì¶2MˆÿàÛŒê\\ûÎŠ§…âÆ$??”rÔŒş,>®p«K°&ø'ßšÛÏÕŒ.†É‘š…a¨şwB)/ÒONfƒÊ”fÁü1X»ëÖëDóûÀ8+Io¨ÅMÍ«G]B™1¼¡³eØ[\rEÎñ|R¯8_–6ÿü›Á)„šjháê¡äØn8°©§Í/œ^E‹Œ½-_6FiÊïğ…4""","L1")))
+def p(g,R=range):h=len(g);w=len(g[0]);*_,g,h,w,k=max((3>len({*(d:=sum(m:=[r[b:b+y]for r in g[a:a+x]],[]))}),d.count(d[0]),m,x,y,min({*d},key=d.count))for a in R(h)for b in R(w)for x in R(2,h-a)for y in R(2,w-b));return[[[v,k][k in[*zip(*g)][j]]for j,v in enumerate([r,[k]*w][k in r])]for r in g]
