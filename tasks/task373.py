@@ -1,1 +1,1 @@
-p=lambda g:[L:=[x[0]for x in g]*3,(L+L)[1:7]]
+p=lambda g:[L:=[*zip(*g)][0]*3,L[::-1]]
