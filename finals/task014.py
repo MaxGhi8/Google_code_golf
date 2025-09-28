@@ -1,1 +1,2 @@
-def p(g,E=enumerate):X,Y=zip(*((i,j)for i,r in E(g)for j,v in E(r)if v==min({*sum(g,[])},key=lambda k:sum(k in r for r in g))));return[r[min(Y):max(Y)+1]for r in g[min(X):max(X)+1]]
+f=lambda g:g*all(map(any,g))or f([*zip(*filter(any,g))])
+p=lambda g:f([[x*(x==min({*(s:=sum(g,[]))}-{0},key=s.count))for x in r]for r in g])
