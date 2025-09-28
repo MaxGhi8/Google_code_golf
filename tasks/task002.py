@@ -1,7 +1,7 @@
-def p(g,E=enumerate):
- for k in range(9):
-  for r,R in E(g[1:-1],1):
-   for c,C in E(R[1:-1],1):
-    if k+C<1and g[r-1][c]*R[c-1]and 3in R[c:]and 3in[*zip(*g)][c][r:]:g[r][c]=4
-    if 0<k==C*k/4and g[r+1][c]+R[c+1]+g[r-1][c]+R[c-1]<12:g[r][c]=0
- return g
+def p(g):
+ def f(i,j):
+  try:
+   if g[i][j]<1:g[i][j]=1;f(i+1,j);f(i-1,j);f(i,j+1);f(i,j-1)
+  except:0
+ for i in range(len(g)):f(i,0);f(i,-1);f(0,i);f(-1,i)
+ return[[(4,0,0,3)[a]for a in r]for r in g]
