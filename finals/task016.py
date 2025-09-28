@@ -1,1 +1,1 @@
-p=lambda j:[[b"0564312798"[x]-48 for x in r]for r in j]
+p=lambda j:[[b"0564312798"[x]-48for x in j[0]]]*3

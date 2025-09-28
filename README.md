@@ -58,7 +58,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task013.py](task013.py) | ✅ Completed | 248 | Max | |
 | [task014.py](task014.py) | ✅📚 Completed | 181 | Max | interesting |
 | [task015.py](task015.py) | ✅ Completed | 149 | Max | |
-| [task016.py](task016.py) | ✅📚 Completed | 56 | Max | lambda function with 1 constant on a single line |
+| [task016.py](task016.py) | ✅📚 Completed | 49 | Max | lambda function with 1 constant on a single line |
 | [task017.py](task017.py) | ✅ Completed | 161 | Ale | Simplified/hardcoded implementation of [task110.py](task110.py) |
 | [task018.py](task018.py) | ⏳ Pending | - | - | |
 | [task019.py](task019.py) | ✅ Completed | 202 | Max | |
