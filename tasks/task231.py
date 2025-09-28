@@ -1,1 +1,1 @@
-p=lambda g:[(r+2*r[len(r)%6:])[:2*len(r)]for r in g]
+p=lambda g:[(r[:6]*9)[:2*len(r)]for r in g]
