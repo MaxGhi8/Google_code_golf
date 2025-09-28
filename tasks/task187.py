@@ -1,9 +1,7 @@
 def p(g):
- w=len(g[0]);h=len(g)
  def f(i,j):
-  g[i][j]=3
-  for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   try:g[x:=i+x][y:=j+y]<1and f(x,y)
-   except:0
- for I in range(h*w):g[i:=I//w][j:=I%w]<1and i*(h+~i)*j*(w+~j)<1and f(i,j)
- return[[c or 2for c in r]for r in g]
+  try:
+   if g[i][j]<1:g[i][j]=3;f(i+1,j);f(i-1,j);f(i,j+1);f(i,j-1)
+  except:0
+ for i in range(len(g)):f(i,0);f(i,-1);f(0,i);f(-1,i)
+ return[[a or 2for a in r]for r in g]
