@@ -251,7 +251,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task206.py](task206.py) | ✅ Completed | 152 | Ale, Max | |
 | [task207.py](task207.py) | ✅ Completed | 105 | Ale, Max | |
 | [task208.py](task208.py) | ✅ Completed | 280 | Ale | |
-| [task209.py](task209.py) | ⏳ Pending | - | - | |
+| [task209.py](task209.py) | 👀✅ Completed | 485 | Oxke | 1. extract the main part; 2. extract the pattern using [task031.py](task031.py); 3. find the best overlap between (resized) pattern and main part |
 | [task210.py](task210.py) | ✅ Completed | 21 | Max | |
 | [task211.py](task211.py) | ✅ Completed | 50 | Max | |
 | [task212.py](task212.py) | ✅ Completed | 169 | Max | |
