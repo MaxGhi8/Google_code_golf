@@ -67,3 +67,4 @@
 60. Starred assignment helps with iterable unpacking, making the code shorter: `*A,=range(10)`but also `[x for*x,in g]` instead of `[x[:] for x in g]`.
 61. Useful trick for gain a byte in double for loop: `for i in range(n*m):c=i%m;i//=m`, see [task125.py](task125.py).
 62. To replace every entry of value `a` with `b` in a list `L` we can use `map({a:b}.get,L,L)`
+63. To color row and column see task047.py as reference.
