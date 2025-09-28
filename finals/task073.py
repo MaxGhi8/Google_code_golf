@@ -1,1 +1,1 @@
-p=lambda g:g[:2]+g[1::2]+[[w-v*4for v,w in zip(*g[2::2])]]
+p=lambda g:[*g[:1]*3,g[3],[5-v*4for v in g[2]]]

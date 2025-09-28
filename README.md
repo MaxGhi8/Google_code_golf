@@ -115,7 +115,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task070.py](task070.py) | ✅ Completed | 181 | Max | |
 | [task071.py](task071.py) | ✅ Completed | 179 | Ale | |
 | [task072.py](task072.py) | ✅ Completed | 62 | Max | |
-| [task073.py](task073.py) | ✅ Completed | 59 | Max | |
+| [task073.py](task073.py) | ✅ Completed | 47 | Max | |
 | [task074.py](task074.py) | ✅ Completed | 113 | Oxke | |
 | [task075.py](task075.py) | ✅ Completed | 125 | Max | |
 | [task076.py](task076.py) | ⏳ Pending | - | - | |
