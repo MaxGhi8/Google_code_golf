@@ -1,1 +1,1 @@
-p=lambda j:[3*[5*(len({*r})<2)]for r in j]
+p=lambda j:[3*[5*(r[:1]*3==r)]for r in j]
