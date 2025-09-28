@@ -14,6 +14,7 @@ curl -s $link |
       }
       print size-$1, task, $r, size;
   }' |
+    # sort -k4 -n | awk '
     sort -nr | awk '
     $4<2500 {print "task " $2 " could be " $1 "B smaller, they did in " $3 "B, we took " $4 "B"};
     $4>=2500 {print "task " $2 " could be done in just " $3 "B, we should try it"}'
