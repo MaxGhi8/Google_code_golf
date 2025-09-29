@@ -153,7 +153,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task108.py](task108.py) | ✅ Completed | 84 | Max | Use upscaling from [task223.py](task223.py) |
 | [task109.py](task109.py) | ✅ Completed | 100 | Max | |
 | [task110.py](task110.py) | ✅ Completed | 285 | Ale | Extended code from [task017.py](task017.py) |
-| [task111.py](task111.py) | ✅ Completed | 97 | Ale, Max | Same code of [task022.py](task022.py), but with less operations |
+| [task111.py](task111.py) | ✅ Completed | 80 | Ale, Max | Same code of [task022.py](task022.py), but with less operations |
 | [task112.py](task112.py) | ✅ Completed | 149 | Max | |
 | [task113.py](task113.py) | ✅ Completed | 26 | Max | |
 | [task114.py](task114.py) | ✅ Completed | 97 | Max | |

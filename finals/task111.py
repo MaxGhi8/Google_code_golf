@@ -1,1 +1,1 @@
-p=lambda g,E=enumerate:[[r[j-1:j+2]for r in g[i+1:i+4]]for i,r in E(g)for j,x in E(r)if x==5][0]
+def p(g):i,j=divmod(sum(g,[]).index(5),10);return[r[j-1:j+2]for r in g[i+1:i+4]]
