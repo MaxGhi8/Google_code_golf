@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 374/400 tasks completed -->
+<!-- Progress: 375/400 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -128,7 +128,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task083.py](task083.py) | ✅ Completed | 41 | Max | |
 | [task084.py](task084.py) | ✅ Completed | 87 | Max | Anti-diagonal coloring |
 | [task085.py](task085.py) | ✅ Completed | 105 | Max, Oxke | Similar to [task098.py](task098.py) |
-| [task086.py](task086.py) | ⏳ Pending | - | - | |
+| [task086.py](task086.py) | ✅ Completed | 326 | Max, Oxke | |
 | [task087.py](task087.py) | ✅ Completed | 37 | Max | |
 | [task088.py](task088.py) | ✅ Completed | 136 | Max | |
 | [task089.py](task089.py) | ⏳ Pending | - | - | |
