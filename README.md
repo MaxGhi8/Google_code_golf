@@ -208,7 +208,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task163.py](task163.py) | ✅ Completed | 159 | Max | |
 | [task164.py](task164.py) | ✅ Completed | 33 | Ghi, Max | |
 | [task165.py](task165.py) | ✅ Completed | 203 | Max | |
-| [task166.py](task166.py) | ✅ Completed | 159 | Max | |
+| [task166.py](task166.py) | ✅ Completed | 65 | Max, Oxke | Similar to task047.py |
 | [task167.py](task167.py) | ✅ Completed | 90 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ✅ Completed | 215 | Max | |
 | [task169.py](task169.py) | ✅ Completed | 224 | Max, Gio | similar to 330 |
