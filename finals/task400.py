@@ -1,1 +1,1 @@
-def p(g,E=enumerate,R=range(5)):p,q=[(i,j)for i,r in E(g)for j,v in E(r)if v==1][0];return[[g[23-p-i][23-q-j]for j in R]for i in R]
+p=lambda g,R=range(5):[[g[23-(a:=sum(g,[]).index(1))//24-i][23-a%24-j]for j in R]for i in R]

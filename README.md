@@ -80,7 +80,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task035.py](task035.py) | ✅ Completed | 209 | Max | |
 | [task036.py](task036.py) | ✅ Completed | 103 | Ale | |
 | [task037.py](task037.py) | ✅ Completed | 170 | Max | |
-| [task038.py](task038.py) | ✅ Completed | 111 | Max | |
+| [task038.py](task038.py) | ✅ Completed | 91 | Max | |
 | [task039.py](task039.py) | ✅ Completed | 73 | Max | |
 | [task040.py](task040.py) | ✅📚 Completed | 118 | Max | |
 | [task041.py](task041.py) | ✅📚 Completed | 51 | Max, Oxke | Good use of walrus operator ; Switches should be xorred with |
@@ -393,7 +393,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task348.py](task348.py) | ✅ Completed | 154 | Ale | |
 | [task349.py](task349.py) | ⏳ Pending | - | - | |
 | [task350.py](task350.py) | ✅ Completed | 121 | Ale, Max | Same as [task356.py](task356.py) |
-| [task351.py](task351.py) | ✅ Completed | 115 | Max | Same as task 400 |
+| [task351.py](task351.py) | ✅ Completed | 92 | Max | Same as task 400 |
 | [task352.py](task352.py) | ✅ Completed | 123 | Ale, Max | Similar to [task95.py](task95.py) and [task206.py](task206.py) |
 | [task353.py](task353.py) | ✅ Completed | 128 | Max | |
 | [task354.py](task354.py) | ✅👀 Completed | 193 | Max | |
@@ -442,7 +442,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task397.py](task397.py) | ✅ Completed | 163 | Max | |
 | [task398.py](task398.py) | ✅ Completed | 107 | Max | |
 | [task399.py](task399.py) | ✅ Completed | 147 | Max | |
-| [task400.py](task400.py) | ✅ Completed | 132 | Max | Same as task [task351.py](task351.py) |
+| [task400.py](task400.py) | ✅ Completed | 92 | Max | Same as task [task351.py](task351.py) |
 
 ---
 

@@ -1,1 +1,1 @@
-r=range(8);p=lambda g:[([1]*sum(g[i][j]*g[i+1][j]*g[i][j+1]*g[i+1][j+1]==1 for j in r for i in r)+[0]*5)[:5]]
+p=lambda g,R=range:[[k<sum(g[i][j]*g[i][j+1]==1for i in R(9)for j in R(8))/2for k in R(5)]]
