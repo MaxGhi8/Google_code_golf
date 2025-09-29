@@ -16,6 +16,7 @@
             pkgs.python313
             pkgs.python313Packages.matplotlib
             pkgs.python313Packages.numpy
+	    pkgs.zip
           ];
         };
     };
