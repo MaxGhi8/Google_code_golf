@@ -38,7 +38,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 376/400 tasks completed -->
+<!-- Progress: 378/400 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -261,7 +261,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task216.py](task216.py) | ✅ Completed | 159 | Max | Same as [task365.py](task365.py) (computational really inefficient) |
 | [task217.py](task217.py) | ✅ Completed | 120 | Ale, Max | Combination of [task001.py](task001.py) and [task031.py](task031.py) |
 | [task218.py](task218.py) | ✅📚 Completed | 80 | Ale | f(g) on g and g transposed |
-| [task219.py](task219.py) | ⏳ Pending | - | - | |
+| [task219.py](task219.py) | ✅ Completed | 417 | Oxke, Max | |
 | [task220.py](task220.py) | ✅ Completed | 162 | Max | Similar to [task352.py](task352.py) and [task095.py](task095.py) |
 | [task221.py](task221.py) | ✅ Completed | 103 | Ale, Max | Inspired by [task001.py](task001.py) and [task217.py](task217.py) |
 | [task222.py](task222.py) | ✅ Completed | 258 | Max | |
