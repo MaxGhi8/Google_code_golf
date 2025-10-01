@@ -200,7 +200,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task155.py](task155.py) | ✅ Completed | 19 | Max | |
 | [task156.py](task156.py) | ✅ Completed | 215 | Max, Ale, Oxke | |
 | [task157.py](task157.py) | ✅ Completed | 268 | -_- | |
-| [task158.py](task158.py) | ✅ Completed | 452 | -_- | |
+| [task158.py](task158.py) | ✅ Completed | 325 | Ale, Max, Waolo | Understood from tigrotto |
 | [task159.py](task159.py) | ✅ Completed | 186 | Ale | |
 | [task160.py](task160.py) | ✅ Completed | 174 | Ale | |
 | [task161.py](task161.py) | ✅ Completed | 107 | Max | |
