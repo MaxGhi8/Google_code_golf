@@ -116,9 +116,12 @@ def _run_variable_minimization(raw_function_code:str, task_id:int, limit:int=OPT
     candidate_names = list(OPT_CANDIDATE_NAMES)
     initial_code = FUNCTION_TEMPLATE.replace("##","")
 
+    initial_validation_failed = False
+    _initial_warning_msg = f"Initial code does not pass all examples for task {task_id}"
     if validate_code(initial_code, all_examples) is not None:
-        raise ValueError("Initial code does not pass all examples for task " + str(task_id))
-    if verbose:
+        initial_validation_failed = True
+        warnings.warn(_initial_warning_msg, RuntimeWarning)
+    elif verbose:
         print("Initial code PASSED validation.")
 
     base, penalty = get_score(initial_code, checked_examples)
@@ -178,6 +181,9 @@ def _run_variable_minimization(raw_function_code:str, task_id:int, limit:int=OPT
         print("\nFinal code PASSED validation.")
         print(f"Best score: {best_total} bytes (Base:{best_base} Pen:{best_penalty})")
         print("\nFinal optimized code:\n"+best_code)
+    # Repeat initial warning at end if it failed earlier (as requested)
+    if initial_validation_failed:
+        warnings.warn(_initial_warning_msg + " (repeated at end)", RuntimeWarning)
     return {
         'task':task_id,
         'code':best_code,
