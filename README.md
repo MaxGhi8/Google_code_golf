@@ -215,7 +215,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task170.py](task170.py) | ✅ Completed | 297 | Max | |
 | [task171.py](task171.py) | ✅ Completed | 71 | Max | |
 | [task172.py](task172.py) | ✅ Completed | 21 | Max | |
-| [task173.py](task173.py) | ✅ Completed | 275 | -_- | |
+| [task173.py](task173.py) | ✅ Completed | 222 | Max | Study from tigrotto |
 | [task174.py](task174.py) | ✅ Completed | 189 | Max | |
 | [task175.py](task175.py) | ✅ Completed | 103 | Ale, Max | Use the transpose |
 | [task176.py](task176.py) | ✅ Completed | 89 | Max | |
