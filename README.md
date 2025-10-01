@@ -143,7 +143,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task098.py](task098.py) | ✅ Completed | 117 | Max | Similar to [task085.py](task085.py) |
 | [task099.py](task099.py) | ✅ Completed | 172 | Max | |
 | [task100.py](task100.py) | ✅ Completed | 160 | Max | |
-| [task101.py](task101.py) | ✅ Completed | 487 | Ale, Max | |
+| [task101.py](task101.py) | ✅ Completed | 484 | Ale, Max | |
 | [task102.py](task102.py) | ✅👀 Completed | 223 | Ale | |
 | [task103.py](task103.py) | ✅ Completed | 30 | Ale, Max | |
 | [task104.py](task104.py) | ✅ Completed | 143 | Max | |
