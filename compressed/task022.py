@@ -1,0 +1,1 @@
+p=lambda u,m=enumerate,p=(-1,0,1):[[5if d==p==0else sum(u[a+d][o+p]for a,r in m(u)for o,r in m(r)if r==5)for p in p]for d in p]

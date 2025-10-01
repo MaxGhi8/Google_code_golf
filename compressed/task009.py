@@ -1,0 +1,1 @@
+p=lambda b,e=enumerate:[[p or(*(({*[b[a]for b in b[:n]]}&{*[b[a]for b in b[n+2:]]}|{*r[:a]}&{*r[a+2:]})-{r[2],0}),0)[0]for a,p in e(r)]for n,r in e(b)]

@@ -1,0 +1,1 @@
+p=lambda i:[[2*n[a]*n[a+4]for a in(0,1,2)]for n in i]

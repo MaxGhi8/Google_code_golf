@@ -1,0 +1,1 @@
+def p(r,o=enumerate):e,g=zip(*((h,e)for h,e in o(r)for e,q in o(e)if q==min({*sum(r,[])},key=lambda k:sum(k in e for e in r))));return[e[min(g):max(g)+1]for e in r[min(e):max(e)+1]]
