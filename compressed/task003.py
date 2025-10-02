@@ -1,1 +1,0 @@
-p=lambda e:[[e*2for e in e]for e in e+(e[:3],e[2:5])[e[1]!=e[4]]]

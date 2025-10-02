@@ -1,1 +1,0 @@
-p=lambda s:[[b"0564312798"[x]-48 for x in x]for x in s]

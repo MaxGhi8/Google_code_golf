@@ -1,1 +1,0 @@
-p=lambda a,n=range(21):next([[o[i%l,r%l]for r in n]for i in n]for l in n[1:]if(o:={})or all((f:=a[i][r])<1or o.setdefault((i%l,r%l),f)==f for i in n for r in n))
