@@ -45,8 +45,8 @@ function Get-WaffleThirdColumnValues {
         if (-not $waffle) { throw "Waffle table not found" }
         $vals = New-Object System.Collections.Generic.List[int]
         foreach ($row in @($waffle.rows)) {
-            if ($row.cells.length -ge 5) {
-                $text = ($row.cells.item(4).innerText).Trim()
+            if ($row.cells.length -ge 2) {
+                $text = ($row.cells.item(1).innerText).Trim()
                 if ($text -match '^[0-9]+$') { [void]$vals.Add([int]$text) }
             }
         }
@@ -61,8 +61,8 @@ function Get-WaffleThirdColumnValues {
         $vals = @()
         foreach ($r in $rows) {
             $cells = [regex]::Matches($r.Value,'<td[\s\S]*?</td>',"IgnoreCase")
-            if ($cells.Count -ge 5) {
-                $cell = $cells[4].Value -replace '<[^>]+>','' -replace '&nbsp;',' ' -replace '&amp;','&'
+            if ($cells.Count -ge 2) {
+                $cell = $cells[1].Value -replace '<[^>]+>','' -replace '&nbsp;',' ' -replace '&amp;','&'
                 $cell = $cell.Trim()
                 if ($cell -match '^[0-9]+$') { $vals += [int]$cell }
             }
