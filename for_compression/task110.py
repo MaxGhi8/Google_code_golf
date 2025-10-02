@@ -1,0 +1,1 @@
+p=lambda g,A=range(29):next([[g[i][j]or t[(i-o)%h,(j-p)%k]for j in A]for i in A]for h in A for k in(*A,29)for o in A[:h]for p in A[:k]if(t:={})or all(((v:=g[i][j])and t.setdefault(((i-o)%h,(j-p)%k),v)==v)or(1-s and v<1)or s and((i-o)%h,(j-p)%k)in t for s in(0,1)for i in A for j in A))

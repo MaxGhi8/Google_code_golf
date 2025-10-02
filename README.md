@@ -16,7 +16,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📚 Additional Resources
 
-### Useful Links
+### Useful Links for code golfing in Python 
 
 - [Python Standard Library, no other libraries are allowed](https://docs.python.org/3/library/index.html)
 - [Stackexchange code golf](https://codegolf.stackexchange.com/)
@@ -24,6 +24,13 @@ The challenge description is available [here](https://www.kaggle.com/competition
 - [Geeks4Geeks Code Golf](https://www.geeksforgeeks.org/python/code-golfing-in-python/)
 - [Python Code Golf Coding Game](https://www.codingame.com/blog/code-golf-python/)
 - [pysearch](https://github.com/lynn/pysearch#) This tool is very helpful but I do not know how to make it works...
+
+### Useful Links from Kaggle of this particular competition
+- [All problem solved](https://www.kaggle.com/code/antonoof/manual-modification-golf) start from tigrotto and additionally golfed from someone else.
+- [variable renaming](https://www.kaggle.com/code/garrymoss/compressed-variable-name-optimization) trick of renaiming variables for better compression from tigrotto.
+- [9 Hard problems tigrotto](https://www.kaggle.com/code/garrymoss/golfed-solutions-and-explanations-to-hard-problems) 9 of the hardest problem solved and explained by trigrotto.
+- [Regex](https://www.kaggle.com/competitions/google-code-golf-2025/discussion/608989#3293828) regex can be used in some problems (but we do not still now how ahah).
+- [Flateview](https://lynn.github.io/flateview/) tool to visualize how well your code compresses, remember to add 60 bytes for the decompression stuffs.
 
 ## 🏷️ Status Legend
 
@@ -38,7 +45,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 379/400 tasks completed -->
+<!-- Progress: 380/400 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -138,7 +145,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task093.py](task093.py) | ✅ Completed | 265 | Ale | |
 | [task094.py](task094.py) | ✅ Completed | 197 | Max | |
 | [task095.py](task095.py) | ✅ Completed | 115 | Ale, Max | |
-| [task096.py](task096.py) | ⏳ Pending | - | - | |
+| [task096.py](task096.py) | ✅ Completed | 596(to be compressed) | Ale | |
 | [task097.py](task097.py) | ✅ Completed | 138 | Ale, Max | |
 | [task098.py](task098.py) | ✅ Completed | 117 | Max | Similar to [task085.py](task085.py) |
 | [task099.py](task099.py) | ✅ Completed | 172 | Max | |
@@ -378,7 +385,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task333.py](task333.py) | ✅ Completed | 145 | Max | Similar to 064 |
 | [task334.py](task334.py) | ✅ Completed | 79 | Max | |
 | [task335.py](task335.py) | ✅ Completed | 164 | Max, Ale | |
-| [task336.py](task336.py) | ✅ Completed | 128 | Max | |
+| [task336.py](task336.py) | ✅ Completed | 120 | Max | |
 | [task337.py](task337.py) | ✅ Completed | 52 | Ghi, Max | `{x:x,...}[x] >>> {...}.get(x,x)` |
 | [task338.py](task338.py) | ✅👀 Completed | 154 | Ale, Max | First part from 002. Can be improved |
 | [task339.py](task339.py) | ✅ Completed | 38 | Ghi, Max | `[*filter(int,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |

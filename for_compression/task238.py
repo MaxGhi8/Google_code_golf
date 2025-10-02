@@ -1,0 +1,1 @@
+def p(g,f=lambda m:[c for c in zip(*m)if 8in c],E=enumerate):A=[x for x in {}.fromkeys(sum(g,[]))if x%8];g=f(f(g));h=-~len(g);m=[[0]+[8]*~-h+[0]];g=m+[[8,*r,8]for r in g]+m;return[[v and A[(d:=[i,j,h-j,h-i]).index(m:=min(d))]*(d.count(m)<2)or v for j,v in E(r)]for i,r in E(g)]

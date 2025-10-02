@@ -1,1 +1,0 @@
-def p(z):j=1+sum(len({*c})<2for c in z);r=1+sum(len({*c})<2for c in zip(*z));return[z[0][:1]*r]*j

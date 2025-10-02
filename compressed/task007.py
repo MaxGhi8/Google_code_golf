@@ -1,1 +1,0 @@
-p=lambda p,e=range(7):[[{a%3:p for a,p in enumerate(sum(p,[]))if p}[(a+n)%3]for n in e]for a in e]
