@@ -1,0 +1,1 @@
+p=lambda g,a=range(1,9):[(m:=g[r][c:c+2]+g[r+1][c:c+2]).count(0)>1or[(0<=(y:=r+(-i,i+1)[I>1])<10)*(0<=(x:=c+(-i,i+1)[I&1])<10)and g[y].__setitem__(x,max(m))for I in[m.index(0)]for i in a]for r in a for c in a]and g

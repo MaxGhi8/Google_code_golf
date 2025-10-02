@@ -1,0 +1,1 @@
+p=lambda g,e=enumerate:next((r for y,R in e(g)for x,_ in e(R)for A,B,v in((2,2,8),(3,1,2),(1,3,2))if all(g[(u:=y+t//B):]and g[u][(w:=x+t%B):][:1]==[5]and(t or(h:=eval(str(g))))and[h[u].__setitem__(w,v)]for t in range(A*B))and not"5"in str(r:=p(h))),g)

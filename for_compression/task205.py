@@ -1,0 +1,1 @@
+def p(g,R=range):h=len(g);w=len(g[0]);*_,g,h,w,k=max((3>len({*(d:=sum(m:=[r[b:b+y]for r in g[a:a+x]],[]))}),d.count(d[0]),m,x,y,min({*d},key=d.count))for a in R(h)for b in R(w)for x in R(2,h-a)for y in R(2,w-b));return[[[({*r}-{k}).pop(),k][k in c+r]for*c,in zip(*g)]for r in g]
