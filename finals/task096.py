@@ -1,7 +1,17 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("""xÚµWW“â¸f>û&-òÌ?]•d“çÒ›‹Ú ÀwÆ¦ŒØ¼ßıZÁ’Í„ËO´Ú­Ö¯s³’ëş®:¨eUT5’…ÜÉRá1£Œ9Íx]Õ}ÖÏË>3$7ä<_÷óC^”(—1‚Ôq_HRä…±,2cÙpîÎãZªc]öwâ:H…8&¿È”¿YVGxõLƒ)e¾Ù.ªú€Šj	@§@¸›Ÿ‹F„G#L,Õü§ùÒœZÖSæ×Ê~5O	\x00¿Ê—ò€6u¾Âã³£š:ëå€£R\x00»ª-vŒx\rŸõ@œ$Øû¤åF¢B–ˆaÃMN¸ »×Å²ªKY£½PË­v¹ªÇòîÊKd¯-ÃÚ“˜'ÌòŒÖ¢şİZ!§Z¯«õT‡q•!¯¬Á”O|Äi)?(”+YÃw`t3†“0X”+£‚ƒŠó¾>µ…²ÑÜÉ9íŸ»¿ºX\x00i°¶ùZYœd•×r©òª<<Ù_î%$¥áFü¡×…Â	™R“#æL&8ãÄ@†ƒL;B6sÊªŞ‰"ÿ$g4X£ÔùŒû½¬uáƒ(‰
-¹Vî€mÄW§uØ®B“ÇPv¬ÃÄœ“¦A }òUW-~Ûš#Ç2'Š£\\A¨Ä¦*EAŞçj[ÕÛÅ&Td|IC“bŒR}İiú÷U)ã+šÍã”šì‹oÉµ® ¾ôâ{Šáøz3û ´Á`Uœõ|…ß&p²=¤ãeUª¼<J`N(Ë8<2ÏtĞçVlBée[èš~Fæ×xJ?ó¯Ày¿ÍÙŸjµ½]“¾yØ/½hOŒöÄioôÏ4rïG}ö
-½~#V+„f$Á8NÍ!ÁñÍªS·óê>€’áe·&…äw_oJo¢ˆ«7r¦\\¡kìóéÊDt½Ù‹Zåºj\\'uQã¨¹ìÉL@ş›ì"ÕdyÜÉZ(‰˜aOë²SQÊ¿úXìE!•¹/çKÈkWÏõĞ“–æÒŞÂó·9aÏß®!_¼.>üë Vn…R¢D‚,:o‹¤k”à&x”â'\rÁ¡möÂ©wî
-C^W—;œõ^æ¾w=³	„®~hWu¥¾ºÄp) µBØ¼ä§|^k‰l< ‹ØXnwy]ƒEû\\.¥…kÈ8¡~x2¬›OQ·ÿdçN"NÚ};=íÛ Ñ®®à†w¿ÏšQ×šÑ?j\r'Iô²5$²fõœ5œtì‰Ó—Ñ§'èÓ§Ğ§O£ŸDÉ\x000G0M½\ré“45rLË9±´eÉ²e‰×ï£ÕØÙ¯¨¼TvÁTk«	™>=œ>Ê{67£z4JœóA‘1Ğƒ“‹IÓÓ‹é˜gÉ<Kçtæ0·&ˆò8 3`BAìÎÃh85í73b®ıvj†÷¼»ÈÜ®UñN¾ı÷ù7C¹Jt…Ç~Knêª‰Ò5„m"m‹¯ f­±p¥ıÒ À¸¤nG\x00}?Õ`ÒTÀP3$ÜÖh®‘¨¥ÀÚQíü2LÓÍX0ñRÈVJS7¤Ù˜Sİ¢Qèß·w¢Á(è‚q,êI­ç-Üš\ràshá	áØ»ÓbIiFÜDƒc¯èğkœPİì§­âM¢‘–H¾šÙ»@Fèü5Ì\x00¬\rU­ä
-qówêÚ9é68‰QM¡ùü$ÕmŒœŠ06ü–és^››Ğ¦´#¹äÖ“í?0‰ÁÆAÇÍnÛ)q3ï]º„7[ßï08Æv¶8¥‰v†(?¢fÍmÅ†c³ı$ƒQüà4B±3|’ëPhñÄ}OüNàÆĞ=yÀ>XÎ)ÍÚìş¯b·X‰¾+]4âyş:Ft®g‚8ÕşÒš¾/ÿK—¤íÜ°Ã‘hçCçÍm|°Nêpƒ	>óº""","L1")))
+def p(m):
+ b=max(r:=m[0],key=r.count);d={};n=t=0
+ for _ in[0]*4:
+  for r in m:
+   for c in{*r}-{b}:
+    for e,u in enumerate(r[(o:=r.index(c)):]):
+     if u!=c:break
+    i=r[o+e:]
+    try:s=i.index(c)
+    except:s=0
+    if(e,s)>d.get(c,(0,0)):d[c]=(e,s);n|=s>0;t|=1>s
+  *m,=map(list,zip(*m[::-1]))
+ i=sorted((s and s+e*2or(e>1)*n*t*3or e,e,s,c)for c,(e,s)in d.items());n=i[-1][0];m=[n*[b]for _ in[0]*n]
+ for _ in[0]*4:
+  for w,e,s,c in i:b=(n-w)//2;m[b][b+w-e:b+w]=m[b+w-1][b+w-e:b+w]=[c]*e
+  *m,=map(list,zip(*m[::-1]))
+ return m

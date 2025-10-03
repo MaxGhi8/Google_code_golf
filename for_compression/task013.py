@@ -1,1 +1,1 @@
-def p(g,k=0):*g,=map(list,zip(*g));n=len(g[0]);(c,b,a),(f,e,d),*_=sorted((i%n,i//n,v)for i,v in enumerate(sum(g,[]))if v);b*e in{0,(len(g)-1)**2}and[r.__setitem__(j,[a,d][(j-c)//(f-c)%2])for r in g for j in range(c,n,f-c)];return k and g or p(g,1)
+def p(r,e=0):*r,=map(list,zip(*r));d=len(r[0]);(i,g,b),(u,l,t),*m=sorted((l%d,l//d,e)for l,e in enumerate(sum(r,[]))if e);g*l in{0,(len(r)-1)**2}and[e.__setitem__(l,[b,t][(l-i)//(u-i)%2])for e in r for l in range(i,d,u-i)];return e and r or p(r,1)

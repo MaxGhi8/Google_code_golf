@@ -1,4 +1,4 @@
-def p(g):
- m=[p[:]for p in g];k,h=sorted({*(s:=sum(g,[]))},key=s.count)[:2]
- for I in range(2500):r,c=I//250,I//25%10;I%=25;m[r+I//5-2][c+I%5-2]|=(I in{2,10,14,22})*h*(v:=g[r][c]==k)or(I%2<1)*k*v
- return m
+def p(r):
+ e=[e[:]for e in r];i,g=sorted({*(f:=sum(r,[]))},key=f.count)[:2]
+ for n in range(2500):s,k=n//250,n//25%10;n%=25;e[s+n//5-2][k+n%5-2]|=(n in{2,10,14,22})*g*(f:=r[s][k]==i)or(n%2<1)*i*f
+ return e

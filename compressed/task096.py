@@ -11,7 +11,7 @@ def p(g):
     i=d-i;z=d
     while s>z and r[z]!=t:z+=1
     c=s>z and z-d
-    if(i,c)>e.get(t,(0,0)):e[t]=(i,c);o|=c>0;a|=2>i and 1>c
+    if(i,c)>e.get(t,(0,0)):e[t]=(i,c);o|=c>0;a|=1>c
     i=d
   *g,=map(list,zip(*g[::-1]))
  r=sorted((c and c+i*2or i>1and o*a*3or i,i,c,t)for t,(i,c)in e.items());n=r[-1][0];g=[n*[k]for _ in[0]*n]

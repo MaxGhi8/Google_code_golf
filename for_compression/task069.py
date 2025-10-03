@@ -1,6 +1,6 @@
-def p(g,f=lambda g:[r for*r,in zip(*g)if{*r}-{0,8}],R=range):
- m=len(k:=f(f(g)));n=len(k[0]);o=[[0]*10for _ in' '*10]
- for i in R(11-m):
-  for j in R(11-n):
-   for a in[*R(m*n)]*all(8in r[j:j+n]for r in g[i:i+m])*all(8in c[i:i+m]for c in [*zip(*g)][j:j+n]):o[i+a//n][j+a%n]=k[a//n][a%n]
- return o
+def p(g,f=lambda g:[r for*r,in zip(*g)if{*r}-{0,8}]):
+ m=len(j:=f(f(g)));n=len(j[0]);f=[[0]*10for e in' '*10]
+ for b in range(11-m):
+  for e in range(11-n):
+   for a in[*range(m*n)]*all(8in r[e:e+n]for r in g[b:b+m])*all(8in r[b:b+m]for r in [*zip(*g)][e:e+n]):f[b+a//n][e+a%n]=j[a//n][a%n]
+ return f

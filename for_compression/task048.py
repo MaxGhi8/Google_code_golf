@@ -1,6 +1,6 @@
-def p(g):
- w=len(g[0]);t=sum(g,[]);m=len(t);q=[t.index(2)];b=m+~t[::-1].index(2)
- while q:
-  if(x:=q.pop())==b:return[[8]]
-  t[x]=0;q+=[k for a in(x%w<w-1,-(x%w>0),w,-w)if-1<(k:=x+a)<m and t[k]]
+def p(l):
+ e=len(l[0]);n=sum(l,[]);l=len(n);r=[n.index(2)];u=l+~n[::-1].index(2)
+ while r:
+  if(p:=r.pop())==u:return[[8]]
+  n[p]=0;r+=[i for d in(p%e<e-1,-(p%e>0),e,-e)if-1<(i:=p+d)<l and n[i]]
  return[[0]]
