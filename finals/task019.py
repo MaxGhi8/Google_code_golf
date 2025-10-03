@@ -1,1 +1,2 @@
-def p(g,E=enumerate):g=[r*2for r in g*2];[(g[x].__setitem__(y,g[x][y]or 8))for i,r in E(g)for j,v in E(r)if v%8 for x,y in[(i-1,j-1),(i-1,j+1),(i+1,j-1),(i+1,j+1)]if 0<=x<len(g)and 0<=y<len(r)];return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚUMÅAlgûàœ[«õãúJÆ+¨Š ]à:4lRŸMÃ4vØ@6‰—!ÁâAšZp;§4%NÜ©ĞÅ7ãŒÒ»ßŠGĞŸÀä>hêŸ6twÛêÎOÕİÔX9 ÇT<?şøø‡ãO.¾%G«5¬€iÕº44^pŞ`¯¤®@",'L1')))

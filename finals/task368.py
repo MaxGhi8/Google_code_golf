@@ -1,6 +1,2 @@
-def p(g,f=lambda g:[r for r in zip(*g)if{*r}-{0,5}],R=range):
- m,n=len(k:=f(f(g))),len(k[0])
- for i in R(11-m):
-  for j in R(11-n):
-   for a in R(m*all(5in r[j:j+n]for r in g[i:i+m])*all(5in c[i:i+m]for c in [*zip(*g)][j:j+n])):g[i+a][j:j+n]=k[a]
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚUÃ0†èS —¦´(„<I™K§d·:´úîÓèZüßßï(M°(6är|=([/0½f†u^”fœ§MËŞm½÷€¶b²Ë‰Õj)RŒˆ¦fßln_\"?“†®VåñçÊkAwQtÌYGöÑÆ6‡k‘½XiKÀë„Nrmx}¾NÑ²—–~Ù­B’>EøßAQ",'L1')))

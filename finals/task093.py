@@ -1,8 +1,2 @@
-def p(g,E=enumerate):
- for i,j in{(i,j)for i,r in E(g)for j,x in E(r)if x==5}:
-  for a,b in(0,1),(0,-1),(1,0),(-1,0):
-   u=x=i+a;v=y=j+b
-   while-1<x<14 and-1<y<14 and g[x][y]-5:
-    if g[x][y]%5:g[u][v]=5;g[x][y]*=x^u|y^v<1;u+=a;v+=b
-    x+=a;y+=b
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚUAOÄ „ïşŠw1)É’ÈeÛ÷K›°)EECJ…¨ÿİGíÅË›™/3û>†À®°¼gˆb…˜¾Rö—3eğ©¼ùì6OÍWQÿãÌâQÿĞGĞ+NÜ©2\\„b‚®ì¢Ä…®ìÒkP°bänÜ±áÊï}¾ÄW/ÕT\'õ.ÍdÛi!˜jM³ROò¨¯Ákv‹z<ÙÖ[ùn·}RcáH#¨=µ#e¿•œ ü·9M",'L1')))

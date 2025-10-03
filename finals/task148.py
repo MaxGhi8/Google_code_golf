@@ -1,6 +1,2 @@
-def p(g,E=enumerate):
- s,t=sorted(a.index(2)for a in zip(*g)if 2in a);b=[(i,j)for i,r in E(g)for j,v in E(r)if v&8]
- for i in 0,t-s:
-  for x,y in b:
-   for j,w in E(q:=g[i+x]):q[j]=w or(any(q[:j])&any(q[j:])or i>0)*8;g[x][y]=4
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("UMKƒ Ý{ŠY5`icLC/BXÌ`*õÓzúŠ®\\Í¼?’ƒ.è„SŸ>M„Œž>\"}YÍ]Ÿ€ÀGØüÀÊÀ½ƒzGÄÛMiæŽýfÅ9P²í…™F±\\iÌùåÖ˜ŽXV+áÝ>0VœcÃY±^+F©‚öwk¸5µBŸ˜?6j‰†ßÎ¥áyà]ñ²iƒ¶F“Q¯MsŠþ",'L1'),-15))

@@ -1,5 +1,2 @@
-def p(g,e=enumerate,f=lambda d:[*filter(any,zip(*d))],L=len):
- t=sum(g,[])[::-1];i=[i for i,v in e(t)if v][0];n=L(g[0])
- while t[i]:i-=~n;x=L(t)-i;G=g[x//n:];C=f(f(r[x%n:]for r in G))
- for r in G:r[x%n:]=[0]*(n-x%n)
- l=L(K:=f(f(g)))//L(C);return[[K[i*l][j*l]and v for j,v in e(r)]for i,r in e(C)]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚ]f1„øŸb¡dÏky’¤.Ñ%ÙÆ^Nµè³7w©þ°vfÖ·fKš)sö%Ö×-‚Xš2—žÔDùœ¿¸™IÚt¿uS@²vy	Ž=1äwžw`$GM{29Ãè9¸æKSÆŠ7øxã’ Ë‹ÿnN®´ãÂN}!Y×fƒ«>›l”äi¨óžxÅAøSö7÷=™¶1òr“½×õ4*:MýP!JÄS	¤cDÙ`¿#(†{3ýïW?!þcÞ",'L1')))

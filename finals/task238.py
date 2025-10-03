@@ -1,1 +1,2 @@
-def p(g,f=lambda m:[c for c in zip(*m)if 8in c],E=enumerate):A=[x for x in {}.fromkeys(sum(g,[]))if x%8];g=f(f(g));h=-~len(g);m=[[0]+[8]*~-h+[0]];g=m+[[8,*r,8]for r in g]+m;return[[v and A[(d:=[i,j,h-j,h-i]).index(m:=min(d))]*(d.count(m)<2)or v for j,v in E(r)]for i,r in E(g)]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚmfÆ@Ç_å`$íµfà´»\'‰ [SßÙ]ú¹¯å¶YŸ}½‚aÿ$?¿d–ÅÜA­ø8¥·y22P1ËšM1AÍW¸C#ãÎ®0ÁÿİÿôK^Ó‡|>à±\'PKŒ/OGõŠ8FßQôÌ£x¢gnÉqst±=ó¶DÎ6jW¹V¹r+c–mÏJ¤fÒÙ‚2xÊöfcW+3öAg) ƒOA¡ r¥_wİ@ğõ/_µŞìåİ“äi«¯]×ò?ó_Â7Zî",'L1')))

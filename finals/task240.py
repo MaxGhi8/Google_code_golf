@@ -1,5 +1,2 @@
-def p(g,R=lambda g:[*map(list,zip(*g))][::-1]):
- s=sum(g,[]);b=R(a:=R(g));g=[[*map(sum,r)]for r in map(zip,g,a,b,R(b))]
- for _ in' '*4:
-  for k in(g:=R(g))[1][1]*[x for x in s if s.count(x)>1]:r,x=[(r,r.index(k))for r in g if k in r][0];r[x:19-x:2]=[k]*(10-x)
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚ=Mn!Ëb¢ûëÆ†^d².		¤vúNçé¶™•UÛÙ-ÛV¡p3A&ùa\"–ó•j¯z®È:WGìygteQÑA’Îjüq/ï ñğ…Q´2J#+3”×À}‚“¸¥Üo Àìo\"^õ´ÎßÔLd0äóª/læÏW½JrÖÈ’Lgã·ıEÎÿ›-É¿3!õxÙw	guõÔÎêº×{Á®.Û™7öRÉ?ŒQÉ",'L1')))

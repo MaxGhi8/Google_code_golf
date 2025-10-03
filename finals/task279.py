@@ -1,7 +1,2 @@
-def p(g,E=enumerate):
- def f(i,j,a,b,k):
-  k|={(i,j)}
-  for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   if len(g)>(x:=i+x)>-1<(y:=j+y)<len(g[0])and 2>g[x][y]and(x-a|y-b)and((x,y)in k or f(x,y,i,j,k)):return 7
-  return 0
- return[[v+f(i,j,-1,-1,set())*(2>v)for j,v in E(r)]for i,r in E(g)]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚmO5b1ìï*¥¬fzÈñ2“¡	ü=¦2FñÌeJzİ@0wœrÆ¥AùóñíBôkj–`x€vÂ¾&F¾k¾ñ¯¸ñ=ĞV0”JúDóú¡CŸâæ‡×.èİçv×J§n?åÎvÃÁ:hDú3ˆŒœ‰Ú	J°¨‹óØQ+‰^e©œàÉbEóz­İN&Aƒ¸qG•‰.ĞÂ£ß±7t2c)S]¢¤ƒ‹«â…ÏRå",'L1')))

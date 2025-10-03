@@ -1,1 +1,2 @@
-def p(g):R=range(len(g));(a,b),(c,d),(e,f)=((i,j)for i in R for j in R if g[i][j]);D=max(a,e)-c;return[[max(max(g))*(((x:=abs(i-c))%D<1and(y:=abs(j-d))<=x)or((y:=abs(j-d))%D<1and x<=y))for j in R]for i in R]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚuÎÃ0ÄñW	Œ»I1€¶y’M¢dé|[ÈãO»ÁlÃÁÏá¿Ä¤n(t£FÖQ\'”6QA­U‰¯9¢ÄŠÂCÛ—®IœmŽS2Wßtä\'‰&ÕÚöò@FãÃaÈä)Í_ø—µ¡“³n‚{ÿ”ÌÆÿëp¿£ÝÑ³Ip",'L1')))

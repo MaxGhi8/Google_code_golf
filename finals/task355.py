@@ -1,13 +1,2 @@
-def p(g,R=range):
- r=len(g);c=len(g[0]);b=0
- for h in R(1,r):
-  for v in R(1,c):
-   q=[[0]*10for _ in R(4)]
-   for i in R(r):
-    for j in R(c):q[(i<h)*2+(j<v)][g[i][j]]+=1
-   s=f=-1
-   for t in q:
-    m=max(t);u=sum(t)-m;s+=m
-    if u>f:f,y=u,t.index(m)
-   if s>b:b,x=s,y
- return[[x]]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚ]ŒÁnÃ DïşŠ=BL*»êÉÎæGV{ˆ•ÅBªq %_0‡´¹ŞÌ¼»XøQNOü_âì[ õ¼àĞİlà<„›_E&Ôıã_ì+RùÆ¡Òkğ¥¹Öo´¹–.®•TºlúôÙ+¹DÍä(1	sc½D´xÿ)×æÜn•ôœ1æ­„³Ì±G9Jg!_ídÍ³IÎßå¡Dw­Š×eZÌÑ<;’rğD;ó/…SU¬",'L1')))

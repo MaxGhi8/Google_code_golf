@@ -1,5 +1,2 @@
-def p(g):
- R=range;h,w=len(g),len(g[0])
- for i,j,l in[(i,j,l)for i in R(h)for j in R(w)for l in R(2,1+min(h-i,w-j))if all(g[i][j:j+l]+sum((g[i+k][j::~-l][:2]for k in R(l)),[])+g[i+~-l][j:j+l])]:
-  for r in g[i+1:i+~-l]:r[j+1:j+~-l]=[2|l%2*5]*(l-2)
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚ]ŒÇÃ0†è¯8øÈ5	_Ã ì—Ä¡,’ÞU¶³ß¾$–÷>ïóÞ-N°ª}“dHFÃÌAµ+òÈ÷¨Räâ6*?4üÓ^ðY83èeæïÌ&s˜Vç	Æ”JNÄ‹fÒmQèX‘[¦àÕ·ñ|Ëˆ&ê*6e_#ùàpk;øÝð1H	ÒÂ5¸ÿ¹þB½bë°ƒŸ[.‹èëT7",'L1')))

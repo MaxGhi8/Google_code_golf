@@ -113,42 +113,48 @@ def _compress_variants(data: bytes):
 
 
 def _latin1_literal(data: bytes) -> bytes:
-    single = data.count(b"'")
-    double = data.count(b'"')
-    quote = b"'" if single <= double else b'"'
-    out = bytearray()
-    i = 0
-    while i < len(data):
-        b = data[i:i+1]
-        if b == b"\n":
-            out += b"\\n"; i += 1; continue
-        if b == b"\r":
-            out += b"\\r"; i += 1; continue
-        if b == b"\x00":
-            out += b"\\0"; i += 1; continue  # escape null byte
-        if b == quote:
-            out += b"\\" + b; i += 1; continue
-        if b == b"\\":
-            # Lookahead to decide if we can leave single backslash unescaped.
-            nxt = data[i+1:i+2]
-            if nxt and nxt in b"\n\r\\'\"xuUN0123456789":
-                out += b"\\\\"  # must escape to preserve meaning
-            else:
-                out += b  # safe to leave single backslash
-            i += 1; continue
-        out += b; i += 1
-    return quote + bytes(out) + quote
+    # Simpler, safer escaping ensuring round‑trip via latin1 decoding
+    s = ''.join(chr(b) for b in data)
+    s = (s
+         .replace('\\', r'\\')
+         .replace('\n', r'\n')
+         .replace('\r', r'\r')
+         .replace('\0', r'\0')
+         .replace('"', r'\"')
+         .replace("'", r"\'")
+    )
+    return b'"' + s.encode('latin1') + b'"'
+
+
+def _validate_latin1_literal(comp_bytes: bytes, lit: bytes) -> bool:
+    try:
+        # lit is bytes containing quoted python string literal
+        py_str = ast.literal_eval(lit.decode('latin1'))  # type: ignore
+        return py_str.encode('latin1') == comp_bytes
+    except Exception:
+        return False
 
 
 def _build_wrappers(comp_bytes: bytes, original_len: int, raw: bool):
-    # Produce only the canonical wrapper style matching finals/task077.py
+    wrappers = []
     lit = _latin1_literal(comp_bytes)
+    if _validate_latin1_literal(comp_bytes, lit):
+        if raw:
+            code = b"#coding:L1\nimport zlib;exec(zlib.decompress(bytes(" + lit + b",'L1'),-15))"
+            wrappers.append(('latin1_import_raw', code))
+        else:
+            code = b"#coding:L1\nimport zlib;exec(zlib.decompress(bytes(" + lit + b",'L1')))"
+            wrappers.append(('latin1_import', code))
+    # Fallback: base85 (always safe ascii) if no valid latin1 or if latin1 produced different bytes
+    # (We still add it as alternative so size competition can choose smallest valid)
+    b85 = base64.b85encode(comp_bytes)
     if raw:
-        code = b"#coding:L1\nimport zlib;exec(zlib.decompress(bytes(" + lit + b",'L1'),-15))"
-        return [('latin1_import_raw', code)]
+        code = b"import zlib,base64;exec(zlib.decompress(base64.b85decode('" + b85 + b"'),-15))"
+        wrappers.append(('b85_raw', code))
     else:
-        code = b"#coding:L1\nimport zlib;exec(zlib.decompress(bytes(" + lit + b",'L1')))"
-        return [('latin1_import', code)]
+        code = b"import zlib,base64;exec(zlib.decompress(base64.b85decode('" + b85 + b"')))"
+        wrappers.append(('b85', code))
+    return wrappers
 
 
 def save_final_solution(
@@ -164,7 +170,8 @@ def save_final_solution(
     variants = _compress_variants(source)
     candidates = []
     for name, blob in variants:
-        raw = name.startswith("deflate")
+        # Treat both explicit deflate* and * _raw variants as raw (no zlib header)
+        raw = name.startswith("deflate") or name.endswith("_raw")
         for wname, wrapper in _build_wrappers(blob, original_len, raw):
             candidates.append((f"{name}:{wname}", wrapper))
     # Choose minimal total length

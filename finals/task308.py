@@ -1,3 +1,2 @@
-S=sum;Z=zip;X=max
-def M(m,E=enumerate):x,y=Z(*((x,y)for y,r in E(m)for x,c in E(r)if c));l,x,y=X(X(y)-min(y),X(x)-min(x))>>1,S(x)>>2,S(y)>>2;return[r[x-l:x-~l]for r in m[y-l:y-~l]]
-def p(g):b=X(L:=S(g,[]),key=L.count);return[[S(v)or b for v in Z(*r)]for r in Z(*(M([[e*(e==k)for e in r]for r in g])for k in {*L}^{b}))]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚeAkÄ …ïıgShYÜ?\"†v6„•4‚vI{g,%‡ä½yßÓ¾Æ‘ls_s†€X¼§Í4Ëf†cYy£]×4¦ÿñ,Äk¶JY©‚†Ã:G«õIo·ûYV q¯İ5u×÷²EÏ†<Òğƒ¶ıvù&YÓ,<é“3L8Ö^•F§ŒÉú€váæÒó{*qÇ? ×ëŒÂªF‰Y‰ı«ŒgE€Á{qnÁ³ıÜšBõK:Şõ@?ƒîjQ",'L1')))

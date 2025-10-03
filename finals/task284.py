@@ -1,9 +1,2 @@
-def p(g,e=enumerate):
- (r,c,A),(R,C,B)=[(i,j,x)for i,r in e(g)for j,x in e(r)if x];f=c==C
- if f:*g,=map(list,zip(*g));r,c,R,C=c,r,C,R
- if c>C:r,c,A,R,C,B=R,C,B,r,c,A
- d=C-c>>1
- for r,c,W,S in(r,c,A,1),(R,C,B,-1):
-  j=c+S*d-S;g[r][c:j+S:S]=[W]*d
-  for k in-2,-1,1,2:u=g[r+k];u[j+S*(~k&1)]=u[j]=W
- return[*zip(*g)]*f or g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚUO»nÅ İù\nOgÈ‰œAWjÎ«ˆ’¥C¿½·:€äãóòû!ëdœ]±Ô\'îxòšqÅdâGFy\'ÌçuÌåYgı‚eı.†#¤0Fb¢]LÑÙ„t<³Şù³âgm“1ã&I$Ö’w6.O»k-°u öcCdÚ{¦AÁ}ƒV‰×/Åğ×ûá>Vâ®ÚÜ×1ù<»µ«®òK°YAsÙDß?D>ÜEÂì¶0^^¸Vooƒ	$S EA™ëUNoO6‚X¤½=a",'L1')))

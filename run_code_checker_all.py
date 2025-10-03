@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # Path to the compressed folder
-compressed_folder = "./compressed"
+compressed_folder = "./finals"
 
 # Path to the code_checker script
 code_checker_script = "./code_checker.py"

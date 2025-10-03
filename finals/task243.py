@@ -1,3 +1,6 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚuŒCaF÷=Evµô µ’jŒûù[//ß‹¬õ,ÔÈèùèÜ7µ7\ràcXh÷Âã8:·Cb:p‡¯~k2”2áÄD«ø2Ðñ~>jgÄQŒb¦uÇ;N¿¹ÂÐo²†q®ß=$±#Õµþx#!¾¯Œ—ø}Y¾Cžï@´R!","L1")))
+def p(g):
+ n=len(g);L=sum(g,[])
+ def f(i,j):
+  for x,y in(1,0),(-1,0),(0,1),(0,-1):
+   if n>(x:=i+x)>-1<(y:=j+y)<n and g[x][y]<1:g[x][y]|=1;f(x,y)
+ [f(i//n,i%n)for i in range(n*n)if L[i]==1];return g

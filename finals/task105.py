@@ -1,6 +1,2 @@
-def p(g,k=0,E=enumerate):
- *g,=map(list,zip(*g))
- X,Y=zip(*((i,j)for i,r in E(g)for j,v in E(r)if v));a,*_,b=sorted(X);c,*_,d=sorted(Y)
- for i,r in E(g):
-  for j in range(c,d+1):r[j]=r[j]or 2*(i in[a,b]or r[c+1:d].count(1)>1)
- return g if k else p(g,1)
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚuOEbÄ0¼ï+t”²á[ÁıFŠÃ^_ÛeX³90¢tÒñéŠ.±­–Õ}©Ft$Ñ.ÜKaˆ•[S1ÌP¹z÷ÀıÖñœ¬ŒÒ†kWıÏT ˆN×¹wS±óÊ9^ĞIfùGàRÓÀÕºÀb›Äœô’1só}DÇóu}+Ì¡³±ƒ•.¸NÜÔ|çëlç·~6lıŠEšaæu›{ E5ÀíÂÖ}D¯[NR",'L1')))
