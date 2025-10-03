@@ -1,1 +1,1 @@
-p=lambda g:[[a-2*(a==7)for a in r]for r in g]
+p=lambda g:[[*map({7:5}.get,r,r)]for r in g]
