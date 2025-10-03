@@ -1,1 +1,1 @@
-def p(e):o,o=len(e),len(e[0]);return max((sum(l:=sum((r[1:-1]for r in r[1:-1]),[])),[[r and max(l)for r in r]for r in r])for i in range(o)for b in range(o)for t in range(i+3,o+1)for a in range(b+3,o+1)if all((r:=[r[b:a]for r in e[i:t]])[0]+r[-1]+[r[i]for r in r for i in(0,-1)]))[1]
+def p(j):d,n=len(j),len(j[0]);return max((sum(w:=sum((r[1:-1]for r in r[1:-1]),[])),[[r and max(w)for r in r]for r in r])for x in range(d)for t in range(n)for g in range(x+3,d+1)for l in range(t+3,n+1)if all((r:=[r[t:l]for r in j[x:g]])[0]+r[-1]+[r[j]for r in r for j in(0,-1)]))[1]
