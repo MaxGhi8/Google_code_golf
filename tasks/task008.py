@@ -1,5 +1,5 @@
-def p(g,e=enumerate,f=lambda g:[r for*r,in zip(*g)if any(r)],s=lambda g:divmod(sum(g,[]).index(8),len(g[0]))):
- a,b=s(g);A,B=s(G:=f(f(g)));M=[[0]*len(g[0])for _ in g]
- for h,R in e(G):
-  for k,v in e(R):M[a-A+h][b-B+k]=v
- return M
+def p(g):
+ for _ in[0]*4:
+  g=[*zip(*g)][::-1];D={v:i for i,r in enumerate(g)for v in[2,8]if v in r};a=D[8]
+  if a<D[2]and 2not in g[a]:g=(g[:a+1]+[r for r in g if 2in r]+[[0]*len(g[0])]*99)[:len(g)]
+ return g
