@@ -1,2 +1,6 @@
-#coding:L1
-import zlib;exec(zlib.decompress(bytes("xÚm±nÅ E÷|…G;Ï¯êXå‰/A‰ ’1!UÃ×:´K7#_v8°±YÓæWh‹Øs™…£B‹Îâç•PÈ±þ…>~¦ìq˜ÆÖÑ[T¾ðƒX‚b³ïŽˆ–	6N¦3½2K?t1‚Ò™èuÛ³ù·ïÃpÀv¨¬ƒ^)”µÔññGÿ¨ÛnÏü¨Î¦§<Ngt‚êUîoŽÐK5",'L1')))
+def p(g):
+ for _ in[0]*4:
+  g=[*zip(*g)][::-1];L=[]
+  for i,r in enumerate(g):2in r and(L.append(r),b:=i);8in r and(a:=i)
+  a<b and 2not in g[a]and(g:=(g[:a+1]+L+[[0]*len(r)]*99)[:len(g)])
+ return g
