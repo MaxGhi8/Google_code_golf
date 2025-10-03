@@ -1,9 +1,9 @@
-def p(g,e=enumerate):
- (r,c,A),(R,C,B)=[(i,j,x)for i,r in e(g)for j,x in e(r)if x];f=c==C
- if f:*g,=map(list,zip(*g));r,c,R,C=c,r,C,R
- if c>C:r,c,A,R,C,B=R,C,B,r,c,A
- d=C-c>>1
- for r,c,W,S in(r,c,A,1),(R,C,B,-1):
-  j=c+S*d-S;g[r][c:j+S:S]=[W]*d
-  for k in-2,-1,1,2:u=g[r+k];u[j+S*(~k&1)]=u[j]=W
- return[*zip(*g)]*f or g
+def p(l):
+ (m,f,u),(z,e,p)=[(i,p,z)for i,m in enumerate(l)for p,z in enumerate(m)if z];i=f==e
+ if i:*l,=map(list,zip(*l));m,f,z,e=f,m,e,z
+ if f>e:m,f,u,z,e,p=z,e,p,m,f,u
+ d=e-f>>1
+ for m,f,u,i in(m,f,u,1),(z,e,p,-1):
+  p=f+i*d-i;l[m][f:p+i:i]=[u]*d
+  for e in-2,-1,1,2:z=l[m+e];z[p+i*(~e&1)]=z[p]=u
+ return[*zip(*l)]*i or l

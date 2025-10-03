@@ -1,9 +1,9 @@
 def p(g):
- h=len(g)-1;R=range(1,h)
- for A in R:
+ m=len(g)-1;R=range(1,m)
+ for f in R:
   for c in R:
-    if(W:=g[A][c])and(g[A][c+1]==W)^(g[A][c-1]==W)and(g[A+1][c]==W)^(g[A-1][c]==W):
-     l,J,p,a=2*(g[A+1][c]==W)-1,2*(g[A][c+1]==W)-1,c,A
-     if g[A+l][c+J]-W:
-      while h>p>0<a<h:a-=l;p-=J;g[a][p]=g[A+2*l][c+2*J]
+    if(W:=g[f][c])and(g[f][c+1]==W)^(g[f][c-1]==W)and(g[f+1][c]==W)^(g[f-1][c]==W):
+     l,z,p,a=2*(g[f+1][c]==W)-1,2*(g[f][c+1]==W)-1,c,f
+     if g[f+l][c+z]-W:
+      while m>p>0<a<m:a-=l;p-=z;g[a][p]=g[f+2*l][c+2*z]
  return g

@@ -1,5 +1,5 @@
-def p(g,E=enumerate):
- for i,j in[(i,j)for i,r in E(g)for j,x in E(r)if x==2]:
+def p(g):
+ for i,j in[(i,j)for i,r in enumerate(g)for j,x in enumerate(r)if x==2]:
   for a,c in(1,0),(-1,0),(0,1),(0,-1):
     u=x=i+a;v=y=j+c
     try:

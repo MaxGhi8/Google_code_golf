@@ -1,6 +1,6 @@
-def p(g,k=3,I=0,E=enumerate):
- for i,r in E(g):
-  C=2in r and(I:=r.index(2))<r.index(3)and[*r[I:],0].index(0)
-  for j,_ in E(r):
-   for c in range(C*(j<I)):g[i-c][j]=2+(c>0);g[i+c][j]=2+(c>0)
- return-k*g or p([*map(list,zip(*g[::-1]))],k-1)
+def p(g,u=3,e=0):
+ for d,r in enumerate(g):
+  l=2in r and(e:=r.index(2))<r.index(3)and[*r[e:],0].index(0)
+  for r,o in enumerate(r):
+   for i in range(l*(r<e)):g[d-i][r]=2+(i>0);g[d+i][r]=2+(i>0)
+ return-u*g or p([*map(list,zip(*g[::-1]))],u-1)

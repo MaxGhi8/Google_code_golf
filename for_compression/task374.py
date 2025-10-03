@@ -1,4 +1,4 @@
-def p(g,R=range(10)):
- def f(i,j):
-  g[i][j]=3;k=1+sum(f(x,y)for x,y in((i+1,j),(i-1,j),(i,j+1),(i,j-1))if 0<=x<10>y>=0<g[x][y]//5);g[i][j]=5;return k
- return[[g[i][j]and[2,4,1][sum(s<f(i,j)for s in{f(i,j)for i in R for j in R if g[i][j]})]for j in R]for i in R]
+def p(q):
+ def j(n,r):
+  q[n][r]=3;l=1+sum(j(n,r)for n,r in((n+1,r),(n-1,r),(n,r+1),(n,r-1))if 0<=n<10>r>=0<q[n][r]//5);q[n][r]=5;return l
+ return[[q[n][r]and[2,4,1][sum(f<j(n,r)for f in{j(n,r)for n in range(10)for r in range(10)if q[n][r]})]for r in range(10)]for n in range(10)]

@@ -1,7 +1,7 @@
-def p(g):
- s=sum(g,[]);a,b,*_=sorted({*s},key=s.count);w=len(g[0]);h=len(g)
- def f(i,j):
-  for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   if h>(x:=i+x)>-1<(y:=j+y)<w and g[x][y]<1:g[x][y]=g[i][j]^a^b;f(x,y)
- for k in range(w*h):s[k]&7and f(k//w,k%w)
- return g
+def p(n):
+ u=sum(n,[]);g,l,*h=sorted({*u},key=u.count);r=len(n[0]);o=len(n)
+ def m(u,d):
+  for h,e in(1,0),(-1,0),(0,1),(0,-1):
+   if o>(h:=u+h)>-1<(e:=d+e)<r and n[h][e]<1:n[h][e]=n[u][d]^g^l;m(h,e)
+ for h in range(r*o):u[h]&7and m(h//r,h%r)
+ return n
