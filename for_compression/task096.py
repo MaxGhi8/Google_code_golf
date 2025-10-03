@@ -3,8 +3,8 @@ def p(m):
  for _ in[0]*4:
   for r in m:
    for c in{*r}-{f}:
-    for e,z in enumerate(r[(i:=r.index(c)):]):
-     if z!=c:break
+    for e,y in enumerate(r[(i:=r.index(c)):]):
+     if y!=c:break
     i=r[i+e:]
     try:s=i.index(c)
     except:s=0
