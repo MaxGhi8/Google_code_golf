@@ -1,11 +1,11 @@
 def p(g):
- h=-~(W:=len(g[m:=0]))*[m]
+ h=-~(d:=len(g[n:=0]))*[n]
  for i in range(len(g)):
-  s=[-1]
-  for j in range(-~W):
-   if j<W:h[j]=(g[i][j]<1)*-~h[j]
-   while-~s[-1]*(h[s[-1]]>=h[j]):
-    if(K:=h[s.pop()])>1<(a:=K*(j+~s[-1]))>m:m,A,B,C,D=a,-K-~i,-~i,-~s[-1],j
-   s+=j,
- for y in range(A,B):g[y][C:D]=[6]*(D-C)
+  p=[-1]
+  for o in range(-~d):
+   if o<d:h[o]=(g[i][o]<1)*-~h[o]
+   while-~p[-1]*(h[p[-1]]>=h[o]):
+    if(f:=h[p.pop()])>1<(t:=f*(o+~p[-1]))>n:n,A,x,e,D=t,-f-~i,-~i,-~p[-1],o
+   p+=o,
+ for i in range(A,x):g[i][e:D]=[6]*(D-e)
  return g

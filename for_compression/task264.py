@@ -1,1 +1,1 @@
-p=lambda g,e=enumerate,R=range(9):(D:={sum((k!=5)<<i for i,k in e(x[::2])):(i,j)for i,R in e(g[2:])for j,_ in e(R[2:])if all(x:=sum((t[j:j+3]for t in g[i:i+3]),[]))})and[[g[(d:=D[b"172=0F8L@"[i-i%3+j//3]-48])[0]+i%3][d[1]+j%3]for j in R]for i in R]
+p=lambda m:(t:={sum((b!=5)<<l for l,b in enumerate(s[::2])):(l,b)for l,b in enumerate(m[2:])for b,t in enumerate(b[2:])if all(s:=sum((t[b:b+3]for t in m[l:l+3]),[]))})and[[m[(d:=t[b"172=0F8L@"[l-l%3+b//3]-48])[0]+l%3][d[1]+b%3]for b in range(9)]for l in range(9)]

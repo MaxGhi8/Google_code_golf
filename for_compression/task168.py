@@ -1,1 +1,1 @@
-p=lambda g,a=range(1,9):[(m:=g[r][c:c+2]+g[r+1][c:c+2]).count(0)>1or[(0<=(y:=r+(-i,i+1)[I>1])<10)*(0<=(x:=c+(-i,i+1)[I&1])<10)and g[y].__setitem__(x,max(m))for I in[m.index(0)]for i in a]for r in a for c in a]and g
+p=lambda g:[(h:=g[t][c:c+2]+g[t+1][c:c+2]).count(0)>1or[(0<=(y:=t+(-l,l+1)[s>1])<10)*(0<=(n:=c+(-l,l+1)[s&1])<10)and g[y].__setitem__(n,max(h))for s in[h.index(0)]for l in range(1,9)]for t in range(1,9)for c in range(1,9)]and g

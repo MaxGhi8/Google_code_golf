@@ -1,5 +1,5 @@
-def p(g,e=enumerate,f=lambda d:[*filter(any,zip(*d))],L=len):
- t=sum(g,[])[::-1];i=[i for i,v in e(t)if v][0];n=L(g[0])
- while t[i]:i-=~n;x=L(t)-i;G=g[x//n:];C=f(f(r[x%n:]for r in G))
- for r in G:r[x%n:]=[0]*(n-x%n)
- l=L(K:=f(f(g)))//L(C);return[[K[i*l][j*l]and v for j,v in e(r)]for i,r in e(C)]
+def p(l,f=lambda n:[*filter(any,zip(*n))]):
+ t=sum(l,[])[::-1];i=[i for i,s in enumerate(t)if s][0];p=len(l[0])
+ while t[i]:i-=~p;n=len(t)-i;r=l[n//p:];m=f(f(r[n%p:]for r in r))
+ for r in r:r[n%p:]=[0]*(p-n%p)
+ l=len(e:=f(f(l)))//len(m);return[[e[i*l][r*l]and s for r,s in enumerate(r)]for i,r in enumerate(m)]

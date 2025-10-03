@@ -1,8 +1,8 @@
-def p(g):
- s,t=divmod(440-(m:=sum(g,[]))[::-1].index(k:=min(m,key=m.count))-m.index(k),21)
- for i in range(21-s):
-  for j in range(21-t):
-   if sum(sum(r[j+1:j+t])for r in g[i+1:i+s])<1:
-    g[i][j:j-~t]=g[i+s][j:j-~t]=[k]*-~t
-    for r in g[i:i-~s]:r[j]=r[j+t]=k
- return g
+def p(e):
+ g,m=divmod(440-(r:=sum(e,[]))[::-1].index(c:=min(r,key=r.count))-r.index(c),21)
+ for r in range(21-g):
+  for d in range(21-m):
+   if sum(sum(f[d+1:d+m])for f in e[r+1:r+g])<1:
+    e[r][d:d-~m]=e[r+g][d:d-~m]=[c]*-~m
+    for f in e[r:r-~g]:f[d]=f[d+m]=c
+ return e

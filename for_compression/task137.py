@@ -1,1 +1,1 @@
-def p(g):R=range(len(g));(a,b),(c,d),(e,f)=((i,j)for i in R for j in R if g[i][j]);D=max(a,e)-c;return[[max(max(g))*(((x:=abs(i-c))%D<1and(y:=abs(j-d))<=x)or((y:=abs(j-d))%D<1and x<=y))for j in R]for i in R]
+def p(l):(b,u),(g,x),(e,f)=((b,u)for b in range(len(l))for u in range(len(l))if l[b][u]);f=max(b,e)-g;return[[max(max(l))*(((r:=abs(b-g))%f<1and(a:=abs(u-x))<=r)or((a:=abs(u-x))%f<1and r<=a))for u in range(len(l))]for b in range(len(l))]

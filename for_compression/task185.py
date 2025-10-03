@@ -1,1 +1,1 @@
-def p(g,E=enumerate,R=range):A=g[0];l=A.index(k:=max(A))+1;X,Y=map(min,zip(*((i,j)for i,r in E(g)for j,v in E(r)if v not in A)));return[[(v:=g[X+i*l][Y+j*l])*all(k!=v==g[X+(i+a//2)*l][Y+(j+a%2)*l]for a in R(4))for j in R(3)]for i in R(3)]
+def p(e):n=e[0];l=n.index(m:=max(n))+1;t,o=map(min,zip(*((i,u)for i,r in enumerate(e)for u,p in enumerate(r)if p not in n)));return[[(p:=e[t+i*l][o+u*l])*all(m!=p==e[t+(i+n//2)*l][o+(u+n%2)*l]for n in range(4))for u in range(3)]for i in range(3)]

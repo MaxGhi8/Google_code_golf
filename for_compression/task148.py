@@ -1,6 +1,6 @@
-def p(g,E=enumerate):
- s,t=sorted(a.index(2)for a in zip(*g)if 2in a);b=[(i,j)for i,r in E(g)for j,v in E(r)if v&8]
- for i in 0,t-s:
-  for x,y in b:
-   for j,w in E(q:=g[i+x]):q[j]=w or(any(q[:j])&any(q[j:])or i>0)*8;g[x][y]=4
- return g
+def p(m):
+ j,f=sorted(e.index(2)for e in zip(*m)if 2in e);z=[(i,d)for i,d in enumerate(m)for d,v in enumerate(d)if v&8]
+ for i in 0,f-j:
+  for a,e in z:
+   for d,w in enumerate(q:=m[i+a]):q[d]=w or(any(q[:d])&any(q[d:])or i>0)*8;m[a][e]=4
+ return m

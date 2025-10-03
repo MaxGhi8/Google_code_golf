@@ -1,6 +1,6 @@
-def p(g):
+def p(p):
  for _ in[0]*4:
-  m=len(g[0]);n=len(g);s=sum(g,[]);a=s.index(2)//m;b=s.index(3)//m;d=n-s[::-1].index(3)//m
-  if m<n and b>a:g=g[:a+1]+g[b:d]+[[8]*m]+[[0]*m]*(n-a+b-d-2)
-  *g,=map(list,zip(*g[::-1]))
- return g
+  u=len(p[0]);n=len(p);b=sum(p,[]);a=b.index(2)//u;f=b.index(3)//u;d=n-b[::-1].index(3)//u
+  if u<n and f>a:p=p[:a+1]+p[f:d]+[[8]*u]+[[0]*u]*(n-a+f-d-2)
+  *p,=map(list,zip(*p[::-1]))
+ return p

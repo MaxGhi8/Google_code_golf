@@ -1,11 +1,11 @@
-def p(g,R=range,Z=zip,A=any):
+def p(g):
  x=i=0
  while 1:
-  if A(g[i:=i+1]):x=x or i
+  if any(g[i:=i+1]):x=x or i
   elif x:break
  w=len(m:=g[x-1:i+1])
- for j in R(14):
-  if A(map(A,x:=g[j:j+w]))&(sum(x[0]+x[-1])<1):
+ for j in range(14):
+  if any(map(any,x:=g[j:j+w]))&(sum(x[0]+x[-1])<1):
    i=9-min([*r[::-1],8].index(8)for r in x)
    for b in 0,-1,1,-2:
     if(i-~b)*all(i==b for i,b in zip([*zip(*m)][i+b::-1],[*zip(*x)][i::-1])):

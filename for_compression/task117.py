@@ -1,6 +1,6 @@
 def p(g):
- s=sum(g,[]);b=len(g);i=max(i for i in range(b*b+~b)if(s[i-~b]==s[i]==s[i+~b]==s[i-b+1]==s[i+b-1])*s[i]);a,b=divmod(i,b);h=({*s}-{0,s[i]}).pop()
- for y,r in enumerate(g):
-  for x,v in enumerate(r):
-   if v==h:(m:=g[2*a-y])[x]=r[2*b-x]=m[2*b-x]=h
+ j=sum(g,[]);e=len(g);i=max(i for i in range(e*e+~e)if(j[i-~e]==j[i]==j[i+~e]==j[i-e+1]==j[i+e-1])*j[i]);s,e=divmod(i,e);h=({*j}-{0,j[i]}).pop()
+ for n,i in enumerate(g):
+  for x,l in enumerate(i):
+   if l==h:(f:=g[2*s-n])[x]=i[2*e-x]=f[2*e-x]=h
  return g

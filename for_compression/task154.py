@@ -1,9 +1,9 @@
-def p(g,R=range(15)):
- for _ in'  ':
-  *g,=map(list,zip(*g))
-  if max(r.count(2)for r in g)<5:
-   b,*_,d=(j for r in g for j in R if r[j]==2)
-   for r in g:
-    for j in R:
-     if r[j]>2and(d<j or j<b):r[j]=0;r[2*(b,d)[j>=b+d+1>>1]-j]=5
- return g
+def p(l):
+ for r in'  ':
+  *l,=map(list,zip(*l))
+  if max(r.count(2)for r in l)<5:
+   q,*r,u=(s for r in l for s in range(15)if r[s]==2)
+   for r in l:
+    for s in range(15):
+     if r[s]>2and(u<s or s<q):r[s]=0;r[2*(q,u)[s>=q+u+1>>1]-s]=5
+ return l

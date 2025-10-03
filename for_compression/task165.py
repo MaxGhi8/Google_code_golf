@@ -1,6 +1,6 @@
-def p(g):
- s=sum(g,[]);v,k={*s}-{0}
- if[k,k]!=s[s.index(k)+19:][:2]:v,k=k,v
- for I in range(400):
-  for a in(g[i:=I//20][j:=I%20]==k)*[*range(i,20)]*(v in[*zip(*g[i:])][j]):g[a][j]=g[a][j]or v
- return g
+def p(n):
+ s,i={*sum(n,[])}-{0}
+ if[i,i]!=sum(n,[])[sum(n,[]).index(i)+19:][:2]:s,i=i,s
+ for r in range(400):
+  for r in(n[e:=r//20][d:=r%20]==i)*[*range(e,20)]*(s in[*zip(*n[e:])][d]):n[r][d]=n[r][d]or s
+ return n

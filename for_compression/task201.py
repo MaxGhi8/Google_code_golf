@@ -1,5 +1,5 @@
-def p(g,e=enumerate,f=lambda d:[*filter(any,zip(*d))]):
- (a,b),*_,(c,d)=[(i,j)for i,r in e(g)for j,v in e(r)if v==4];G=g[a:-~c];m=[r[b:-~d]for r in G]
- for r in G:r[b:-~d]=[0]*-~(d-b)
- for i,r in e(C:=f(f(g))):m[-~i][1:-1]=r[::2*(m[1][0]in[*zip(*C)][0])-1]
- return m
+def p(q,f=lambda a:[*filter(any,zip(*a))]):
+ (z,b),*_,(c,a)=[(i,j)for i,r in enumerate(q)for j,k in enumerate(r)if k==4];n=q[z:-~c];p=[r[b:-~a]for r in n]
+ for r in n:r[b:-~a]=[0]*-~(a-b)
+ for i,r in enumerate(f:=f(f(q))):p[-~i][1:-1]=r[::2*(p[1][0]in[*zip(*f)][0])-1]
+ return p

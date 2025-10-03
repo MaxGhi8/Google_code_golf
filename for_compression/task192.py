@@ -1,6 +1,6 @@
-def p(g):
- t=sum(g,[]);k=min({*t}-{0,min(t,key=t.count)})
- for a,b in zip(g,g[1:]):
-  for j in range(len(a)-1):
-   if min(a[j:j+2]+b[j:j+2]):a[j:j+2]=b[j:j+2]=k,k
- return[[k*(x==k)for x in r]for r in g]
+def p(b):
+ i=sum(b,[]);i=min({*i}-{0,min(i,key=i.count)})
+ for n,r in zip(b,b[1:]):
+  for q in range(len(n)-1):
+   if min(n[q:q+2]+r[q:q+2]):n[q:q+2]=r[q:q+2]=i,i
+ return[[i*(q==i)for q in q]for q in b]
