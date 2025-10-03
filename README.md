@@ -257,7 +257,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task206.py](task206.py) | ✅ Completed | 151 | Ale, Max |  |
 | [task207.py](task207.py) | ✅ Completed | 104 | Ale, Max |  |
 | [task208.py](task208.py) | ✅ Completed | 246 | Ale |  |
-| [task209.py](task209.py) | ✅ Completed | 356 | Oxke | 1. extract the main part; 2. extract the pattern using [task031.py](task031.py); 3. find the best overlap between (resized) pattern and main part |
+| [task209.py](task209.py) | ✅ Completed | 334 | Oxke | 1. extract the main part; 2. extract the pattern using [task031.py](task031.py); 3. find the best overlap between (resized) pattern and main part |
 | [task210.py](task210.py) | ✅ Completed | 20 | Max |  |
 | [task211.py](task211.py) | ✅ Completed | 49 | Max |  |
 | [task212.py](task212.py) | ✅ Completed | 168 | Max |  |
@@ -267,10 +267,10 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task216.py](task216.py) | ✅ Completed | 158 | Max | Same as [task365.py](task365.py) (computational really inefficient) |
 | [task217.py](task217.py) | ✅ Completed | 119 | Ale, Max | Combination of [task001.py](task001.py) and [task031.py](task031.py) |
 | [task218.py](task218.py) | ✅📚 Completed | 78 | Ale | f(g) on g and g transposed |
-| [task219.py](task219.py) | ✅ Completed | 335 | Oxke, Max |  |
+| [task219.py](task219.py) | ✅ Completed | 344 | Oxke, Max |  |
 | [task220.py](task220.py) | ✅ Completed | 161 | Max | Similar to [task352.py](task352.py) and [task095.py](task095.py) |
 | [task221.py](task221.py) | ✅ Completed | 102 | Ale, Max | Inspired by [task001.py](task001.py) and [task217.py](task217.py) |
-| [task222.py](task222.py) | ✅ Completed | 226 | Max |  |
+| [task222.py](task222.py) | ✅ Completed | 225 | Max |  |
 | [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
 | [task224.py](task224.py) | ✅ Completed | 233 | Max |  |
 | [task225.py](task225.py) | ✅ Completed | 195 | Max |  |
@@ -332,7 +332,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task281.py](task281.py) | ✅ Completed | 210 | Max, Gio |  |
 | [task282.py](task282.py) | ✅ Completed | 143 | Max |  |
 | [task283.py](task283.py) | ✅ Completed | 141 | Max, Ale |  |
-| [task284.py](task284.py) | 🤖 GPT-generated | 278 | Ale |  |
+| [task284.py](task284.py) | 🤖 GPT-generated | 281 | Ale |  |
 | [task285.py](task285.py) | ⏳ Pending | 1708 | - |  |
 | [task286.py](task286.py) | ✅📚 Completed | 252 | Max, Gio |  |
 | [task287.py](task287.py) | ✅📚 Completed | 98 | Ale | Holes filling in circular pattern. Variant of 061 |
