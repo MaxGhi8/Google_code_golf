@@ -1,1 +1,1 @@
-def p(g,E=enumerate):g=[r*2for r in g*2];[(g[x].__setitem__(y,g[x][y]or 8))for i,r in E(g)for j,v in E(r)if v%8 for x,y in[(i-1,j-1),(i-1,j+1),(i+1,j-1),(i+1,j+1)]if 0<=x<len(g)and 0<=y<len(r)];return g
+def p(n):n=[r*2for r in n*2];[(n[e].__setitem__(t,n[e][t]or 8))for s,r in enumerate(n)for e,p in enumerate(r)if p%8 for e,t in[(s-1,e-1),(s-1,e+1),(s+1,e-1),(s+1,e+1)]if 0<=e<len(n)and 0<=t<len(r)];return n

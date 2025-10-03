@@ -1,7 +1,7 @@
-def p(f,u=enumerate):
- m=len(f);r=f[0];a=min(a+1for a,f in u(r)if f-r[0]);d=[d for n,r in u(f)for r,d in u(r)if{f[max(0,n-a)][r]}-{0,d}and{f[n][max(0,r-a)]}-{0,d}][0];c=[(n,r)for n,r in u(f)for r,f in u(r)if f==d]
- for t in range(9):
-  e=t//3-1;u=t%3-1;d=max(f[n+e*a][r+u*a]for n,r in c if m>n+e*a>-1<r+u*a<m)
-  for n,r in c:
-   if m>n+e*a>-1<r+u*a<m:f[n+e*a][r+u*a]=d
- return f
+def p(p):
+ m=len(p);r=p[0];a=min(a+1for a,p in enumerate(r)if p-r[0]);d=[d for o,r in enumerate(p)for r,d in enumerate(r)if{p[max(0,o-a)][r]}-{0,d}and{p[o][max(0,r-a)]}-{0,d}][0];b=[(o,r)for o,r in enumerate(p)for r,p in enumerate(r)if p==d]
+ for d in range(9):
+  e=d//3-1;u=d%3-1;d=max(p[o+e*a][r+u*a]for o,r in b if m>o+e*a>-1<r+u*a<m)
+  for o,r in b:
+   if m>o+e*a>-1<r+u*a<m:p[o+e*a][r+u*a]=d
+ return p

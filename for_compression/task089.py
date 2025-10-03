@@ -1,7 +1,7 @@
-def p(u,E=enumerate):
+def p(u):
  def p(u):
   if u in e:r[u]=e.pop(u);x,y=u;[p((x+A%3-1,y+A//3-1))for A in range(9)]
- e,t,*o={(p,m):n for p,u in E(u)for m,n in E(u)if n},{},
+ e,t,*o={(p,m):n for p,u in enumerate(u)for m,n in enumerate(u)if n},{},
  while e:o+=[r:={}];p(min(e))
  for A in 2,3:
   for r in o+o:
