@@ -1,8 +1,2 @@
-def p(g):
- s,t=divmod(440-(m:=sum(g,[]))[::-1].index(k:=min(m,key=m.count))-m.index(k),21)
- for i in range(21-s):
-  for j in range(21-t):
-   if sum(sum(r[j+1:j+t])for r in g[i+1:i+s])<1:
-    g[i][j:j-~t]=g[i+s][j:j-~t]=[k]*-~t
-    for r in g[i:i-~s]:r[j]=r[j+t]=k
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("UAn!E÷s\n/qgˆJ”•UN‚¼¨Æ€PS9™ªÙäì‘ª¶$óþ³¿ÄŸ&\"M—ê¥|ÕMÌåòj’¿îÕÄ%0b ²ŽO¥Iü6+ùZšÑå#Þ½žÖmo7D«?1.g‡¤MA¡4Ð÷–£9;›GÏÁå¯‡’`4Ž—‚ÌŽd®ŒCOCA;Ó93¾¹ca Bb•ýÈóï7¬üÒ‡Ãû{ƒÔ>2So`?jººN ñ¶kÏŸ",'L1'),-15))

@@ -1,9 +1,2 @@
-def p(g):
- L=[];l=[]
- for c in zip(*g):
-  if sum(c):l+=c,
-  else:L+=l,;l=[]
- if l:L+=l,
- for a,b in zip(L,L[1:]):
-  s=(b[0].index(5)-a[-1].index(5))%3;b[:]=[r[s:]+r[:s]for r in b]
- return[sum(x,[])for x in zip(*[[[*map({5:max({*sum(l,())}-{0,5})}.get,r,r)]for r in zip(*l)]for l in L])]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("UÁ\nƒ@DïıŠ½6ÅR¼¬ì—„\nE¨V¢BQü÷Zk/¼ÌL&Hi:[»˜à‰YÇÅ”/5jêÖLug£íjêÒôccœÄ^q%òìÅ…Øî¶U²ƒ_Ä€Ó?$` ›ã-I¼(ã´nƒ¼mÉ@ÉíXáz/&rìIIÇJNøh´şQFmi«ƒÄp®KDQóèìœ»æñ¶sôÕ	Z€%™3ÌXÒJTTà³U~@¾ 0ğ",'L1'),-15))

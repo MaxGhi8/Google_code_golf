@@ -1,1 +1,2 @@
-p=lambda g,e=enumerate,R=range(9):(D:={sum((k!=5)<<i for i,k in e(x[::2])):(i,j)for i,R in e(g[2:])for j,_ in e(R[2:])if all(x:=sum((t[j:j+3]for t in g[i:i+3]),[]))})and[[g[(d:=D[b"172=0F8L@"[i-i%3+j//3]-48])[0]+i%3][d[1]+j%3]for j in R]for i in R]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚmfA@eÂŒ»Hr×j:²ôÆ`Çn*ÌnënªÿŞëxïÍÌ|yYcp™ ’ÿo@üÏæ.Ÿ“³^İµ¸Tn9M¡&˜™hD‚Eáİ$ó@Ò”öu­´©ëÅ3˜É·ƒ••´åo¢õ™lØ³ ş`(‘93Dò•us|üáíôşºaÛÙvìt¿e÷xäƒt|”N·ÿKÛS(	^°[‘_ñ_QÅ",'L1')))

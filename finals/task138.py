@@ -1,5 +1,2 @@
-def p(g,e=enumerate):
- for k in range(8):
-  *g,=map(list,zip(*g[::-1]));g=g[:max(i+1for i,r in e(g)if all(r))]
-  for i,r in e(g[2:-1]*(k>3)*(max(max(r[1:-1]for r in g[1:-1]))==g[-1][1]),2):r[:]=map(max,r,g[i-1])
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚmÃ@†èSÜnhsÓ½È)ÂÒ	mWYËìé—Ãñ_äûòßd„JãÃ€A0^î‚ç˜A²ÜÏ¼â¤Ï-¿uÅdµ”c;]¬÷<óõĞ¬ù‹Ë²Ïb¼‰ku&d¢Áeÿ—j¾„|=QÂğÅãÚÆøW*şq¶÷«ªçÜQáZ†hPælUc«“m7Ç>D",'L1')))

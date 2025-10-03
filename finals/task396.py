@@ -1,1 +1,2 @@
-def p(g,R=range):m,n=len(g),len(g[0]);return max((sum(w:=sum((r[1:-1]for r in t[1:-1]),[])),[[v and max(w)for v in r]for r in t])for a in R(m)for b in R(n)for k in R(a+3,m+1)for h in R(b+3,n+1)if all((t:=[r[b:h]for r in g[a:k]])[0]+t[-1]+[r[i]for r in t for i in(0,-1)]))[1]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚMÁjÀ †_%GE•Ý}’àAÐ–ŠÍFf©¿Tîb>?#ÉŸòßªhŸ,m5“ × ?9·›	®Ø•ú¹/õøí-ŠÑùÅ…ý‹á$ø»k‹AË‘ÒøöèÙþáÐ}p¤#«4D›‚†8¦èæÃ&ã†®S7Ñ$úÜ!Ö*«ù\r›¯sZÁî´D2Œ²§‘Ž2ß^,‚jµ‹Ó’]øÅ³Y(",'L1')))

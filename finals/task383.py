@@ -1,7 +1,2 @@
-def p(g,e=enumerate):
- for _ in' '*4:
-  *g,=map(list,zip(*g[::-1]))
-  b,k=min((j,v)for i,r in e(g[:-1])for j,v in e(r)if v*g[i-1][j]*g[i+1][j])
-  for r in g:
-   for j,v in e(r*(0<r[b+1]!=k)):r[j]=[({*sum(g,[])}-{0,k}).pop(),k][v>0]
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚmfÀ0†èSÜ@ï²ëtÄ²‰ ,åX’H[hõİw)0†p¿ÿÿ¾|Ç*²¬¥AÉ#ŒæC3˜Â.-dÛù”Š¦xk§÷@¤mfqI2âÉ•:+¬/CÌGŠmÙ#êº{§›¿]#ÑU(:ñgè×ësuwGY±šàƒÁù³ù¬Ô‹\"Ûv/³	û@÷tÍ,7½ÕR‘X‚¯_s Åıh*ÿÉ`M¶",'L1')))

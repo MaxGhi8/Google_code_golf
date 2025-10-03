@@ -1,7 +1,2 @@
-def p(a,E=enumerate):
- d=len(a);r=a[0];j=min(j+1for j,f in E(r)if f-r[0]);g=[g for b,r in E(a)for r,g in E(r)if{a[max(0,b-j)][r]}-{0,g}and{a[b][max(0,r-j)]}-{0,g}][0];o=[(b,r)for b,r in E(a)for r,f in E(r)if f==g]
- for A in range(9):
-  e=A//3-1;l=A%3-1;g=max(a[b+e*j][r+l*j]for b,r in o if d>b+e*j>-1<r+l*j<d)
-  for b,r in o:
-   if d>b+e*j>-1<r+l*j<d:a[b+e*j][r+l*j]=g
- return a
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚ}OU–‚Q~w¶þe¾X¸Lß8L×Þ¦ûå_B|PŽí˜LJegìõ9ˆËÞzŠàŽ}³þA2æ±|ìËì/^p[’cU¢ÌdJ°¤²ÑB._i1±±äôS}—oÚ½<˜¬—²~,î{9=¢\'…ÂúEß µõÚÃ²­9É¿y¿¶ u©l2XÐr{l»—¨Ûýé%PÃn‹×§¨í²K½>EîËêèæÏð¼èÏž	3—¨×g–yÿÎœ|ó*•…/.Å—ãË¿€Ú",'L1')))

@@ -1,10 +1,2 @@
-def p(g):
- for _ in ' '*4:
-  *g,=map(list,zip(*g[::-1]))
-  if 2 not in g[0]:
-   i=[i for i in range(12)if any(g[i])][0];c=1
-   for j in range(1,12):
-    if 8in[*zip(*g)][-1]:j=~j
-    if g[i:=i+c][j]==2:c=-1;i+=2*c
-    g[i][j]=g[i][j]or 3
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚMÃ0†èSĞ$mY²aR÷$”µ²¤n6ìÙwÍ68îûşÿ?Í¬\"JÛÀ’	B‚Zuà¨Øãeb®¥„U¨è¬´—’iXÀ@Êe‹D·ó[ıšhJçYh#ÙÒ]DG^zvÇŒšõj–?³g·ölíÇœzÏrˆgmÁgùRî²H]ö®xDc3z¤ÊUa^ÑçòĞ¾šËÄ†eF¼",'L1')))

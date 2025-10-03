@@ -1,1 +1,2 @@
-def p(g,R=range):h=len(g);w=len(g[0]);*_,g,h,w,k=max((3>len({*(d:=sum(m:=[r[b:b+y]for r in g[a:a+x]],[]))}),d.count(d[0]),m,x,y,min({*d},key=d.count))for a in R(h)for b in R(w)for x in R(2,h-a)for y in R(2,w-b));return[[[({*r}-{k}).pop(),k][k in c+r]for*c,in zip(*g)]for r in g]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("eÑ‚0E…ÇŠ1ú6ƒ?Ò,f°9ÉÜ S\"høwšhô±÷ôŞöj³Ïz°(òY:Ğ…\\åÕ°ŞM€[ZT§ÁƒG®E]LrßÅ,fmÈ,+¡ŠQJb‰8#éEÓ\ráš—ÉÓHù6åè™œ™ª÷bÊP)#ª`\r¤cö¥Ö?jŠz‚ñVô2”êI¦?’Le¸‰æ<ÄÀÌâ\\ŞÜŒ‹¾ëÉIvÉ×15Êz×¶‡ÜâWEy",'L1'),-15))

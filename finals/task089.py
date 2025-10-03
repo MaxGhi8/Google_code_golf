@@ -1,11 +1,2 @@
-def p(u,E=enumerate):
- def p(u):
-  if u in e:r[u]=e.pop(u);x,y=u;[p((x+A%3-1,y+A//3-1))for A in range(9)]
- e,t,*o={(p,m):n for p,u in E(u)for m,n in E(u)if n},{},
- while e:o+=[r:={}];p(min(e))
- for A in 2,3:
-  for r in o+o:
-   if A in(s:={*r.values()}):f,m=min(u for u in r if r[u]==A)
-   if{A}<s:V,=s-{A};t[A]=t.get(A,0)or[(u-f,(A*2-5)*(p-m))for u,p in r if r[u,p]==V]
-   if t.get(A,0)and{A}==s:[u[f+r].__setitem__(m+n,V)for r,n in t[A]]
- return u
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("]Mnƒ0…÷œÂ›JcH›¨‹šzáK°±BŠI‘bc»M„¸{m¨šª»ù{ß¼™³ˆ…@YFÎŒ	d4D1\'CËUe§Ôªoxç¡–àVˆ§Sù‚÷B1 t˜IäzsQðFÛŒ(ô˜O|‹š2CÒŒÅm‚V®÷*rSY£ù_Ž.ÌŠËŠùú¯*Ú™\n.ãËÚÖôh@Qš‘ßÕG<%û)w)ŸŠ)åéžÔ‡9JsW}ö× f +ejž8amÎ\\ßîæ‚îêE¬ï3kÏek/EË}uQ>ÓÉIå€ òcùJs°¥ÞÿÐþ%¢Ì¦ýqô\0ôæ±œÏL9®­ºnV~ôJwèÂ`³áÜþ£´>BœòÁ¾",'L1'),-15))

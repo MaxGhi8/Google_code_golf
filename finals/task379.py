@@ -1,10 +1,2 @@
-def p(g,E=enumerate):
- for i,j in[(i,j)for i,r in E(g)for j,x in E(r)if x==2]:
-  for a,c in(1,0),(-1,0),(0,1),(0,-1):
-    u=x=i+a;v=y=j+c
-    try:
-     while(x|y)<0and[][0]or g[x][y]-8:x+=a;y+=c
-     while u-x|v-y:g[u][v]=2;u+=a;v+=c
-     for R in g[x-1:x+2]:R[y-1:y+2]=[8]*len(R[y-1:y+2]);g[x][y]=2
-    except:0
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("UMnÃ …÷9K¨AÂ^EvçÙX »X)qAÊá3ØQ`†7Oß¼«›ØÏ¢?±é+2/ærªâøÓ\rÌ…ôé¢]9«¼Èü_ÂO,t†@;ÉÊ‘,¼•ZH®¢e»¿ª­ûè$Èà;lP`iÆ][c9†ìûÃßÏ\"Şµ\rW4¨\r‘gÌ‹Qç>7`‡ÒÀøÇÏ’ÊM•~Ædp3Ğ\r©Ú¶[Mw©ñ	¤Z‚Pèjµ€góvsÿJbx­„n\'¸<ºûÚë‹nM‘@O",'L1'),-15))

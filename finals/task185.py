@@ -1,1 +1,2 @@
-def p(g,E=enumerate,R=range):A=g[0];l=A.index(k:=max(A))+1;X,Y=map(min,zip(*((i,j)for i,r in E(g)for j,v in E(r)if v not in A)));return[[(v:=g[X+i*l][Y+j*l])*all(k!=v==g[X+(i+a//2)*l][Y+(j+a%2)*l]for a in R(4))for j in R(3)]for i in R(3)]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚUfÀ0†_%Ã¸kbİ¶V$ŠĞëÉ%\"¡öôKSLqÎÿİï¾•pKî}[ƒ•7–Nˆ‹şAÔk5©§‘Åür†	€MÃ#Å¦(’©øJ@7“Ÿ¸ w•’T/.ˆ¸ª­ˆs—n¯š§°¹¤[_8ù ¾ØlÇ	XË<âİ€¦åu„K%×Ãâå‡àoù?ùÂÑáùEkN•",'L1')))

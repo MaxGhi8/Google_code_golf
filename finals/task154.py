@@ -1,9 +1,2 @@
-def p(g,R=range(15)):
- for _ in'  ':
-  *g,=map(list,zip(*g))
-  if max(r.count(2)for r in g)<5:
-   b,*_,d=(j for r in g for j in R if r[j]==2)
-   for r in g:
-    for j in R:
-     if r[j]>2and(d<j or j<b):r[j]=0;r[2*(b,d)[j>=b+d+1>>1]-j]=5
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚmLC1İÏ)ş*®ä µ9ªË×nWÏo2AL|Z÷`iĞ°1\0>K`¾Áğ.‡eL˜OéÙ_Î îˆN#Z’§!ø´Yº,!L\'‰Wv¥æBõ0œOI®DÏOºmºRæ/¿oİëÉŸÁÍ‡ûNå‡á„¸¦K±™Ğúõ-ÛĞí<#‰p´m”L¸ã9¥rİÔ9+y §ÖéüíàGü",'L1')))

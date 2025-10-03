@@ -1,12 +1,2 @@
-def p(g,R=range,Z=zip,A=any):
- x=i=0
- while 1:
-  if A(g[i:=i+1]):x=x or i
-  elif x:break
- w=len(m:=g[x-1:i+1])
- for j in R(14):
-  if A(map(A,x:=g[j:j+w]))&(sum(x[0]+x[-1])<1):
-   i=9-min([*r[::-1],8].index(8)for r in x)
-   for b in 0,-1,1,-2:
-    if(i-~b)*all(i==b for i,b in Z([*Z(*m)][i+b::-1],[*Z(*x)][i::-1])):[g[j+k].__setitem__(a,x[k][a]or a+b<10and m[k][a+b]>1)for k in R(w)for a in R(i+1,10)];break
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("MPMOÅ ¼÷WìÉ@KM1äá! ¥uû\rúRôàohÍóÂfgfg–íİ\0©¨ J”]û.x\00ş‹Œ\n…Ä†k*¢Œğ\0é–DGaƒ3sš’‹ódrT±å¢¨+’vôŒáÏôŸíj6’*‹yhS³kJÈÇm%Quº‰ªM&W^f\0åK»¢\'ªJˆÄ°‹~Dß»H.4ç„œiÖæÖæ¶c-gœµOÅ\"l,­Í²”Ò%²¢ıÆ-™ç·^©VØØ#æÄbÆ\nB…˜ùş»ı/„¹éŒwéxjÖÊhyÖ,jì•wÆ÷°¬±ú•“ó¬Á}Ş‚‡ñ",'L1'),-15))
