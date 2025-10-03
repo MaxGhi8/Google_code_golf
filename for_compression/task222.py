@@ -1,5 +1,5 @@
-def p(g):
- for i,r in enumerate(g):
-  for j,v in enumerate(r):
-    if (sum(R[j-1:j+2].count(v)for R in g[i-1:i+2])>3)*(v in r[j-1:j+2:2])*(v in{R[j]for R in g[i-1:i+2:2]})<1:r[j]=0
- k=max({*(L:=sum(g,[]))}-{0},key=L.count);return[[v*(v==k)for v in r]for r in g]
+def p(y):
+ for s,e in enumerate(y):
+  for b,o in enumerate(e):
+    if (sum(e[b-1:b+2].count(o)for e in y[s-1:s+2])>3)*(o in e[b-1:b+2:2])*(o in{e[b]for e in y[s-1:s+2:2]})<1:e[b]=0
+ o=max({*(x:=sum(y,[]))}-{0},key=x.count);return[[o*(o==o)for o in e]for e in y]
