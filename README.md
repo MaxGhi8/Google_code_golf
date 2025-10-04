@@ -36,7 +36,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 | Status | Icon | Description |
 |--------|------|-------------|
-| **Pending** | ⏳ | Task not started |
+| **Pending** | ⏳ | Task not  |
 | **Completed** | ✅ | Task completed and verified |
 | **Optimized** | 🏆 | Optimized an already existing solution |
 | **Needs Review** | 👀 | Requires code review |
@@ -357,7 +357,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task306.py](task306.py) | ✅ Completed | 138 | Max |  |
 | [task307.py](task307.py) | ✅ Completed | 52 | Max, Ale | Same as [task223.py](task223.py) |
 | [task308.py](task308.py) | ✅ Completed | 262 | Oxke | helper function probably can be avoided |
-| [task309.py](task309.py) | ✅ Completed | 45 | Max, Ghi |  |
+| [task309.py](task309.py) | ✅ Completed | 44 | Max, Ghi |  |
 | [task310.py](task310.py) | ✅ Completed | 126 | Ale, Max |  |
 | [task311.py](task311.py) | ✅ Completed | 32 | Ghi, Max |  |
 | [task312.py](task312.py) | ✅ Completed | 45 | Ghi, Max |  |
