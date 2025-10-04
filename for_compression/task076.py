@@ -7,5 +7,5 @@ def p(t):
  r={z for z in g if z[2]&1};z=g-r;g=1,-1;y=lambda x,*d:(d[x&1]*g[x&2>0],d[1^x&1]*g[x&4>0])
  for(i,p),m in a:
   for x in range(9):
-   for d,n,l in[*r]*({(*y(x,d,n),l)for d,n,l in z}==m):f,m=y(x,d,n);t[f+i][m+p]=l
+   for*d,l in[*r]*({(*y(x,*d),l)for*d,l in z}==m):f,m=y(x,*d);t[f+i][m+p]=l
  return t

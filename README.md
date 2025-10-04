@@ -124,7 +124,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task073.py](task073.py) | ✅ Completed | 47 | Max | |
 | [task074.py](task074.py) | ✅ Completed | 112 | Oxke |  |
 | [task075.py](task075.py) | ✅ Completed | 124 | Max |  |
-| [task076.py](task076.py) | ✅ Completed | 376 | Max |  |
+| [task076.py](task076.py) | ✅ Completed | 367 | Max |  |
 | [task077.py](task077.py) | ✅ Completed | 316 | Oxke | Very inefficient but zip compressed to smaller |
 | [task078.py](task078.py) | ✅ Completed | 98 | Max |  |
 | [task079.py](task079.py) | ✅ Completed | 174 | Max |  |
@@ -447,7 +447,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task396.py](task396.py) | ✅ Completed | 226 | Max, Ale |  |
 | [task397.py](task397.py) | ✅ Completed | 160 | Max |  |
 | [task398.py](task398.py) | ✅ Completed | 106 | Max |  |
-| [task399.py](task399.py) | ✅ Completed | 146 | Max |  |
+| [task399.py](task399.py) | ✅ Completed | 144 | Max |  |
 | [task400.py](task400.py) | ✅ Completed | 92 | Max | Same as task [task351.py](task351.py) |
 
 ---

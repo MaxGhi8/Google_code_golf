@@ -7,5 +7,5 @@ def p(q,E=enumerate):
  l={s for s in o if s[2]&1};r=o-l;o=1,-1;y=lambda k,*d:(d[k&1]*o[k&2>0],d[1^k&1]*o[k&4>0])
  for(t,p),u in j:
   for k in range(9):
-   for d,n,e in[*l]*({(*y(k,d,n),e)for d,n,e in r}==u):f,m=y(k,d,n);q[f+t][m+p]=e
+   for*d,e in[*l]*({(*y(k,*d),e)for *d,e in r}==u):f,m=y(k,*d);q[f+t][m+p]=e
  return q
