@@ -12,6 +12,6 @@ def p(g,f=lambda g:map(list,zip(*g[::-1]))):
   *g,=f(g)
  T=sorted((S and S+L*2or(L>1)*A*B*3or L,L,S,c)for c,(L,S)in d.items());n=T[-1][0];R=[n*[b]for _ in[0]*n]
  for _ in[0]*4:
-  for w,L,S,c in T:o=(n-w)//2;R[o][o+w-L:o+w]=R[o+w-1][o+w-L:o+w]=[c]*L
+  for w,L,S,c in T:o=n-w>>1;R[o][o+w-L:o+w]=R[o+w-1][o+w-L:o+w]=[c]*L
   *R,=f(R)
  return R
