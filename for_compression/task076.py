@@ -1,19 +1,11 @@
-def p(q):
- d,*i={(d,n)for d,f in enumerate(q)for n,e in enumerate(f)if e},
- while d:
-  n=[d.pop()];l=[]
-  while n:
-   h,g=n.pop();l+=[(h,g,e:=q[h][g])]
-   if e==2:f=h,g
-   for e in range(9):
-    if(e:=(h+e//3-1,g+e%3-1))in d:d.remove(e);n+=e,
-  t,p=f;e={(d-t,n-p,e)for d,n,e in l}
-  if any(e&1for*q,e in l):o=e
-  i+=(f,e),
- l={h for h in o if h[2]&1};r=o-l;o=1,-1;y=lambda g,d,n:([d,n][g&1]*o[g&2>0],[n,d][g&1]*o[g&4>0])
- for(t,p),z in i:
-  for g in range(9):
-   if{(*y(g,d,n),e)for d,n,e in r}==z:
-    for d,n,e in l:
-     f,m=y(g,d,n);q[f+t][m+p]=e
- return q
+def p(t):
+ d,g,*a={(d,n):l for d,f in enumerate(t)for n,l in enumerate(f)if l},1,
+ def p(z):
+  if z in d:t,y=z;f.add((t-x[0],y-x[1],d.pop(z)));[p((t+d%3-1,y+d//3-1))for d in range(9)]
+ for x,i in[*d.items()]:
+  if i==2:a+=[(x,f:=set())];p(x);g=[g,f][any(l&1for*t,l in f)]
+ r={z for z in g if z[2]&1};z=g-r;g=1,-1;y=lambda x,*d:(d[x&1]*g[x&2>0],d[1^x&1]*g[x&4>0])
+ for(i,p),m in a:
+  for x in range(9):
+   for d,n,l in[*r]*({(*y(x,d,n),l)for d,n,l in z}==m):f,m=y(x,d,n);t[f+i][m+p]=l
+ return t
