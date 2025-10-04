@@ -12,7 +12,7 @@ def p(q):
   i+=(f,e),
  l={h for h in o if h[2]&1};r=o-l;o=1,-1;y=lambda g,d,n:([d,n][g&1]*o[g&2>0],[n,d][g&1]*o[g&4>0])
  for(t,p),z in i:
-  for g in range(8):
+  for g in range(9):
    if{(*y(g,d,n),e)for d,n,e in r}==z:
     for d,n,e in l:
      f,m=y(g,d,n);q[f+t][m+p]=e
