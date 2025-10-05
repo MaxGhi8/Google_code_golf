@@ -1,9 +1,8 @@
-def p(l):
- for r in'  ':
-  *l,=map(list,zip(*l))
-  if max(r.count(2)for r in l)<5:
-   q,*r,u=(s for r in l for s in range(15)if r[s]==2)
-   for r in l:
-    for s in range(15):
-     if r[s]>2and(u<s or s<q):r[s]=0;r[2*(q,u)[s>=q+u+1>>1]-s]=5
- return l
+def p(o,a=0):
+ *o,=map(list,zip(*o))
+ if max(r.count(2)for r in o)<5:
+  e,*r,u=(i for r in o for i in range(15)if r[i]==2)
+  for r in o:
+   for i in range(15):
+    if r[i]>2and(u<i or i<e):r[i]=0;r[2*(e,u)[i>=e+u+1>>1]-i]=5
+ return a*o or p(o,1)

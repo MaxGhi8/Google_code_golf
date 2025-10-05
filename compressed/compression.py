@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 import ast
 import base64
 import os

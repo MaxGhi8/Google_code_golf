@@ -92,7 +92,7 @@ def validate_code(code: str, all_examples_to_check: list) -> tuple | None:
 
 def find_best_code(task_id):
     # --- Setup ---
-    with open(f"tasks/task{task_id:03d}.py") as f:
+    with open(f"for_compression/task{task_id:03d}.py") as f:
         RAW_FUNCTION_STRING = "".join(f.readlines())
     task_data = load_examples(task_id)
     all_examples = list(

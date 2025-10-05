@@ -1,9 +1,9 @@
 def p(g):
- D,K,*d={},sorted(range(10),key=sum(g,[]).count),
- for i,r in enumerate(g):
-  for j,c in enumerate(zip(*g)):
-   if(v:=g[i][j])in(C:={*K[-4:-2]}):
-    d+=i+j,i-j+.1
-    if len(e:={*r}-{v})<2and r.count(v)<3or len(e:={*c}-{v})<2and c.count(v)<3:
-     D[k:=e.pop()]=v;D[({*K[-2:]}-{k}).pop()]=(C-{v}).pop()
- return[[[D.get(v,v),v][not{i+j,i-j+.1}&{*d}]for j,v in enumerate(r)]for i,r in enumerate(g)]
+ m,r,*d={},sorted(range(10),key=sum(g,[]).count),
+ for o,n in enumerate(g):
+  for a,c in enumerate(zip(*g)):
+   if(e:=g[o][a])in(q:={*r[-4:-2]}):
+    d+=o+a,o-a+.1
+    if len(h:={*n}-{e})<2and n.count(e)<3or len(h:={*c}-{e})<2and c.count(e)<3:
+     m[k:=h.pop()]=e;m[({*r[-2:]}-{k}).pop()]=(q-{e}).pop()
+ return[[[m.get(e,e),e][not{o+a,o-a+.1}&{*d}]for a,e in enumerate(n)]for o,n in enumerate(g)]

@@ -1,11 +1,10 @@
-def p(r):
- for d in' '*4:
-  *r,=map(list,zip(*r[::-1]));o=0
-  if 2 not in r[0]+r[-1]+[a[-1]for a in r]:
-   if(d:=8 in r[-1]):r=r[::-1]
-   for a in r:
-    if a[0]:o+=1
-    for t in range(len(a)):
-     if r[0][max(0,t-o)]:a[t]=8
-   if d:r=r[::-1]
- return r
+def p(l,m=2):
+ *l,=map(list,zip(*l[::-1]));s=0
+ if 2 not in l[0]+l[-1]+[t[-1]for t in l]:
+  if(o:=8 in l[-1]):l=l[::-1]
+  for t in l:
+   if t[0]:s+=1
+   for f in range(len(t)):
+    if l[0][max(0,f-s)]:t[f]=8
+  if o:l=l[::-1]
+ return-m*l or p(l,m-1)
