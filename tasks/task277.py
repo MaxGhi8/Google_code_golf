@@ -1,3 +1,8 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚ•’Ï›0Æï<Åí®ƒ’*ØyËTOŠSbhHÕw¯‹V¹ì	óÍ¿ßg§3tê¢‹&3aC1ı˜ùcN—W´éûm‚sÛAˆpqeDë²¥¯â/R“ô˜Eş,B8ÃÅ’³ìTÑCl®‹2'ÀˆV‘aíÊUÆSYË	ş©CC0.™ÒpÌ»¶Sº¬óªë(z5ë%A‰ANæhN‚°éí]ğˆ-â±øÙFq -d<ÒÛÃğ[»Ë>¾cxŸ@œ¤£—ãf*8ëü^æ£8.U<pê¼Ç§VëLºKŸXôÄC-ÙÂíî>y1¯‚.¯É‰­Ù}Š]òNeC«º4º†Ô­í™„à@ÆXKªĞÌ©‚€ÿí7!¿§¹ÕĞ°òŠ´±N?¡)UÜç¡²5¤·ºU3ĞMi-OÉ°ÌYòÀtM¡dw)C¼,­>Y|®ì/ÌšVŸ0µùM².~¾Ã¯®nØV·xOÙä¾éß3XqÃNã","L1")))
+def p(G,E=range(10)):
+ P,*S={(r,c)for r in E for c in E if G[r][c]},
+ def B(z):
+  if z in P:P.remove(z);C.add(z);[B((z[0]+A%3-1,z[1]+A//3-1))for A in range(9)]
+ while P:S+=[C:=P-P];B(min(P))
+ for C in S:
+  for a,b in C:G[a][b]=1+(len(C)<max(map(len,S)))
+ return G
