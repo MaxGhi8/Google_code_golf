@@ -1,9 +1,3 @@
-def p(g,p=lambda g:[*zip(*filter(any,g))]):
- k=v=-1
- for _ in'0'*96:
-  *g,=map(list,zip(*[[r[j]or(r[:j].count(c:=max(sum(g,[])))==1)*k*(c in r[j:]or r[j-1]==k)for j in range(len(g))]for r in g[::-1]]));v+=(v<0<('0'in str(p(p(g)))))^1;*_,r=filter(any,g)
-  if v%4==0<v:
-   if(I:=r.index(k)-v//4)>k:r[I]=k
-   if(I:=v//4+~r[::-1].index(k))<0:r[I]=k
-   v*=k**(g[-1]==r)
- return[[*map({k:4}.get,r,r)]for r in g]
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes("xÚ]NKnÃ Üç,!@#W^‘¼^± 5”@RÅévÜTY1?ŞÌd,J8±‹³!â€<ÜLÄ‰œ5Ütøœ4JBƒNøæ¿3«>ác’BğA¢ÈŞtE>¢ˆÇş9¸åH7òfø•ÔøV*³’U©seÖ›4<3Ëq%,èŸştæ6Ö2Rû'­:O+zûº—˜q&­¹İ.IÎO±ïA°t:Ş™áıéâ¿u3ë'ÈQqàä%XéÀö°¥ƒ0°á–?Ãå/¼Õ£•—ú@÷åQÇ‹‚q×-¿vã¥{ä×Ö§µh1¹,¥†7ñÑ–…å","L1")))

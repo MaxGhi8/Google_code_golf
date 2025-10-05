@@ -1,1 +1,3 @@
-def p(g):R,W,*A=range,15;F,*P=sum(g,A),A;[A==(A:=A+[z for z in R(x,150,W)if(W>x)&F[z]])>[]<[P:=[c+[(a,A)]for a in R(45)for c in(F[a]<1)*P],A:=[]]for x in R(16)];return max([*zip(*[((any(z-a+min(h)in h*(a%W-z%W<6)for a,h in c)|F[z]%5)%3for z in R(150))]*W)]for c in P)
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes('xÚMfA†_e`+™£«ÝÃíÍ½HK7L:Ò.mõá;ca!~>É÷çm“PÁðV“¦èÙW{ßÒ4/%î,ãb™ˆy!°[&	$9²|x° ÖFÒc…×UB!áûÄÉÛã	O×Ž=ghÈGª¡Ãz@iâç¤¨ú|*T™ñÑÝ¾}ín¡¬ß@ñW+DXíêEÆ¢†½IôR½_k:â_¿5Ì8¼œ|Í†ÈQÏ¿à?"5S`',"L1")))

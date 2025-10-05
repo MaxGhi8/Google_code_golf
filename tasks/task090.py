@@ -1,11 +1,3 @@
-def p(g,r=range):
- h=-~(W:=len(g[m:=0]))*[m]
- for i in r(len(g)):
-  s=[-1]
-  for j in r(-~W):
-   if j<W:h[j]=(g[i][j]<1)*-~h[j]
-   while-~s[-1]*(h[s[-1]]>=h[j]):
-    if(K:=h[s.pop()])>1<(a:=K*(j+~s[-1]))>m:m,A,B,C,D=a,-K-~i,-~i,-~s[-1],j
-   s+=j,
- for y in r(A,B):g[y][C:D]=[6]*(D-C)
- return g
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes('xÚ}1OÅ €w~Å¹{MúLlsNn„ÂañhPÿ½¯ô5Nø>¸/p„µ‹zRÈd3Ù˜dX¢®”Xº¤qf´zfzÌÂs¤á¤à°‹“gînğu‘îƒîOÛŸ;—ß|m|üE1¹±Öïpä€àè©TVĞLw1=ú>7JÆÙvˆàä£[L¶W4şè¯X{ÑzrôàÒÏ¾°{QÇ;p _Ë}œ"çÌä±bFQçmá×±ú¯êÏ½Ó–yî¢[…ßkHŸÜwˆ',"L1")))

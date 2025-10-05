@@ -1,8 +1,3 @@
-def p(g,R=range):
- C=({*sum(g,[])}-{0,5}).pop();a=c=9;b=d=0
- for r in R(len(g)):
-  for e in R(len(g[0])):
-   if g[r][e]==5:a=min(a,r);b=max(b,r);c=min(c,e);d=max(d,e)
- for r in R(a+1,b):
-  for e in R(c+1,d):g[r][e]=C*(r in{a+1,b-1}or e in{c+1,d-1})or g[r][e]
- return g
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes("xÚgƒ1†è¯8ÀEo´(|íı’ÍMXî‹ôÊ~şN¶)#rò¼ï“»W…”?ªRã™õ½Ræ?©so¶(M2¬XùO)PL~®;GÙ'(4…G5|<;BhâTwó$è’’{‡W¹áú|ùsp±DMQóe³#ûã:|ÈıÕˆ-Ï”}¼SÖ;tNn,7Î8œn¿‹öQ–¸jä•—hKTÑşˆ³Ús*”/Û|aš","L1")))

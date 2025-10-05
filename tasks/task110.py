@@ -1,1 +1,3 @@
-p=lambda g,A=range(29):next([[g[i][j]or t[(i-o)%h,(j-p)%k]for j in A]for i in A]for h in A for k in(*A,29)for o in A[:h]for p in A[:k]if(t:={})or all(((v:=g[i][j])and t.setdefault(((i-o)%h,(j-p)%k),v)==v)or(1-s and v<1)or s and((i-o)%h,(j-p)%k)in t for s in(0,1)for i in A for j in A))
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes('xÚ•f1†Ø§8fjĞÈvd-RÉÔ°7‘emõİ+9§´@|ßŸIY¡ q“ìû-×Ø2…	ªÔèyVÙ²£Ñó±¼®4Ÿ²ÅÛ{Šà¬ÁEîüEß®ó!†è 9T¼²’)ÄmÃêN»³>ÈN+¨¬‹‡•ˆXi­¡³>Æ6¿Ê}ñ¨îòù5A×…½ë†ÖoH9=¦Â¾”Kd½«¤ÿüô{ƒ|ÑU~ÔÜöê`ß¸ÕtÀ',"L1")))

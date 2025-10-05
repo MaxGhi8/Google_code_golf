@@ -1,5 +1,3 @@
-def p(j,R=range):
- *k,=map(list,j)
- for d in R(9):
-  for v in R(81*(sum(j[d//3*4+W][d%3*4+l]<1for W in R(3)for l in R(3))>4)):k[v%3*4+v//9%3][v//3%3*4+v//27]=j[d//3*4+v%3][d%3*4+v//3%3]
- return k
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes('xÚEMƒQ^¥îSmR+éÙÚşŒÁOë¤½õÏïİò„srŞÆö¤DPÀşz]ÉØrûËóÜtZf¶As¡å]‘-¹;™,ïWH/3»0“´d£åÙŒæ¯Û¼”0"@3n‘?P=Y¯“² L¿geZã0«‡N+Jl<-',"L1")))

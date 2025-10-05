@@ -2,9 +2,9 @@
 """Select best (shortest in bytes) task implementations.
 
 For every task number 001..400 this script:
-  * Looks for tasks/taskNNN.py and compressed/taskNNN.py (if they exist)
-  * Chooses the shorter file (byte size). If only one exists, uses it.
-  * Copies it to finals/taskNNN.py (overwrites existing).
+    * Looks for compressed/taskNNN.py and tasks/taskNNN.py (if they exist)
+    * Chooses the shorter file (byte size). If only one exists, uses it.
+    * Copies it to finals/taskNNN.py (overwrites existing).
 
 Tie-breaking:
   * If both exist and have identical byte size, preference order can be
@@ -26,8 +26,10 @@ import shutil
 from dataclasses import dataclass
 
 TASK_RANGE = range(1, 401)
-FILES_PER_DIR = ["tasks", "compressed"]  # order used for size tie fallback
-FINALS_DIR = "finals"
+# Candidate source directories in preference order for tie-breaking when --force
+FILES_PER_DIR = ["tasks", "submission"]
+# Destination folder containing the chosen best versions
+FINALS_DIR = "tasks"
 
 @dataclass
 class Candidate:
@@ -109,11 +111,16 @@ def main():
         action = "COPY" if not args.dry_run else "WOULD_COPY"
         dst = finals_path
         src = best.path
-        if not args.dry_run:
-            os.makedirs(FINALS_DIR, exist_ok=True)
-            shutil.copyfile(src, dst)
-        copied += 1
-        print(f"{name}: {action} from {src} ({best.size} bytes)")
+        # Avoid copying a file onto itself (can happen if destination equals source)
+        if os.path.realpath(src) == os.path.realpath(dst):
+            print(f"{name}: SKIP (source and destination are the same: {src})")
+        else:
+            if not args.dry_run:
+                os.makedirs(FINALS_DIR, exist_ok=True)
+                shutil.copyfile(src, dst)
+            copied += 1
+            print(f"{name}: {action} from {src} ({best.size} bytes)")
+        # If identical path, treat as kept (no change to copied counter)
 
     print("\nSummary:")
     print(f"Sources with at least one candidate: {total_considered}")

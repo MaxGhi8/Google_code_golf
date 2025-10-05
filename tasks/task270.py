@@ -1,1 +1,3 @@
-p=lambda g,e=enumerate,s=list.__setitem__:(o:=[[x*(x<3)for x in r]for r in g],t:=[*zip(*g)],[((m:=11-4*v)in r[j+1:]and s(o[i],j+1,m),m in r[:j]and s(o[i],j-1,m),m in t[j][i+1:]and s(o[i+1],j,m),m in t[j][:i]and s(o[i-1],j,m))for i,r in e(g)for j,v in e(r)])and o
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes("xÚ•MµuÀ0í=Åu†9‘ÑçdÛM`vãé>ÿ/4HB7YLï#Ò‡ŒĞ‘H{¥õÙ33`|­+mÉÌóc£~şŠM$^Ú:èHÜŠ»d…;¤°KĞ8{rO—vÏÊûØkÿ¬í³rÿØØïÉ¥¸¥(²jô…$®º¤Ïërâ+¤’ø'¤Ï:sb«¼Rû”éş’pœ’ƒ~ÏPF|","L1")))

@@ -1,9 +1,3 @@
-def p(g,R=range):
- h,w,k=len(g),len(g[0]),0
- def f(i,j):
-  g[i][j]=0
-  for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   if h>(x:=i+x)>-1<(y:=j+y)<w and g[x][y]:f(x,y)
- for i in R(h*w):
-  if g[a:=i//w][b:=i%w]:k+=1;f(a,b)
- return[[0]*i+[8]+[0]*(k+~i)for i in R(k)]
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes('xÚ=NÍŠÆ ¼÷)r4Û|`oK[Ÿ$x¡ØÜ÷_ba/Î3£E+<AÉ’IÿQÜt§K{P¤	3’âoø¢æ1P¾2·ìPo…*¶ÂF)|^ˆ´Íó³á,‘¤k-ÔÖê²Uˆg²s€ôâTÎ{ReË,y‚‘àâ/@ÖÁÂ˜KnÔ×¸§á[Ê%sÍ»¬i;žù¥LÇ¯uæï¯0R2ô¦½MÁìjü«?XÔKO',"L1")))
