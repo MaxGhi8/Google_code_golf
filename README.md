@@ -391,7 +391,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task340.py](task340.py) | ✅ Completed | 185 | Max |  |
 | [task341.py](task341.py) | ✅ Completed | 160 | Max |  |
 | [task342.py](task342.py) | ✅ Completed | 180 | Max |  |
-| [task343.py](task343.py) | ✅ Completed | 107 | Ale | |
+| [task343.py](task343.py) | ✅ Completed | 65 | Ale, Max |  |
 | [task344.py](task344.py) | ✅ Completed | 186 | Max |  |
 | [task345.py](task345.py) | ✅ Completed | 120 | Max |  |
 | [task346.py](task346.py) | ✅ Completed | 128 | Ale, Max | Inspired by [task271.py](task271.py) |

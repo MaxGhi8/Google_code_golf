@@ -1,1 +1,1 @@
-p=lambda g,q=1:p(g,q+1)if((k:=[*filter(any,[*zip(*g)])])[:q]*9)[:len(k)]!=k else[(r[:q]*15)[:15]for r in g]
+p=lambda g:[(r[:6+2*(r[:4]in(r[4:8],r[8:12]))]*3)[:15]for r in g]
