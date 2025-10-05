@@ -45,7 +45,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 384/400 tasks completed -->
+<!-- Progress: 386/400 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -90,7 +90,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task039.py](task039.py) | ✅ Completed | 72 | Max |  |
 | [task040.py](task040.py) | ✅📚 Completed | 117 | Max |  |
 | [task041.py](task041.py) | ✅📚 Completed | 49 | Max, Oxke | Good use of walrus operator ; Switches should be xorred with |
-| [task042.py](task042.py) | ⏳ Pending | 291 | - |  |
+| [task042.py](task042.py) | ✅ Completed | 291 | Max, Gio |  |
 | [task043.py](task043.py) | ✅ Completed | 73 | Max |  |
 | [task044.py](task044.py) | ⏳ Pending | 580 | - |  |
 | [task045.py](task045.py) | ✅ Completed | 48 | Max |  |
@@ -316,7 +316,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task265.py](task265.py) | ✅ Completed | 199 | Oxke |  |
 | [task266.py](task266.py) | ✅ Completed | 147 | Oxke |  |
 | [task267.py](task267.py) | ✅ Completed | 67 | Max |  |
-| [task268.py](task268.py) | ⏳ Pending | 322 | - |  |
+| [task268.py](task268.py) | ✅ Completed | 322 | Max, Oxke |  |
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task [task289.py](task289.py), but with individual colours in g |
 | [task270.py](task270.py) | 🤖 Completed | 221 | Ale | Possible alternative: DFS from (3 | 7) to (2 | 1) values? |
 | [task271.py](task271.py) | ✅📚 Completed | 98 | Max |  |
