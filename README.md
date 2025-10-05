@@ -115,7 +115,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task064.py](task064.py) | ✅ Completed | 183 | Max | Similar to 333 |
 | [task065.py](task065.py) | ✅ Completed | 150 | Max |  |
 | [task066.py](task066.py) | ✅ Completed | 309 | Max, Oxke |  |
-| [task067.py](task067.py) | ✅ Completed | 36 | Max |  |
+| [task067.py](task067.py) | ✅ Completed | 34 | Max |  |
 | [task068.py](task068.py) | 📚✅ Completed | 198 | Max | List comprehension with set item |
 | [task069.py](task069.py) | ✅ Completed | 255 | Max |  |
 | [task070.py](task070.py) | ✅ Completed | 164 | Max | |
@@ -333,7 +333,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task282.py](task282.py) | ✅ Completed | 143 | Max |  |
 | [task283.py](task283.py) | ✅ Completed | 141 | Max, Ale |  |
 | [task284.py](task284.py) | 🤖 GPT-generated | 281 | Ale |  |
-| [task285.py](task285.py) | ✅ Completed | 273 | Ale | Inspired by tigrotto's task 361 |
+| [task285.py](task285.py) | ✅ Completed | 271 | Ale | Inspired by tigrotto's task 361 |
 | [task286.py](task286.py) | ✅📚 Completed | 252 | Max, Gio |  |
 | [task287.py](task287.py) | ✅📚 Completed | 98 | Ale | Holes filling in circular pattern. Variant of 061 |
 | [task288.py](task288.py) | ✅ Completed | 136 | Max |  |
