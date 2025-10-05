@@ -90,7 +90,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task039.py](task039.py) | ✅ Completed | 72 | Max |  |
 | [task040.py](task040.py) | ✅📚 Completed | 117 | Max |  |
 | [task041.py](task041.py) | ✅📚 Completed | 49 | Max, Oxke | Good use of walrus operator ; Switches should be xorred with |
-| [task042.py](task042.py) | ⏳ Pending | 341 | - |  |
+| [task042.py](task042.py) | ⏳ Pending | 291 | - |  |
 | [task043.py](task043.py) | ✅ Completed | 73 | Max |  |
 | [task044.py](task044.py) | ⏳ Pending | 580 | - |  |
 | [task045.py](task045.py) | ✅ Completed | 48 | Max |  |
