@@ -1,3 +1,10 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes('xÚ]PGnÄ İû?6m‹ÅIĞôùv†"bœ~÷€IßÙÿuNØA ‰ÊP‚yõJ‚°TĞùA$0Ğ%‹q?`f–³ãÿ³é`|zİÀ/KÈ×j £Nk…óàÔB’^®g+‘ôjM¿üÿ¡üfÚ¿Ï‡ïÍ¥çJG©^ß×™d#XĞÒ3–lÏıTE¨Wæ³Ã|ÜŸ>ú~[«_‡¶/¤øs˜½š÷6«&[©t*¾uS,ë¦YÊ¬ik”İ?åèiÅ,´CnUG†:ÂÒ?RR¥=-òjßú®Cé;pbï]Ä0CeÒGf8.f­-Ë÷Y«¾ˆCŠÒ;',"L1")))
+def p(G):
+ W,E,*J=30,enumerate;C,*B={B*W+D:A for B,C in E(G)for D,A in E(C)if A},
+ def F(z):
+  if A:=C.pop(z,0):H[0][z]=A;H[1].add(A);[F(z+A%3-1+A//3*W-W)for A in range(9)]
+ while C:B+=[H:=({},set())];F(min(C))
+ for D,N in B+B:
+  I,=B[0][1]&B[1][1];Z=min(O:=[A for A in D if D[A]==I]);A=int(len(O)**.5);L,=N-{I};J+=[B-Z for B in D if(D[B]==L)==A]
+  for T in J:
+   for M in range(A*A):Q=Z+T*A+M//A*W+M%A;G[Q//W][Q%W]=L
+ return G

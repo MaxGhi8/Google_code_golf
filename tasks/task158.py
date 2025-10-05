@@ -1,3 +1,1 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚåyC!p•x°¸“ºÀ}÷ã95xZ›¾º9÷‹“´•C¥U×Á10Eq™Ü+OŒ#Û˜šîS¡ l¥¶l­sCŒ0 åh†Ô‹2'j•Ér•8%ÍOrýISôªó´åÙ*©I)ñ|2Y hž÷è=ó7ÏEJ‹ãô`Ûª„)z¸uÐâH-ÕUpÆA+VV„îGî³	1²†Cx‚‘ƒ”Ô$õˆšø©¶Hiû¹-AókX%Î¬Ið…;LQVŸËrŠN”Ü%~£”ÿŠªjÂRpí7l!‘©Ô¼EZž•ŸùLŒf?ŒÛä³GN¿YîË¤nJÓ2f.žC","L1")))
+def p(g):X=range;R=len(g);C=len(v:=g[0]);b=max(v,key=v.count);H=g,g[::-1];p,=[x for g in H for r in X(R-2)for c in X(C-2)if len(set(x:=[g[r+i//3][c+i%3]for i in X(9)]))>3>0<b!=x[0]!=x[8]!=b];[(W:=lambda a=b,b=b,c=b,*_:[a]*u+[b]*u+[c]*u)(W(p[0]),W(),W(c=p[8]))!=[g[r+q][f:=slice(c,[t:=c+3*u*s,None][t<0],s)]for q in X(3*u)]or exec('for q in X(3*u):g[r+q][f]=W(*p[q//u*3:])')for u in X(4)for s in[-1,1]for r in X(R-3*u+1)for c in X(C)for g in H];return g

@@ -1,7 +1,1 @@
-def p(g):
- a=[0]*10;R=range(10)
- for i in R:
-  for j in R:
-   r=g[i];v=r[j]
-   if v:a[v]=r.count(v)*sum(t[j]==v for t in g)
- return[[a.index(max(a))]*2]*2
+p=lambda g,E=enumerate:[[max({*sum(g,[])}-{0},key=lambda k:(c:=[(i,j)for i,r in E(g)for j,v in E(r)if v==k])and(c[-1][0]-c[0][0]+1)*(c[-1][1]-c[0][1]+1))]*2]*2

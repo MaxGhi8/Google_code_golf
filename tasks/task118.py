@@ -1,3 +1,1 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes('xÚmOÍNÃ0¾ï)|ªbêI´»•f/åPäYò¼ª„ìİI¶Qêõûÿ8`v3;ÈşÓ).(ˆÁ2Ù[rš¬ğ7Ôş¡á9"J	ƒÅ¦¿¾°×éüÊé&cÇNB7DR¬—RŒVVî«‚ˆ¤1äÑkÜÁÚØÓ¡ÌõAo o“që—°ymodmwGÉªÌq«$HIZÅXÎİ+zÜw£kôµrg1÷8ÿŠMËàj<—æ÷”b=uÃÃÛúÃÓONÓa•-),ó70Ë€¾',"L1")))
+def p(g,L=2):E=range;H=len(g);W=len(g[0]);R={(r,c)for r in E(H)for c in E(W)if g[r][c]&2};S=lambda Q,U:[Q and(S(Q[1:],U)or{1}>Q[0]&U and S(Q[1:],U|Q[0])),U][R<=U];return(U:=S([C for r in E(H)for c in E(W)for C in[{(y,x)for k in E(-L,L+1)for y,x in[(r+k,c),(r,c+k)]if H>y>-1<x<W}]if min(g[y][x]for y,x in C)&2],set()))and(exec('for r,c in U:g[r][c]+=3*(g[r][c]&1)')or g)or p(g,3)

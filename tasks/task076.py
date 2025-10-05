@@ -1,3 +1,11 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚ]Pe–Ü0şŸS¨l'Ní§½ˆßBöYS¹w¯”á	GğQ êµM Å‘&¥İımÿ¨`Û‚‰°i€š¹¦¡˜ˆç¥Üº,G½‰@ÿø±ŞTAa…>¼îÚNé[ñ­«ôıÄJ&`4%®v3°÷ã­/o]•¡WÜ2¤eñ½ÈE)ˆ„EÀP4+RßÄÃ2§È¢3zóæCşÎ”½à·Ö<lx=Pİ~'EÚ­˜{2FGâ8ŸL“w†ö¾÷+ö$Šæ—¢ï¹—öû¶-w©ÉnEsÜ)f£ã¢q”¹VÖGÿşöÅû[7`›ÿI´EõÎ°¸~aUÔ¡€Ò0­UŸœÃËw·iëË››wüe|cÂyñ=éDX{Ğfª­ä Äå)œ¯Úî2ü£Ò_j¡Ğ×&‡ˆó.ÃKóR“¢©ñ°ëz³éÖ×Yw‹´ô*Êšæ¡ş?P£®P","L1")))
+def p(q,E=enumerate):
+ d,o,*j={(d,n):e for d,f in E(q)for n,e in E(f)if e},1,
+ def B(z):
+  if z in d:x,y=z;C.add((x-k[0],y-k[1],d.pop(z)));[B((x+A%3-1,y+A//3-1))for A in range(9)]
+ for k,v in[*d.items()]:
+  if v==2:j+=[(k,C:=set())];B(k);o=[o,C][any(e&1for*q,e in C)]
+ l={s for s in o if s[2]&1};r=o-l;o=1,-1;y=lambda k,*d:(d[k&1]*o[k&2>0],d[1^k&1]*o[k&4>0])
+ for(t,p),u in j:
+  for k in range(9):
+   for*d,e in[*l]*({(*y(k,*d),e)for *d,e in r}==u):f,m=y(k,*d);q[f+t][m+p]=e
+ return q

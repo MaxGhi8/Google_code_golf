@@ -1,3 +1,7 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚM1@èWĞº–ÆºíKª˜-£ºëß/±S¼W^’;UØìtÉ€*ÙæY?0x*`­0s+™ËÓn<I¸ ¤*á'Ü% “izßh)¨O†k¾ö‡Ôå¨KÚÆïH@eôMPh€i¼¸çl>Ê;¸LE7‘núÓY>*9","L1")))
+def p(g):
+ def f(i,j):
+  try:
+   if g[i][j]<1:g[i][j]=1;f(i+1,j);f(i-1,j);f(i,j+1);f(i,j-1)
+  except:0
+ for i in range(len(g)):f(i,0);f(i,-1);f(0,i);f(-1,i)
+ return[[(4,0,0,3)[a]for a in r]for r in g]

@@ -1,3 +1,8 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚ}Qe®ã0şßSxy¦LK|ËŠ¼S¹0µKQîşb?Æp?hLË$ä#f…×´7ğ«èúª'}şÕh¦¹Ôà¦a*“t½Xl”ıi£Ú‹gšYbVaşvùûzÊÉĞ0v¶.ñğ$.—*§Ôˆ•ıe8eÌ¶,Wx.º1õ(ÄZSÃüçn9]÷Btë>W11¹“=Ü ¬¢#Òü0¿Ï•%{¿~‹|'I‰cu;‚äÀd¼™¬g…Ù=%|ÔnùSòb9b-8¬’ã³vp²!Nÿ[ãÖ¢ñ éßôTBD•ïJ¶p£uQ‚Cäb7ß›Äï™.0EÔÔ€fC„r$–?TÏİÅÙhÎ€r¥X6¯ë`bÎÔ5SğÓ5J’Z)|h%>mªò&&O,]t®S","L1")))
+def p(g):
+ R=range;N=R(9);b=tuple;S={};E=lambda M:[*map(list,zip(*filter(any,M)))];W=lambda f:[f(r,c,[g[r+i//3][c+i%3]for i in N])for r in R(len(g)-2)for c in R(len(g[0])-2)]
+ def A(r,c,B):
+  if len(C:={*B})==2and C&{0,2}=={2}:
+   K=b(x==2for x in B);D={K:sum(C)-2}
+   for i in R(4):S[K]=D;K=b(K[j%3*3+2-j//3]for j in N)
+   for k in N:g[r+k//3][c+k%3]=0
+ W(A);g=E(E(g));[W(lambda r,c,B:(D:=S.get(P:=b(x<1for x in B)))and(k or P in D)and(V:=D.popitem()[1],[g[r+j//3].__setitem__(c+j%3,(V,2)[P[j]])for j in N]))for k in R(2)];return g

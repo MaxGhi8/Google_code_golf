@@ -1,3 +1,1 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚeR…®Ã ý¢ƒ–>Ò°¹¹Ix+m˜@saúõ¯0÷ÊQ¬³=9	5èµõÓÃ¼ÜàEë5T3òµ‹Ir’'7òŠ„€¶½Åâ…,·l™Ï¿['IÇ@Év€@ì1bÎ3rB‚zDP®ìQ¯Íæ¯3ŒTŽŠ6ñ¸ÝL€bú´Gi®‘™•¾ÓÅ>~,ÂÖ'ÍÂv«7æð¨tïÊìÁ.øì6‚¤RmQxåëˆVq&Y¯¹ƒT¼r¸‘[Fëc™É+0x#ãË­ÆwìÜöÆ©çØ0Y•îª¾±õwýMœ@ÌèpGå—l¾ßÞÌ°éîŒ-þŒ»žæC½.êJi¸®ÕÛ*¢¼L¼ŠÍeÑùQh=`K6mÉç]©Ê‘ró™ú$kÓÜ","L1")))
+def p(g):A=range;B=len;D=sorted;F=lambda q:D(set(c:=sum(q,[])),key=c.count);*I,=map(list,(g,zip(*g))[R:=B(g)>B(g[0])]);h,w=B(I),B(I[0])//2;T,S=D([[r[:w]for r in I],[r[w:]for r in I]],key=lambda q:B(F(q)));f,b=F(S)[-2:];z=F(T)[-1];[exec('for r in S[y:y+H]:r[x:x+W]=[b]*W')or[all(T[u+j][v:v+W]==[(m,z)[m==f]for m in t[j]]for j in A(H))and exec('for j in A(H):T[u+j][v:v+W]=t[j]')for u in A(h-H+1)for v in A(w-W+1)]for n in[3,2,1]for y in A(h)for x in A(w)for H in A(h-y,0,-1)for W in A(w-x,0,-1)if b not in(c:=sum(t:=[r[x:x+W]for r in S[y:y+H]],[]))and H*W-c.count(f)==n];return(T,[*zip(*T)])[R]
