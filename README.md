@@ -115,7 +115,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task064.py](task064.py) | ✅ Completed | 183 | Max | Similar to 333 |
 | [task065.py](task065.py) | ✅ Completed | 150 | Max |  |
 | [task066.py](task066.py) | ✅ Completed | 309 | Max, Oxke |  |
-| [task067.py](task067.py) | ✅ Completed | 34 | Max |  |
+| [task067.py](task067.py) | ✅ Completed | 33 | Max |  |
 | [task068.py](task068.py) | 📚✅ Completed | 198 | Max | List comprehension with set item |
 | [task069.py](task069.py) | ✅ Completed | 255 | Max |  |
 | [task070.py](task070.py) | ✅ Completed | 164 | Max | |
