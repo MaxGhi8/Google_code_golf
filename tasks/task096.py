@@ -1,17 +1,10 @@
-def p(g,f=lambda g:map(list,zip(*g[::-1]))):
- b=max(r:=g[0],key=r.count);d={};A=B=0
- for _ in[0]*4:
-  for r in g:
-   for c in{*r}-{b}:
-    for L,s in enumerate(r[(x:=r.index(c)):]):
-     if s!=c:break
-    t=r[x+L:]
-    try:S=t.index(c)
-    except:S=0
-    if(L,S)>d.get(c,(0,0)):d[c]=(L,S);A|=S>0;B|=L<2>1>S
-  *g,=f(g)
- T=sorted((S and S+L*2or(L>1)*A*B*3or L,L,S,c)for c,(L,S)in d.items());n=T[-1][0];R=[n*[b]for _ in[0]*n]
- for _ in[0]*4:
-  for w,L,S,c in T:o=n-w>>1;R[o][o+w-L:o+w]=R[o+w-1][o+w-L:o+w]=[c]*L
-  *R,=f(R)
- return R
+import re
+def p(g,R=range,f=re.findall):
+ t=re.sub(r',\s','',str(g+[*zip(*g)]));t+=t[::-1];b=int(max(t,key=t.count));B={0:(0,b)}
+ for c in{*R(10)}-{b}:
+  if(v:=f(f'{c}+',t)):
+   m=len((f(f'{c}{c}[^]){c}]+{c}',t)+[3*'0'])[0])-3
+   l=len(max(v,key=len))*(1,2)[m>0]
+   B[(l+m)//2]=((m+1)//2,c)
+ x=2*max(B)+1
+ return[[b if(z[0]<(p:=B[z[1]])[0])else p[1]for j in R(x)if(z:=sorted([abs(j-x//2),abs(i-x//2)]))]for i in R(x)]
