@@ -1,3 +1,8 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes('xÚ­RÙ®›0}ÏW¸ovqäv…L~Ä²"CQÁXØ¨!Ë¿wì¬J_›…ñÎ¬µjˆ¡ŠW0ºU,[‘šĞ+MãÁˆD²¼;ÈxîátÉEÏ¦.œ¢\'›õq«µ<aQzaÍ8K:MZ™—0ÚóßjÀbùJ~ÈƒWÑšÉ|!W4w³	Àá\n ]CôèÈQ)²Ğ5Q×ã\'(´(•kÔğ*[¸ÂåŸ_]¯ˆ¾2ÉÄĞ±\reêÓ6!uÚAímsu›ŞÅ$E#ñ¤Â	ÃÚ¬µëô¬‚ÆiŞÆ…1J×”b Ær«ƒó¾ Sdy9ß.lc4á)ãø\\{“òŸko¤d×Âˆ/w¹‹6ÓxTÚbïƒ‚o•gHŸyBrßÔÇÅâ«6 ¬‡¨ã–!èáË6Ù‘¾ğ†NS‹CzLÈ0sü¼ô÷åš0ëc”òb½Di>‚J#+Å9‰±“- »­C}è ¼ˆê­"É#ûŠöĞEOãl{”\n9ùÂK¹Y§On@´Güîì6>ˆÙm¼¼¸¾ƒ~¿{¿ß,ÿÀ7!“ùŞi‡k¯4\x00¡¶¿ì—+RbßPİ|„´ís¿í3õ:ù¶ßÔğ0‹0Œ«wÏFØíe¼ßcšSÃ~ì™•‘ØÈ(86J3É^ä»ÿ"Ÿ¾ÉOÊÍ“&å_òÛKö',"L1")))
+def p(g,E=enumerate):
+ P={(r,c)for r,R in E(g)for c,v in E(R)if v}
+ def B(z):
+  if z in P:P.remove(z);C.add(z);[B((z[0]+A%3-1,z[1]+A//3-1))for A in range(9)]
+ while P:
+  C=P-P;B(min(P))
+  for a,b in C:g[a][b]=(0,1,6,2)[sum(len({(r,c),(r+1,c),(r,c+1),(r+1,c+1)}&{*C})==3for r,R in E(g)for c,v in E(R))]
+ return g
