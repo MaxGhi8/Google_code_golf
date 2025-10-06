@@ -1,2 +1,1 @@
-import re
-p=lambda g:[exec("g[:]=[[*map(int,re.sub(k+'(.)(.*?)'+K,k+K+r'\\2\\1',str(w)[1::3]))]for*w,in zip(*g[::-1])];"*4)for k,K in zip('21','37')]and g
+import re;p=lambda g:[exec("g[:]=[[*map(int,re.sub(k+'(.)(.*?)'+K,k+K+r'\\2\\1',str(w)[1::3]))]for*w,in zip(*g[::-1])];"*4)for k,K in zip('21','37')]and g
