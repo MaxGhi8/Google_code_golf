@@ -1,1 +1,1 @@
-def p(g):R=1+sum(len({*r})<2for r in g);C=1+sum(len({*c})<2for c in zip(*g));return[g[0][:1]*C]*R
+p=lambda H:[[(A:=H[0][0])]*-~sum(S!=A for S in H[0])]*-~sum(S[0]!=A for S in H)

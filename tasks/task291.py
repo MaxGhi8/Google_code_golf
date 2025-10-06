@@ -1,1 +1,4 @@
-p=lambda g:[[[x for m in[g[i][j:j+2]+g[i+1][j:j+2]for i in range(len(g)-1)for j in range(len(g[0])-1)]if m.count(x:=m[0])>2and m.count(0)==1][0]]]
+def p(g,e=enumerate):
+ for(o,i)in e(g):
+  for(s,d)in e(i):
+   if d<1and(r:=g[o-1][s])and r==i[s-1]:return[[r]]

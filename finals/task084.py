@@ -1,1 +1,3 @@
-def p(g):n=len(g)-1;g[-1][1:]=[4]*n;[g[i].__setitem__(~i,2)for i in range(n)];return g
+def p(r):
+ for A in range(1,len(r[0])):r[-1][A]=4;r[A-1][-A]=2
+ return r

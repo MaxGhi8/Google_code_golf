@@ -1,1 +1,1 @@
-p=lambda g:[[((a:=g[0][j])*(v==r[0])+r[0]*(v==a))*(all(r)*all(x[j]for x in g))or v for j,v in enumerate(r)]for r in g]
+def p(s):d=lambda l:l[0]and l[:1]*len(l)or l;a=[*map(d,s)];return[a,[*map(list,zip(*map(d,zip(*s))))]][a==s]

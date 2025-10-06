@@ -1,1 +1,5 @@
-def p(g):R=range(n:=len(g));h=n//2;return[[g[i][j]or(0in[j-i+h-(x:=g[-2].count(g[-1][0])==1),i-~j-n-h+x])*g[-1][h]for j in R]for i in R]
+def p(g,D=3):
+ E=len(g)//2
+ for e in range(E+1):
+  if g[-2][E-e]<1:g[-D][E-e]=(O:=g[-1][E]);g[-D][E+e]=O;D+=1
+ return g
