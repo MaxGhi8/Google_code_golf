@@ -1,1 +1,5 @@
-p=lambda g,e=enumerate,s=list.__setitem__:(o:=[[x*(x<3)for x in r]for r in g],t:=[*zip(*g)],[((m:=11-4*v)in r[j+1:]and s(o[i],j+1,m),m in r[:j]and s(o[i],j-1,m),m in t[j][i+1:]and s(o[i+1],j,m),m in t[j][:i]and s(o[i-1],j,m))for i,r in e(g)for j,v in e(r)])and o
+import re
+def p(g):
+ for k,K in zip('21','37'):
+  for _ in' '*4:g=[[*map(int,re.sub(k+'(.)(.*?)'+K,k+K+'\\2\\1',str(w)[1::3]))]for*w,in zip(*g[::-1])]
+ return g

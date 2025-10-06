@@ -1,2 +1,5 @@
-#coding:L1
-import zlib;exec(zlib.decompress(bytes("xÚ]N²Ä0¾J†µ;*NR›qò°—_{ôã#I÷¶} ‰Ó}áÂ®*>ˆE°ª\"UFi–A]…I ˜`ñ¶šÛ™¢¢êP+ÌLU§(õ<+Ô…v!dƒáEEƒz€U™ÑÂ<ßæ¤™¸¢ÑðY/lË†\"£ïâóq¦|\"ú‚­;|mJÍkÁI8°F*¼¾S|¿íâ OòTÎ",'L1')))
+import re
+def p(g):
+ for k,K in zip('21','37'):
+  for _ in' '*4:g=[[*map(int,re.sub(k+'(.)(.*?)'+K,k+K+'\\2\\1',str(w)[1::3]))]for*w,in zip(*g[::-1])]
+ return g

@@ -1,1 +1,0 @@
-p=lambda m,o=list.__setitem__:(u:=[[m*(m<3)for m in m]for m in m],k:=[*zip(*m)],[((g:=11-4*t)in m[e+1:]and o(u[q],e+1,g),g in m[:e]and o(u[q],e-1,g),g in k[e][q+1:]and o(u[q+1],e,g),g in k[e][:q]and o(u[q-1],e,g))for q,m in enumerate(m)for e,t in enumerate(m)])and u

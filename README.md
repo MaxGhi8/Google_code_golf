@@ -45,7 +45,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 387/400 tasks completed -->
+<!-- Progress: 389/400 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -117,7 +117,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task066.py](task066.py) | ✅ Completed | 309 | Max, Oxke |  |
 | [task067.py](task067.py) | ✅ Completed | 33 | Max |  |
 | [task068.py](task068.py) | 📚✅ Completed | 198 | Max | List comprehension with set item |
-| [task069.py](task069.py) | ✅ Completed | 255 | Max |  |
+| [task069.py](task069.py) | ✅ Completed | 216 | Max |  |
 | [task070.py](task070.py) | ✅ Completed | 164 | Max | |
 | [task071.py](task071.py) | ✅ Completed | 179 | Ale | |
 | [task072.py](task072.py) | ✅ Completed | 61 | Max |  |
@@ -206,7 +206,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task155.py](task155.py) | ✅ Completed | 18 | Max |  |
 | [task156.py](task156.py) | ✅ Completed | 214 | Max, Ale, Oxke |  |
 | [task157.py](task157.py) | ✅ Completed | 248 | -_- |  |
-| [task158.py](task158.py) | ✅ Completed | 335 | Ale, Max, Waolo | Understood from tigrotto |
+| [task158.py](task158.py) | ✅ Completed | 325 | Ale, Max, Waolo | Understood from tigrotto |
 | [task159.py](task159.py) | ✅ Completed | 183 | Ale |  |
 | [task160.py](task160.py) | ✅ Completed | 167 | Ale |  |
 | [task161.py](task161.py) | ✅ Completed | 106 | Max |  |
@@ -288,7 +288,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task237.py](task237.py) | ✅ Completed | 96 | Max, Waolo |  |
 | [task238.py](task238.py) | ✅ Completed | 261 | Max |  |
 | [task239.py](task239.py) | ✅ Completed | 111 | Max |  |
-| [task240.py](task240.py) | ✅ Completed | 255 | Max |  |
+| [task240.py](task240.py) | ✅ Completed | 225 | Max |  |
 | [task241.py](task241.py) | ✅📚 Completed | 21 | Max, Waolo | Symmetry respect main diagonal |
 | [task242.py](task242.py) | ✅ Completed | 96 | Max |  |
 | [task243.py](task243.py) | ✅ Completed | 199 | Max, Ale |  |
@@ -316,9 +316,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task265.py](task265.py) | ✅ Completed | 199 | Oxke |  |
 | [task266.py](task266.py) | ✅ Completed | 147 | Oxke |  |
 | [task267.py](task267.py) | ✅ Completed | 67 | Max |  |
-| [task268.py](task268.py) | ✅ Completed | 330 | Max, Oxke |  |
+| [task268.py](task268.py) | ✅ Completed | 322 | Max, Oxke |  |
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task [task289.py](task289.py), but with individual colours in g |
-| [task270.py](task270.py) | 🤖 Completed | 221 | Ale | Possible alternative: DFS from (3 | 7) to (2 | 1) values? |
+| [task270.py](task270.py) | ✅ Completed | 160 | Ale, Max | Resolved with regex. Possible alternative: DFS from (3 | 7) to (2 | 1) values? |
 | [task271.py](task271.py) | ✅📚 Completed | 98 | Max |  |
 | [task272.py](task272.py) | ✅ Completed | 155 | Max |  |
 | [task273.py](task273.py) | ✅ Completed | 172 | Max, Ale |  |
@@ -341,7 +341,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task290.py](task290.py) | ✅ Completed | 70 | Max |  |
 | [task291.py](task291.py) | ✅📚 Completed | 110 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 61 | Max |  |
-| [task293.py](task293.py) | ✅ Completed | 118 | Max |  |
+| [task293.py](task293.py) | ✅ Completed | 108 | Max |  |
 | [task294.py](task294.py) | ✅📚 Completed | 114 | Max |  |
 | [task295.py](task295.py) | ✅ Completed | 68 | Ale, Max | |
 | [task296.py](task296.py) | ✅ Completed | 81 | Max |  |
@@ -372,8 +372,8 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task321.py](task321.py) | ✅ Completed | 69 | Ghi, Max |  |
 | [task322.py](task322.py) | ✅ Completed | 51 | Ale, Max |  |
 | [task323.py](task323.py) | ✅ Completed | 140 | Max |  |
-| [task324.py](task324.py) | ⏳ Pending | 305 | - |  |
-| [task325.py](task325.py) | ✅ Completed | 241 | Max |  |
+| [task324.py](task324.py) | ✅ Completed | 305 | Oxke |  |
+| [task325.py](task325.py) | ✅ Completed | 236 | Max |  |
 | [task326.py](task326.py) | ✅ Completed | 30 | Ghi, Max |  |
 | [task327.py](task327.py) | ✅ Completed | 141 | Max | Hope to be improved |
 | [task328.py](task328.py) | ✅ Completed | 175 | Max | |
@@ -412,7 +412,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task361.py](task361.py) | ✅ Completed | 222 | Max, Oxke |  |
 | [task362.py](task362.py) | ✅ Completed | 99 | Ale, Max |  |
 | [task363.py](task363.py) | ⏳ Pending | 381 | - |  |
-| [task364.py](task364.py) | ⏳ Pending | 612 | - |  |
+| [task364.py](task364.py) | ✅ Completed | 612 | Max |  |
 | [task365.py](task365.py) | ✅ Completed | 150 | Ale, Max |  |
 | [task366.py](task366.py) | ✅ Completed | 377 | -_- |  |
 | [task367.py](task367.py) | ⏳ Pending | 558 | - |  |
