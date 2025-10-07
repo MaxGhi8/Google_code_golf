@@ -1,4 +1,1 @@
-def p(g,E=enumerate):
- for r,R in E(g[1:],1):
-  for c,C in E(R[1:],1):R[c]=C or g[r-1][c]>0<R[c-1]and+3
- return[[c*(c!=2)for c in r]for r in g]
+import re;p=lambda g:[[*map(int,re.sub('2(0+)2|2+',lambda m:m[1]and'0'+'3'*len(m[1])+'0'or'0'*len(m[0]),str(r)[1::3]))]for r in g]

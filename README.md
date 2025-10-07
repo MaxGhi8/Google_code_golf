@@ -386,7 +386,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task335.py](task335.py) | ✅ Completed | 161 | Max, Ale |  |
 | [task336.py](task336.py) | ✅ Completed | 120 | Max | |
 | [task337.py](task337.py) | ✅ Completed | 51 | Ghi, Max | `{x:x,...}[x] >>> {...}.get(x,x)` |
-| [task338.py](task338.py) | ✅ Completed | 143 | Ale, Max | First part from 002. Can be improved |
+| [task338.py](task338.py) | ✅ Completed | 130 | Ale, Max | First part from 002. Can be improved |
 | [task339.py](task339.py) | ✅ Completed | 37 | Ghi, Max | `[*filter(int,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 | [task340.py](task340.py) | ✅ Completed | 185 | Max |  |
 | [task341.py](task341.py) | ✅ Completed | 158 | Max |  |
