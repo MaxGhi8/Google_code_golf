@@ -1,1 +1,1 @@
-def p(g,e=enumerate):X=[[0]*6for _ in[0]*6];[X[r+i].__setitem__(c+i,v)for r,R in e(g)for c,v in e(R)if v for i in range(6-max(r,c))];return X
+p=lambda g,R=range(6):[[sum((i-r==j-c>=0)*g[r][c]for r in R[:3]for c in R[:3])for j in R]for i in R]
