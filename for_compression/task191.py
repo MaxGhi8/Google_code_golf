@@ -10,6 +10,6 @@ def p(g):
       if((u:=g[i+a][j+b])^4)*((v:=t[a+1][b+1])^1)|u*(4>v):k=0
     for a in range(h):
      for b in range(w):
-      if 23>(Y:=i+a-1)>=0and 23>(X:=j+b-1)>=0and k:g[Y][X]|=t[a][b]&1
+      if(23>(Y:=i+a-1)>=0)*(23>(X:=j+b-1)>=0)*k:g[Y][X]|=t[a][b]&1
   t=[*zip(*t[::(-1,1,1)[q%3]])];h,w=w,h
  return g
