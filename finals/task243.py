@@ -1,6 +1,5 @@
-def p(g):
- n=len(g);L=sum(g,[])
- def f(i,j):
-  for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   if n>(x:=i+x)>-1<(y:=j+y)<n and g[x][y]<1:g[x][y]|=1;f(x,y)
- [f(i//n,i%n)for i in range(n*n)if L[i]==1];return g
+def p(g,E=enumerate):
+ for i,r in E(g):
+  for j,a in E(r):
+   if a<1and 1in(g[i-(i>0)][j],r[j-(j>0)],g[i+(i+1<len(g))][j],r[j+(j+1<len(r))]):r[j]=1;return p(g)
+ return g
