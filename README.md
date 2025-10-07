@@ -56,7 +56,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task005.py](task005.py) | ⏳ Pending | 424 | - |  |
 | [task006.py](task006.py) | ✅📚 Completed | 53 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**! |
 | [task007.py](task007.py) | ✅📚 Completed | 98 | Max, Waolo | How to unroll a matrix |
-| [task008.py](task008.py) | ✅ Completed | 198 | Ale, Max |  |
+| [task008.py](task008.py) | ✅ Completed | 184 | Ale, Max |  |
 | [task009.py](task009.py) | ✅ Completed | 151 | Max |  |
 | [task010.py](task010.py) | ✅ Completed | 93 | Max | List comprehension go BRR |
 | [task011.py](task011.py) | ✅ Completed | 195 | Max, Ale |  |
