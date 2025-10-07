@@ -1,3 +1,13 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes('xÚ­UÕrãJ}÷WÌcwÔÊ:tÁãŞ*)ÌPª9 "{ey9ÿ~{ÆÎ¥}j<çôH=s¦Ğ¡’‹4?7X«¨Ë3•÷KÕQıbì$ÕwµÂ”£"WŠŠ©Á™É¡ƒäŒTQsª3êRºœZ7x§Oøæ2‡¡)áéÚ|ããùÓş(/QGü\nq,!Æ´„Ê,$x—„ï˜«·³Ù¢{óìş+’!±kîÃ9ÖN;ªÃKóù;NS!“ÔDÊ."@²&“~…À‰Æ”©£¤"ŠÙòOx¾y³Hz±uÆíçR×~o%NµEuuƒ“w’’‘æÈVU“Z<ì¥éL#Ú¤]`{¼@©{XkÌ§ƒÉ¥) ¶k2™Ğ„Ì±£éĞêŒ& èfmL#õ‡4kŞÑD~ D~ø<•~iF!i£Ğ¿ÀT‚¦#?k?óAäğ×èµ¨é/ÿ¼ääÿ6*jöé€¹ê¶[ö@²H yDœ¿G][uÎÒ›n/U_kğõm}øZ¯¢èŠS[¿¦Lœ]Ô]:âu¸ö¤uÈü+Ô´Éş·@‡ş¾· [¼1×¥Í¹#}êW„Ì‹s°ám¢¿¬·¸ewÄ©|¡QÎ¿p>´äôùëÎ µ’ˆ±ŸÈÍ‡¬Ul™ZA›r[¯=·%p#@İ£2”óĞ¾ÒØC/Ô«´ÆÕ:÷Tš÷”©Ç$ÁòzÃR‰Ìª‹×jÍùÑ —–~@$ğØs§"ŠQä£[Ô§ı¼¼ÌGfl3/<F5g¨¦CÙ>Ñ”R=v:HO½!tİÂ¤×Ëİ/\rÒ˜Q6PŞ¢Å›ìƒõÖşÇ`3Ê{tÖƒ£zÕ^¯ÌK¶°)ïëÄ¢MtbŠê¼NmŞrì/y¯ÎUüŸÃO>¬İkÏm¡§ÛçÿÈImº÷ÿÚƒ¯#ÖwÑn•}pn¾–pYšBr¨·i‡÷½.\r¼#ı‰À¶¿@;^0{@â*-àíO©Ñ¿€d­7Éx/tëæÏÙó2{&>MVqo\rvp’]K¸#R¹Í-´ ÌB›µ )Ş%Ù;>©L/ òU¾Ä',"L1")))
+def p(g,x=lambda g:[*zip(*filter(lambda r:0in r,g))]):
+ t=x(x(g));S=sum(g,[]);K=S[0];n=len(t);k,={*S}-{0,K};N=len(g[0]);M=len(g);E=enumerate;D=divmod;R=range
+ for i in R(4):
+  g=[r[::1-2*(i&1)]for r in g[::2*(i&1)-1]];*S,=sum(g,[]);I=S.index;x,y=D(I(k),N);A,B=D(I(0),N)
+  X,Y=zip(*[(i,j)for i,r in E(g)for j,v in E(r)if v<1]);a,b=min(X),max(X);c,d=min(Y),max(Y);o=g[a][c]==K
+  if(x>=b)*(y>d):
+   a+=x-A;c+=y-B
+   while(a<M)*(c<N):
+    for i in R(n):
+     for j in R(n):
+      if(a+i<M)*(c+j<N):g[a+i][c+j]=[K,k][t[i][j]<1]
+    a+=n-o;c+=n-o
+ return g

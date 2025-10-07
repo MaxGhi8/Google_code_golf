@@ -418,7 +418,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task367.py](task367.py) | ⏳ Pending | 558 | - |  |
 | [task368.py](task368.py) | ✅ Completed | 221 | Ale, Max |  |
 | [task369.py](task369.py) | ✅ Completed | 219 | Max |  |
-| [task370.py](task370.py) | ⏳ Pending | 887 | - |  |
+| [task370.py](task370.py) | ⏳ Pending | 408 | - |  |
 | [task371.py](task371.py) | ✅ Completed | 144 | Max |  |
 | [task372.py](task372.py) | ✅📚 Completed | 51 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ✅ Completed | 39 | Max | |
