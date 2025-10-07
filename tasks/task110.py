@@ -1,1 +1,1 @@
-p=lambda g,A=range(29):next([[g[i][j]or t[(i-o)%h,(j-p)%k]for j in A]for i in A]for h in A for k in(*A,29)for o in A[:h]for p in A[:k]if(t:={})or all(((v:=g[i][j])and t.setdefault(((i-o)%h,(j-p)%k),v)==v)or(1-s and v<1)or s and((i-o)%h,(j-p)%k)in t for s in(0,1)for i in A for j in A))
+def p(g):R=range;f=lambda A:[i for i in R(1,30)if 1>any(a*b*(a^b)for r in A for a,b in zip(r,r[i:]))][0];t=f(g);s=f(zip(*g));return[[max(max(r[j%t::t])for r in g[i%s::s])for j in R(29)]for i in R(29)]
