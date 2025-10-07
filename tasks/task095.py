@@ -1,1 +1,1 @@
-p=lambda g,E=range(9):[[g[i][j]or(5in sum([p[max(0,j-1):j+2]for p in g[max(0,i-1):i+2]],[]))for j in E]for i in E]
+p=lambda g,A=enumerate:[[C|any(any(R[A and~-A:A+2])for R in g[B and~-B:B+2])for A,C in A(r)]for B,r in A(g)]
