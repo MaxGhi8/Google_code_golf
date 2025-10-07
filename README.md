@@ -239,7 +239,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task188.py](task188.py) | ✅ Completed | 93 | Max |  |
 | [task189.py](task189.py) | ✅ Completed | 142 | Max |  |
 | [task190.py](task190.py) | ✅ Completed | 216 | Max |  |
-| [task191.py](task191.py) | ✅👀 Completed | 440 | Ale | To be compressed; can be improved |
+| [task191.py](task191.py) | ✅👀 Completed | 343 | Ale | Can be improved |
 | [task192.py](task192.py) | ✅ Completed | 202 | Ale |  |
 | [task193.py](task193.py) | ✅ Completed | 118 | Max |  |
 | [task194.py](task194.py) | ✅ Completed | 84 | Max | Same as [task106.py](task106.py) |
