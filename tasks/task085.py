@@ -1,4 +1,1 @@
-def p(g):
- for a,b,c in zip(g,g[1:],g[2:]):
-  if a==c:b[~b.index(max(b))%2::2]=[0]*(len(b)>>1)
- return g
+p=lambda g:[((t:=0)or[v&(t:=t^v)for v in b],b)[a!=c]for a,b,c in zip([0]+g,g,2*g[1:])]

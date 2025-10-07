@@ -133,7 +133,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task082.py](task082.py) | ✅ Completed | 55 | Max | |
 | [task083.py](task083.py) | ✅ Completed | 40 | Max |  |
 | [task084.py](task084.py) | ✅ Completed | 72 | Max | Anti-diagonal coloring |
-| [task085.py](task085.py) | ✅ Completed | 104 | Max, Oxke | Similar to [task098.py](task098.py) |
+| [task085.py](task085.py) | ✅ Completed | 86 | Max, Oxke | Similar to [task098.py](task098.py) |
 | [task086.py](task086.py) | ✅ Completed | 290 | Max, Oxke |  |
 | [task087.py](task087.py) | ✅ Completed | 36 | Max |  |
 | [task088.py](task088.py) | ✅ Completed | 135 | Max |  |
