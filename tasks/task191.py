@@ -1,3 +1,8 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes("xÚ¥TMoÛ0½çWè(Íò`=YÖ¥‡~·è%@Ã‡ ‘– ®¥º²Úyği©‹‡,Ù€…$¼äã«7JK·¬X+·bÍ×²Q-µŒOW•ÕlA0è‚6|ÉŠN¹¾kPËÓ¦ƒÛ³]KTÛ¿¨nåm&Øqó;Qš)—c ÛĞkVXy-¼|ÙA!2#³L¸ê¹h(N<w¤A’!À'h#¶ˆaÏxšÃüv´Êêã\x005¬­1öxG†;®CW+Ğà³×ÛFÑpZT†X™ÃÎÒ/MUi^³(ğı±´¶Oy1­;v¬f¸ÅùIß”£PU—fHaì4Ú ìÛÆí~üm1TÓ²Ùs“ú$ç:uIˆ–è:şIV5»77×±	âFÖ¿Æ8¬—•Ò—k²j7øtåº°•¯+WË%Dœ^…i½¼€™r&¶Óã 8…ÿœÂ.Èpè*ÏÄå¡«ü¡£ª0ö\x00íåÀdÌı*‰;õØj·j¿):ğË$ghÜÊñuŒßãÑÁ7<ü³·`P“Èj˜bj1Èho&¥6òÄ—àæô—àlú?ÒóQ|Çô¤¯²š{¸òzNdFXÄV gÍ”BTó¦(xTP#¨gà«TÀ”:8Ä¼sxÃ!nå90ˆ+¸4OüY~Ğ[äX§OI.îà~Nò`sUfº+³bmZ·k{Jô~]\nİP³GïJÔ4”†‰Ì|œÛQ¼Ojù9z‰Eu)m©“§Éío’çÉğ×w)UñH“W¤MæW£¾övƒÚ>¢ÍåÏ‡_ÿ”»ÅOÖäå\n","L1")))
+def p(g,R=range,E=enumerate):
+ (y,x),*_,(Y,X)=[(i,j)for i,r in E(g)for j,v in E(r)if v%4]
+ t=[r[x:X+1]for r in g[y:Y+1]];h=Y-y+1;w=X-x+1
+ for q in R(12):
+  for i in R(26-h):
+   for j in R(26-w):k=[1];[exec('k[0]=0')for a in R(h-2)for b in R(w-2)if((u:=g[i+a][j+b])^4)*((v:=t[a+1][b+1])^1)|u*(v<4)];[exec('g[Y][X]|=t[a][b]&1')for a in R(h)for b in R(w)if 23>(Y:=i+a-1)>-1<(X:=j+b-1)<23*k[0]]
+  t=[*zip(*t[::(-1,1,1)[q%3]])];h,w=w,h
+ return g
