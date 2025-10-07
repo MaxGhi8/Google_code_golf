@@ -45,7 +45,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 ## 📈 Task Progress Table
 
-<!-- Progress: 389/400 tasks completed -->
+<!-- Progress: 390/400 tasks completed -->
 
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
@@ -56,7 +56,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task005.py](task005.py) | ⏳ Pending | 424 | - |  |
 | [task006.py](task006.py) | ✅📚 Completed | 53 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**! |
 | [task007.py](task007.py) | ✅📚 Completed | 98 | Max, Waolo | How to unroll a matrix |
-| [task008.py](task008.py) | ✅ Completed | 198 | Ale, Max |  |
+| [task008.py](task008.py) | ✅ Completed | 184 | Ale, Max |  |
 | [task009.py](task009.py) | ✅ Completed | 151 | Max |  |
 | [task010.py](task010.py) | ✅ Completed | 93 | Max | List comprehension go BRR |
 | [task011.py](task011.py) | ✅ Completed | 195 | Max, Ale |  |
@@ -133,7 +133,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task082.py](task082.py) | ✅ Completed | 55 | Max | |
 | [task083.py](task083.py) | ✅ Completed | 40 | Max |  |
 | [task084.py](task084.py) | ✅ Completed | 72 | Max | Anti-diagonal coloring |
-| [task085.py](task085.py) | ✅ Completed | 104 | Max, Oxke | Similar to [task098.py](task098.py) |
+| [task085.py](task085.py) | ✅ Completed | 86 | Max, Oxke | Similar to [task098.py](task098.py) |
 | [task086.py](task086.py) | ✅ Completed | 290 | Max, Oxke |  |
 | [task087.py](task087.py) | ✅ Completed | 36 | Max |  |
 | [task088.py](task088.py) | ✅ Completed | 135 | Max |  |
@@ -239,7 +239,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task188.py](task188.py) | ✅ Completed | 93 | Max |  |
 | [task189.py](task189.py) | ✅ Completed | 142 | Max |  |
 | [task190.py](task190.py) | ✅ Completed | 216 | Max |  |
-| [task191.py](task191.py) | ⏳ Pending | 690 | - |  |
+| [task191.py](task191.py) | ✅👀 Completed | 343 | Ale | Can be improved |
 | [task192.py](task192.py) | ✅ Completed | 202 | Ale |  |
 | [task193.py](task193.py) | ✅ Completed | 118 | Max |  |
 | [task194.py](task194.py) | ✅ Completed | 84 | Max | Same as [task106.py](task106.py) |
@@ -386,7 +386,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task335.py](task335.py) | ✅ Completed | 161 | Max, Ale |  |
 | [task336.py](task336.py) | ✅ Completed | 120 | Max | |
 | [task337.py](task337.py) | ✅ Completed | 51 | Ghi, Max | `{x:x,...}[x] >>> {...}.get(x,x)` |
-| [task338.py](task338.py) | ✅ Completed | 143 | Ale, Max | First part from 002. Can be improved |
+| [task338.py](task338.py) | ✅ Completed | 130 | Ale, Max | First part from 002. Can be improved |
 | [task339.py](task339.py) | ✅ Completed | 37 | Ghi, Max | `[*filter(int,sum(g,[]))] >>> [x for x in sum(g,[])if x]` |
 | [task340.py](task340.py) | ✅ Completed | 185 | Max |  |
 | [task341.py](task341.py) | ✅ Completed | 158 | Max |  |
@@ -394,7 +394,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task343.py](task343.py) | ✅ Completed | 65 | Ale, Max |  |
 | [task344.py](task344.py) | ✅ Completed | 186 | Max |  |
 | [task345.py](task345.py) | ✅ Completed | 120 | Max |  |
-| [task346.py](task346.py) | ✅ Completed | 128 | Ale, Max | Inspired by [task271.py](task271.py) |
+| [task346.py](task346.py) | ✅ Completed | 121 | Ale, Max | Inspired by [task271.py](task271.py) |
 | [task347.py](task347.py) | ✅ Completed | 54 | Ghi, Max |  |
 | [task348.py](task348.py) | ✅ Completed | 153 | Ale |  |
 | [task349.py](task349.py) | ⏳ Pending | 529 | - |  |

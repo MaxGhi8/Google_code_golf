@@ -1,6 +1,3 @@
-def p(g):
- for _ in[0]*4:
-  g=[*zip(*g)][::-1];L=[]
-  for i,r in enumerate(g):2in r and(L.append(r),b:=i);8in r and(a:=i)
-  a<b and 2not in g[a]and(g:=(g[:a+1]+L+[[0]*len(r)]*99)[:len(g)])
+def p(g,e=enumerate):
+ for _ in[0]*4:b=max(i for i,r in e(g)if 2in r);d=min(i for i,r in e(g)if 8in r);g=[*zip(*((d>b)*(d+~b)*[[0]*len(g[0])]+(g[:b+1]+g[d:],g)[b>=d]))][::-1]
  return g
