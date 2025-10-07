@@ -318,7 +318,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task267.py](task267.py) | ✅ Completed | 67 | Max |  |
 | [task268.py](task268.py) | ✅ Completed | 322 | Max, Oxke |  |
 | [task269.py](task269.py) | ✅ Completed | 85 | Max, Ale | Same as task [task289.py](task289.py), but with individual colours in g |
-| [task270.py](task270.py) | ✅ Completed | 154 | Ale, Max | Resolved with regex |
+| [task270.py](task270.py) | ✅ Completed | 159 | Ale, Max | Resolved with regex |
 | [task271.py](task271.py) | ✅📚 Completed | 98 | Max |  |
 | [task272.py](task272.py) | ✅ Completed | 155 | Max |  |
 | [task273.py](task273.py) | ✅ Completed | 172 | Max, Ale |  |
