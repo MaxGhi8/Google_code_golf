@@ -203,7 +203,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task151.py](task151.py) | ✅ Completed | 123 | Max |  |
 | [task152.py](task152.py) | 🏆 Optimized | 40 | Ghi, Max |  |
 | [task153.py](task153.py) | 👀 Need Review | 198 | Ale, Max | |
-| [task154.py](task154.py) | 👀 Need Review | 231 | Max |  |
+| [task154.py](task154.py) | 👀 Need Review | 193 | Max |  |
 | [task155.py](task155.py) | 🏆 Optimized | 18 | Max |  |
 | [task156.py](task156.py) | 👀 Need Review | 214 | Max, Ale, Oxke |  |
 | [task157.py](task157.py) | ✅ Completed | 248 | -_- |  |
@@ -448,7 +448,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task396.py](task396.py) | ✅ Completed | 226 | Max, Ale |  |
 | [task397.py](task397.py) | ✅ Completed | 160 | Max |  |
 | [task398.py](task398.py) | ✅ Completed | 106 | Max |  |
-| [task399.py](task399.py) | 👀 Need Review | 65 | Max |  |
+| [task399.py](task399.py) | ✅ Completed | 65 | Max |  |
 | [task400.py](task400.py) | ✅ Completed | 92 | Max | Same as task [task351.py](task351.py) |
 
 ---
