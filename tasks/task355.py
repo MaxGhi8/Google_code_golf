@@ -1,13 +1,1 @@
-def p(g,R=range):
- r=len(g);c=len(g[0]);b=0
- for h in R(1,r):
-  for v in R(1,c):
-   q=[[0]*10for _ in R(4)]
-   for i in R(r):
-    for j in R(c):q[(i<h)*2+(j<v)][g[i][j]]+=1
-   s=f=-1
-   for t in q:
-    m=max(t);u=sum(t)-m;s+=m
-    if u>f:f,y=u,t.index(m)
-   if s>b:b,x=s,y
- return[[x]]
+p=lambda g,e=enumerate:[[max(A:=[max(S:=sum((r[max(j-4,0):j+5]for r in g[max(i-4,0):i+5]),[]),key=S.count)for i,r in e(g)for j,v in e(r)if v==min(s:=sum(g,[]),key=s.count)],key=A.count)]]
