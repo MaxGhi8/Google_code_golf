@@ -448,7 +448,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task396.py](task396.py) | ✅ Completed | 226 | Max, Ale |  |
 | [task397.py](task397.py) | ✅ Completed | 160 | Max |  |
 | [task398.py](task398.py) | ✅ Completed | 106 | Max |  |
-| [task399.py](task399.py) | 👀 Need Review | 144 | Max |  |
+| [task399.py](task399.py) | 👀 Need Review | 65 | Max |  |
 | [task400.py](task400.py) | ✅ Completed | 92 | Max | Same as task [task351.py](task351.py) |
 
 ---

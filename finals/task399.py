@@ -1,1 +1,1 @@
-p=lambda g,R=range:[[(sum(all(g[i][j:j+2]+g[i+1][j:j+2])for i in R(len(g)-1)for j in R(len(g)-1))>i*3+j>>1)&~(i+j)&1for j in R(3)]for i in R(3)]
+p=lambda g:[*zip(*[iter((sum(sum(g,[]))//8*[1,0]+[0]*9))]*3)][:3]
