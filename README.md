@@ -36,7 +36,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 
 | Status | Icon | Description |
 |--------|------|-------------|
-| **Pending** | ⏳ | Task not  |
+| **Pending** | ⏳ | Task not completed |
 | **Completed** | ✅ | Task completed and verified |
 | **Optimized** | 🏆 | Optimized an already existing solution |
 | **Needs Review** | 👀 | Requires code review |
