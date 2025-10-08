@@ -1,1 +1,1 @@
-p=lambda g,R=range(6):[[sum((i-r==j-c>=0)*g[r][c]for r in R[:3]for c in R[:3])for j in R]for i in R]
+R=range;p=lambda g:[[sum((i-r%3==j-r//3>=0)*g[r%3][r//3]for r in R(9))for j in R(6)]for i in R(6)]
