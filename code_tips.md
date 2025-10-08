@@ -69,3 +69,4 @@
 62. To replace every entry of value `a` with `b` in a list `L` we can use `map({a:b}.get,L,L)`
 63. To color row and column see [task047.py](task047.py) as reference.
 64. To divide an expression by 2, use `expression>>1` instead of `(expression)//2`. This removes the parentheses, saving two bytes. Similarly, one byte can be saved in multiplications: `expression<<1` instead of `(expression)*2`.
+65. To remove noise please see [task359.py](task359.py) as reference. This cycle over all the row and all the columns is actually a gold technique. Is very similar to the idea of tip 63 for coloring row and column.
