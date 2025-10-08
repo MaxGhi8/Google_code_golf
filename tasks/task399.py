@@ -1,1 +1,1 @@
-p=lambda g:[*zip(*[iter((sum(sum(g,[]))//8*[1,0]+[0]*9))]*3)][:3]
+p=lambda g:[*zip(*[iter(sum(sum(g,[]))//8*[1,0]+9*[0])]*3)][:3]
