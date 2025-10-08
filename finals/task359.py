@@ -1,1 +1,1 @@
-def p(g,R=range):g=(g,zip(*g))[V:=9>max(map(g[0].count,R(10)))];g=[[max(R(10),key=r.count)]*len(r)for r in g];return(g,[*zip(*g)])[V]
+p=lambda d:[[max(S:=r+C,key=S.count)for*C,in zip(*d)]for r in d]
