@@ -304,7 +304,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task252.py](task252.py) | ✅ Completed | 99 | Max |  |
 | [task253.py](task253.py) | 👀 Need Review | 172 | Ale |  |
 | [task254.py](task254.py) | 👀 Need Review | 147 | Max |  |
-| [task255.py](task255.py) | 👀 Need Review | 728 | - |  |
+| [task255.py](task255.py) | 👀 Need Review | 314 | - |  |
 | [task256.py](task256.py) | ✅ Completed | 120 | Ale |  |
 | [task257.py](task257.py) | ✅ Completed | 82 | Ghi, Max | `a or b = {a if a>0, b if a = 0}` |
 | [task258.py](task258.py) | ✅ Completed | 79 | Max |  |
