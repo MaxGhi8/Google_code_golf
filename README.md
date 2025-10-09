@@ -376,7 +376,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task324.py](task324.py) | 👀 Need Review | 305 | Oxke |  |
 | [task325.py](task325.py) | 👀 Need Review | 236 | Max |  |
 | [task326.py](task326.py) | 🏆 Optimized | 30 | Ghi, Max |  |
-| [task327.py](task327.py) | ✅ Completed | 98 | Max | Hope to be improved |
+| [task327.py](task327.py) | ✅ Completed | 72 | Max | Hope to be improved |
 | [task328.py](task328.py) | ✅ Completed | 175 | Max | |
 | [task329.py](task329.py) | ✅ Completed | 64 | Ghi, Max |  |
 | [task330.py](task330.py) | 👀 Need Review | 226 | Max | Similar to 169 |

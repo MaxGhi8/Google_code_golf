@@ -1,1 +1,1 @@
-R=range;p=lambda g:[[sum((i-r%3==j-r//3>=0)*g[r%3][r//3]for r in R(9))for j in R(6)]for i in R(6)]
+p=lambda g,l=[0]*6:[l:=[*map(max,[0]+l,r+[0]*6)][:6]for r in g+3*[[]]]
