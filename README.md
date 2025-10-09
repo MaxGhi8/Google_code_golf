@@ -227,7 +227,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task175.py](task175.py) | ✅ Completed | 102 | Ale, Max | Use the transpose |
 | [task176.py](task176.py) | ✅ Completed | 88 | Max |  |
 | [task177.py](task177.py) | ✅ Completed | 63 | Max |  |
-| [task178.py](task178.py) | ✅ Completed | 70 | Ale, Max | Similar to [task218.py](task218.py) |
+| [task178.py](task178.py) | ✅ Completed | 65 | Ale, Max | Similar to [task218.py](task218.py) |
 | [task179.py](task179.py) | 🏆 Optimized | 21 | Max |  |
 | [task180.py](task180.py) | ✅ Completed | 90 | Max |  |
 | [task181.py](task181.py) | ✅ Completed | 86 | Max |  |
@@ -304,7 +304,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task252.py](task252.py) | ✅ Completed | 99 | Max |  |
 | [task253.py](task253.py) | 👀 Need Review | 172 | Ale |  |
 | [task254.py](task254.py) | 👀 Need Review | 147 | Max |  |
-| [task255.py](task255.py) | 👀 Need Review | 314 | - |  |
+| [task255.py](task255.py) | 👀 Need Review | 303 | - |  |
 | [task256.py](task256.py) | ✅ Completed | 120 | Ale |  |
 | [task257.py](task257.py) | ✅ Completed | 82 | Ghi, Max | `a or b = {a if a>0, b if a = 0}` |
 | [task258.py](task258.py) | ✅ Completed | 79 | Max |  |
