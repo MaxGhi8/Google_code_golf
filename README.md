@@ -110,7 +110,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task058.py](task058.py) | 👀 Need Review | 169 | Ale, Max |  |
 | [task059.py](task059.py) | ✅ Completed | 185 | Ale | |
 | [task060.py](task060.py) | ✅ Completed | 52 | Max |  |
-| [task061.py](task061.py) | 👀 Need Review | 145 | Ale, Max | Holes filling in pattern with grid |
+| [task061.py](task061.py) | 👀 Need Review | 124 | Ale, Max | Holes filling in pattern with grid |
 | [task062.py](task062.py) | 👀 Need Review | 187 | Max |  |
 | [task063.py](task063.py) | ✅ Completed | 121 | Max |  |
 | [task064.py](task064.py) | ✅ Completed | 183 | Max | Similar to 333 |
@@ -376,7 +376,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task324.py](task324.py) | 👀 Need Review | 305 | Oxke |  |
 | [task325.py](task325.py) | 👀 Need Review | 236 | Max |  |
 | [task326.py](task326.py) | 🏆 Optimized | 30 | Ghi, Max |  |
-| [task327.py](task327.py) | ✅ Completed | 72 | Max | Hope to be improved |
+| [task327.py](task327.py) | ✅ Completed | 70 | Max | Hope to be improved |
 | [task328.py](task328.py) | ✅ Completed | 175 | Max | |
 | [task329.py](task329.py) | ✅ Completed | 64 | Ghi, Max |  |
 | [task330.py](task330.py) | 👀 Need Review | 226 | Max | Similar to 169 |
