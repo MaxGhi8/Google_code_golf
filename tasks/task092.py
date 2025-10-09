@@ -1,1 +1,1 @@
-p=lambda g,E=enumerate:[[v or(*({*[q[j]for q in g[:i]]}&{*[q[j]for q in g[i:]]}-{0}),0)[0]or(*({*r[:j]}&{*r[j:]}-{0}),0)[0]for j,v in E(r)]for i,r in E(g)]
+p=lambda g,k=0:k*(g:=[[v or max({*r[:j+1]}&{*r[j:]})for j,v in enumerate(r)]for r in zip(*g)])or p(g,1)

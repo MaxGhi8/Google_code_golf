@@ -141,7 +141,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task089.py](task089.py) | 👀 Need Review | 357 | Max, Ale | Inspired by 133 |
 | [task090.py](task090.py) | 👀 Need Review | 262 | Oxke, Ale |  |
 | [task091.py](task091.py) | 👀 Need Review | 118 | Max |  |
-| [task092.py](task092.py) | 👀 Need Review | 155 | Max |  |
+| [task092.py](task092.py) | ✅ Completed | 103 | Max |  |
 | [task093.py](task093.py) | ✅ Completed | 123 | Ale |  |
 | [task094.py](task094.py) | 👀 Need Review | 196 | Max |  |
 | [task095.py](task095.py) | ✅ Completed | 108 | Ale, Max |  |
