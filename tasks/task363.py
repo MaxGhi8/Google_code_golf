@@ -1,3 +1,1 @@
-#coding:L1
-import zlib
-exec(zlib.decompress(bytes('xÚe‘Gv„0†÷œÂÙAPz‡x.â§ÅYTÃ£¤Ü>-Î§®ÿDV}†û(	WÍa_©.eè´A 7ÖÔí\n”mº0ƒ6Êêfç	`gÔNHåVY­oµñşE„"°šÍ5ÎIäÁ‰à:w!‹@>¬·ª£aìœ	ù‚ »°‘Ä0dSÒl;×Ï¡„ZKçP‘Û^¾P”2ŒÉryr^KmÅJzİ;¦°Œ–~Zøø?”›ÑÇ<T™iÑ(ñ²³W>¹LC¶±…"vi#Ã{ %æĞëµòõi§KyÛù×ît-ï½!4Ï´P	”¼crèh_Jªzš6jZ(Ó1ÖM iY{vOæn¦ç£>ÁbÂæµy„küé{7{‰]{dÙC=«ü.3[4uìPß®ê¨ìhv£Ë',"L1")))
+p=lambda g,p=lambda g:[[v*(v<3)for v in r]for r in zip(*g)if 2in r]:[s:=p(p(g)),a:=len(s),l:=len(s[0])]+[[exec('g[i+x][j+y]|=s[x][y]')for y in range(l)for x in range(a)]for i in range(10-a,-1,-1)for j in range(11-l)if sum(g[i+x][j+y]*s[x][y]for y in range(l)for x in range(a))<((i,j,g[l+3][0])not in((1,3,0),(2,6,0)))]and g
