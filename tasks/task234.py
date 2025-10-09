@@ -1,1 +1,1 @@
-p=lambda g:[(g:=[*zip(*((len(g)-len(u:=[r for r in g if r.count(max(next(filter(any,g))))!=1]))*g[:1]+u))][::-1])for _ in[0]*4][3]
+p=lambda g:[g:=[*zip(*(g[:1]*11+[r for r in g if r.count(max(next(filter(any,g))))!=1])[-len(g):])][::-1]for _ in g][3]
