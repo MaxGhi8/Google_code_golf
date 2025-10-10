@@ -1,1 +1,1 @@
-import re;p=lambda g,k=11:-k*g or p([[*map(int,re.sub('5(.*?)([^50])','55\\1',str(r)[1::3]))]for r in[*zip(*g)][::-1]],k-1)
+import re;p=lambda g,k=11:-k*g or p([[*map(int,re.sub('5(.*?)([^50])','55\\1',str(r)[1::3]))]for r in zip(*g[::-1])],k-1)
