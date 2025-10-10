@@ -1,5 +1,1 @@
-def p(g,E=enumerate):
- for i,r in E(g):
-  for j,a in E(r):
-   if a<1and 1in(g[i-(i>0)][j],r[j-(j>0)],g[i+(i+1<len(g))][j],r[j+(j+1<len(r))]):r[j]=1;return p(g)
- return g
+p=lambda g:exec("g[:]=[[x or v==1 for x,v in zip(r,(0,)+r)]for r in zip(*g[::-1])];"*80)or g
