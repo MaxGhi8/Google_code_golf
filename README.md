@@ -272,7 +272,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task220.py](task220.py) | 👀 Need Review | 161 | Max | Similar to [task352.py](task352.py) and [task095.py](task095.py) |
 | [task221.py](task221.py) | ✅ Completed | 102 | Ale, Max | Inspired by [task001.py](task001.py) and [task217.py](task217.py) |
 | [task222.py](task222.py) | 👀 Need Review | 225 | Max |  |
-| [task223.py](task223.py) | ✅ Completed | 60 | Ale, Max | Example of pixels (up)scaling |
+| [task223.py](task223.py) | ✅ Completed | 57 | Ale, Max | Example of pixels (up)scaling |
 | [task224.py](task224.py) | 👀 Need Review | 233 | Max |  |
 | [task225.py](task225.py) | 👀 Need Review | 195 | Max |  |
 | [task226.py](task226.py) | ✅ Completed | 183 | Ale |  |
