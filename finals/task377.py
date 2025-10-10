@@ -1,1 +1,1 @@
-F=lambda d:[*zip(*[d[0]]+[b for a,b in zip(d,d[1:])if a!=b])];p=lambda d:F(F(d))
+p=lambda g,F=lambda d:[*zip(*[b for a,b in zip([0]+d,d)if a!=b])]:F(F(g))
