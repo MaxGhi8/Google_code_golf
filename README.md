@@ -53,7 +53,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task001.py](task001.py) | ✅ Completed | 61 | Max, Ale |  |
 | [task002.py](task002.py) | 👀 Need Review | 200 | Max | DFS is used here |
 | [task003.py](task003.py) | ✅ Completed | 65 | Max |  |
-| [task004.py](task004.py) | 👀 Need Review | 103 | Ale, Max |  |
+| [task004.py](task004.py) | ✅ Completed | 103 | Ale, Max |  |
 | [task005.py](task005.py) | 👀 Need Review | 424 | - |  |
 | [task006.py](task006.py) | ✅ Completed | 53 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**! |
 | [task007.py](task007.py) | ✅ Completed | 98 | Max, Waolo | How to unroll a matrix |
@@ -203,7 +203,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task151.py](task151.py) | ✅ Completed | 123 | Max |  |
 | [task152.py](task152.py) | 🏆 Optimized | 40 | Ghi, Max |  |
 | [task153.py](task153.py) | 👀 Need Review | 198 | Ale, Max | |
-| [task154.py](task154.py) | 👀 Need Review | 188 | Max |  |
+| [task154.py](task154.py) | 👀 Need Review | 187 | Max |  |
 | [task155.py](task155.py) | 🏆 Optimized | 18 | Max |  |
 | [task156.py](task156.py) | 👀 Need Review | 214 | Max, Ale, Oxke |  |
 | [task157.py](task157.py) | ✅ Completed | 248 | -_- |  |
