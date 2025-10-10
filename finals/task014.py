@@ -1,1 +1,1 @@
-p=lambda g,f=filter:(s:=sum(g,[]),v:=min({*s}-{0},key=s.count),[*zip(*f(any,zip(*f(any,[[v*(x==v)for x in r]for r in g]))))])[-1]
+p=lambda g:[*filter(any,([x for x,c in zip(r,zip(*g))if len({*r}&{*c})>2]for r in g))]
