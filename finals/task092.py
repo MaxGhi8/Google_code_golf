@@ -1,1 +1,1 @@
-p=lambda g,k=0:k*(g:=[[v or max({*r[:j+1]}&{*r[j:]})for j,v in enumerate(r)]for r in zip(*g)])or p(g,1)
+f=lambda g:[[v or max({*r[:j+1]}&{*r[j:]})for j,v in enumerate(r)]for r in zip(*g)];p=lambda g:f(f(g))

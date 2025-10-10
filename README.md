@@ -141,7 +141,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task089.py](task089.py) | 👀 Need Review | 357 | Max, Ale | Inspired by 133 |
 | [task090.py](task090.py) | 👀 Need Review | 262 | Oxke, Ale |  |
 | [task091.py](task091.py) | 👀 Need Review | 118 | Max |  |
-| [task092.py](task092.py) | ✅ Completed | 103 | Max |  |
+| [task092.py](task092.py) | ✅ Completed | 102 | Max |  |
 | [task093.py](task093.py) | ✅ Completed | 123 | Ale |  |
 | [task094.py](task094.py) | 👀 Need Review | 196 | Max |  |
 | [task095.py](task095.py) | ✅ Completed | 108 | Ale, Max |  |
@@ -412,7 +412,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task360.py](task360.py) | ✅ Completed | 50 | Ale, Max |  |
 | [task361.py](task361.py) | ✅ Completed | 222 | Max, Oxke |  |
 | [task362.py](task362.py) | ✅ Completed | 99 | Ale, Max |  |
-| [task363.py](task363.py) | ✅ Completed | 248 | - |  |
+| [task363.py](task363.py) | ✅ Completed | 247 | - |  |
 | [task364.py](task364.py) | 👀 Need Review | 282 | Max |  |
 | [task365.py](task365.py) | ✅ Completed | 150 | Ale, Max |  |
 | [task366.py](task366.py) | ✅ Completed | 377 | -_- |  |
@@ -426,7 +426,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task374.py](task374.py) | 👀 Need Review | 222 | Max |  |
 | [task375.py](task375.py) | ✅ Completed | 60 | Max |  |
 | [task376.py](task376.py) | 🏆 Optimized | 30 | Ghi, Max | |
-| [task377.py](task377.py) | ✅ Completed | 82 | Ale | Similar to [task218.py](task218.py) |
+| [task377.py](task377.py) | ✅ Completed | 80 | Ale | Similar to [task218.py](task218.py) |
 | [task378.py](task378.py) | 👀 Need Review | 242 | Max |  |
 | [task379.py](task379.py) | 👀 Need Review | 281 | Ale |  |
 | [task380.py](task380.py) | 🏆 Optimized | 27 | Max | |
