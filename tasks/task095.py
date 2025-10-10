@@ -1,1 +1,1 @@
-p=lambda g,A=enumerate:[[C|any(any(R[A and~-A:A+2])for R in g[B and~-B:B+2])for A,C in A(r)]for B,r in A(g)]
+p=lambda g:[g:=[[x|(v>0)for x,v in zip(r,(0,)+r)]for r in zip(*g[::-1])]for _ in' '*4][3]
