@@ -1,4 +1,1 @@
-def p(g,k=0):
- for r in(g:=[*map(list,zip(*g))]):
-  if{*r[1:-1]}<={0,3}:r[1:-1]=[3]*(len(g)-2)
- return g if k else p(g,1)
+p=lambda g:[[v or(sum(r[1:-1])*sum(c[1:-1])<1)*3for c,v in zip(zip(*g),r)]for r in g]
