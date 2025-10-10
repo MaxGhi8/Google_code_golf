@@ -1,1 +1,1 @@
-p=lambda g,R=range(10):[[2*all(all(r[j-1:j+2])for r in g[i-1:i+2])*(0<i<9)*(0<j<9)or g[i][j]for j in R]for i in R]
+import re;p=lambda g:eval(re.sub('(?<=5.{31}5, )5(?=, 5.{31}5)','2',str(g)))

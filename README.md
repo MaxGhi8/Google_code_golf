@@ -343,7 +343,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task291.py](task291.py) | ✅ Completed | 110 | Max | Really interesting |
 | [task292.py](task292.py) | ✅ Completed | 61 | Max |  |
 | [task293.py](task293.py) | ✅ Completed | 108 | Max |  |
-| [task294.py](task294.py) | ✅ Completed | 114 | Max |  |
+| [task294.py](task294.py) | ✅ Completed | 76 | Max |  |
 | [task295.py](task295.py) | ✅ Completed | 68 | Ale, Max | |
 | [task296.py](task296.py) | ✅ Completed | 81 | Max |  |
 | [task297.py](task297.py) | ✅ Completed | 69 | Max |  |
