@@ -70,3 +70,5 @@
 63. To color row and column see [task047.py](task047.py) as reference.
 64. To divide an expression by 2, use `expression>>1` instead of `(expression)//2`. This removes the parentheses, saving two bytes. Similarly, one byte can be saved in multiplications: `expression<<1` instead of `(expression)*2`.
 65. To remove noise please see [task359.py](task359.py) as reference. This cycle over all the row and all the columns is actually a gold technique. Is very similar to the idea of tip 63 for coloring row and column.
+66. `[[for*c,v in zip(*g,r)]for r in g]` is a very helpful trick to iterate over the rows `r`, the columns `c` and the values `v` of a matrix `g` at the same time. See [task095.py](task095.py) as reference.
+The variant `for*c,i in zip(*g,range(99))` is also useful when we need the index of the column instead of the value.
