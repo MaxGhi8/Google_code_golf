@@ -1,1 +1,1 @@
-import re;p=lambda g:[[max(range(1,10),key=sum(eval(re.sub(r"([1-9])[0, ]*0, \1",lambda m:m[0].replace('0',m[1]),str(g))),[]).count)]*2]*2
+p=lambda g:[[max((max(r.count(k)*c.count(k)for r in g for c in zip(*g)),k)for k in sum(g,[])if k)[1]]*2]*2
