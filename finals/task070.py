@@ -1,1 +1,1 @@
-p=lambda g:[[v+2*(v&1*(8in{*r}&{*c}|{r[8]*r[3]*all(c[-4:])/8}))for*c,v in zip(*g,r)]for r in g]
+p=lambda g:[[v+2*(v&1*(8in{*r}&{*c}|{r[8]&r[3]*all(c[-4:])}))for*c,v in zip(*g,r)]for r in g]
