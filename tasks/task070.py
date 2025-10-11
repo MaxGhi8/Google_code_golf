@@ -1,1 +1,1 @@
-def p(g,R=range(17)):X,Y=zip(*[(i,j)for i in R for j in R if g[i][j]>2]);return[[g[i][j]+2*(g[i][j]<8)*(min(X)<=i<=max(X))*(min(Y)<=j<=max(Y))for j in R]for i in R]
+p=lambda g:[[v+2*(v&1*(8in{*r}&{*c}or 64==r[3]*r[8]*all(c[-4:])))for*c,v in zip(*g,r)]for r in g]
