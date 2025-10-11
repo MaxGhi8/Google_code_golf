@@ -1,1 +1,1 @@
-p=lambda g:[*zip(*[([1]*sum(v==1for v in c)+[2]*sum(v>1for v in c)+[0]*10)[:10]for c in zip(*g)])]
+import re;p=lambda g,k=30:-k*g or p(eval(re.sub('0(.{31})2',r'2\1 0',str(g))),k-1)

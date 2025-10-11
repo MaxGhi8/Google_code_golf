@@ -127,7 +127,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task075.py](task075.py) | ✅ Completed | 124 | Max |  |
 | [task076.py](task076.py) | 👀 Need Review | 377 | Max |  |
 | [task077.py](task077.py) | 👀 Need Review | 316 | Oxke | Very inefficient but zip compressed to smaller |
-| [task078.py](task078.py) | ✅ Completed | 98 | Max |  |
+| [task078.py](task078.py) | ✅ Completed | 82 | Max |  |
 | [task079.py](task079.py) | 👀 Need Review | 174 | Max |  |
 | [task080.py](task080.py) | ✅ Completed | 275 | Max, Ale |  |
 | [task081.py](task081.py) | 👀 Need Review | 141 | Max |  |

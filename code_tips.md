@@ -72,3 +72,5 @@
 65. To remove noise please see [task359.py](task359.py) as reference. This cycle over all the row and all the columns is actually a gold technique. Is very similar to the idea of tip 63 for coloring row and column.
 66. `[[for*c,v in zip(*g,r)]for r in g]` is a very helpful trick to iterate over the rows `r`, the columns `c` and the values `v` of a matrix `g` at the same time. See [task095.py](task095.py) as reference.
 The variant `for*c,i in zip(*g,range(99))` is also useful when we need the index of the column instead of the value.
+67. Recursion template `p=lambda g,k=<it>:-k*g or p(<new g>,k-1)`
+68. Instead of `\g<1>` in regex we ca use `\1 ` and save 2 Bytes. See [task078.py](task078.py) as reference.
