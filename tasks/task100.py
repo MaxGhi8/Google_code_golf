@@ -1,7 +1,1 @@
-def p(g):
- B=[0]*10;t=range(10)
- for e in t:
-  for i in t:
-   r=g[e];a=r[i]
-   if a:B[a]=r.count(a)*sum(B[i]==a for B in g)
- return[[B.index(max(B))]*2]*2
+import re;p=lambda g:[[max(range(1,10),key=sum(eval(re.sub(r"([1-9])[0, ]*0, \1",lambda m:m[0].replace('0',m[1]),str(g))),[]).count)]*2]*2
