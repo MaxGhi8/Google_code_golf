@@ -398,7 +398,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task346.py](task346.py) | 👀 Need Review | 121 | Ale, Max | Inspired by [task271.py](task271.py) |
 | [task347.py](task347.py) | ✅ Completed | 54 | Ghi, Max |  |
 | [task348.py](task348.py) | 👀 Need Review | 153 | Ale |  |
-| [task349.py](task349.py) | 👀 Need Review | 529 | - |  |
+| [task349.py](task349.py) | 👀 Need Review | 331 | Ale, Max |  |
 | [task350.py](task350.py) | ✅ Completed | 120 | Ale, Max | Same as [task356.py](task356.py) |
 | [task351.py](task351.py) | ✅ Completed | 92 | Max | Same as task 400 |
 | [task352.py](task352.py) | ✅ Completed | 122 | Ale, Max | Similar to [task95.py](task95.py) and [task206.py](task206.py) |

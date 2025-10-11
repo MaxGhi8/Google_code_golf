@@ -1,7 +1,2 @@
-def p(g):
- s=sum(g,[]);a,b,*_=sorted({*s},key=s.count);w=len(g[0]);h=len(g)
- def f(i,j):
-  for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   if h>(x:=i+x)>-1<(y:=j+y)<w and g[x][y]<1:g[x][y]=g[i][j]^a^b;f(x,y)
- for k in range(w*h):s[k]&7and f(k//w,k%w)
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚ-Ánƒ0†ï<…/›V8MÒ‰R©Z©ÎäâÃ4íÝÊ.öøô}‘&øB6}êº\"[Ì0ÛÅÖÉ=²lñ§Ö_ûIßNß>²òfq1²o›m*Øe+ª»¦,,Á±³­±Ø¯µÝó6Ýƒûù‚©wzJæÒt#Rïâ‰Ì(pãìSðÆ®ÿ_Ž½Ãu¾.ÃŠ¥aª£VZ 7ž	¥Î¦×Â¿¾ïŽBÏbÓ‹ThSaà?šJP",'L1')))

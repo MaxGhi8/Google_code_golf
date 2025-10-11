@@ -1,6 +1,2 @@
-def p(g):
- for _ in 0,1:
-  for i,r in enumerate(g:=[*map(list,zip(*g))]):
-   for j in range(~-len(r)):
-    for q in g[i-(i>0):i+2]*(r[j]*r[j+1]==4):q[j-(j>0):j+3]=[x or 3for x in q[j-(j>0):j+3]]
- return g
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚUÃ0@èWà’¶´ë@È~$‚²ëiV×+ûö%:cp¼{÷¸;-°a2®å)ÀÀ†n,xr\'uCùXIf%LÎ»Î%á]»oh“1±ög¡õ^æü |÷‰2Š©òk÷jSàù6Çí%Z” Ñ–ÑÑû«q{Ğµzm§èC)§ß{ÿ:6 ¤‡dHC<M",'L1')))

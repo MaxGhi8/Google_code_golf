@@ -1,6 +1,2 @@
-def p(g,C=5):
- for r in range(8):
-  t=g[r+1];C+=sum(t)<1
-  for c in range(1,9):
-   if g[r+2][c+1]*g[r][c-1]*t[c-1]:t[c]=C
- f=sum(g,[]);a,b=sorted({*f},key=f.count)[:2];return[[{x:x,a:1,b:2}[x]for x in r]for r in g]
+#coding:L1
+import zlib;exec(zlib.decompress(bytes("xÚEÃ0†èS i³‘2¶ty’bM¦f¹¹´ˆê»ïZ(ø¿ü¾ünŒ	~¢ªboÒ4€`Ê@!¿£¸ï ­:í‡ÒÙ²|Ê§æzwÓéjõ8l˜ì~ï]âO-3Ó…	0Ş–Â1V•ór@Å/¤9bmÃ¦>±Úp}á’géLïŠóBÙ¹•)4ZÓo¼||bõ×B×",'L1')))
