@@ -1,1 +1,1 @@
-p=lambda g:exec("g[:]=[[x|(v>0)for x,v in zip(r,(0,)+r)]for r in zip(*g[::-1])];"*4)or g
+p=lambda g,k=3:-k*g or p([[x|(v>0)for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)

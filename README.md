@@ -101,7 +101,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task049.py](task049.py) | ✅ Completed | 106 | Max | `collections.Counter.most_common()` can be avoided |
 | [task050.py](task050.py) | ✅ Completed | 115 | Max, Gio |  |
 | [task051.py](task051.py) | 👀 Need Review | 171 | Max, Gio |  |
-| [task052.py](task052.py) | ✅ Completed | 41 | Max | Sometimes reorder stuff can avoid a pair of brackets |
+| [task052.py](task052.py) | 🏆 Optimized | 40 | Max | Sometimes reorder stuff can avoid a pair of brackets |
 | [task053.py](task053.py) | 🏆 Optimized | 21 | Max | |
 | [task054.py](task054.py) | 👀 Need Review | 502 | - |  |
 | [task055.py](task055.py) | 👀 Need Review | 138 | Max, Gio |  |
@@ -142,9 +142,9 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task090.py](task090.py) | 👀 Need Review | 262 | Oxke, Ale |  |
 | [task091.py](task091.py) | 👀 Need Review | 118 | Max |  |
 | [task092.py](task092.py) | ✅ Completed | 102 | Max |  |
-| [task093.py](task093.py) | ✅ Completed | 123 | Ale |  |
+| [task093.py](task093.py) | ✅ Completed | 121 | Ale |  |
 | [task094.py](task094.py) | 👀 Need Review | 196 | Max |  |
-| [task095.py](task095.py) | ✅ Completed | 88 | Ale, Max |  |
+| [task095.py](task095.py) | ✅ Completed | 86 | Ale, Max |  |
 | [task096.py](task096.py) | ✅ Completed | 315 | Ale, Max |  |
 | [task097.py](task097.py) | ✅ Completed | 138 | Ale, Max | |
 | [task098.py](task098.py) | ✅ Completed | 116 | Max | Similar to [task085.py](task085.py) |
@@ -283,7 +283,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task231.py](task231.py) | 🏆 Optimized | 43 | Max |  |
 | [task232.py](task232.py) | ✅ Completed | 92 | Max | For alternating colors I can make a full line and then color alternating over the previous one (see old version) |
 | [task233.py](task233.py) | 👀 Need Review | 372 | -_- |  |
-| [task234.py](task234.py) | ✅ Completed | 119 | Ale, Max |  |
+| [task234.py](task234.py) | ✅ Completed | 117 | Ale, Max |  |
 | [task235.py](task235.py) | ✅ Completed | 72 | Ghi, Max |  |
 | [task236.py](task236.py) | ✅ Completed | 71 | Max |  |
 | [task237.py](task237.py) | ✅ Completed | 96 | Max, Waolo |  |
@@ -292,7 +292,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task240.py](task240.py) | 👀 Need Review | 225 | Max |  |
 | [task241.py](task241.py) | 🏆 Optimized | 21 | Max, Waolo | Symmetry respect main diagonal |
 | [task242.py](task242.py) | ✅ Completed | 96 | Max |  |
-| [task243.py](task243.py) | ✅ Completed | 92 | Max, Ale |  |
+| [task243.py](task243.py) | ✅ Completed | 89 | Max, Ale |  |
 | [task244.py](task244.py) | 👀 Need Review | 125 | Max |  |
 | [task245.py](task245.py) | 👀 Need Review | 193 | Ale |  |
 | [task246.py](task246.py) | 👀 Need Review | 188 | Max |  |

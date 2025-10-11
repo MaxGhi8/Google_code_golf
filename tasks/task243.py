@@ -1,1 +1,1 @@
-p=lambda g,k=79:-k*g or p([[x or v==1for x,v in zip(r,(0,)+r)]for r in zip(*g[::-1])],k-1)
+p=lambda g,k=79:-k*g or p([[x or v==1for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)
