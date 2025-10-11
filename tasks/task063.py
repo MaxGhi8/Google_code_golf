@@ -1,1 +1,1 @@
-p=lambda g:[[v or(sum(r[1:-1])*sum(c[1:-1])<1)*3for c,v in zip(zip(*g),r)]for r in g]
+p=lambda g:[[v or(sum(r[1:-1])*sum(c[1:-1])<1)*3for*c,v in zip(*g,r)]for r in g]
