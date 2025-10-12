@@ -1,5 +1,5 @@
-def p(g,E=enumerate):
- for k in{*sum(g,[])}-{0}:
-  (b,a),(d,c)=sorted((j,i)for i,r in E(g)for j,v in E(r)if v==k)
-  for x in range(d-b):g[a+[-x,x][a<c]][b+x]=k
+def p(g):
+ for _ in' '*10:
+  for i in range(11,100):
+   if 0<(s:=sum(g:=g[::-1],[]))[i-11]in s[i::11]:g[i//10][i%10]=s[i-11]
  return g

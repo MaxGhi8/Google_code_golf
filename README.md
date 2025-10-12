@@ -86,7 +86,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task034.py](task034.py) | 👀 Need Review | 227 | Max |  |
 | [task035.py](task035.py) | ✅ Completed | 104 | Max, Waolo, Ale |  |
 | [task036.py](task036.py) | ✅ Completed | 103 | Ale | |
-| [task037.py](task037.py) | 👀 Need Review | 169 | Max |  |
+| [task037.py](task037.py) | ✅ Completed | 134 | Max |  |
 | [task038.py](task038.py) | ✅ Completed | 91 | Max | |
 | [task039.py](task039.py) | ✅ Completed | 72 | Max |  |
 | [task040.py](task040.py) | ✅ Completed | 75 | Max |  |
