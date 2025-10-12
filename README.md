@@ -60,7 +60,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task008.py](task008.py) | 👀 Need Review | 184 | Ale, Max |  |
 | [task009.py](task009.py) | ✅ Completed | 151 | Max |  |
 | [task010.py](task010.py) | ✅ Completed | 93 | Max | List comprehension go BRR |
-| [task011.py](task011.py) | 👀 Need Review | 195 | Max, Ale |  |
+| [task011.py](task011.py) | ✅ Completed | 166 | Max, Ale |  |
 | [task012.py](task012.py) | 👀 Need Review | 205 | Max |  |
 | [task013.py](task013.py) | 👀 Need Review | 247 | Max |  |
 | [task014.py](task014.py) | ✅ Completed | 86 | Max | interesting |

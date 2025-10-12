@@ -1,5 +1,1 @@
-def p(j,R=range):
- *k,=map(list,j)
- for d in R(9):
-  for v in R(81*(sum(j[d//3*4+W][d%3*4+l]<1for W in R(3)for l in R(3))>4)):k[v%3*4+v//9%3][v//3%3*4+v//27]=j[d//3*4+v%3][d%3*4+v//3%3]
- return k
+p=lambda g,R=range(11):[[[min((len({*sum(m:=[r[j:j+3]for r in g[i:i+3]],[])}),m)for i in(0,4,8)for j in(0,4,8))[1][i//4][j//4],5][i%4>2or j%4>2]for j in R]for i in R]
