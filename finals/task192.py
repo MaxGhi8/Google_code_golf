@@ -1,2 +1,6 @@
-#coding:L1
-import zlib;exec(zlib.decompress(bytes("xÚ=LµÂPì3ÅëâA:ä/÷äo¸ÍCu~uÓ’´J{jØf·¶J/JìØÜº8¸ù—¡÷âğ–Í‰!¨Äoí›mP+4qO8!ŸÃ2M“×Ó;R¯@¼k¬UÃ-nû£wFhéuÈ#5Uî8qõ—ØÓŸÅôÀƒAºÙî4\"8–böÿ]%Z&«_>Ÿ",'L1')))
+def p(g):
+ t=sum(g,[]);k=min({*t}-{0,min(t,key=t.count)})
+ for a,b in zip(g,g[1:]):
+  for j in range(len(a)-1):
+   if min(a[j:j+2]+b[j:j+2]):a[j:j+2]=b[j:j+2]=k,k
+ return[[k*(x==k)for x in r]for r in g]

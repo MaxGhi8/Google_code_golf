@@ -416,7 +416,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task364.py](task364.py) | 👀 Need Review | 282 | Max |  |
 | [task365.py](task365.py) | ✅ Completed | 150 | Ale, Max |  |
 | [task366.py](task366.py) | ✅ Completed | 377 | -_- |  |
-| [task367.py](task367.py) | 👀 Need Review | 331 | Ale, Max |  |
+| [task367.py](task367.py) | 👀 Need Review | 558 | Ale, Max |  |
 | [task368.py](task368.py) | 👀 Need Review | 221 | Ale, Max |  |
 | [task369.py](task369.py) | 👀 Need Review | 219 | Max |  |
 | [task370.py](task370.py) | 👀 Need Review | 408 | Max | Brute force it |

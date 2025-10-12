@@ -1,2 +1,7 @@
-#coding:L1
-import zlib;exec(zlib.decompress(bytes("xÚ-Ánƒ0†ï<…/›V8MÒ‰R©Z©ÎäâÃ4íİÊ.öøô}‘&øB6}êº\"[Ì0ÛÅÖÉ=²lñ§Ö_ûIßNß>²òfq1²o›m*Øe+ª»¦,,Á±³­±Ø¯µİó6İƒûù‚©wzJæÒt#Rïâ‰Ì(pãìSğÆ®ÿ_½Ãu¾.ÃŠ¥aª£VZ 7	¥Î¦×Â¿¾ïBÏbÓ‹ThSaà?šJP",'L1')))
+def p(g):
+ s=sum(g,[]);a,b,*_=sorted({*s},key=s.count);w=len(g[0]);h=len(g)
+ def f(i,j):
+  for x,y in(1,0),(-1,0),(0,1),(0,-1):
+   if h>(x:=i+x)>-1<(y:=j+y)<w and g[x][y]<1:g[x][y]=g[i][j]^a^b;f(x,y)
+ for k in range(w*h):s[k]&7and f(k//w,k%w)
+ return g
