@@ -1,5 +1,1 @@
-def p(g):
- for _ in' '*4:
-  for r in(g:=[*map(list,zip(*g))][::-1]):
-   if r[0]:r[r.index(8)]=r[0]
- return g
+import re;p=lambda g,k=3:-k*g or p(eval(re.sub(r'\(([^0])(.+?)8',r'(\1\2\1',str([*zip(*g)][::-1]))),k-1)
