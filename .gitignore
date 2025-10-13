@@ -4,6 +4,10 @@ __pycache__/
 *$py.class
 .python-version
 
+# output files
+*.log
+*.out
+
 # zip file
 *.zip
 *.png
