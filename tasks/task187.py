@@ -1,1 +1,1 @@
-p=lambda g,k=55:-k*g or p([[x*(x!=2)or 2+(v in{-1,3})for x,v in zip(r,[-1]+r)]for*r,in zip(*g[::-1])],k-1)
+p=lambda g,k=55:-k*g or p([[x*(x!=2)or(v^3<1)+2for x,v in zip(r,[-1]+r)]for*r,in zip(*g[::-1])],k-1)
