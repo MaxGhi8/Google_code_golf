@@ -236,7 +236,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task184.py](task184.py) | ✅ Completed | 140 | Max, Ale | |
 | [task185.py](task185.py) | 👀 Need Review | 225 | Max |  |
 | [task186.py](task186.py) | ✅ Completed | 76 | Max |  |
-| [task187.py](task187.py) | 👀 Need Review | 194 | Max | DFS, similar to [task002.py](task002.py) |
+| [task187.py](task187.py) | ✅ Completed | 106 | Max | DFS, similar to [task002.py](task002.py) |
 | [task188.py](task188.py) | ✅ Completed | 93 | Max |  |
 | [task189.py](task189.py) | ✅ Completed | 142 | Max |  |
 | [task190.py](task190.py) | 👀 Need Review | 216 | Max |  |
