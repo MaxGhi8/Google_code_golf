@@ -1,1 +1,1 @@
-def p(g):n=len(g)//2;return[m for m in[[r[j:j+n]for r in g[i:i+n]]for i in(0,n+1)for j in(0,n+1)]if min(set(s:=sum(g,[])),key=s.count)in sum(m,[])][0]
+p=lambda g:(n:=-~len(g)//2)and[[min(a,key=a.count)for a in zip(r,r[n:],s,s[n:])]for r,s in zip(g,g[n:])]
