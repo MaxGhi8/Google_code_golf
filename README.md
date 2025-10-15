@@ -155,7 +155,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task103.py](task103.py) | ✅ Completed | 30 | Ale, Max | |
 | [task104.py](task104.py) | ✅ Completed | 107 | Max |  |
 | [task105.py](task105.py) | 👀 Need Review | 243 | Ale, Max |  |
-| [task106.py](task106.py) | ✅ Completed | 93 | Max | Same as [task194.py](task194.py) |
+| [task106.py](task106.py) | ✅ Completed | 73 | Max | Same as [task194.py](task194.py) |
 | [task107.py](task107.py) | 🏆 Optimized | 161 | Max |  |
 | [task108.py](task108.py) | ✅ Completed | 83 | Max | Use upscaling from [task223.py](task223.py) |
 | [task109.py](task109.py) | ✅ Completed | 99 | Max |  |
