@@ -1,6 +1,1 @@
-def p(g):
- *m,=map(list,g)
- for i in 0,4*(len(g)>3):
-  for j in 0,4,8:
-   for a in range(9):m[i+a//3][j+a%3]=g[i+1][j+1]+5
- return m
+p=lambda g,k=3:-k*g or p([[x+5*(0<x<5)or v*(0<v!=5)for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)

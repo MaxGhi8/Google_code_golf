@@ -176,7 +176,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task124.py](task124.py) | 👀 Need Review | 190 | Oxke | Probably should do similar thing directly on the 2D grid instead of searching the stride and then calculating the result. NB: if you want to just try, move the walrus out of the loop and before the grid with (s:=...)and[[...]] so that it runs in a sensible time and not 100x that |
 | [task125.py](task125.py) | ✅ Completed | 172 | Ale, Max | Probably it can be turned into a lambda function |
 | [task126.py](task126.py) | ✅ Completed | 59 | Max |  |
-| [task127.py](task127.py) | 👀 Need Review | 132 | Max |  |
+| [task127.py](task127.py) | ✅ Completed | 103 | Max |  |
 | [task128.py](task128.py) | ✅ Completed | 101 | Max |  |
 | [task129.py](task129.py) | ✅ Completed | 48 | Max | How to find the maximum of a matrix |
 | [task130.py](task130.py) | ✅ Completed | 102 | Max |  |
