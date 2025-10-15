@@ -1,1 +1,1 @@
-p=lambda g,E=enumerate:[[(v>0)*(0<i<len(g)-1)*(0<j<len(r)-1)*8*all([p[j-1:j+2]==3*[v]for p in g[i-1:i+2]])or v for j,v in E(r)]for i,r in E(g)]
+import re;p=lambda g:(x:='[^0].{%d}[^0]'%(3*len(g[0])+1))and eval(re.sub(f'(?<={x}, )[^0](?=, {x})','8',f'{g}'))

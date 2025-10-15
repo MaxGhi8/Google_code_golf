@@ -74,3 +74,4 @@
 The variant `for*c,i in zip(*g,range(99))` is also useful when we need the index of the column instead of the value.
 67. Recursion template `p=lambda g,k=<it>:-k*g or p(<new g>,k-1)`
 68. Instead of `\g<1>` in regex we ca use `\1 ` and save 2 Bytes. See [task078.py](task078.py) as reference.
+69. `f'[^0].{{{3*len(g[0])+1}}}[^0]'` can be rewritte with `'[^0].{%d}[^0]'%(3*len(g[0])+1)`, this is an interesting and strange method for formatting. In this case we do not save bytes, but without the need of the parentheses we can save 2 bytes. See [task120.py](task120.py) as reference.

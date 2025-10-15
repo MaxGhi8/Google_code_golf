@@ -143,7 +143,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task091.py](task091.py) | ✅ Completed | 97 | Max |  |
 | [task092.py](task092.py) | ✅ Completed | 102 | Max |  |
 | [task093.py](task093.py) | ✅ Completed | 121 | Ale |  |
-| [task094.py](task094.py) | ✅ Completed | 142 | Max |  |
+| [task094.py](task094.py) | ✅ Completed | 141 | Max |  |
 | [task095.py](task095.py) | ✅ Completed | 86 | Ale, Max |  |
 | [task096.py](task096.py) | ✅ Completed | 315 | Ale, Max |  |
 | [task097.py](task097.py) | ✅ Completed | 138 | Ale, Max | |
@@ -169,7 +169,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task117.py](task117.py) | 👀 Need Review | 244 | Max |  |
 | [task118.py](task118.py) | ✅ Completed | 281 | -_- |  |
 | [task119.py](task119.py) | 👀 Need Review | 234 | Max |  |
-| [task120.py](task120.py) | ✅ Completed | 143 | Max | Similar to [task098.py](task098.py) and [task075.py](task075.py) |
+| [task120.py](task120.py) | ✅ Completed | 112 | Max | Similar to [task098.py](task098.py) and [task075.py](task075.py) |
 | [task121.py](task121.py) | ✅ Completed | 123 | Max |  |
 | [task122.py](task122.py) | ✅ Completed | 100 | Max | Recursive |
 | [task123.py](task123.py) | ✅ Completed | 102 | Max, Ale |  |
