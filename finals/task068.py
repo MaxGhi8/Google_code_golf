@@ -1,1 +1,1 @@
-def p(g,E=enumerate):k=min(s:=sum(g,[]),key=s.count);R=[[0]*len(g)for _ in g];[[R[i+a].__setitem__(j+b,[2,k][a==b==0])for a in(-1,0,1)for b in(-1,0,1)]for i,r in E(g)for j,v in E(r)if v==k];return R
+p=lambda g,k=7:-k*g or p([[[x or(v>0)*2,x*(x==min(s:=sum(g,[]),key=s.count))][k>3]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)

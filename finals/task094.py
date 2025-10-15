@@ -1,1 +1,1 @@
-def p(g,R=range):X,Y=map(set,zip(*((r,c)for r in R(2,13)for c in R(2,13)if g[r-2][c]&g[r+2][c]&g[r][c-2]&g[r][c+2]==1)));return[[1==g[i][j]or 6*(i in X or j in Y)or 8for j in R(15)]for i in R(15)]
+import re;p=lambda g:(g:=eval(re.sub('(?<=1.{87}1.{5})8(?=.{5}1.{87}1)','6',str(g))))and[[v-2*(v>7and 6in r+c)for*c,v in zip(*g,r)]for r in g]
