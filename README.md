@@ -269,7 +269,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task217.py](task217.py) | ✅ Completed | 119 | Ale, Max | Combination of [task001.py](task001.py) and [task031.py](task031.py) |
 | [task218.py](task218.py) | ✅ Completed | 78 | Ale | f(g) on g and g transposed |
 | [task219.py](task219.py) | 👀 Need Review | 344 | Oxke, Max |  |
-| [task220.py](task220.py) | 👀 Need Review | 161 | Max | Similar to [task352.py](task352.py) and [task095.py](task095.py) |
+| [task220.py](task220.py) | ✅ Completed | 103 | Max | Similar to [task352.py](task352.py) and [task095.py](task095.py) |
 | [task221.py](task221.py) | ✅ Completed | 102 | Ale, Max | Inspired by [task001.py](task001.py) and [task217.py](task217.py) |
 | [task222.py](task222.py) | 👀 Need Review | 225 | Max |  |
 | [task223.py](task223.py) | ✅ Completed | 57 | Ale, Max | Example of pixels (up)scaling |
