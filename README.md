@@ -285,7 +285,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task233.py](task233.py) | 👀 Need Review | 372 | -_- |  |
 | [task234.py](task234.py) | ✅ Completed | 117 | Ale, Max |  |
 | [task235.py](task235.py) | ✅ Completed | 72 | Ghi, Max |  |
-| [task236.py](task236.py) | ✅ Completed | 71 | Max |  |
+| [task236.py](task236.py) | ✅ Completed | 63 | Max |  |
 | [task237.py](task237.py) | ✅ Completed | 96 | Max, Waolo |  |
 | [task238.py](task238.py) | ✅ Completed | 261 | Max |  |
 | [task239.py](task239.py) | ✅ Completed | 111 | Max |  |

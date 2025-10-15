@@ -1,1 +1,1 @@
-p=lambda g,R=range(4):[[3*(0<g[i][j]+g[i+5][j]<3)for j in R]for i in R]
+p=lambda g:[[3*(0<a+b<3)for a,b in z]for z in map(zip,g,g[5:])]
