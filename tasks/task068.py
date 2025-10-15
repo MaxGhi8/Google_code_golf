@@ -1,1 +1,1 @@
-p=lambda g,k=7:-k*g or p([[[x or 2*(v>0),x*(x==min(s:=sum(g,[]),key=s.count))][k>3]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)
+p=lambda g,k=7:-k*g or p([[[x or(v>0)*2,x*(x==min(s:=sum(g,[]),key=s.count))][k>3]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)

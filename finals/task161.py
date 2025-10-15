@@ -1,1 +1,1 @@
-def p(g):s=sum(g,[]);k=min(s,key=s.count);return[[k*(k in{r[0],g[0][j]})for j in range(len(r))]for r in g]
+p=lambda g:[[(k:=min(s:=sum(g,[]),key=s.count))*(k in(r[0],v))for v in g[0]]for r in g]

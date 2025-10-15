@@ -1,1 +1,1 @@
-p=lambda j,e=enumerate:[[z+5*any(z*j[x][y]for i in(1,3,5,7)if len(r)>(y:=W+i%3-1)>=0<=(x:=k+i//3-1)<len(j))for W,z in e(r)]for k,r in e(j)]
+p=lambda g,k=3:-k*g or p([[8*(x*v>0)or x for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)

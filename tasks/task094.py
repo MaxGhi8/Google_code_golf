@@ -1,1 +1,1 @@
-import re;p=lambda g:(g:=eval(re.sub('(?<=1.{87}1.{5})8(?=.{5}1.{87}1)','6',str(g))))and[[v-2*(v>7and 6in r+c)for*c,v in zip(*g,r)]for r in g]
+import re;p=lambda g:(g:=eval(re.sub('(?<=1.{87}1.{5})8(?=.{5}1.{87}1)','6',f'{g}')))and[[v-2*(v>7)*(6in r+c)for*c,v in zip(*g,r)]for r in g]
