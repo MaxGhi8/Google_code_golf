@@ -210,7 +210,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task158.py](task158.py) | 👀 Need Review | 325 | Ale, Max, Waolo | Understood from tigrotto |
 | [task159.py](task159.py) | 👀 Need Review | 183 | Ale |  |
 | [task160.py](task160.py) | 👀 Need Review | 167 | Ale |  |
-| [task161.py](task161.py) | ✅ Completed | 106 | Max |  |
+| [task161.py](task161.py) | ✅ Completed | 87 | Max |  |
 | [task162.py](task162.py) | ✅ Completed | 143 | Max |  |
 | [task163.py](task163.py) | ✅ Completed | 158 | Max |  |
 | [task164.py](task164.py) | 🏆 Optimized | 32 | Ghi, Max |  |
