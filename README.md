@@ -300,7 +300,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task248.py](task248.py) | ✅ Completed | 96 | Max, Waolo | Same as [task357.py](task357.py) |
 | [task249.py](task249.py) | 🏆 Optimized | 26 | Max |  |
 | [task250.py](task250.py) | ✅ Completed | 160 | Max |  |
-| [task251.py](task251.py) | 👀 Need Review | 145 | Ale, Max | Adapted from old version of [task002.py](task002.py), brute force approach |
+| [task251.py](task251.py) | ✅ Completed | 111 | Ale, Max | Adapted from old version of [task002.py](task002.py), brute force approach |
 | [task252.py](task252.py) | ✅ Completed | 99 | Max |  |
 | [task253.py](task253.py) | 👀 Need Review | 172 | Ale |  |
 | [task254.py](task254.py) | 👀 Need Review | 147 | Max |  |
