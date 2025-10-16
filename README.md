@@ -51,7 +51,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | Task | Status | Bytes | Completed by | Comments/Notes |
 |------|--------|----------|------------|----------------|
 | [task001.py](task001.py) | ✅ Completed | 61 | Max, Ale |  |
-| [task002.py](task002.py) | ✅ Completed | 123 | Max | DFS is used here |
+| [task002.py](task002.py) | ✅ Completed | 112 | Max | DFS is used here |
 | [task003.py](task003.py) | ✅ Completed | 65 | Max |  |
 | [task004.py](task004.py) | ✅ Completed | 103 | Ale, Max |  |
 | [task005.py](task005.py) | 👀 Need Review | 414 | - |  |

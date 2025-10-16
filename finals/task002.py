@@ -1,1 +1,1 @@
-p=lambda g,k=63:-k*[[v*(v>1)for v in r]for r in g]or p([[x%4or v==1or 4for x,v in zip(r,[1]+r)]for*r,in zip(*g[::-1])],k-1)
+p=lambda g,k=63:-k*g or p([[[[x,3*(x==3)][v<1],x or 4][k>62]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)
