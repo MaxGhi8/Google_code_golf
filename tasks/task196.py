@@ -1,5 +1,1 @@
-def p(g,R=range):
- m,n=len(g),len(g[0])
- for a,b,c,d in[(a,b,c,d)for a in R(m)for b in R(n)for c in R(a+3,-~m)for d in R(b+3,-~n)if min(g[a][b:d]+g[c-1][b:d]+[r[b]*r[d-1]for r in g[a:c]])]:
-  for r in g[a:c]:r[b]=r[d-1]=3;g[a][b:d]=g[c-1][b:d]=[3]*(d-b)
- return g
+p=lambda d,t=-43:d*(t-8)or p([[[[[c,0][t>7>c==2],3][t>1==c>a%3],2][a==2>c<1]for a,c in zip([2]+r,r)]for*r,in zip(*d[::-1])],t+1)
