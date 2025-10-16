@@ -328,7 +328,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task276.py](task276.py) | ✅ Completed | 45 | Ghi, Max |  |
 | [task277.py](task277.py) | 👀 Need Review | 248 | Gio, Max |  |
 | [task278.py](task278.py) | 👀 Need Review | 204 | Ale |  |
-| [task279.py](task279.py) | 👀 Need Review | 248 | Max |  |
+| [task279.py](task279.py) | ✅ Completed | 130 | Max |  |
 | [task280.py](task280.py) | 👀 Need Review | 231 | Oxke |  |
 | [task281.py](task281.py) | 👀 Need Review | 210 | Max, Gio |  |
 | [task282.py](task282.py) | 👀 Need Review | 143 | Max |  |
