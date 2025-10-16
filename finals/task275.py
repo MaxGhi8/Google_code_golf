@@ -1,1 +1,3 @@
-def p(g):x=min(n:=len(g),m:=len(g[0]));r=range(x*x);A,B=[(g[:m],g[m:]),zip(*((r[:n],r[n:])for r in g))][n<m];C,D=(A,B)if"8"in str(A)else(B,A);return[[C[i%x][j%x]and D[i//x][j//x]for j in r]for i in r]
+#coding:L1
+import zlib
+exec(zlib.decompress(bytes("xÚ]ŒÃ@DÈW,”»¸ºêê¾d-6z©p™Öjiÿ¾Ù€*ÌzÏÌ^ÛL ±„º.½aÃ´>IŒKZÙ¸@æ»‘ÑR'I›=¢üjGh™Iñ	«¾b­goÀ‹¿ÓdY{¾ÌÆ=gO£r?8l‘ó>œö¡âÖFDq×ÿÜmÙ?T","L1")))

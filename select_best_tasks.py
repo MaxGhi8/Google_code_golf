@@ -27,7 +27,7 @@ from dataclasses import dataclass
 
 TASK_RANGE = range(1, 401)
 # Candidate source directories in preference order for tie-breaking when --force
-FILES_PER_DIR = ["tasks", "compressed"]
+FILES_PER_DIR = ["tasks", "compressed", "submission"]
 # Destination folder containing the chosen best versions
 FINALS_DIR = "finals"
 
