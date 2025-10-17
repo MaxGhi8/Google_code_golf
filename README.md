@@ -352,7 +352,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task300.py](task300.py) | ✅ Completed | 116 | Max | I use task [task031.py](task031.py) for resize |
 | [task301.py](task301.py) | 🏆 Optimized | 31 | Max | |
 | [task302.py](task302.py) | 👀 Need Review | 187 | Max |  |
-| [task303.py](task303.py) | ✅ Completed | 74 | Max |  |
+| [task303.py](task303.py) | ✅ Completed | 66 | Max |  |
 | [task304.py](task304.py) | ✅ Completed | 104 | Max |  |
 | [task305.py](task305.py) | ✅ Completed | 64 | Max, Oxke | |
 | [task306.py](task306.py) | 👀 Need Review | 136 | Max |  |
