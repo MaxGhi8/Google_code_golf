@@ -355,7 +355,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task303.py](task303.py) | ✅ Completed | 66 | Max |  |
 | [task304.py](task304.py) | ✅ Completed | 104 | Max |  |
 | [task305.py](task305.py) | ✅ Completed | 64 | Max, Oxke | |
-| [task306.py](task306.py) | 👀 Need Review | 136 | Max |  |
+| [task306.py](task306.py) | ✅ Completed | 99 | Max |  |
 | [task307.py](task307.py) | ✅ Completed | 52 | Max, Ale | Same as [task223.py](task223.py) |
 | [task308.py](task308.py) | ✅ Completed | 262 | Oxke | helper function probably can be avoided |
 | [task309.py](task309.py) | ✅ Completed | 44 | Max, Ghi |  |
