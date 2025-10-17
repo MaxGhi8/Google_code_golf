@@ -1,1 +1,1 @@
-p=lambda g:[[v+(sum(r)*sum(c)<1)*2for*c,v in zip(*g,r)]for r in g]
+p=lambda g:[[v-2*any(r)*any(c)+2for*c,v in zip(*g,r)]for r in g]
