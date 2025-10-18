@@ -1,1 +1,1 @@
-p=lambda g,k=11:-k*g or p([[[{x:x,1:2}[x],x or v%2*3,(v*x>0)or x][k//4]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)
+p=lambda g,k=11:-k*g or p([[[x+(x==1),x or v%2*3,v*x>1or x][k//4]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)
