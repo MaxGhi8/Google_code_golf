@@ -1,4 +1,3 @@
-def p(g,R=range(10)):
- def f(i,j):
-  g[i][j]=3;k=1+sum(f(x,y)for x,y in((i+1,j),(i-1,j),(i,j+1),(i,j-1))if 0<=x<10>y>=0<g[x][y]//5);g[i][j]=5;return k
- return[[g[i][j]and[2,4,1][sum(s<f(i,j)for s in{f(i,j)for i in R for j in R if g[i][j]})]for j in R]for i in R]
+def p(g):
+ for _ in g*4:l=0;g=[[[(a>0)*b|a,1<<(l:=l+1)][a%2]for a,b in zip(r,r[1:]+[0])]for*r,in zip(*g[::-1])]
+ return[[[2,4,1,0][sorted({*(S:=sum(g,[]))},key=S.count).index(s)]for s in r]for r in g]
