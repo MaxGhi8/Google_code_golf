@@ -1,3 +1,1 @@
-def p(g,R=range(10)):
- f=lambda i,j,m:1+sum(m[a].__setitem__(b,-1)or f(a,b,m)for x,y in zip((1,-1,0,0),(0,0,1,-1))if 10>(a:=i+x)>-1<(b:=j+y)<10and m[a][b]>4)
- return[[g[i][j]and 6-f(i,j,[*map(list,g)])for j in R]for i in R]
+p=lambda d,t=23,l=0:-t*d or p([[[[(h:=a>0)*b|a,1<<(l:=l+1)][a%2],5*h-a.bit_count()][t<1]for a,b in zip(r,r[1:]+[0])]for*r,in zip(*d[::-1])],t-1)

@@ -218,7 +218,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task166.py](task166.py) | ✅ Completed | 65 | Max, Oxke | Similar to task047.py |
 | [task167.py](task167.py) | ✅ Completed | 89 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | 👀 Need Review | 214 | Max |  |
-| [task169.py](task169.py) | 👀 Need Review | 223 | Max, Gio | similar to 330 |
+| [task169.py](task169.py) | ✅ Completed | 144 | Max, Gio | similar to 330 |
 | [task170.py](task170.py) | 👀 Need Review | 266 | Max |  |
 | [task171.py](task171.py) | ✅ Completed | 70 | Max |  |
 | [task172.py](task172.py) | 🏆 Optimized | 20 | Max |  |
@@ -352,7 +352,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task300.py](task300.py) | ✅ Completed | 116 | Max | I use task [task031.py](task031.py) for resize |
 | [task301.py](task301.py) | 🏆 Optimized | 31 | Max | |
 | [task302.py](task302.py) | 👀 Need Review | 187 | Max |  |
-| [task303.py](task303.py) | ✅ Completed | 66 | Max |  |
+| [task303.py](task303.py) | ✅ Completed | 64 | Max |  |
 | [task304.py](task304.py) | ✅ Completed | 104 | Max |  |
 | [task305.py](task305.py) | ✅ Completed | 64 | Max, Oxke | |
 | [task306.py](task306.py) | ✅ Completed | 99 | Max |  |

@@ -77,4 +77,4 @@ The variant `for*c,i in zip(*g,range(99))` is also useful when we need the index
 69. `f'[^0].{{{3*len(g[0])+1}}}[^0]'` can be rewritten with `'[^0].{%d}[^0]'%(3*len(g[0])+1)`, this is an interesting and strange method for formatting. In this case we do not save bytes, but without the need of the parentheses we can save 2 bytes. See [task120.py](task120.py) as reference.
 70. Magic rotation in stead off DFS is in vanilla form in task 095, 243.
 71. Little improvement of more difficult task of tips 70. is here. Task 196, 251, 002, 279 are closely related, hope to improve them with a better logic in the future.
-72. Magic rotation to find the total number of neighbors in a connected path is in task 330.
+72. Magic rotation to find the total number of neighbors in a connected path is in task 330 and 169.
