@@ -335,7 +335,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task283.py](task283.py) | 👀 Need Review | 141 | Max, Ale |  |
 | [task284.py](task284.py) | 👀 Need Review | 281 | Ale |  |
 | [task285.py](task285.py) | 💎 GGWP | 271 | Ale | Inspired by tigrotto's task 361 |
-| [task286.py](task286.py) | 👀 Need Review | 252 | Max, Gio |  |
+| [task286.py](task286.py) | ✅ Completed | 136 | Max, Gio |  |
 | [task287.py](task287.py) | ✅ Completed | 98 | Ale | Holes filling in circular pattern. Variant of 061 |
 | [task288.py](task288.py) | ✅ Completed | 119 | Max |  |
 | [task289.py](task289.py) | ✅ Completed | 84 | Max, Ale | Same as task [task269.py](task269.py)|
