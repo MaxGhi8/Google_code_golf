@@ -1,7 +1,1 @@
-def p(g,R=range(10)):
- def f(i,j,m):
-  k=1
-  for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   if 10>(x:=i+x)>-1<(y:=j+y)<10 and m[x][y]>4:m[x][y]=-1;k+=f(x,y,m)
-  return k
- return[[g[i][j]and(f(i,j,[*map(list,g)])==7)+1for j in R]for i in R]
+p=lambda d,t=23,l=0:-t*d or p([[[[(h:=a>0)*b|a,1<<(l:=l+1)][a%2],h+(a.bit_count()==6)][t<1]for a,b in zip(r,r[1:]+[0])]for*r,in zip(*d[::-1])],t-1)
