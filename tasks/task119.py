@@ -1,1 +1,1 @@
-import re;p=lambda g,k=39:-k*g or p(eval(re.sub('(?<=[832].{40}[83].{40})0','3',str([*zip(*g)][::-1]))),k-1)
+import re;p=lambda g,k=39:-k*g or p(eval(re.sub('0(?=.{34}[83].{34}[832])','3',str([*zip(*g)][::-1]))),k-1)

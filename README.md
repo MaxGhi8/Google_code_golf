@@ -168,7 +168,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task116.py](task116.py) | 🏆 Optimized | 20 | Max |  |
 | [task117.py](task117.py) | 👀 Need Review | 244 | Max |  |
 | [task118.py](task118.py) | ✅ Completed | 280 | -_- |  |
-| [task119.py](task119.py) | ✅ Completed | 108 | Max |  |
+| [task119.py](task119.py) | ✅ Completed | 107 | Max |  |
 | [task120.py](task120.py) | ✅ Completed | 112 | Max | Similar to [task075.py](task075.py) |
 | [task121.py](task121.py) | ✅ Completed | 123 | Max |  |
 | [task122.py](task122.py) | ✅ Completed | 100 | Max | Recursive |
