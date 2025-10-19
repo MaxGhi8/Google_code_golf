@@ -82,7 +82,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task030.py](task030.py) | ✅ Completed | 129 | Max |  |
 | [task031.py](task031.py) | ✅ Completed | 50 | Max, Ale |  |
 | [task032.py](task032.py) | 🏆 Optimized | 39 | Max |  |
-| [task033.py](task033.py) | ✅ Completed | 79 | Ale,Max |  |
+| [task033.py](task033.py) | ✅ Completed | 77 | Ale,Max |  |
 | [task034.py](task034.py) | 👀 Need Review | 227 | Max |  |
 | [task035.py](task035.py) | ✅ Completed | 104 | Max, Waolo, Ale |  |
 | [task036.py](task036.py) | ✅ Completed | 103 | Ale | |
@@ -110,7 +110,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task058.py](task058.py) | 👀 Need Review | 169 | Ale, Max |  |
 | [task059.py](task059.py) | ✅ Completed | 185 | Ale | |
 | [task060.py](task060.py) | ✅ Completed | 52 | Max |  |
-| [task061.py](task061.py) | 👀 Need Review | 124 | Ale, Max | Holes filling in pattern with grid |
+| [task061.py](task061.py) | 👀 Need Review | 116 | Ale, Max | Holes filling in pattern with grid |
 | [task062.py](task062.py) | 👀 Need Review | 187 | Max |  |
 | [task063.py](task063.py) | ✅ Completed | 80 | Max |  |
 | [task064.py](task064.py) | ✅ Completed | 183 | Max | Similar to 333 |

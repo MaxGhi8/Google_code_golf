@@ -1,1 +1,1 @@
-p=lambda g:[[v or(V>0)*r[5]for v,V in zip(r,s[:6]*3)]for r,s in zip(g,g[:6]*3)]
+p=lambda g:[[v+(V>v)*r[5]for v,V in zip(r,s[:6]*3)]for r,s in zip(g,g[:6]*3)]

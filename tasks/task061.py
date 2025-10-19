@@ -1,1 +1,1 @@
-def p(g,R=range(18)):u=[max(r)for r in g[1:]].index(1)+1;return[[max(max(r[j%u::u]for r in g[i%u::u]))for j in R]for i in R]
+p=lambda g,R=range(18):(u:=[*map(max,g)].index(1,1))and[[max(max(r[j%u::u])for r in g[i%u::u])for j in R]for i in R]
