@@ -110,7 +110,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task058.py](task058.py) | 👀 Need Review | 169 | Ale, Max |  |
 | [task059.py](task059.py) | ✅ Completed | 185 | Ale | |
 | [task060.py](task060.py) | ✅ Completed | 52 | Max |  |
-| [task061.py](task061.py) | 👀 Need Review | 116 | Ale, Max | Holes filling in pattern with grid |
+| [task061.py](task061.py) | 🏆 Optimized | 63 | Ale, Max | Holes filling in pattern with grid |
 | [task062.py](task062.py) | 👀 Need Review | 187 | Max |  |
 | [task063.py](task063.py) | ✅ Completed | 80 | Max |  |
 | [task064.py](task064.py) | ✅ Completed | 183 | Max | Similar to 333 |
