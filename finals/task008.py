@@ -1,3 +1,1 @@
-def p(g,e=enumerate):
- for _ in[0]*4:b=max(i for i,r in e(g)if 2in r);d=min(i for i,r in e(g)if 8in r);g=[*zip(*((d>b)*(d+~b)*[[0]*len(g[0])]+(g[:b+1]+g[d:],g)[b>=d]))][::-1]
- return g
+import re;p=lambda g,k=35:-k*g or p(eval(re.sub('\[([02,() ]+)(\([0, ]+\),)',r'[\2\1','%r'%[*zip(*g[::-1])])),k-1)
