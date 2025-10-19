@@ -1,1 +1,1 @@
-p=lambda g,R=range(18):(u:=[*map(max,g)].index(1,1))and[[max(max(r[j%u::u])for r in g[i%u::u])for j in R]for i in R]
+p=lambda g,R=range(18):[[i*j%max(g[17])+1for j in R]for i in R]
