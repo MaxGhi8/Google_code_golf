@@ -168,7 +168,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task116.py](task116.py) | 🏆 Optimized | 20 | Max |  |
 | [task117.py](task117.py) | 👀 Need Review | 244 | Max |  |
 | [task118.py](task118.py) | ✅ Completed | 280 | -_- |  |
-| [task119.py](task119.py) | 👀 Need Review | 234 | Max |  |
+| [task119.py](task119.py) | ✅ Completed | 108 | Max |  |
 | [task120.py](task120.py) | ✅ Completed | 112 | Max | Similar to [task075.py](task075.py) |
 | [task121.py](task121.py) | ✅ Completed | 123 | Max |  |
 | [task122.py](task122.py) | ✅ Completed | 100 | Max | Recursive |
@@ -327,7 +327,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task275.py](task275.py) | 👀 Need Review | 197 | Max |  |
 | [task276.py](task276.py) | ✅ Completed | 45 | Ghi, Max |  |
 | [task277.py](task277.py) | 👀 Need Review | 248 | Gio, Max |  |
-| [task278.py](task278.py) | ✅ Completed | 123 | Ale |  |
+| [task278.py](task278.py) | 💎 GGWP | 117 | Ale |  |
 | [task279.py](task279.py) | ✅ Completed | 130 | Max |  |
 | [task280.py](task280.py) | 👀 Need Review | 231 | Oxke |  |
 | [task281.py](task281.py) | 👀 Need Review | 210 | Max, Gio |  |
