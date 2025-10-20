@@ -1,7 +1,1 @@
-def p(g):
- *m,=map(list,g)
- for i in range(64):
-  y=i>>3;x=i&7
-  if sum(sum(r[x:x+3])for r in m[y:y+3])>7:
-   for a in range(9):g[y+a//3][x+a%3]=2*(186>>a&1)
- return g
+p=lambda g,k=15:-k*g or p([[[v>0and v-(x==2),(x==6)+v,{v:v,-4:6,-2:0}[v],v-(v!=1)*(x*w==1)][k//4]for v,x,w in zip(r,[0]+r,r[1:]+[0])]for*r,in zip(*g[::-1])],k-1)
