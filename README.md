@@ -227,7 +227,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task175.py](task175.py) | ✅ Completed | 102 | Ale, Max | Use the transpose |
 | [task176.py](task176.py) | ✅ Completed | 88 | Max |  |
 | [task177.py](task177.py) | ✅ Completed | 63 | Max |  |
-| [task178.py](task178.py) | ✅ Completed | 64 | Ale, Max | Similar to [task218.py](task218.py) |
+| [task178.py](task178.py) | ✅ Completed | 64 | Ale, Max | Similar to [task218.py](task218.py) and task377.py |
 | [task179.py](task179.py) | 🏆 Optimized | 21 | Max |  |
 | [task180.py](task180.py) | ✅ Completed | 90 | Max |  |
 | [task181.py](task181.py) | ✅ Completed | 86 | Max |  |
@@ -426,7 +426,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task374.py](task374.py) | 👀 Need Review | 200 | Max |  |
 | [task375.py](task375.py) | ✅ Completed | 60 | Max |  |
 | [task376.py](task376.py) | 🏆 Optimized | 30 | Ghi, Max | |
-| [task377.py](task377.py) | ✅ Completed | 73 | Ale | Similar to [task218.py](task218.py) |
+| [task377.py](task377.py) | ✅ Completed | 64 | Ale | Similar to [task218.py](task218.py) and task178.py |
 | [task378.py](task378.py) | 👀 Need Review | 242 | Max |  |
 | [task379.py](task379.py) | 👀 Need Review | 281 | Ale |  |
 | [task380.py](task380.py) | 🏆 Optimized | 27 | Max | |
