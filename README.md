@@ -130,7 +130,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task078.py](task078.py) | ✅ Completed | 82 | Max |  |
 | [task079.py](task079.py) | 👀 Need Review | 174 | Max |  |
 | [task080.py](task080.py) | ✅ Completed | 275 | Max, Ale |  |
-| [task081.py](task081.py) | 👀 Need Review | 141 | Max |  |
+| [task081.py](task081.py) | ✅ Completed | 103 | Max |  |
 | [task082.py](task082.py) | ✅ Completed | 55 | Max | |
 | [task083.py](task083.py) | 🏆 Optimized | 40 | Max |  |
 | [task084.py](task084.py) | ✅ Completed | 72 | Max | Anti-diagonal coloring |
