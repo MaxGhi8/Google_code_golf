@@ -1,1 +1,1 @@
-def p(g,E=enumerate):k,a,b=[(v,i,j)for i,r in E(g)for j,v in E(r)if v][0];return[[k*(i-a==j-b or i-a==b-j)or r[j]for j,v in E(r)]for i,r in E(g)]
+def p(g):R=range(n:=len(g));t=(L:=sum(g,[])).index(k:=max(L));return[[k*(i-t//n in(j-t%n,t%n-j))for j in R]for i in R]
