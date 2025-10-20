@@ -447,7 +447,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task395.py](task395.py) | ✅ Completed | 66 | Max | `zip` go brrr |
 | [task396.py](task396.py) | ✅ Completed | 226 | Max, Ale |  |
 | [task397.py](task397.py) | ✅ Completed | 160 | Max |  |
-| [task398.py](task398.py) | ✅ Completed | 99 | Max |  |
+| [task398.py](task398.py) | ✅ Completed | 94 | Max |  |
 | [task399.py](task399.py) | 💎 GGWP | 63 | Max |  |
 | [task400.py](task400.py) | ✅ Completed | 92 | Max | Same as task [task351.py](task351.py) |
 
