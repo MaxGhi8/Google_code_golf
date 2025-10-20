@@ -427,7 +427,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task375.py](task375.py) | ✅ Completed | 60 | Max |  |
 | [task376.py](task376.py) | 🏆 Optimized | 30 | Ghi, Max | |
 | [task377.py](task377.py) | ✅ Completed | 64 | Ale | Similar to [task218.py](task218.py) and task178.py |
-| [task378.py](task378.py) | 👀 Need Review | 242 | Max |  |
+| [task378.py](task378.py) | ✅ Completed | 162 | Ale |  |
 | [task379.py](task379.py) | 👀 Need Review | 281 | Ale |  |
 | [task380.py](task380.py) | 🏆 Optimized | 27 | Max | |
 | [task381.py](task381.py) | ✅ Completed | 97 | Max |  |
