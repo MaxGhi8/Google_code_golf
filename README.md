@@ -190,7 +190,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task138.py](task138.py) | 👀 Need Review | 214 | Max |  |
 | [task139.py](task139.py) | ✅ Completed | 137 | Max |  |
 | [task140.py](task140.py) | 🏆 Optimized | 36 | Ghi, Max |  |
-| [task141.py](task141.py) | 👀 Need Review | 145 | Max |  |
+| [task141.py](task141.py) | ✅ Completed | 118 | Max |  |
 | [task142.py](task142.py) | 🏆 Optimized | 40 | Ghi, Max |  |
 | [task143.py](task143.py) | 👀 Need Review | 226 | Max |  |
 | [task144.py](task144.py) | ✅ Completed | 63 | Ghi, Max | `[[... for a,b in zip(*z)]for z in zip(g,g[5:])]` >>> `[[... for a,b in zip(x,y)]for x,y in zip(g,g[5:])]` |
