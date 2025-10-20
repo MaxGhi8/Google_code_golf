@@ -1,6 +1,1 @@
-def p(g):
- k=(s:=sum(g,[])).index(2)
- for i in range(10-max(k%10,k//10)):s[k+11*i]=2
- k=s.index(1)
- for i in range(min(k%10,k//10)+1):s[k-11*i]=1
- return[*zip(*[iter(s)]*10)]
+import re;p=lambda g,k=15:-k*g or p(eval(re.sub('0((.{34}([%d])){2})'%(k%2+1),r'\3\1',str([*zip(*g[::-1])][::-1]))),k-1)

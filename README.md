@@ -185,7 +185,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task133.py](task133.py) | ✅ Completed | 321 | Max, Ale | Understood from tigrotto |
 | [task134.py](task134.py) | ✅ Completed | 202 | Ale, Max | Can be improved |
 | [task135.py](task135.py) | 🏆 Optimized | 32 | Max, Waolo |  |
-| [task136.py](task136.py) | 👀 Need Review | 174 | Max |  |
+| [task136.py](task136.py) | ✅ Completed | 120 | Ale |  |
 | [task137.py](task137.py) | 👀 Need Review | 199 | Max |  |
 | [task138.py](task138.py) | 👀 Need Review | 214 | Max |  |
 | [task139.py](task139.py) | ✅ Completed | 137 | Max |  |
