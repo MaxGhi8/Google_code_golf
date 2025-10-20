@@ -1,1 +1,1 @@
-def p(g):n=5*len({*g[0]}-{0});return[[g[0][j-i]if i<=j<i+5else 0for j in range(n)]for i in range(n)][::-1]
+def p(g):n=range(5*len({*g[0]}-{0}));return[[g[0][j-i]if i<=j<i+5else 0for j in n]for i in n][::-1]
