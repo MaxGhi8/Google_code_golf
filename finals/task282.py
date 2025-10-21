@@ -1,1 +1,1 @@
-def p(g,R=range):G=[[0]*9for _ in g];[G[i//8+A//3-1].__setitem__(i%8+A%3-1,A%2*-4+5)for i in R(64)for A in R(9)if g[i//8][i%8]and A-4];return G
+p=lambda d,t=3,l=[0]*9:-t*d or p([[[a,5-5*(c==1>d),1,l:=r][(b>4)+(b>0)]for a,b,c,d in zip(r,[0]+r,l,[0]*2+r)]for*r,in zip(*d[::-1])],t-1)

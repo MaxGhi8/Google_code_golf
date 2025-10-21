@@ -331,7 +331,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task279.py](task279.py) | ✅ Completed | 130 | Max |  |
 | [task280.py](task280.py) | 👀 Need Review | 231 | Oxke |  |
 | [task281.py](task281.py) | 👀 Need Review | 210 | Max, Gio |  |
-| [task282.py](task282.py) | 👀 Need Review | 143 | Max |  |
+| [task282.py](task282.py) | 👀 Need Review | 137 | Max |  |
 | [task283.py](task283.py) | 👀 Need Review | 141 | Max, Ale |  |
 | [task284.py](task284.py) | 👀 Need Review | 281 | Ale |  |
 | [task285.py](task285.py) | 💎 GGWP | 271 | Ale | Inspired by tigrotto's task 361 |
