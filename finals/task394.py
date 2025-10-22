@@ -1,1 +1,1 @@
-def p(g,e=enumerate):m=2+(g>g[:6]);return[[max(r[j]for r in g[i%m::m])for j,v in e(r)if v<1]for i,r in e(g)if 0in r]
+p=lambda g:[[max(c)for*c,v in zip(*g[i%m::m],r)if v<1]for i,r in enumerate(g)if 0in[m:=2+(g>g[:6])]+r]
