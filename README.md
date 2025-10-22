@@ -449,7 +449,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task397.py](task397.py) | ✅ Completed | 160 | Max |  |
 | [task398.py](task398.py) | ✅ Completed | 84 | Max |  |
 | [task399.py](task399.py) | 💎 GGWP | 63 | Max |  |
-| [task400.py](task400.py) | ✅ Completed | 92 | Max | Same as task [task351.py](task351.py) |
+| [task400.py](task400.py) | ✅ Completed | 75 | Max | Same as task [task351.py](task351.py) |
 
 ---
 
