@@ -379,7 +379,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task327.py](task327.py) | 🏆 Optimized | 67 | Max | Hope to be improved |
 | [task328.py](task328.py) | ✅ Completed | 175 | Max | |
 | [task329.py](task329.py) | ✅ Completed | 64 | Ghi, Max |  |
-| [task330.py](task330.py) | ✅ Completed | 147 | Max | Similar to 169 |
+| [task330.py](task330.py) | ✅ Completed | 143 | Max | Similar to 169 |
 | [task331.py](task331.py) | ✅ Completed | 116 | Max |  |
 | [task332.py](task332.py) | ✅ Completed | 71 | Max |  |
 | [task333.py](task333.py) | 👀 Need Review | 144 | Max | Similar to 064 |
