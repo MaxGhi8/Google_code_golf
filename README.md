@@ -218,7 +218,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task166.py](task166.py) | ✅ Completed | 65 | Max, Oxke | Similar to task047.py |
 | [task167.py](task167.py) | ✅ Completed | 89 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ✅ Completed | 122 | Ale |  |
-| [task169.py](task169.py) | ✅ Completed | 140 | Max, Gio | similar to 330 |
+| [task169.py](task169.py) | ✅ Completed | 140 | Max, Gio | similar to 330, and 369 |
 | [task170.py](task170.py) | 👀 Need Review | 266 | Max |  |
 | [task171.py](task171.py) | ✅ Completed | 70 | Max |  |
 | [task172.py](task172.py) | 🏆 Optimized | 20 | Max |  |
@@ -379,7 +379,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task327.py](task327.py) | 🏆 Optimized | 67 | Max | Hope to be improved |
 | [task328.py](task328.py) | ✅ Completed | 175 | Max | |
 | [task329.py](task329.py) | ✅ Completed | 64 | Ghi, Max |  |
-| [task330.py](task330.py) | ✅ Completed | 143 | Max | Similar to 169 |
+| [task330.py](task330.py) | ✅ Completed | 143 | Max | Similar to 169 and 369 |
 | [task331.py](task331.py) | ✅ Completed | 116 | Max |  |
 | [task332.py](task332.py) | ✅ Completed | 71 | Max |  |
 | [task333.py](task333.py) | 👀 Need Review | 144 | Max | Similar to 064 |
@@ -418,7 +418,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task366.py](task366.py) | ✅ Completed | 374 | -_- |  |
 | [task367.py](task367.py) | 👀 Need Review | 558 | Ale, Max |  |
 | [task368.py](task368.py) | 👀 Need Review | 221 | Ale, Max |  |
-| [task369.py](task369.py) | 👀 Need Review | 219 | Max |  |
+| [task369.py](task369.py) | ✅ Completed | 147 | Max | Similar to tasks 330 and 169 |
 | [task370.py](task370.py) | 👀 Need Review | 408 | Max | Brute force it |
 | [task371.py](task371.py) | ✅ Completed | 144 | Max |  |
 | [task372.py](task372.py) | ✅ Completed | 51 | Max | How to sum two matrices |
