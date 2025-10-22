@@ -1,1 +1,1 @@
-p=lambda g:(A:=range(n:=len(g)))and next([[t[i%h,j%h]for j in A[k%n:][:s]]for i in A[k//n:][:s]]for h in A[1:]if(k:=(L:=sum(g,[])).index(0),s:=int(L.count(0)**.5),t:={})and all(t.setdefault((q//n%h,q%n%h),v)==v for q,v in enumerate(L)if v))
+def p(g,e=enumerate):m=2+(g>g[:6]);return[[max(r[j]for r in g[i%m::m])for j,v in e(r)if v<1]for i,r in e(g)if 0in r]

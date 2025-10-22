@@ -443,7 +443,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task391.py](task391.py) | ✅ Completed | 73 | Max |  |
 | [task392.py](task392.py) | ✅ Completed | 161 | -_- | |
 | [task393.py](task393.py) | ✅ Completed | 75 | Max |  |
-| [task394.py](task394.py) | 👀 Need Review | 235 | Ale |  |
+| [task394.py](task394.py) | ✅ Completed | 116 | Ale |  |
 | [task395.py](task395.py) | ✅ Completed | 66 | Max | `zip` go brrr |
 | [task396.py](task396.py) | ✅ Completed | 226 | Max, Ale |  |
 | [task397.py](task397.py) | ✅ Completed | 160 | Max |  |
