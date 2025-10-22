@@ -1,1 +1,1 @@
-def p(g,R=range(3)):p,q=divmod(sum(g,[]).index(0),16);return[[g[p+i][~q-j]for j in R]for i in R]
+p=lambda g:[[w for v,w in zip(r,r[::-1])if v<1]for r in g if 0in r]
