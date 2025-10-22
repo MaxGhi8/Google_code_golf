@@ -1,1 +1,3 @@
-p=lambda a:[exec("for i in range(i,i+z):a[i][m:m+s]=map({2:2}.get,a[i][m:m+s],[4]*s)")for i in range(len(a))for m in range(len(a[0]))for z in range(2,-i-~len(a))for s in range(2,-m-~len(a[0]))if all(all(i[m:m+s])for i in a[i:i+z])*(2in a[i][m:m+s])*(2in a[i+z-1][m:m+s])*(2in[*zip(*a)][m][i:i+z])*(2in[*zip(*a)][m+s-1][i:i+z])*(2not in(i>0)*a[i-1][m:min(len(a[0]),m+s+1)]+(i+z<len(a))*a[(i+z)%len(a)][m:m+s]+(m>0)*[*map(list,zip(*a))][m-1][max(0,i-1):min(len(a),i+z+1)])*((i,m,s,z)not in [(8,5,6,2),(8,5,5,2)])]and a
+def p(g):
+ for _ in' '*24:l=[0]*len(g);g=[[[2*(a==2)or 4*(b in{2,4})*(c in{2,4}or d in{2,4})or a,l:=r][0]for a,b,c,d in zip(r,[0]+r,l,r[1:]+[0])]for*r,in zip(*g[::-1])]
+ return g
