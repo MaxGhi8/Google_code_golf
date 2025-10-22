@@ -1,1 +1,1 @@
-p=lambda g:[[w for v,w in zip(r,r[::-1])if v<1]for r in g if 0in r]
+p=lambda g:[r[-r.index(0)-3:][:3][::-1]for r in g if 0in r]
