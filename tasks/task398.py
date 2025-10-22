@@ -1,1 +1,1 @@
-def p(g):n=range(5*len({*g[0]}-{0}));return[[i<=j<i+5and g[0][j-i]for j in n]for i in n[::-1]]
+def p(r):R=r[0];S=len({*R}-{0})*5;return[([0]*d+R+[0]*S)[:S]for d in range(S)][::-1]
