@@ -174,7 +174,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task122.py](task122.py) | ✅ Completed | 100 | Max | Recursive |
 | [task123.py](task123.py) | ✅ Completed | 102 | Max, Ale |  |
 | [task124.py](task124.py) | 👀 Need Review | 190 | Oxke | Probably should do similar thing directly on the 2D grid instead of searching the stride and then calculating the result. NB: if you want to just try, move the walrus out of the loop and before the grid with (s:=...)and[[...]] so that it runs in a sensible time and not 100x that |
-| [task125.py](task125.py) | ✅ Completed | 172 | Ale, Max | Probably it can be turned into a lambda function |
+| [task125.py](task125.py) | 👀 Need Review | 172 | Ale, Max | Probably it can be turned into a lambda function |
 | [task126.py](task126.py) | ✅ Completed | 59 | Max |  |
 | [task127.py](task127.py) | ✅ Completed | 103 | Max |  |
 | [task128.py](task128.py) | ✅ Completed | 101 | Max |  |
@@ -416,7 +416,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task364.py](task364.py) | 👀 Need Review | 282 | Max |  |
 | [task365.py](task365.py) | ✅ Completed | 150 | Ale, Max |  |
 | [task366.py](task366.py) | ✅ Completed | 374 | -_- |  |
-| [task367.py](task367.py) | 👀 Need Review | 558 | Ale, Max |  |
+| [task367.py](task367.py) | 👀 Need Review | 348 | Ale, Max |  |
 | [task368.py](task368.py) | 👀 Need Review | 221 | Ale, Max |  |
 | [task369.py](task369.py) | ✅ Completed | 147 | Max | Similar to tasks 330 and 169 |
 | [task370.py](task370.py) | 👀 Need Review | 408 | Max | Brute force it |
