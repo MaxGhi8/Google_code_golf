@@ -156,7 +156,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task104.py](task104.py) | ✅ Completed | 107 | Max |  |
 | [task105.py](task105.py) | 👀 Need Review | 243 | Ale, Max |  |
 | [task106.py](task106.py) | ✅ Completed | 73 | Max | Same as [task194.py](task194.py) |
-| [task107.py](task107.py) | 🏆 Optimized | 161 | Max |  |
+| [task107.py](task107.py) | ✅ Completed | 161 | Max |  |
 | [task108.py](task108.py) | ✅ Completed | 83 | Max | Use upscaling from [task223.py](task223.py) |
 | [task109.py](task109.py) | ✅ Completed | 99 | Max |  |
 | [task110.py](task110.py) | 👀 Need Review | 200 | Ale | Extended code from [task017.py](task017.py) |
@@ -299,7 +299,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task247.py](task247.py) | ✅ Completed | 120 | Max |  |
 | [task248.py](task248.py) | ✅ Completed | 96 | Max, Waolo | Same as [task357.py](task357.py) |
 | [task249.py](task249.py) | 🏆 Optimized | 26 | Max |  |
-| [task250.py](task250.py) | ✅ Completed | 160 | Max |  |
+| [task250.py](task250.py) | 👀 Need Review | 160 | Max |  |
 | [task251.py](task251.py) | ✅ Completed | 111 | Ale, Max | Adapted from old version of [task002.py](task002.py), brute force approach |
 | [task252.py](task252.py) | ✅ Completed | 99 | Max |  |
 | [task253.py](task253.py) | 👀 Need Review | 172 | Ale |  |
@@ -327,14 +327,14 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task275.py](task275.py) | 👀 Need Review | 197 | Max |  |
 | [task276.py](task276.py) | ✅ Completed | 45 | Ghi, Max |  |
 | [task277.py](task277.py) | 👀 Need Review | 248 | Gio, Max |  |
-| [task278.py](task278.py) | 💎 GGWP | 117 | Ale |  |
+| [task278.py](task278.py) | ✅ Completed | 117 | Ale |  |
 | [task279.py](task279.py) | ✅ Completed | 130 | Max |  |
 | [task280.py](task280.py) | 👀 Need Review | 231 | Oxke |  |
 | [task281.py](task281.py) | 👀 Need Review | 210 | Max, Gio |  |
 | [task282.py](task282.py) | 👀 Need Review | 137 | Max |  |
 | [task283.py](task283.py) | 👀 Need Review | 141 | Max, Ale |  |
 | [task284.py](task284.py) | 👀 Need Review | 281 | Ale |  |
-| [task285.py](task285.py) | 💎 GGWP | 271 | Ale | Inspired by tigrotto's task 361 |
+| [task285.py](task285.py) | 💎 GGWP | 266 | Ale | Inspired by tigrotto's task 361 |
 | [task286.py](task286.py) | ✅ Completed | 136 | Max, Gio |  |
 | [task287.py](task287.py) | ✅ Completed | 98 | Ale | Holes filling in circular pattern. Variant of 061 |
 | [task288.py](task288.py) | ✅ Completed | 119 | Max |  |
@@ -448,7 +448,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task396.py](task396.py) | ✅ Completed | 226 | Max, Ale |  |
 | [task397.py](task397.py) | ✅ Completed | 160 | Max |  |
 | [task398.py](task398.py) | ✅ Completed | 84 | Max |  |
-| [task399.py](task399.py) | 💎 GGWP | 63 | Max |  |
+| [task399.py](task399.py) | 🏆 Optimized | 63 | Max |  |
 | [task400.py](task400.py) | ✅ Completed | 75 | Max | Same as task [task351.py](task351.py) |
 
 ---
