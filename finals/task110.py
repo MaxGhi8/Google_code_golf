@@ -1,1 +1,1 @@
-def p(g):R=range;f=lambda A:[i for i in R(1,30)if 1>any(a*b*(a^b)for r in A for a,b in zip(r,r[i:]))][0];t=f(g);s=f(zip(*g));return[[max(max(r[j%t::t])for r in g[i%s::s])for j in R(29)]for i in R(29)]
+R=range(29);p=lambda g:next([[max(r[x]for r in g[y%Y::Y])or g[y][x+9]for x in R]for y in R]for Y in R[4:]if all(len({*c})<3for i in R for c in zip(*g[i::Y])))
