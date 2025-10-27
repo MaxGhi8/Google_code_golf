@@ -436,7 +436,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task384.py](task384.py) | ✅ Completed | 92 | Ale | Combination of [task031.py](task031.py) and [task223.py](task223.py) |
 | [task385.py](task385.py) | 🏆 Optimized | 25 | Max |  |
 | [task386.py](task386.py) | ✅ Completed | 57 | Max |  |
-| [task387.py](task387.py) | 👀 Need Review | 313 | - |  |
+| [task387.py](task387.py) | 👀 Need Review | 269 | - |  |
 | [task388.py](task388.py) | ✅ Completed | 67 | Max |  |
 | [task389.py](task389.py) | ✅ Completed | 63 | Ale, Max |  |
 | [task390.py](task390.py) | 👀 Need Review | 221 | Max |  |

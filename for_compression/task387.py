@@ -1,19 +1,9 @@
-def p(t,l=range):
- s,i=len(t),len(t[0]);n,o=[],set()
- for u in l(s):
-  for d in l(i):
-   if a:=t[u][d]:n+=[(u,d,a)];o|={a}
- for(u,d,a)in n:
-  r=sorted(o)[a==sorted(o)[0]]
-  for y in-1,0,1:
-   for a in-1,0,1:
-    v,a=u+y,d+a
-    if s>v>-1<a<i:t[v][a]=t[v][a]or r
- s,a=n[0][:2];i,n=n[-1][:2]
- if n>a:
-  for d in l(a+1,n):
-   if min(d-a,n-d)&1<1:t[s][d]=t[i][d]=5
- if i>s:
-  for u in l(s+1,i):
-   if min(u-s,i-u)&1<1:t[u][a]=t[u][n]=5
- return t
+def p(m):
+ (a,A),*_,(b,B)=P=[(y,x)for y,r in enumerate(m)for x,v in enumerate(r)if v]
+ for t,(y,x)in enumerate(P):
+  for u in-1,0,1:
+   for v in-1,0,1:
+    if u|v:m[y+u][x+v]=m[a][[B,A][0<t<3]]
+ for i in range(2,(b-a)//4*2+1,2):m[a+i][A]=m[a+i][B]=m[b-i][A]=m[b-i][B]=5
+ for i in range(2,(B-A)//4*2+1,2):m[a][A+i]=m[a][B-i]=m[b][A+i]=m[b][B-i]=5
+ return m
