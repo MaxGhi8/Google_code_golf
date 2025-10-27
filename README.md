@@ -54,7 +54,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task002.py](task002.py) | ✅ Completed | 112 | Max | DFS is used here |
 | [task003.py](task003.py) | ✅ Completed | 65 | Max |  |
 | [task004.py](task004.py) | ✅ Completed | 103 | Ale, Max |  |
-| [task005.py](task005.py) | 👀 Need Review | 414 | - |  |
+| [task005.py](task005.py) | 👀 Need Review | 276 | - |  |
 | [task006.py](task006.py) | ✅ Completed | 53 | Max | for 1 line functions with the lambda you do not need to write the return and it saves **4 bytes**! |
 | [task007.py](task007.py) | ✅ Completed | 98 | Max, Waolo | How to unroll a matrix |
 | [task008.py](task008.py) | ✅ Completed | 114 | Ale, Max |  |
