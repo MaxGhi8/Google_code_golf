@@ -74,7 +74,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task022.py](task022.py) | ✅ Completed | 127 | Ale, Max |  |
 | [task023.py](task023.py) | 👀 Need Review | 251 | Ale | |
 | [task024.py](task024.py) | ✅ Completed | 91 | Ale, Max |  |
-| [task025.py](task025.py) | 👀 Need Review | 235 | Oxke |  |
+| [task025.py](task025.py) | 👀 Need Review | 210 | Oxke |  |
 | [task026.py](task026.py) | ✅ Completed | 57 | Max |  |
 | [task027.py](task027.py) | ✅ Completed | 150 | Oxke |  |
 | [task028.py](task028.py) | 👀 Need Review | 128 | Max |  |
