@@ -1,21 +1,34 @@
-def p(q,E=enumerate):
- L=sum(q,[]);K=max(range(1,10),key=L.count);A=({*L}-{0,K}).pop()
- d,*j={(d,n):e for d,f in E(q)for n,e in E(f)if e},
- def B(z):
-  if z in d:x,y=z;C.add((x-X,y-Y,d.pop(z)));[B((x+A%3-1,y+A//3-1))for A in range(9)]
- for(X,Y),v in[*d.items()]:
-  if v==A:
-   C=set();B((X,Y))
-   if len(C)>3:
-    j+=[C]
-    for a,b,_ in C:q[a+X][b+Y]=0
- o=1,-1;y=lambda k,*d:(d[k&1]*o[k&2>0],d[1^k&1]*o[k&4>0])
- for X,R in E(q):
-  for Y,v in E(R):
-   for J in[*j]*(v==A):
-    for Q in range(9):
-     try:
-      if sum(u==q[X+y(Q,t,p)[0]][Y+y(Q,t,p)[1]]!=K for t,p,u in J)>2:
-       for t,p,u in J:f,m=y(Q,t,p);q[f+X][m+Y]=q[f+X][m+Y]or K
-     except:0
- return q
+def p(m):
+ h=len(m)
+ w=len(m[0])
+ A,C,V=[],[],[]
+ for q in [(z//w,z%w)for z in range(h*w)]:
+  Y,X=[],[]
+  q=[q]
+  for y,x in q:
+   if w>x>=0<=y<h and (y,x)not in V and m[y][x]:V+=(y,x),;Y+=y,;X+=x,;q+=(y-1,x),(y+1,x),(y,x-1),(y,x+1)
+  if len(X)<4:A+=zip(Y,X)
+  else:
+   H=[r[min(X):max(X)+1]for r in m[min(Y):max(Y)+1]]
+   H=[*zip(*H)]
+   C+=H,
+   H=H[::-1]
+   C+=H,
+   H=[*zip(*H)]
+   C+=H,
+   H=H[::-1]
+   C+=H,
+   H=[*zip(*H)]
+   C+=H,
+   H=H[::-1]
+   C+=H,
+   H=[*zip(*H)]
+   C+=H,
+   H=H[::-1]
+   C+=H,
+ G=[w*[0]for r in m]
+ for y,x in [(z//w,z%w)for z in range(h*w)]:
+  for c in C:
+   if sum(I+y<h>0<w>J+x and m[I+y][J+x]==c[I][J] and (I+y,J+x)in A for I,J in [(z//len(c[0]),z%len(c[0]))for z in range(len(c[0])*len(c))])==3:
+    for I,J in [(z//len(c[0]),z%len(c[0]))for z in range(len(c[0])*len(c))]:G[I+y][J+x]=c[I][J]
+ return G
