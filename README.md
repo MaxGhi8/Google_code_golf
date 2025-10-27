@@ -219,7 +219,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task167.py](task167.py) | ✅ Completed | 89 | Max, Ale | Try to find a better mapping |
 | [task168.py](task168.py) | ✅ Completed | 122 | Ale |  |
 | [task169.py](task169.py) | ✅ Completed | 140 | Max, Gio | similar to 330, and 369 |
-| [task170.py](task170.py) | 👀 Need Review | 266 | Max |  |
+| [task170.py](task170.py) | 👀 Need Review | 248 | Max |  |
 | [task171.py](task171.py) | ✅ Completed | 70 | Max |  |
 | [task172.py](task172.py) | 🏆 Optimized | 20 | Max |  |
 | [task173.py](task173.py) | ✅ Completed | 222 | Max | Study from tigrotto |
