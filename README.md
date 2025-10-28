@@ -223,7 +223,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task171.py](task171.py) | ✅ Completed | 70 | Max |  |
 | [task172.py](task172.py) | 🏆 Optimized | 20 | Max |  |
 | [task173.py](task173.py) | ✅ Completed | 222 | Max | Study from tigrotto |
-| [task174.py](task174.py) | 👀 Need Review | 188 | Max |  |
+| [task174.py](task174.py) | ✅ Completed | 105 | Max |  |
 | [task175.py](task175.py) | ✅ Completed | 102 | Ale, Max | Use the transpose |
 | [task176.py](task176.py) | ✅ Completed | 88 | Max |  |
 | [task177.py](task177.py) | ✅ Completed | 63 | Max |  |
@@ -403,7 +403,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task351.py](task351.py) | ✅ Completed | 75 | Max | Same as task 400 |
 | [task352.py](task352.py) | ✅ Completed | 122 | Ale, Max | Similar to [task95.py](task95.py) and [task206.py](task206.py) |
 | [task353.py](task353.py) | ✅ Completed | 127 | Max |  |
-| [task354.py](task354.py) | ✅ Completed | 121 | Max |  |
+| [task354.py](task354.py) | ✅ Completed | 120 | Max |  |
 | [task355.py](task355.py) | 👀 Need Review | 166 | Ale |  |
 | [task356.py](task356.py) | ✅ Completed | 120 | Ale, Max | Same as [task350.py](task350.py) |
 | [task357.py](task357.py) | ✅ Completed | 104 | Max | Same as task [task248.py](task248.py) |
