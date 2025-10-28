@@ -253,7 +253,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task201.py](task201.py) | ✅ Completed | 249 | Max |  |
 | [task202.py](task202.py) | 👀 Need Review | 182 | Max |  |
 | [task203.py](task203.py) | ✅ Completed | 94 | Max |  |
-| [task204.py](task204.py) | 👀 Need Review | 225 | Max |  |
+| [task204.py](task204.py) | 👀 Need Review | 149 | Max |  |
 | [task205.py](task205.py) | 👀 Need Review | 255 | Ale, Max | Coloring from task047.py |
 | [task206.py](task206.py) | ✅ Completed | 151 | Ale, Max |  |
 | [task207.py](task207.py) | ✅ Completed | 104 | Ale, Max |  |
