@@ -403,7 +403,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task351.py](task351.py) | ✅ Completed | 75 | Max | Same as task 400 |
 | [task352.py](task352.py) | ✅ Completed | 122 | Ale, Max | Similar to [task95.py](task95.py) and [task206.py](task206.py) |
 | [task353.py](task353.py) | ✅ Completed | 127 | Max |  |
-| [task354.py](task354.py) | 👀 Need Review | 192 | Max |  |
+| [task354.py](task354.py) | ✅ Completed | 121 | Max |  |
 | [task355.py](task355.py) | 👀 Need Review | 166 | Ale |  |
 | [task356.py](task356.py) | ✅ Completed | 120 | Ale, Max | Same as [task350.py](task350.py) |
 | [task357.py](task357.py) | ✅ Completed | 104 | Max | Same as task [task248.py](task248.py) |
