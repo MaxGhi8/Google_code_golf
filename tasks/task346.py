@@ -1,1 +1,1 @@
-p=lambda g:[[[r[j+1]for t,b,r in zip(g,g[2:],g[1:])for j in range(len(r)-2)if 0<t[j]==t[j+1]==b[j+1]==r[j]==r[j+2]][-1]]]
+p=lambda g:[[sorted(range(1,10),key=sum(g[1:]+g[1:8],[]).count)[7]]]
