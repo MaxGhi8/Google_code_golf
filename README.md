@@ -93,7 +93,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task041.py](task041.py) | 🏆 Optimized | 49 | Max, Oxke | Good use of walrus operator ; Switches should be xorred with |
 | [task042.py](task042.py) | 👀 Need Review | 291 | Max, Gio |  |
 | [task043.py](task043.py) | ✅ Completed | 73 | Max |  |
-| [task044.py](task044.py) | 👀 Need Review | 528 | - |  |
+| [task044.py](task044.py) | 👀 Need Review | 516 | - |  |
 | [task045.py](task045.py) | ✅ Completed | 48 | Max |  |
 | [task046.py](task046.py) | 👀 Need Review | 246 | Max, Oxke |  |
 | [task047.py](task047.py) | ✅ Completed | 59 | Max, Oxke | |
@@ -181,7 +181,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task129.py](task129.py) | ✅ Completed | 48 | Max | How to find the maximum of a matrix |
 | [task130.py](task130.py) | ✅ Completed | 102 | Max |  |
 | [task131.py](task131.py) | 👀 Need Review | 211 | Max |  |
-| [task132.py](task132.py) | 👀 Need Review | 182 | Max |  |
+| [task132.py](task132.py) | ✅ Completed | 134 | Max |  |
 | [task133.py](task133.py) | ✅ Completed | 321 | Max, Ale | Understood from tigrotto |
 | [task134.py](task134.py) | ✅ Completed | 202 | Ale, Max | Can be improved |
 | [task135.py](task135.py) | 🏆 Optimized | 32 | Max, Waolo |  |
