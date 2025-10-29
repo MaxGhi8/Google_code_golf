@@ -1,13 +1,13 @@
-def p(g,i=lambda g:[*zip(*filter(lambda r:0in r,g))]):
- t=i(i(g));n=len(t);l,={*sum(g,[])}-{0,(K:=sum(g,[])[0])};N=len(g[0])
+def p(r,i=lambda r:[*zip(*filter(lambda r:0in r,r))]):
+ t=i(i(r));l,={*sum(r,[])}-{0,r[0][0]}
  for i in range(4):
-  g=[r[::(1,-1)[i%2]]for r in g[::(-1,1)[i%2]]];i,y=divmod(sum(g,[]).index(l),N);A,B=divmod(sum(g,[]).index(0),N)
-  X,Y=zip(*[(i,j)for i,r in enumerate(g)for j,v in enumerate(r)if v<1]);a,e=min(X),max(X);c,d=min(Y),max(Y);o=g[a][c]==K
-  if(e<=i)*(d<y):
-   a+=i-A;c+=y-B
-   while(a<len(g))*(c<N):
-    for i in range(n):
-     for j in range(n):
-      if(a+i<len(g))*(c+j<N):g[a+i][c+j]=[K,l][t[i][j]<1]
-    a+=n-o;c+=n-o
- return g
+  n=1-2*(i&1);r=[r[::n]for r in r[::-n]];i,z=divmod(sum(r,[]).index(l),len(r[0]));g,u=divmod(sum(r,[]).index(0),len(r[0]))
+  c,q=zip(*((i,u)for i,r in enumerate(r)for u,a in enumerate(r)if a<1));a,e=min(c),max(c);c,j=min(q),max(q);n=len(t)-(r[a][c]==r[0][0])    
+  if(e<=i)*(j<z):
+   a+=i-g;c+=z-u
+   while(a<len(r))*(c<len(r[0])):
+    for i in range(len(t)):
+     for u in range(len(t)):
+      if(a+i<len(r))*(c+u<len(r[0])):r[a+i][c+u]=[r[0][0],l][t[i][u]<1]
+    a+=n;c+=n
+ return r
