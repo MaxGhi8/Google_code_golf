@@ -181,7 +181,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task129.py](task129.py) | ✅ Completed | 48 | Max | How to find the maximum of a matrix |
 | [task130.py](task130.py) | ✅ Completed | 102 | Max |  |
 | [task131.py](task131.py) | 👀 Need Review | 211 | Max |  |
-| [task132.py](task132.py) | ✅ Completed | 134 | Max |  |
+| [task132.py](task132.py) | ✅ Completed | 133 | Max |  |
 | [task133.py](task133.py) | ✅ Completed | 321 | Max, Ale | Understood from tigrotto |
 | [task134.py](task134.py) | ✅ Completed | 202 | Ale, Max | Can be improved |
 | [task135.py](task135.py) | 🏆 Optimized | 32 | Max, Waolo |  |
