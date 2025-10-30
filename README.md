@@ -419,7 +419,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task367.py](task367.py) | 👀 Need Review | 348 | Ale, Max |  |
 | [task368.py](task368.py) | 👀 Need Review | 221 | Ale, Max |  |
 | [task369.py](task369.py) | ✅ Completed | 147 | Max | Similar to tasks 330 and 169 |
-| [task370.py](task370.py) | 👀 Need Review | 408 | Max | Brute force it |
+| [task370.py](task370.py) | 👀 Need Review | 400 | Max | Brute force it |
 | [task371.py](task371.py) | ✅ Completed | 144 | Max |  |
 | [task372.py](task372.py) | ✅ Completed | 51 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ✅ Completed | 39 | Max | |
@@ -439,7 +439,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task387.py](task387.py) | 👀 Need Review | 269 | - |  |
 | [task388.py](task388.py) | ✅ Completed | 67 | Max |  |
 | [task389.py](task389.py) | ✅ Completed | 63 | Ale, Max |  |
-| [task390.py](task390.py) | 👀 Need Review | 221 | Max |  |
+| [task390.py](task390.py) | 👀 Need Review | 164 | Max |  |
 | [task391.py](task391.py) | ✅ Completed | 73 | Max |  |
 | [task392.py](task392.py) | ✅ Completed | 161 | -_- | |
 | [task393.py](task393.py) | ✅ Completed | 75 | Max |  |
