@@ -103,7 +103,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task051.py](task051.py) | 👀 Need Review | 171 | Max, Gio |  |
 | [task052.py](task052.py) | 🏆 Optimized | 40 | Max | Sometimes reorder stuff can avoid a pair of brackets |
 | [task053.py](task053.py) | 🏆 Optimized | 21 | Max | |
-| [task054.py](task054.py) | 👀 Need Review | 496 | - |  |
+| [task054.py](task054.py) | 👀 Need Review | 444 | - |  |
 | [task055.py](task055.py) | 👀 Need Review | 138 | Max, Gio |  |
 | [task056.py](task056.py) | ✅ Completed | 69 | Max, Gio |  |
 | [task057.py](task057.py) | ✅ Completed | 63 | Max, Ale | Variant of [task031.py](task031.py) |
@@ -115,7 +115,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task063.py](task063.py) | ✅ Completed | 80 | Max |  |
 | [task064.py](task064.py) | ✅ Completed | 183 | Max | Similar to 333 |
 | [task065.py](task065.py) | ✅ Completed | 104 | Max |  |
-| [task066.py](task066.py) | ✅ Completed | 309 | Max, Oxke |  |
+| [task066.py](task066.py) | 👀 Need Review | 309 | Max, Oxke |  |
 | [task067.py](task067.py) | 🏆 Optimized | 33 | Max |  |
 | [task068.py](task068.py) | ✅ Completed | 134 | Max | List comprehension with set item |
 | [task069.py](task069.py) | 👀 Need Review | 216 | Max |  |
@@ -299,7 +299,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task247.py](task247.py) | ✅ Completed | 120 | Max |  |
 | [task248.py](task248.py) | ✅ Completed | 96 | Max, Waolo | Same as [task357.py](task357.py) |
 | [task249.py](task249.py) | 🏆 Optimized | 26 | Max |  |
-| [task250.py](task250.py) | 👀 Need Review | 160 | Max |  |
+| [task250.py](task250.py) | ✅ Completed | 160 | Max |  |
 | [task251.py](task251.py) | ✅ Completed | 111 | Ale, Max | Adapted from old version of [task002.py](task002.py), brute force approach |
 | [task252.py](task252.py) | ✅ Completed | 99 | Max |  |
 | [task253.py](task253.py) | 👀 Need Review | 172 | Ale |  |
@@ -327,7 +327,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task275.py](task275.py) | 👀 Need Review | 197 | Max |  |
 | [task276.py](task276.py) | ✅ Completed | 45 | Ghi, Max |  |
 | [task277.py](task277.py) | 👀 Need Review | 248 | Gio, Max |  |
-| [task278.py](task278.py) | ✅ Completed | 117 | Ale |  |
+| [task278.py](task278.py) | 💎 GGWP | 117 | Ale |  |
 | [task279.py](task279.py) | ✅ Completed | 130 | Max |  |
 | [task280.py](task280.py) | 👀 Need Review | 231 | Oxke |  |
 | [task281.py](task281.py) | 👀 Need Review | 210 | Max, Gio |  |
@@ -363,7 +363,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task311.py](task311.py) | 🏆 Optimized | 32 | Ghi, Max |  |
 | [task312.py](task312.py) | ✅ Completed | 45 | Ghi, Max |  |
 | [task313.py](task313.py) | ✅ Completed | 66 | Max |  |
-| [task314.py](task314.py) | 👀 Need Review | 154 | Max | I'm not really satisfied |
+| [task314.py](task314.py) | ✅ Completed | 143 | Max | I'm not really satisfied |
 | [task315.py](task315.py) | ✅ Completed | 75 | Max |  |
 | [task316.py](task316.py) | ✅ Completed | 90 | Max |  |
 | [task317.py](task317.py) | ✅ Completed | 68 | Max |  |
@@ -392,7 +392,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task340.py](task340.py) | 👀 Need Review | 185 | Max |  |
 | [task341.py](task341.py) | ✅ Completed | 158 | Max |  |
 | [task342.py](task342.py) | 👀 Need Review | 180 | Max |  |
-| [task343.py](task343.py) | 🏆 Optimized | 65 | Ale, Max |  |
+| [task343.py](task343.py) | ✅ Completed | 65 | Ale, Max |  |
 | [task344.py](task344.py) | ✅ Completed | 98 | Max |  |
 | [task345.py](task345.py) | ✅ Completed | 120 | Max |  |
 | [task346.py](task346.py) | ✅ Completed | 68 | Ale, Max | (Was) inspired by [task271.py](task271.py) |
@@ -419,7 +419,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task367.py](task367.py) | 👀 Need Review | 348 | Ale, Max |  |
 | [task368.py](task368.py) | 👀 Need Review | 221 | Ale, Max |  |
 | [task369.py](task369.py) | ✅ Completed | 147 | Max | Similar to tasks 330 and 169 |
-| [task370.py](task370.py) | 👀 Need Review | 408 | Max | Brute force it |
+| [task370.py](task370.py) | 👀 Need Review | 400 | Max | Brute force it |
 | [task371.py](task371.py) | ✅ Completed | 144 | Max |  |
 | [task372.py](task372.py) | ✅ Completed | 51 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ✅ Completed | 39 | Max | |
