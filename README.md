@@ -93,7 +93,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task041.py](task041.py) | 🏆 Optimized | 49 | Max, Oxke | Good use of walrus operator ; Switches should be xorred with |
 | [task042.py](task042.py) | 👀 Need Review | 291 | Max, Gio |  |
 | [task043.py](task043.py) | ✅ Completed | 73 | Max |  |
-| [task044.py](task044.py) | 👀 Need Review | 516 | - |  |
+| [task044.py](task044.py) | 👀 Need Review | 450 | - |  |
 | [task045.py](task045.py) | ✅ Completed | 48 | Max |  |
 | [task046.py](task046.py) | 👀 Need Review | 246 | Max, Oxke |  |
 | [task047.py](task047.py) | ✅ Completed | 59 | Max, Oxke | |
@@ -419,7 +419,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task367.py](task367.py) | 👀 Need Review | 348 | Ale, Max |  |
 | [task368.py](task368.py) | 👀 Need Review | 221 | Ale, Max |  |
 | [task369.py](task369.py) | ✅ Completed | 147 | Max | Similar to tasks 330 and 169 |
-| [task370.py](task370.py) | 👀 Need Review | 400 | Max | Brute force it |
+| [task370.py](task370.py) | 👀 Need Review | 408 | Max | Brute force it |
 | [task371.py](task371.py) | ✅ Completed | 144 | Max |  |
 | [task372.py](task372.py) | ✅ Completed | 51 | Max | How to sum two matrices |
 | [task373.py](task373.py) | ✅ Completed | 39 | Max | |
