@@ -1,1 +1,6 @@
-import re;p=lambda g:[g:=[[*map(int,re.sub(r'(.*5.*)(020)(.*)\2(.*)',lambda m:'0'*len(x:=m[1])+m[2]+x[::-1]+m[3][len(x):]+m[2]+m[4],str(r)[1::3]))]for r in zip(*g[::-1])]for _ in g*4][3]
+def p(g):
+ for _ in' '*4:
+  g=[*zip(*g[::-1])]
+  if g[4].count(2)>4:g[1:3],g[6:8]=g[6:8],g[1:3][::-1]
+  if g[3].count(2)>4:g[:2],g[5:7]=g[5:7],g[:2][::-1]
+ return g

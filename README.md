@@ -203,7 +203,7 @@ The challenge description is available [here](https://www.kaggle.com/competition
 | [task151.py](task151.py) | ✅ Completed | 123 | Max |  |
 | [task152.py](task152.py) | 🏆 Optimized | 40 | Ghi, Max |  |
 | [task153.py](task153.py) | 👀 Need Review | 198 | Ale, Max | |
-| [task154.py](task154.py) | 👀 Need Review | 186 | Max |  |
+| [task154.py](task154.py) | 👀 Need Review | 164 | Max |  |
 | [task155.py](task155.py) | 🏆 Optimized | 18 | Max |  |
 | [task156.py](task156.py) | 👀 Need Review | 214 | Max, Ale, Oxke |  |
 | [task157.py](task157.py) | ✅ Completed | 247 | -_- |  |
