@@ -1,1 +1,1 @@
-def p(g):h=len(g);w=len(g[0]);return[[g[i][j]>>all(g[x][y]<1 for x,y in((i-1,j),(i+1,j),(i,j-1),(i,j+1))if h>x>=0<=y<w)for j in range(w)]for i in range(h)]
+p=lambda g,k=7:-k*g or p([[[x//2,[x,4][v*x>0]][k>0]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)

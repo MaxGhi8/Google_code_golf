@@ -1,4 +1,1 @@
-def p(g,E=enumerate):
- for r,R in E(g[1:],1):
-  for c,C in E(R[1:],1):R[c]|=C<1and g[r-1][c]*R[c-1]and 2in{*R[c:]}&{*[*zip(*g)][c][r:]}
- return g
+p=lambda g,k=31:-k*g or p([[[[x,2*(x>1)][v<1],x or 1][k>30]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)

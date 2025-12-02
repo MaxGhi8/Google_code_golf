@@ -1,2 +1,3 @@
-#coding:L1
-import zlib;exec(zlib.decompress(bytes("eNË‚0¼ó{Ü†Z•‹´üHÓ	Ô`p•UNÆ·HOóJf¦ë\\pûºHH’“#ïØÛm=Z_ç®Y83D„)×Ñ‘HEBÉ¹^±ÐB”±d´j¸±Ê¤Ê²¬Dý®¯jîo3Œ¬Ì¹”µÔ¹ÜIíÝ2Ìç@ˆó÷¯?Q·tèQ«—Ã?N<’:ÂÿÇþ¿Ã?",'L1'),-15))
+def p(g):
+ for _ in g*4:l=0;g=[[[(a>0)*b|a,1<<(l:=l+1)][a%2]for a,b in zip(r,r[1:]+[0])]for*r,in zip(*g[::-1])]
+ return[[[2,4,1,0][sorted({*(S:=sum(g,[]))},key=S.count).index(s)]for s in r]for r in g]

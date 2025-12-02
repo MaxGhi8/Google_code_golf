@@ -1,6 +1,6 @@
 ---
 mode: agent
-model: Claude Sonnet 4.5 (copilot)
+model: GPT-5 (copilot)
 description: Golf a Python solution to be strictly shorter.
 ---
 You are a Python expert.

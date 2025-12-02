@@ -1,1 +1,1 @@
-p=lambda g,R=range(5):[[g[15-(a:=sum(g,[]).index(3))//16-i][15-a%16-j]for j in R]for i in R]
+p=lambda g:[g[~i][-r.index(3)-5:][:5][::-1]for i,r in enumerate(g)if 3in r]

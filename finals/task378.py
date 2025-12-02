@@ -1,2 +1,1 @@
-#coding:L1
-import zlib;exec(zlib.decompress(bytes("UÁ\nƒ0Dï~Å£&P=ªëGxñ )MÒ@LCh)øõF,½í›™İE*ğDçM+ZéâÈªvÀ œ–¤¢kzP`1uĞ|€QdlPOŠO3Ï…[HšËŠ#ùıD–ğô£Ó—Ï.L`éF=XÿiVÑ$ıDi¦*­{ÜîîÆÙx¶Áça¬„µ÷ı­İÚ†¶õ·VO‚Oïÿ—uq,ÖÅÆ3òõô",'L1'),-15))
+import re;p=lambda g,k=35:-k*g or p(eval(re.sub('(([^0]), 0.{%d}0, 0.{%d}[^0], 0.{%d}(.{%d} )*)0'%((w:=len(g)*3+4)-6,w,w-3,w),r'\1\2',str([*zip(*g[::-1])]))),k-1)

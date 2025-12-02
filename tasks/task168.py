@@ -1,1 +1,1 @@
-p=lambda g,a=range(1,9):[(m:=g[r][c:c+2]+g[r+1][c:c+2]).count(0)>1or[(0<=(y:=r+(-i,i+1)[I>1])<10)*(0<=(x:=c+(-i,i+1)[I&1])<10)and g[y].__setitem__(x,max(m))for I in[m.index(0)]for i in a]for r in a for c in a]and g
+import re;p=lambda g,k=27:-k*g or p(eval(re.sub('([^0]{6}.{28} ([^0]).{25}(.{29})*)0',r'\1\2',str([*zip(*g[::-1])]))),k-1)

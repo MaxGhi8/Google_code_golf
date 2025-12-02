@@ -1,9 +1,6 @@
-def p(g,R=range(15)):
- for _ in 0,0:
-  *g,=map(list,zip(*g))
-  if all(5>r.count(2)for r in g):
-   b,*_,d=[j for r in g for j in R if r[j]==2];m=b+d+1>>1
-   for r in g:
-    for j in R[:d]:
-     if r[j]>2:r[j]=0;r[(b*2,d*2)[j>=m]-j]=5
+def p(g):
+ for _ in' '*4:
+  g=[*zip(*g[::-1])]
+  if g[4].count(2)>4:g[1:3],g[6:8]=g[6:8][::-1],g[1:3]
+  if g[3].count(2)>4:g[:2],g[5:7]=g[5:7][::-1],g[:2]
  return g

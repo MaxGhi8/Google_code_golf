@@ -1,2 +1,9 @@
-#coding:L1
-import zlib;exec(zlib.decompress(bytes("xÚUŒ†Ä@†èSœÉlÊÕ9ó$älÊÒÍUµ˜Ã>ûµ38’üß÷çî3¬Éi-‹=¿î3Kşy¬)Ï¨ÈxI\'Gr”Ë4ZÔdoó÷FA¹Â#ÀQ?­ˆ¼k_ãkñh-¼¬.èĞ*AıŒãé›íŞ5 Ñ£QÉ¸¢f[–s²É¡·-5§şçÊ8©Ò¿,n+°ù~l!ÆeM†2ñ8)]«Ê®¿Œ©NO",'L1')))
+E=enumerate
+def p(m):
+ e={r[0]:y for y,r in E(m)if all(r)}
+ if not e:return[*zip(*p([*map(list,zip(*m))]))]
+ for y,r in E(m):
+  for x,v in E(r):
+   m[y][x]=0
+   if v in e:m[(Y:=e[v])-(y<Y)+(y>Y)][x]=v
+ return m

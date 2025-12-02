@@ -11,8 +11,8 @@ def p(b):
        if(i+j)*(30>ny>-1<nx<30)and d[ny][nx]-f:d[ny][nx]=f;q+=[(ny,nx)]
     n+=q,
  t=min((o for o in n if o[1:]),key=len)
- c,k=map(lambda z:(min(z)+max(z))>>1,zip(*t));s={(y-c,x-k):b[y][x]for y,x in t}
- for y,x in[(y,x)for y in range(30)for x in range(30)if b[y][x]==b[c][k]*(not(y,x)in t)]:
+ C,g=map(lambda z:(min(z)+max(z))>>1,zip(*t));s={(y-C,x-g):b[y][x]for y,x in t}
+ for y,x in[(y,x)for y in range(30)for x in range(30)if b[y][x]==b[C][g]*(not(y,x)in t)]:
   for(i,j),h in s.items():
    for p in range(1,2+30*((i*(j+2),j<<1)in s)):
     ny,nx=y+i*p,x+j*p

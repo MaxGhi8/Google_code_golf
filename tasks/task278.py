@@ -1,6 +1,1 @@
-def p(g):
- for _ in 0,1:
-  for i,r in enumerate(g:=[*map(list,zip(*g))]):
-   for j in range(~-len(r)):
-    for q in g[i-(i>0):i+2]*(r[j]*r[j+1]==4):q[j-(j>0):j+3]=[x or 3for x in q[j-(j>0):j+3]]
- return g
+p=lambda g,k=11:-k*g or p([[[x+(x==1),x or v%2*3,v*x>1or x][k//4]for x,v in zip(r,[0]+r)]for*r,in zip(*g[::-1])],k-1)

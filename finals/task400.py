@@ -1,1 +1,1 @@
-p=lambda g,R=range(5):[[g[23-(a:=sum(g,[]).index(1))//24-i][23-a%24-j]for j in R]for i in R]
+p=lambda g:[g[~i][-r.index(1)-5:][:5][::-1]for i,r in enumerate(g)if 1in r]

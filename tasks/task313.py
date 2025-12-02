@@ -1,1 +1,1 @@
-def p(g):R=range(len(g));k=len({*sum(g,[])})-1;return[[g[0][1+(x:=i%2*(-1)**(k<3)):k+2+x][j%k]for j in R]for i in R]
+p=lambda g:[(7*r[1:len({*r})])[:len(g)]for r in g[:2]*10][:len(g)]

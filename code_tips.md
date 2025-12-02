@@ -74,4 +74,8 @@
 The variant `for*c,i in zip(*g,range(99))` is also useful when we need the index of the column instead of the value.
 67. Recursion template `p=lambda g,k=<it>:-k*g or p(<new g>,k-1)`
 68. Instead of `\g<1>` in regex we ca use `\1 ` and save 2 Bytes. See [task078.py](task078.py) as reference.
-69. `f'[^0].{{{3*len(g[0])+1}}}[^0]'` can be rewritte with `'[^0].{%d}[^0]'%(3*len(g[0])+1)`, this is an interesting and strange method for formatting. In this case we do not save bytes, but without the need of the parentheses we can save 2 bytes. See [task120.py](task120.py) as reference.
+69. `f'[^0].{{{3*len(g[0])+1}}}[^0]'` can be rewritten with `'[^0].{%d}[^0]'%(3*len(g[0])+1)`, this is an interesting and strange method for formatting. In this case we do not save bytes, but without the need of the parentheses we can save 2 bytes. See [task120.py](task120.py) as reference.
+70. Magic rotation in stead off DFS is in vanilla form in task 095, 243.
+71. Little improvement of more difficult task of tips 70. is here. Task 196, 251, 002, 279, 278 are closely related, hope to improve them with a better logic in the future.
+72. Magic rotation to find the total number of neighbors in a connected path is in task 330 and 169, 369.
+73. Another interesting magic rotation is in task 286, here we fill with alternating colors.

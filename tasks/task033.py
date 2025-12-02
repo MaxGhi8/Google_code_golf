@@ -1,1 +1,1 @@
-p=lambda g,r=range:[[g[x][y]and(g[i+x][j+y]or g[5][0])for j in(0,6,12)for y in r(6-j//8)]for i in(0,6,12)for x in r(6-i//8)]
+p=lambda g:[[v+(V>v)*r[5]for v,V in zip(r,s[:6]*3)]for r,s in zip(g,g[:6]*3)]

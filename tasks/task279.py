@@ -1,7 +1,1 @@
-def p(g,E=enumerate):
- def f(i,j,a,b,k):
-  k|={(i,j)}
-  for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   if len(g)>(x:=i+x)>-1<(y:=j+y)<len(g[0])and 2>g[x][y]and(x-a|y-b)and((x,y)in k or f(x,y,i,j,k)):return 7
-  return 0
- return[[v+f(i,j,-1,-1,set())*(2>v)for j,v in E(r)]for i,r in E(g)]
+p=lambda d,t=-43:d*(t-12)or p([[[[[c,9][t>11>c==2],8][t>1==c<a>7],2][a==2<c>8]for a,c in zip([2]+r,r)]for*r,in zip(*d[::-1])],t+1)

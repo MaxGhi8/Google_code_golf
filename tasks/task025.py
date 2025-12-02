@@ -1,5 +1,9 @@
-def p(g,E=enumerate,f=lambda x:[*zip(*x)]):
- g=(f(g),g)[t:=1-any(a&b for a,b,*_ in g)];z=[[0]*-~-~len(f(g))for _ in g]
- for i,r in E(f(g)):
-  for j,v in[*E(r)]*all(r):z[j][i:i+3]=v*(v in g[j][:i]),v,v*(v in g[j][i+1:])
- return[z:=f(z)[1:-1],f(z)][t]
+E=enumerate
+def p(m):
+ e={r[0]:y for y,r in E(m)if all(r)}
+ if not e:return[*zip(*p([*map(list,zip(*m))]))]
+ for y,r in E(m):
+  for x,v in E(r):
+   m[y][x]=0
+   if v in e:m[(Y:=e[v])-(y<Y)+(y>Y)][x]=v
+ return m

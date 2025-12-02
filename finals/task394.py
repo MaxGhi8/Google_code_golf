@@ -1,2 +1,1 @@
-#coding:L1
-import zlib;exec(zlib.decompress(bytes("xÚMÎfÅ@…áWY3×ÊmQæIÖbÒÌÖ²™D2!Tß½±-.|pş›,Ó,¡8ñ.ö¥p75(ˆ(6ÓË!¥-Ù q$—uS¨<épQNtäöÏç«ÊŸ¾S®”*ñq.PbÊˆcµY/xÃxWs¨ãçzšßòxŒ7âïŸ\"­Á6ê³9›L÷Sº£!³…^{ŠÚ¹è.®P±–`ˆ¿’±Lµ",'L1')))
+p=lambda g:[[max(c)for*c,v in zip(*g[i%m::m],r)if v<1]for i,r in enumerate(g)if 0in[m:=2+(g>g[:6])]+r]

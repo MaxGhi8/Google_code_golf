@@ -1,1 +1,0 @@
-p=lambda f:(t:=range(x:=len(f)))and next([[p[n%a,b%a]for b in t[e%x:][:s]]for n in t[e//x:][:s]]for a in t[1:]if(e:=(i:=sum(f,[])).index(0),s:=int(i.count(0)**.5),p:={})and all(p.setdefault((b//x%a,b%x%a),n)==n for b,n in enumerate(i)if n))

@@ -1,1 +1,3 @@
-p=lambda g,e=enumerate:[[max(A:=[max(S:=sum((r[max(j-4,0):j+5]for r in g[max(i-4,0):i+5]),[]),key=S.count)for i,r in e(g)for j,v in e(r)if v==min(s:=sum(g,[]),key=s.count)],key=A.count)]]
+E=enumerate
+M=max
+p=lambda g:[[M(a:=[m for i,r in E(g)for j,v in E(r)if(m:=M(a:=r[M(0,j-3):j+4]+[s[j]for s in g[M(0,i-3):i+4]if s!=r],key=a.count))!=v],key=a.count)]]

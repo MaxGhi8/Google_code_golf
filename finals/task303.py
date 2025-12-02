@@ -1,1 +1,1 @@
-p=lambda g:[[v or({*r}&{*c}<={0,2})*2for v,c in zip(r,zip(*g))]for r in g]
+p=lambda g:[[v-2*any(r)*any(c)+2for*c,v in zip(*g,r)]for r in g]
