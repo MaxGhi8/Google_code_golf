@@ -5,24 +5,26 @@ class main_presentation(Scene):
     default_wait_constant = 1.5
     default_animation_time = 1
 
-    # TODO: make goods and consistent font sizeing fot title, subtitle, normaltext
-    title_font = 32
+    # Font sizes
+    TITLE_FONT_SIZE = 48
+    SUBTITLE_FONT_SIZE = 42
+    NORMAL_FONT_SIZE = 36
 
-    # TODO: check it
-    num2colour_fill = {0: BLACK, 7: YELLOW}
+    # Number to Colours
+    num2colour_fill = {0: BLACK, 1:BLUE_E, 2:PURE_RED, 3:PURE_GREEN, 4:YELLOW, 5:GREY, 6:PINK, 7: ORANGE, 8:BLUE_A, 9:PURPLE}
     num2colour_stroke = {0: WHITE, 7: YELLOW}
 
     def construct(self):
         # Title
-        title_first_slide = Text("Google Code Golf Competition").to_edge(UP)
+        title_first_slide = Text("Google Code Golf Competition", font_size=self.TITLE_FONT_SIZE).to_edge(UP)
         self.play(Write(title_first_slide), runtime=self.default_animation_time)
         self.wait(self.default_wait_constant)
 
         # First slide
-        # self.presentation_slide(title_first_slide)
+        self.presentation_slide(title_first_slide)
 
         # Second slide
-        title_second_slide = Text("Problem xxx").to_edge(UP)
+        title_second_slide = Text("Problem xxx", font_size=self.TITLE_FONT_SIZE).to_edge(UP)
         self.play(Transform(title_first_slide, title_second_slide))
         self.wait(self.default_wait_constant)
 
@@ -38,7 +40,7 @@ class main_presentation(Scene):
             [0, 0, 0, 7, 7, 7, 7, 7, 7],
             [0, 0, 0, 0, 7, 7, 0, 7, 7],
         ]
-        # self.problem_representation(input, output)
+        self.problem_representation(input, output)
 
         # TODO: test
         matrix = self.power_matrix_init(output)
@@ -56,7 +58,7 @@ class main_presentation(Scene):
         surnames = ["Ghiotto", "Daldossi", "Fracchia", "Ghiotto", "Bignardi"]
 
         # Team
-        team_name = Text("NeedAJob").next_to(title, DOWN)
+        team_name = Text("NeedAJob", font_size=self.SUBTITLE_FONT_SIZE).next_to(title, DOWN)
         self.play(Write(team_name), runtime=self.default_animation_time)
         self.wait(self.default_wait_constant)
 
@@ -67,8 +69,8 @@ class main_presentation(Scene):
         for i in range(3):
             figure = Circle(0.5)
 
-            name = Text(names[i]).scale(0.5).next_to(figure, DOWN)
-            surname = Text(surnames[i]).scale(0.5).next_to(name, DOWN)
+            name = Text(names[i], font_size=self.NORMAL_FONT_SIZE).next_to(figure, DOWN)
+            surname = Text(surnames[i], font_size=self.NORMAL_FONT_SIZE).next_to(name, DOWN)
 
             person = VGroup(figure, name, surname)
 
@@ -95,8 +97,8 @@ class main_presentation(Scene):
         second_photos_animation = []
         for i in range(3, 5):
             figure = Circle(0.5)
-            name = Text(names[i]).scale(0.5).next_to(figure, DOWN)
-            surname = Text(surnames[i]).scale(0.5).next_to(name, DOWN)
+            name = Text(names[i], font_size=self.NORMAL_FONT_SIZE).next_to(figure, DOWN)
+            surname = Text(surnames[i], font_size=self.NORMAL_FONT_SIZE).next_to(name, DOWN)
 
             person = VGroup(figure, name, surname)
 
@@ -194,7 +196,7 @@ class main_presentation(Scene):
         for i in range(n_rows):
             row = VGroup()
             for j in range(n_cols):
-                num = MathTex(rf"2^{{{i*n_rows + j}}}")
+                num = MathTex(rf"2^{{{i*n_rows + j}}}", font_size=self.NORMAL_FONT_SIZE)
                 row.add(num)
             row.arrange(RIGHT, buff=gap_const)
             matrix.add(row)
