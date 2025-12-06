@@ -229,50 +229,65 @@ class main_presentation(Scene):
         self.wait(self.default_wait_constant)
 
         # Slide: Problem example 330
-        subtitle_new = Text(
-            "Problem example 330", font_size=self.SUBTITLE_FONT_SIZE, color=BLUE
-        ).next_to(title_first_slide, DOWN)
-        self.play(
-            ReplacementTransform(subtitle, subtitle_new),
-            runtime=self.default_animation_time,
-        )
-        self.wait(self.default_wait_constant)
-        subtitle = subtitle_new
+        # subtitle_new = Text(
+        #     "Problem example 330", font_size=self.SUBTITLE_FONT_SIZE, color=BLUE
+        # ).next_to(title_first_slide, DOWN)
+        # self.play(
+        #     ReplacementTransform(subtitle, subtitle_new),
+        #     runtime=self.default_animation_time,
+        # )
+        # self.wait(self.default_wait_constant)
+        # subtitle = subtitle_new
 
-        input = [
-            [5, 5, 5, 0, 0, 0, 0, 5, 5, 5],
-            [0, 5, 5, 0, 5, 5, 0, 5, 0, 0],
-            [0, 0, 5, 0, 5, 5, 0, 5, 0, 0],
-            [0, 0, 5, 0, 0, 0, 0, 5, 0, 0],
-            [0, 0, 0, 0, 5, 5, 0, 0, 0, 5],
-            [0, 5, 5, 0, 0, 5, 5, 0, 0, 5],
-            [0, 0, 0, 0, 0, 5, 5, 0, 0, 5],
-            [0, 0, 5, 0, 0, 0, 0, 0, 0, 0],
-            [0, 5, 5, 5, 5, 0, 0, 0, 0, 0],
-            [0, 0, 5, 5, 0, 0, 0, 0, 0, 0],
-        ]
-        output = [
-            [1, 1, 1, 0, 0, 0, 0, 2, 2, 2],
-            [0, 1, 1, 0, 1, 1, 0, 2, 0, 0],
-            [0, 0, 1, 0, 1, 1, 0, 2, 0, 0],
-            [0, 0, 1, 0, 0, 0, 0, 2, 0, 0],
-            [0, 0, 0, 0, 2, 2, 0, 0, 0, 1],
-            [0, 1, 1, 0, 0, 2, 2, 0, 0, 1],
-            [0, 0, 0, 0, 0, 2, 2, 0, 0, 1],
-            [0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
-            [0, 1, 1, 1, 1, 0, 0, 0, 0, 0],
-            [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
-        ]
-        self.problem_representation(
-            input,
-            output,
-            title=subtitle,
-            size_square=0.45,
-        )
+        # input = [
+        #     [5, 5, 5, 0, 0, 0, 0, 5, 5, 5],
+        #     [0, 5, 5, 0, 5, 5, 0, 5, 0, 0],
+        #     [0, 0, 5, 0, 5, 5, 0, 5, 0, 0],
+        #     [0, 0, 5, 0, 0, 0, 0, 5, 0, 0],
+        #     [0, 0, 0, 0, 5, 5, 0, 0, 0, 5],
+        #     [0, 5, 5, 0, 0, 5, 5, 0, 0, 5],
+        #     [0, 0, 0, 0, 0, 5, 5, 0, 0, 5],
+        #     [0, 0, 5, 0, 0, 0, 0, 0, 0, 0],
+        #     [0, 5, 5, 5, 5, 0, 0, 0, 0, 0],
+        #     [0, 0, 5, 5, 0, 0, 0, 0, 0, 0],
+        # ]
+        # output = [
+        #     [1, 1, 1, 0, 0, 0, 0, 2, 2, 2],
+        #     [0, 1, 1, 0, 1, 1, 0, 2, 0, 0],
+        #     [0, 0, 1, 0, 1, 1, 0, 2, 0, 0],
+        #     [0, 0, 1, 0, 0, 0, 0, 2, 0, 0],
+        #     [0, 0, 0, 0, 2, 2, 0, 0, 0, 1],
+        #     [0, 1, 1, 0, 0, 2, 2, 0, 0, 1],
+        #     [0, 0, 0, 0, 0, 2, 2, 0, 0, 1],
+        #     [0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
+        #     [0, 1, 1, 1, 1, 0, 0, 0, 0, 0],
+        #     [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+        # ]
+        # self.problem_representation(
+        #     input,
+        #     output,
+        #     title=subtitle,
+        #     size_square=0.45,
+        # )
 
         # Slide: Classical approach with Dijkstra
+        # subtitle_new = Text(
+        #     "Problem example 330 - standard approach",
+        #     font_size=self.SUBTITLE_FONT_SIZE,
+        #     color=BLUE,
+        # ).next_to(title_first_slide, DOWN)
+        # self.play(
+        #     ReplacementTransform(subtitle, subtitle_new),
+        #     runtime=self.default_animation_time,
+        # )
+        # self.wait(self.default_wait_constant)
+        # subtitle = subtitle_new
+
+        # self.classical_approach(input, output, title=subtitle, size_square=0.45)
+
+        # Slide: Code golf approach
         subtitle_new = Text(
-            "Problem example 330 - standard approach",
+            "Problem example 330 - code golf approach",
             font_size=self.SUBTITLE_FONT_SIZE,
             color=BLUE,
         ).next_to(title_first_slide, DOWN)
@@ -283,12 +298,8 @@ class main_presentation(Scene):
         self.wait(self.default_wait_constant)
         subtitle = subtitle_new
 
-        self.classical_approach(input, output, title=subtitle, size_square=0.45)
-
-        # Slide: Code golf approach
-        # matrix = self.power_matrix_init(output)
-        # self.play(Create(matrix))
-        # self.wait(self.default_wait_constant)
+        input = [[5, 5, 0], [0, 5, 0], [0, 0, 5]]
+        self.code_golf_approach(input, output, title=subtitle, size_square=1.8)
 
         self.wait(4 * self.default_wait_constant)
 
@@ -1039,6 +1050,114 @@ class main_presentation(Scene):
 
         return
 
+    def code_golf_approach(
+        self, input, output, title: str = "", size_square: float = 0.5
+    ):
+        input_matrix = self.draw_matrix(input, size_square=size_square)
+
+        if title:
+            input_matrix.next_to(title, 2 * DOWN)
+
+        self.play(Create(input_matrix), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        # ADD: power of 2s
+        n_rows = len(input)
+        n_cols = len(input[0])
+        nums = VGroup()
+        nums_list = []
+        for i in range(n_rows):
+            row = VGroup()
+            row_list = []
+            for j in range(n_cols):
+                num = MathTex(
+                    rf"2^{{{i*n_rows + j}}}",
+                    font_size=self.SUBTITLE_FONT_SIZE,
+                )
+                num.move_to(input_matrix[i][j].get_center())
+                row.add(num)
+                row_list.append(num)
+            nums.add(row)
+            nums_list.append(row_list)
+
+        self.play(Write(nums), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        ## Sliding window
+        for i in range(n_rows):
+            for j in range(n_cols - 1):
+                # Select
+                self.play(
+                    input_matrix[i][j].animate.set_stroke(YELLOW_E, width=3),
+                    input_matrix[i][j + 1].animate.set_stroke(YELLOW_E, width=3),
+                    runtime=self.default_animation_time,
+                )
+                self.wait(self.default_wait_constant)
+
+                # Or
+                if input[i][j] == 5 and input[i][j + 1] == 5:
+                    num = MathTex(
+                        rf"2^{0} | 2^{1}",
+                        font_size=self.SUBTITLE_FONT_SIZE,
+                    ).move_to(nums[i][j + 1].get_center())
+                    self.play(
+                        ReplacementTransform(nums[i][j + 1], num),
+                        runtime=self.default_animation_time,
+                    )
+                    self.wait(self.default_wait_constant)
+
+                    num = MathTex(
+                        rf"2^{0} + 2^{1}",
+                        font_size=self.SUBTITLE_FONT_SIZE,
+                    ).move_to(nums[i][j + 1].get_center())
+                    self.play(
+                        ReplacementTransform(nums[i][j + 1], num),
+                        runtime=self.default_animation_time,
+                    )
+                    self.wait(self.default_wait_constant)
+                    nums_list[i][j + 1] = num
+
+                # Deselect
+                self.play(
+                    input_matrix[i][j].animate.set_stroke(
+                        self.num2colour_stroke[input[i][j]], width=1
+                    ),
+                    input_matrix[i][j + 1].animate.set_stroke(
+                        self.num2colour_stroke[input[i][j + 1]], width=1
+                    ),
+                    runtime=self.default_animation_time,
+                )
+                self.wait(self.default_wait_constant)
+
+        ## Rotation
+        # Matrix
+        input = [*zip(*input[::-1])]
+        input_matrix_new = self.draw_matrix(input, size_square=size_square)
+        if title:
+            input_matrix_new.next_to(title, 2 * DOWN)
+
+        # Values
+        nums_list = [*zip(*nums_list[::-1])]
+        new_nums = VGroup(*[VGroup(*r) for r in nums_list])
+
+        # Animation
+        animations = [ReplacementTransform(input_matrix, input_matrix_new)]
+        for i in range(len(nums_list)):
+            for j in range(len(nums_list[0])):
+                animations.append(
+                    nums_list[i][j].animate.move_to(input_matrix_new[i][j].get_center())
+                )
+
+        self.play(
+            *animations,
+            runtime=self.default_animation_time,
+        )
+        self.wait(self.default_wait_constant)
+        nums = new_nums
+        input_matrix = input_matrix_new
+
+        return
+
     def draw_matrix(
         self, grid: list[list], size_square: float = 0.5, gap_const: float = 0.1
     ) -> Mobject:
@@ -1058,25 +1177,6 @@ class main_presentation(Scene):
                     .set_stroke(self.num2colour_stroke[grid[i][j]], width=1)
                 )
                 row.add(cell)
-            row.arrange(RIGHT, buff=gap_const)
-            matrix.add(row)
-
-        matrix.arrange(DOWN, buff=gap_const)
-        return matrix
-
-    def power_matrix_init(self, grid: list[list], gap_const: float = 0.1) -> Mobject:
-        """
-        Routine that initialize the problem with power of 2 inside the all grid
-        """
-        n_rows = len(grid)
-        n_cols = len(grid[0])
-
-        matrix = VGroup()
-        for i in range(n_rows):
-            row = VGroup()
-            for j in range(n_cols):
-                num = MathTex(rf"2^{{{i*n_rows + j}}}", font_size=self.NORMAL_FONT_SIZE)
-                row.add(num)
             row.arrange(RIGHT, buff=gap_const)
             matrix.add(row)
 
