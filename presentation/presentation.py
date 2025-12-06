@@ -45,10 +45,10 @@ class main_presentation(Scene):
         ).to_edge(UP)
         self.play(Write(title_first_slide), runtime=self.default_animation_time)
         self.wait(self.default_wait_constant)
-        # self.presentation_team(title_first_slide)
+        self.presentation_team(title_first_slide)
 
         # Slide: challenge presentation
-        # self.challenge_presentation(title_first_slide)
+        self.challenge_presentation(title_first_slide)
 
         # Slide: Example of very easy problem
         subtitle = Text(
@@ -67,7 +67,7 @@ class main_presentation(Scene):
             [4, 4, 4, 1],
         ]
         code = """p=lambda j:j[::-1]+j"""
-        # self.problem_representation_with_code(input, output, code)
+        self.problem_representation_with_code(input, output, code)
 
         # Slide: Example of medium problem
         subtitle_new = Text(
@@ -108,9 +108,9 @@ class main_presentation(Scene):
         ]
         code = """p=lambda g,n=43:
   g*-n or[*map(lambda*r,x=0:[x:=y or sum({*x%8*sum(g,[-x-8])})for y in r[::-1]],*p(g,n-1))]"""
-        # self.problem_representation_with_code(
-        #     input, output, code, size_square=0.15, scale_code=0.7
-        # )
+        self.problem_representation_with_code(
+            input, output, code, size_square=0.15, scale_code=0.7
+        )
 
         # Slide: Example of very hard problem
         subtitle_new = Text(
@@ -159,9 +159,9 @@ class main_presentation(Scene):
   exec(zlib.decompress(bytes(
   "�PU^!�Na;�v+^��-e�m{w��'��ש�c-n���.L����Fc�l��X�c�Qt��<��S�s�[JC�
   �����fO�i�G����=��V�~OW{ja;ʴd@�e:X.�$s�J�i��O���e��b","L1"),~9))"""
-        # self.problem_representation_with_code(
-        #     input, output, code, size_square=0.17, scale_code=0.65
-        # )
+        self.problem_representation_with_code(
+            input, output, code, size_square=0.17, scale_code=0.65
+        )
 
         # Slide: definition of AGI
         subtitle_agi = Text(
@@ -229,61 +229,61 @@ class main_presentation(Scene):
         self.wait(self.default_wait_constant)
 
         # Slide: Problem example 330
-        # subtitle_new = Text(
-        #     "Problem example 330", font_size=self.SUBTITLE_FONT_SIZE, color=BLUE
-        # ).next_to(title_first_slide, DOWN)
-        # self.play(
-        #     ReplacementTransform(subtitle, subtitle_new),
-        #     runtime=self.default_animation_time,
-        # )
-        # self.wait(self.default_wait_constant)
-        # subtitle = subtitle_new
+        subtitle_new = Text(
+            "Problem example 330", font_size=self.SUBTITLE_FONT_SIZE, color=BLUE
+        ).next_to(title_first_slide, DOWN)
+        self.play(
+            ReplacementTransform(subtitle, subtitle_new),
+            runtime=self.default_animation_time,
+        )
+        self.wait(self.default_wait_constant)
+        subtitle = subtitle_new
 
-        # input = [
-        #     [5, 5, 5, 0, 0, 0, 0, 5, 5, 5],
-        #     [0, 5, 5, 0, 5, 5, 0, 5, 0, 0],
-        #     [0, 0, 5, 0, 5, 5, 0, 5, 0, 0],
-        #     [0, 0, 5, 0, 0, 0, 0, 5, 0, 0],
-        #     [0, 0, 0, 0, 5, 5, 0, 0, 0, 5],
-        #     [0, 5, 5, 0, 0, 5, 5, 0, 0, 5],
-        #     [0, 0, 0, 0, 0, 5, 5, 0, 0, 5],
-        #     [0, 0, 5, 0, 0, 0, 0, 0, 0, 0],
-        #     [0, 5, 5, 5, 5, 0, 0, 0, 0, 0],
-        #     [0, 0, 5, 5, 0, 0, 0, 0, 0, 0],
-        # ]
-        # output = [
-        #     [1, 1, 1, 0, 0, 0, 0, 2, 2, 2],
-        #     [0, 1, 1, 0, 1, 1, 0, 2, 0, 0],
-        #     [0, 0, 1, 0, 1, 1, 0, 2, 0, 0],
-        #     [0, 0, 1, 0, 0, 0, 0, 2, 0, 0],
-        #     [0, 0, 0, 0, 2, 2, 0, 0, 0, 1],
-        #     [0, 1, 1, 0, 0, 2, 2, 0, 0, 1],
-        #     [0, 0, 0, 0, 0, 2, 2, 0, 0, 1],
-        #     [0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
-        #     [0, 1, 1, 1, 1, 0, 0, 0, 0, 0],
-        #     [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
-        # ]
-        # self.problem_representation(
-        #     input,
-        #     output,
-        #     title=subtitle,
-        #     size_square=0.45,
-        # )
+        input = [
+            [5, 5, 5, 0, 0, 0, 0, 5, 5, 5],
+            [0, 5, 5, 0, 5, 5, 0, 5, 0, 0],
+            [0, 0, 5, 0, 5, 5, 0, 5, 0, 0],
+            [0, 0, 5, 0, 0, 0, 0, 5, 0, 0],
+            [0, 0, 0, 0, 5, 5, 0, 0, 0, 5],
+            [0, 5, 5, 0, 0, 5, 5, 0, 0, 5],
+            [0, 0, 0, 0, 0, 5, 5, 0, 0, 5],
+            [0, 0, 5, 0, 0, 0, 0, 0, 0, 0],
+            [0, 5, 5, 5, 5, 0, 0, 0, 0, 0],
+            [0, 0, 5, 5, 0, 0, 0, 0, 0, 0],
+        ]
+        output = [
+            [1, 1, 1, 0, 0, 0, 0, 2, 2, 2],
+            [0, 1, 1, 0, 1, 1, 0, 2, 0, 0],
+            [0, 0, 1, 0, 1, 1, 0, 2, 0, 0],
+            [0, 0, 1, 0, 0, 0, 0, 2, 0, 0],
+            [0, 0, 0, 0, 2, 2, 0, 0, 0, 1],
+            [0, 1, 1, 0, 0, 2, 2, 0, 0, 1],
+            [0, 0, 0, 0, 0, 2, 2, 0, 0, 1],
+            [0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
+            [0, 1, 1, 1, 1, 0, 0, 0, 0, 0],
+            [0, 0, 1, 1, 0, 0, 0, 0, 0, 0],
+        ]
+        self.problem_representation(
+            input,
+            output,
+            title=subtitle,
+            size_square=0.45,
+        )
 
         # Slide: Classical approach with Dijkstra
-        # subtitle_new = Text(
-        #     "Problem example 330 - standard approach",
-        #     font_size=self.SUBTITLE_FONT_SIZE,
-        #     color=BLUE,
-        # ).next_to(title_first_slide, DOWN)
-        # self.play(
-        #     ReplacementTransform(subtitle, subtitle_new),
-        #     runtime=self.default_animation_time,
-        # )
-        # self.wait(self.default_wait_constant)
-        # subtitle = subtitle_new
+        subtitle_new = Text(
+            "Problem example 330 - standard approach",
+            font_size=self.SUBTITLE_FONT_SIZE,
+            color=BLUE,
+        ).next_to(title_first_slide, DOWN)
+        self.play(
+            ReplacementTransform(subtitle, subtitle_new),
+            runtime=self.default_animation_time,
+        )
+        self.wait(self.default_wait_constant)
+        subtitle = subtitle_new
 
-        # self.classical_approach(input, output, title=subtitle, size_square=0.45)
+        self.classical_approach(input, output, title=subtitle, size_square=0.45)
 
         # Slide: Code golf approach
         subtitle_new = Text(
@@ -298,8 +298,136 @@ class main_presentation(Scene):
         self.wait(self.default_wait_constant)
         subtitle = subtitle_new
 
+        # Original input
+        input_matrix = self.draw_matrix(input, size_square=0.5)
+        input_matrix.next_to(subtitle, DOWN)
+        self.play(Create(input_matrix), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+        self.play(Uncreate(input_matrix))
+
+        # Code explanation on simple example
         input = [[5, 5, 0], [0, 5, 0], [0, 0, 5]]
         self.code_golf_approach(input, output, title=subtitle, size_square=1.8)
+
+        # Slide: definition of AGI
+        subtitle_agi = Text(
+            "ARC-AGI: The Benchmark", font_size=self.SUBTITLE_FONT_SIZE, color=BLUE
+        ).next_to(title_first_slide, DOWN)
+        self.play(
+            ReplacementTransform(subtitle, subtitle_agi),
+            runtime=self.default_animation_time,
+        )
+        self.wait(self.default_wait_constant)
+        subtitle = subtitle_agi
+
+        agi_initial = Text("AGI", font_size=80).move_to(ORIGIN)
+        self.play(Write(agi_initial), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        agi_vertical = (
+            VGroup(
+                Text("A", font_size=70),
+                Text("G", font_size=70),
+                Text("I", font_size=70),
+            )
+            .arrange(DOWN, buff=0.5)
+            .move_to(ORIGIN)
+            .shift(5 * LEFT)
+        )
+
+        self.play(
+            ReplacementTransform(agi_initial, agi_vertical),
+            runtime=self.default_animation_time,
+        )
+        self.wait(self.default_wait_constant)
+
+        # Expand A -> Artificial
+        word1 = Text("Artificial", font_size=70)
+        word1.shift(agi_vertical[0].get_center() - word1[0].get_center())
+        self.play(
+            ReplacementTransform(agi_vertical[0], word1[0]),
+            Write(word1[1:]),
+            runtime=self.default_animation_time,
+        )
+        self.wait(0.5 * self.default_wait_constant)
+
+        # Expand G -> General
+        word2 = Text("General", font_size=70)
+        word2.shift(agi_vertical[1].get_center() - word2[0].get_center())
+        self.play(
+            ReplacementTransform(agi_vertical[1], word2[0]),
+            Write(word2[1:]),
+            runtime=self.default_animation_time,
+        )
+        self.wait(0.5 * self.default_wait_constant)
+
+        # Expand I -> Intelligence
+        word3 = Text("Intelligence", font_size=70)
+        word3.shift(agi_vertical[2].get_center() - word3[0].get_center())
+        self.play(
+            ReplacementTransform(agi_vertical[2], word3[0]),
+            Write(word3[1:]),
+            runtime=self.default_animation_time,
+        )
+        self.wait(self.default_wait_constant)
+
+        # Adjectives
+        adjectives = (
+            VGroup(
+                Text("Knowledge", font_size=40),
+                Text("Reasoning", font_size=40),
+                Text("Correctness", font_size=40),
+                Text("Creativity", font_size=40),
+                Text("...", font_size=40),
+            )
+            .arrange(DOWN, buff=0.5)
+            .next_to(word3, RIGHT, buff=1)
+        )
+
+        self.play(Write(adjectives), runtime=self.default_animation_time)
+
+        # Arrows
+        arrows = VGroup()
+        for i in range(len(adjectives) - 1):
+            arrow = Arrow(
+                word3.get_right(),
+                adjectives[i].get_left(),
+                buff=0.1,
+                stroke_width=2,
+                tip_length=0.2,
+                color=WHITE,
+            )
+            arrows.add(arrow)
+
+        self.play(Create(arrows), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        new_adj = Text("Necessity", font_size=40).move_to(adjectives[3].get_center())
+        self.play(ApplyWave(adjectives[3]), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant * 0.5)
+        self.play(
+            ReplacementTransform(adjectives[3], new_adj),
+            runtime=self.default_animation_time,
+        )
+        self.wait(self.default_wait_constant)
+
+        self.play(
+            FadeOut(word1),
+            FadeOut(word2),
+            FadeOut(word3),
+            FadeOut(adjectives),
+            FadeOut(arrows),
+            runtime=self.default_animation_time,
+        )
+        self.wait(self.default_wait_constant)
+
+        ## Conclusion slide
+        self.play(ApplyWave(title_first_slide), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        thanks = Text("Thank you!", font_size=70).move_to(ORIGIN)
+        self.play(Write(thanks), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
 
         self.wait(4 * self.default_wait_constant)
 
@@ -491,6 +619,9 @@ class main_presentation(Scene):
 
         return
 
+    #########################################
+    # Problem representation
+    #########################################
     def problem_representation(
         self, input=list[list], output=list[list], title=None, size_square: float = 1.0
     ) -> None:
@@ -532,6 +663,9 @@ class main_presentation(Scene):
 
         return
 
+    #########################################
+    # Problem representation with code
+    #########################################
     def problem_representation_with_code(
         self,
         input=list[list],
@@ -585,6 +719,9 @@ class main_presentation(Scene):
 
         return
 
+    #########################################
+    # Classical approach for problem 330
+    #########################################
     def classical_approach(
         self,
         input: list[list],
@@ -773,27 +910,27 @@ class main_presentation(Scene):
             input_matrix[1][4]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[1][5]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[2][5]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[2][4]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
-        self.wait(self.default_wait_constant)
+        self.wait(self.default_wait_constant * 0.5)
 
         self.play(
             LaggedStart(
@@ -820,39 +957,39 @@ class main_presentation(Scene):
             input_matrix[4][4]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[4][5]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[5][5]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[5][6]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[6][6]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[6][5]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
-        self.wait(self.default_wait_constant)
+        self.wait(self.default_wait_constant * 0.5)
 
         self.play(
             LaggedStart(
@@ -885,21 +1022,21 @@ class main_presentation(Scene):
             input_matrix[4][9]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[5][9]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[6][9]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
-        self.wait(self.default_wait_constant)
+        self.wait(self.default_wait_constant * 0.5)
 
         self.play(
             LaggedStart(
@@ -923,15 +1060,15 @@ class main_presentation(Scene):
             input_matrix[5][1]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[5][2]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
-        self.wait(self.default_wait_constant)
+        self.wait(self.default_wait_constant * 0.5)
 
         self.play(
             LaggedStart(
@@ -952,45 +1089,45 @@ class main_presentation(Scene):
             input_matrix[7][2]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[8][2]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[8][3]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[8][4]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[8][1]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[9][2]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
         self.play(
             input_matrix[9][3]
             .animate.set_fill(self.num2colour_fill[10], opacity=1)
             .set_stroke(self.num2colour_stroke[10], width=1),
-            runtime=self.default_animation_time,
+            runtime=self.default_animation_time * 0.3,
         )
-        self.wait(self.default_wait_constant)
+        self.wait(self.default_wait_constant * 0.5)
 
         self.play(
             LaggedStart(
@@ -1031,9 +1168,11 @@ class main_presentation(Scene):
   def f(i,j,m):
   k=1
   for x,y in(1,0),(-1,0),(0,1),(0,-1):
-   if 10>(x:=i+x)>-1<(y:=j+y)<10 and m[x][y]>4:m[x][y]=-1;k+=f(x,y,m)
+    if 10>(x:=i+x)>-1<(y:=j+y)<10 and m[x][y]>4:
+      m[x][y]=-1;k+=f(x,y,m)
   return k
- return[[g[i][j]and(f(i,j,[*map(list,g)])==7)+1for j in R]for i in R]
+  return[[g[i][j]and(f(i,j,[*map(list,g)])==7)+1
+    for j in R]for i in R]
 """
         rendered_code = Code(
             code_string=code,
@@ -1045,11 +1184,21 @@ class main_presentation(Scene):
         self.play(Write(rendered_code), runtime=self.default_animation_time)
         self.wait(self.default_wait_constant)
 
+        # Add comment
+        comment = Text("Lot of code here!").next_to(rendered_code, DOWN)
+        self.play(Write(comment), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        # Remove all
         self.play(FadeOut(rendered_code), runtime=self.default_animation_time)
+        self.play(FadeOut(comment), runtime=self.default_animation_time)
         self.wait(self.default_wait_constant)
 
         return
 
+    #########################################
+    # Code golf approach for problem 330
+    #########################################
     def code_golf_approach(
         self, input, output, title: str = "", size_square: float = 0.5
     ):
@@ -1083,16 +1232,16 @@ class main_presentation(Scene):
         self.play(Write(nums), runtime=self.default_animation_time)
         self.wait(self.default_wait_constant)
 
-        ## Sliding window
+        #### Sliding window
         for i in range(n_rows):
             for j in range(n_cols - 1):
                 # Select
                 self.play(
                     input_matrix[i][j].animate.set_stroke(YELLOW_E, width=3),
                     input_matrix[i][j + 1].animate.set_stroke(YELLOW_E, width=3),
-                    runtime=self.default_animation_time,
+                    runtime=self.default_animation_time * 0.75,
                 )
-                self.wait(self.default_wait_constant)
+                self.wait(self.default_wait_constant * 0.5)
 
                 # Or
                 if input[i][j] == 5 and input[i][j + 1] == 5:
@@ -1125,19 +1274,258 @@ class main_presentation(Scene):
                     input_matrix[i][j + 1].animate.set_stroke(
                         self.num2colour_stroke[input[i][j + 1]], width=1
                     ),
-                    runtime=self.default_animation_time,
+                    runtime=self.default_animation_time * 0.75,
                 )
-                self.wait(self.default_wait_constant)
+                self.wait(self.default_wait_constant * 0.5)
 
-        ## Rotation
+        #### Rotation
+        nums, nums_list, input, input_matrix = self.rotate_matrix(
+            input=input,
+            nums_list=nums_list,
+            input_matrix=input_matrix,
+            title=title,
+            size_square=size_square,
+        )
+
+        #### Sliding window
+        for i in range(n_rows):
+            for j in range(n_cols - 1):
+                # Select
+                self.play(
+                    input_matrix[i][j].animate.set_stroke(YELLOW_E, width=3),
+                    input_matrix[i][j + 1].animate.set_stroke(YELLOW_E, width=3),
+                    runtime=self.default_animation_time * 0.35,
+                )
+                self.wait(self.default_wait_constant * 0.1)
+
+                # Or
+                if input[i][j] == 5 and input[i][j + 1] == 5:
+                    num = MathTex(
+                        rf"2^{0} + 2^{1} + 2^{4}",
+                        font_size=self.SUBTITLE_FONT_SIZE,
+                    ).move_to(nums[i][j + 1].get_center())
+                    self.play(
+                        ReplacementTransform(nums[i][j + 1], num),
+                        runtime=self.default_animation_time,
+                    )
+                    self.wait(self.default_wait_constant)
+                    nums_list[i][j + 1] = num
+
+                # Deselect
+                self.play(
+                    input_matrix[i][j].animate.set_stroke(
+                        self.num2colour_stroke[input[i][j]], width=1
+                    ),
+                    input_matrix[i][j + 1].animate.set_stroke(
+                        self.num2colour_stroke[input[i][j + 1]], width=1
+                    ),
+                    runtime=self.default_animation_time * 0.35,
+                )
+                self.wait(self.default_wait_constant * 0.1)
+
+        #### Rotation
+        nums, nums_list, input, input_matrix = self.rotate_matrix(
+            input=input,
+            nums_list=nums_list,
+            input_matrix=input_matrix,
+            title=title,
+            size_square=size_square,
+        )
+
+        #### Change values
+        nums_list, nums = self.sliding_window(
+            string="2^{0} + 2^{1} + 2^{4}",
+            input=input,
+            nums=nums,
+            nums_list=nums_list,
+            input_matrix=input_matrix,
+        )
+
+        #### Rotation
+        nums, nums_list, input, input_matrix = self.rotate_matrix(
+            input=input,
+            nums_list=nums_list,
+            input_matrix=input_matrix,
+            title=title,
+            size_square=size_square,
+        )
+
+        #### Change values
+        nums_list, nums = self.sliding_window(
+            string="2^{0} + 2^{1} + 2^{4}",
+            input=input,
+            nums=nums,
+            nums_list=nums_list,
+            input_matrix=input_matrix,
+        )
+
+        #### Rotation
+        nums, nums_list, input, input_matrix = self.rotate_matrix(
+            input=input,
+            nums_list=nums_list,
+            input_matrix=input_matrix,
+            title=title,
+            size_square=size_square,
+        )
+
+        #### Count the bit
+        num = MathTex("3", font_size=self.SUBTITLE_FONT_SIZE).move_to(
+            nums[0][0].get_center()
+        )
+        self.play(
+            ReplacementTransform(nums[0][0], num),
+            runtime=self.default_animation_time * 0.75,
+        )
+        self.wait(self.default_wait_constant * 0.5)
+        nums_list[0][0] = num
+
+        #
+        num = MathTex("3", font_size=self.SUBTITLE_FONT_SIZE).move_to(
+            nums[0][1].get_center()
+        )
+        self.play(
+            ReplacementTransform(nums[0][1], num),
+            runtime=self.default_animation_time * 0.75,
+        )
+        self.wait(self.default_wait_constant * 0.5)
+        nums_list[0][1] = num
+
+        #
+        num = MathTex("1", font_size=self.SUBTITLE_FONT_SIZE).move_to(
+            nums[0][2].get_center()
+        )
+        self.play(
+            ReplacementTransform(nums[0][2], num),
+            runtime=self.default_animation_time * 0.75,
+        )
+        self.wait(self.default_wait_constant * 0.5)
+        nums_list[0][2] = num
+
+        #
+        num = MathTex("1", font_size=self.SUBTITLE_FONT_SIZE).move_to(
+            nums[1][0].get_center()
+        )
+        self.play(
+            ReplacementTransform(nums[1][0], num),
+            runtime=self.default_animation_time * 0.75,
+        )
+        self.wait(self.default_wait_constant * 0.5)
+        nums_list[1][0] = num
+
+        #
+        num = MathTex("3", font_size=self.SUBTITLE_FONT_SIZE).move_to(
+            nums[1][1].get_center()
+        )
+        self.play(
+            ReplacementTransform(nums[1][1], num),
+            runtime=self.default_animation_time * 0.75,
+        )
+        self.wait(self.default_wait_constant * 0.5)
+        nums_list[1][1] = num
+
+        #
+        num = MathTex("1", font_size=self.SUBTITLE_FONT_SIZE).move_to(
+            nums[1][2].get_center()
+        )
+        self.play(
+            ReplacementTransform(nums[1][2], num),
+            runtime=self.default_animation_time * 0.75,
+        )
+        self.wait(self.default_wait_constant * 0.5)
+        nums_list[1][2] = num
+
+        #
+        for i in range(3):
+            num = MathTex("1", font_size=self.SUBTITLE_FONT_SIZE).move_to(
+                nums[2][i].get_center()
+            )
+            self.play(
+                ReplacementTransform(nums[2][i], num),
+                runtime=self.default_animation_time * 0.75,
+            )
+            self.wait(self.default_wait_constant * 0.5)
+            nums_list[2][i] = num
+
+        #### Recoloring
+        for i in range(3):
+            for j in range(3):
+                self.play(
+                    Unwrite(nums_list[i][j]), runtime=self.default_animation_time * 0.75
+                )
+                self.play(
+                    input_matrix[i][j]
+                    .animate.set_stroke(
+                        self.num2colour_stroke[input[i][j] == 5], width=1
+                    )
+                    .set_fill(self.num2colour_fill[input[i][j] == 5], opacity=1),
+                    runtime=self.default_animation_time * 0.75,
+                )
+                self.wait(self.default_wait_constant * 0.5)
+
+        self.wait(self.default_wait_constant)
+
+        # Remove grid
+        self.play(Unwrite(input_matrix), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        # Add code
+        code = """p=lambda d,t=23,l=0:-t*d or 
+  p([[[[(h:=a>0)*b|a,1<<(l:=l+1)][a%2],h+(a.bit_count()==6)][t<1]
+  for a,b in zip(r,[0]+r)]for*r,in zip(*d[::-1])],t-1)"""
+        rendered_code = Code(
+            code_string=code,
+            language="python",
+            tab_width=2,
+            background="window",
+            background_config={"stroke_color": "white"},
+        )
+        if title:
+            rendered_code.next_to(title, 1.5 * DOWN)
+        self.play(Write(rendered_code), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        # Add more golfed code
+        code_2 = """p=lambda g,k=11,l=5:-k*g or 
+  p([(b:=1)*[b:=a%~a&[b|a|(l:=l*8),2-a**6%7][k<1]for a in r]
+  for r in zip(*g[::-1])],k-1,0)"""
+        rendered_code_2 = Code(
+            code_string=code_2,
+            language="python",
+            tab_width=2,
+            background="window",
+            background_config={"stroke_color": "white"},
+        )
+        rendered_code_2.next_to(rendered_code, 1.5 * DOWN)
+        self.play(Write(rendered_code_2), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
+        self.play(FadeOut(rendered_code), FadeOut(rendered_code_2))
+        self.wait(self.default_wait_constant)
+
+        return
+
+    #########################################
+    # Utility for the code golf approach: rotate matrix
+    #########################################
+    def rotate_matrix(
+        self,
+        input: list[list],
+        nums_list: list[list],
+        input_matrix: Mobject,
+        title: Mobject = None,
+        size_square: float = 0.5,
+    ) -> tuple[list[list], Mobject, list[list], Mobject]:
+        """
+        Animation for the rotation of the matrix and the values, for the code golf approach
+        """
         # Matrix
-        input = [*zip(*input[::-1])]
+        input = [[*r] for r in zip(*input[::-1])]
         input_matrix_new = self.draw_matrix(input, size_square=size_square)
         if title:
             input_matrix_new.next_to(title, 2 * DOWN)
 
         # Values
-        nums_list = [*zip(*nums_list[::-1])]
+        nums_list = [[*r] for r in zip(*nums_list[::-1])]
         new_nums = VGroup(*[VGroup(*r) for r in nums_list])
 
         # Animation
@@ -1156,8 +1544,42 @@ class main_presentation(Scene):
         nums = new_nums
         input_matrix = input_matrix_new
 
-        return
+        return nums, nums_list, input, input_matrix
 
+    #########################################
+    # Utility for the code golf approach: sliding window
+    #########################################
+    def sliding_window(
+        self,
+        string: str,
+        input: Mobject,
+        nums: Mobject,
+        nums_list: list[list],
+        input_matrix: Mobject,
+    ) -> tuple[list[list], Mobject]:
+        """
+        Animation for the change of the values (without sliding window for velocity)
+        """
+        for i in range(len(nums_list)):
+            for j in range(len(nums_list[0]) - 1):
+                # Change the value
+                if input[i][j] == 5 and input[i][j + 1] == 5:
+                    num = MathTex(
+                        rf"{string}",
+                        font_size=self.SUBTITLE_FONT_SIZE,
+                    ).move_to(nums[i][j + 1].get_center())
+                    self.play(
+                        ReplacementTransform(nums[i][j + 1], num),
+                        runtime=self.default_animation_time,
+                    )
+                    self.wait(self.default_wait_constant)
+                    nums_list[i][j + 1] = num
+
+        return nums_list, nums
+
+    #########################################
+    # Utility: draw matrix from list of lists
+    #########################################
     def draw_matrix(
         self, grid: list[list], size_square: float = 0.5, gap_const: float = 0.1
     ) -> Mobject:
