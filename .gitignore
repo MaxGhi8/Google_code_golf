@@ -1,6 +1,6 @@
 #
 presentation/media/*
-presentation/images/*
+*.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -14,7 +14,6 @@ __pycache__/
 
 # zip file
 *.zip
-*.png
 *.ipynb
 
 # C extensions
