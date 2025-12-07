@@ -379,7 +379,16 @@ exec(zlib.decompress(bytes(
         self.play(ApplyWave(title_first_slide), runtime=self.default_animation_time)
         self.wait(self.default_wait_constant)
 
-        thanks = Text("Thank you!", font_size=70).move_to(ORIGIN)
+        thanks = Text("Thank you!", font_size=70).move_to(ORIGIN).shift(0.5 * UP)
+
+        # Add github image
+        github_image = (
+            ImageMobject("images/github.png").scale(0.4).next_to(thanks, DOWN)
+        )
+
+        self.play(FadeIn(github_image), runtime=self.default_animation_time)
+        self.wait(self.default_wait_constant)
+
         self.play(Write(thanks), runtime=self.default_animation_time)
         self.wait(self.default_wait_constant)
 
