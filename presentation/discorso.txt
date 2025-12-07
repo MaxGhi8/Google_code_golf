@@ -1,0 +1,65 @@
+1.
+Hi everyone, thank you so much for the invitation and the organization of this moment and the competition as well.
+We are the team NeedAJov, twenty-third position in the Code Golf Championship.
+We are me Massimiliano Ghiotto, PhD student in Mathematics, Pavia.
+Alessandro Daldossi, PhD student in aerospace engineering, Milan.
+Osea Fracchia, Master student in Mathematics, Pavia
+Alessandro Ghiotto, Master student in High Permormance Computing, Milan
+Paolo Bignardi, he works in an italian company called RSE in Milan.
+
+2.
+The challenge consists of 400 problems.
+Here there is the example reported in the description of the challenge. 
+So in the input you have some colored figure with a grey background and you want to create this shadow effect.
+So you have to write the code from the input image to the output image, the image are list of lists and we can only use Python with the default library.
+Once can write a code like this, but to make the challenge interesting there is the problem that you have to write the solution with less byte that you can, something like this.
+
+3.
+During this challenge first of all we learn a lot of standard golfing tricks, since it is the first time that we see code golfing.
+After that we start solving a lot of problems and we develop some scripts for LLMs to improve our solutions, so automatically try a shorter solution, check the correctness of the solution, check the length and iterate.
+Then we learn the zip tricks, that I will explain to you in a few, and finally we find a very good reason to start learning regular expressions.
+And at the end of the competition, the folder is quite big, with original code, sometimes the one that is compressed, the readme of all the solutions, the bytes that they have and which of them can be improved. So we make some scripts (both in python and in bash) for automatically compare different solutions, do the zip if needed, update the readme, use LLMs, compress and submit the solution.
+
+4.
+Now I want to present some problems.
+There are some very easy problem like this one, in this case you have only to flip the figure and add at the top, and from this kind of problems the implementation is quite straight-forward.
+
+5.
+Then there are some medium problems, where the best solution is quite hard to find. In this example you have to extend the diagonals. You can do this quite easily with some indexes but it turns out to be way way more efficient with regular expressions and recursive approach.
+
+6.
+Then there are some hard problem like this one. In this example you have to take the connected figure and move to the corresponding anchor points.
+The problem is not hard to solve but it is hard to golf. And here there is the compression trick, it consists of writing your python solution as usual, then compress it, and the new code become this one. So you take your compressed string, you decompress it (so you translate this) and then execute the content of this string, that will be your original python code.
+
+7.
+Why to solve all this problems? The reason is to create the ARC-AGI benchmark, for evaluating the AGI skills, and on that I will come back at the of the presentation.
+
+8.
+Now I want to present the problem that makes me think the most and that I also enjoy the most.
+The problem is the number three-hundred and thirty. You have to found all the connected grey regions and count the number of squares in the same connected component, if there are 6 square you color it of red, otherwise you color it of blue.
+
+9.
+The first approach that comes in the mind of all is the current:
+I loop over all the matrix, when I found a grey square I start explore all the connected component with Breadth First Search or Depth First Search algorithms and take trace of the number of square that I encounter. At the end if the number of square is 6 I color it on red otherwise in blue.
+
+10. The idea is prefect but it takes to much code to implement this.
+Because for BFS or DPS you have to write all the directions that you can take, you have also to check that the update square after the new direction is still inside the matrix, and you have to take the count of the element in the connected components.
+
+11. I want to show you a change of approach that reduce significantly the number of bytes. 
+Consider the same problem but with a smaller input, we can fill the squares with the powers of two if it is grey and zero otherwise.
+Now I take a sliding window, and if the cells are grey I put in the second cell the bitwise or between the first one and the second cell in the sliding window, and update it. When I finish to move the sliding window I rotate the matrix and I repeat the process.
+I do this until I was back to the original position and all the information passes.
+At the end I count the number of non zero bits in the each cell, and this represent the number of element in the same connected components.
+So at the end I have just to color each element based on the number of non zero bits.
+And here there is the code (brief explanation of the code).
+
+12. So I like this problem because seems to me a very good example of what AGI have to achieve.
+Agi means. Artifical, that is clear what it means, General that is also clear, and Intelligence that is a word that means a lot and nothing at the same time.
+And seeing at this problem we can give some properties that the concept of Intelligence have to satisfy, that are:
+ - Knowledge, of the standard golf tricks
+ - Reasoning, in understand and refactoring some part of the codes
+ - Correctness, of the solution of corse
+ - Creativity, in this last example I want to show how some creativity can significally improve the final solution. And if the first 3 are quite easy to measure, how we can measure the creativity? In my opinion can be seen as necessity. So if you have the NECESSITY to write a solution with few bytes as possible you have to be creative, to change your perspective. Similarly if you have the NECESSITY to beat the World champions of chess or go you have to creative and so on.
+
+13.
+That con my presentation, here there is the GitHub repository with all our solutions, script for automation and this slide as well. That's all thank you so much for your attention!
