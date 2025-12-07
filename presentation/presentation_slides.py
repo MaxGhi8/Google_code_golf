@@ -443,7 +443,7 @@ exec(zlib.decompress(bytes(
         #     runtime=5 * self.default_animation_time,
         # )
         self.play(
-            LaggedStart(*photos_animation, lag_ration=0.4),
+            LaggedStart(*photos_animation, lag_ratio=0.4),
             runtime=self.default_animation_time * 1.5,
         )
 
@@ -544,7 +544,10 @@ exec(zlib.decompress(bytes(
         self.play(Create(output_matrix), runtime=2 * self.default_animation_time)
         self.stop()
 
-        self.play(LaggedStartMap(Uncreate, all_stuff))
+        self.play(
+            LaggedStart(*[Uncreate(m) for m in all_stuff]),
+            runtime=self.default_animation_time,
+        )
         self.stop()
 
         # Standard code for solve it
@@ -675,7 +678,7 @@ exec(zlib.decompress(bytes(
         self.play(Create(output_matrix), runtime=2 * self.default_animation_time)
         self.stop()
 
-        self.play(LaggedStartMap(Uncreate, all_stuff))
+        self.play(LaggedStart(*[Uncreate(m) for m in all_stuff]))
         self.stop()
 
         return
@@ -730,7 +733,7 @@ exec(zlib.decompress(bytes(
         self.play(Write(rendered_code), runtime=self.default_animation_time)
         self.stop()
 
-        self.play(LaggedStartMap(Uncreate, all_stuff))
+        self.play(LaggedStart(*[Uncreate(m) for m in all_stuff]))
         self.play(FadeOut(rendered_code))
         self.stop()
 
